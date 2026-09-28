@@ -1,4 +1,49 @@
 /* The index is the atlas's compact, scrollable table of cases. */
+.site-seal-disc{
+  position:fixed;
+  z-index:20;
+  top:27vh;
+  right:6.7vw;
+  width:140px;
+  height:140px;
+  border-radius:50%;
+  background-color:var(--accent);
+  background-image:url("./assets/ink-wear.png");
+  background-size:256px 256px;
+  box-shadow:inset 0 0 0 1px #241b1718;
+  transition:background-color .42s,width .35s,height .35s,top .35s,right .35s;
+  pointer-events:none;
+}
+.home-seal-rule{
+  position:absolute;
+  z-index:22;
+  top:150px;
+  right:calc(6.7vw + 70px);
+  width:1px;
+  height:410px;
+  background:var(--ink);
+  opacity:.62;
+  pointer-events:none;
+}
+.home-seal-label{
+  position:absolute;
+  z-index:22;
+  top:calc(27vh + 190px);
+  right:calc(6.7vw - 41px);
+  width:95px;
+  font:400 1rem/1.25 var(--font-text);
+  pointer-events:none;
+}
+.home-seal-label span{display:block;margin-top:4px}
+body[data-page="home"] .site-seal{z-index:23;background:none;box-shadow:none}
+body[data-page="home"] .site-seal::before{display:none}
+.has-scrolled .site-seal-disc{top:95px;right:4.8vw;width:80px;height:80px}
+.home-hero{min-height:590px;padding:34px 0 30px}
+.hero-copy{padding-bottom:8px}
+.hero-copy h1{font-size:clamp(4.95rem,8.35vw,9.2rem);line-height:.79;margin-bottom:30px}
+.hero-copy p{font-size:clamp(1.4rem,1.95vw,1.8rem);margin-top:24px}
+.hero-figure{height:510px}
+.figure-plate{height:465px}
 .species-entry{
   min-height:148px;
   grid-template-columns:6.5% 10% minmax(0,1fr) 19% 18%;
@@ -55,6 +100,14 @@
   .species-entry[data-species="warrah"] .entry-main strong{font-size:clamp(1.8rem,2.6vw,2.5rem)}
 }
 @media(max-width:760px){
+  .site-seal-disc,.has-scrolled .site-seal-disc{top:82px;right:18px;width:55px;height:55px}
+  .home-seal-rule,.home-seal-label{display:none}
+  .home-hero{min-height:0;padding:74px 0 45px}
+  .hero-copy{padding:0}
+  .hero-copy h1{font-size:clamp(3.8rem,12vw,6.2rem);margin:0 0 28px -3px}
+  .hero-copy p{font-size:1.38rem;margin-top:22px}
+  .hero-figure{height:auto}
+  .figure-plate{height:335px}
   .species-entry{grid-template-columns:50px 83px minmax(0,1fr);grid-template-rows:auto auto auto;min-height:126px;padding:15px 0}
   .entry-number{grid-column:1;grid-row:1/4;align-self:start;font-size:2.8rem}
   .entry-icon{grid-column:2;grid-row:1/4;width:77px;margin:0 7px 0 0;align-self:start}
@@ -72,6 +125,7 @@
   .entry-status span{font-size:1rem}
 }
 @media(max-width:430px){
+  .site-seal-disc,.has-scrolled .site-seal-disc{top:74px;width:50px;height:50px}
   .species-entry{grid-template-columns:40px 66px minmax(0,1fr);min-height:110px}
   .entry-number{font-size:2.4rem}
   .entry-icon{width:61px;margin-right:5px}

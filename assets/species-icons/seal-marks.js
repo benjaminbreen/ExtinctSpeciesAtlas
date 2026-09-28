@@ -1,82 +1,92 @@
-// Small specimen details for the colored site seal. These are original SVG drawings,
-// informed by the visual references named in README.md, not traced historical plates.
+// Original, deliberately small woodcut-style details for the colored seal.
+// Dark shapes act as printed ink; accent-colored strokes are carved highlights.
+// They are interface drawings, not copies of historical species illustrations.
 export const sealMarks = {
   silphium: `
-    <path d="M50 12c-2 4-8 7-11 13-5 9-7 22-6 37 1 13 8 25 17 28 9-3 16-15 17-28 1-15-1-28-6-37-3-6-9-9-11-13Z" fill="currentColor" fill-opacity=".12"/>
-    <path d="M50 11v79M50 15c-8 9-12 22-12 40 0 17 5 29 12 35M50 15c8 9 12 22 12 40 0 17-5 29-12 35"/>
-    <path d="M50 19c-5 8-7 18-8 30M50 19c5 8 7 18 8 30M42 54c0 12 2 23 8 31M58 54c0 12-2 23-8 31" stroke-width="1.15"/>
-    <path d="M38 31c3 2 6 4 10 4m-13 8c4 2 8 4 13 4m-14 8c5 2 9 4 14 4m-13 8c4 1 9 3 13 3m-10 9c3 1 6 2 10 2M62 31c-3 2-6 4-10 4m13 8c-4 2-8 4-13 4m14 8c-5 2-9 4-14 4m13 8c-4 1-9 3-13 3m10 9c-3 1-6 2-10 2" stroke-width=".9"/>
-    <path d="M46 12c-1-4 0-7 4-9 4 2 5 5 4 9M44 88c3 3 9 3 12 0"/>
+    <path d="M50 15c-6 8-12 12-16 24-4 13-4 28 1 39 3 7 8 12 15 15 7-3 12-8 15-15 5-11 5-26 1-39-4-12-10-16-16-24Z" fill="currentColor" fill-opacity=".23" stroke-width="1.7"/>
+    <path d="M50 20c-8 8-12 20-14 35-1 14 4 25 14 34-6-14-8-29-7-42 1-11 3-19 7-27Zm0 0c8 8 12 20 14 35 1 14-4 25-14 34 6-14 8-29 7-42-1-11-3-19-7-27Z" fill="currentColor" fill-opacity=".23" stroke="none"/>
+    <path d="M50 6v14m-3-11 3-4 3 4M50 91v5" stroke-width="1.9"/>
+    <g fill="none" stroke-linecap="round">
+      <path d="M50 22c-6 12-9 24-9 36 0 14 3 23 9 31m0-67c6 12 9 24 9 36 0 14-3 23-9 31" stroke-width="1.8"/>
+      <path d="M42 29c-4 12-5 28-3 42m19-42c4 12 5 28 3 42M50 25v60" stroke-width="1.15"/>
+      <path d="m36 43 4 2m-5 8 5 2m-5 8 5 2m-3 8 5 2m22-32-4 2m5 8-5 2m5 8-5 2m-3 8-5 2" stroke-width=".9" opacity=".55"/>
+    </g>
   `,
   auk: `
-    <path d="M24 76c-4-20 2-40 16-48 12-7 25-1 31 9l15 3-12 10-1 9-17 2c-4 7-5 15-4 22" fill="currentColor" fill-opacity=".14"/>
-    <path d="M25 77c-4-18 1-39 14-48 12-9 25-3 32 8l15 3-13 10-1 9-17 2c-4 8-5 16-3 23"/>
-    <path d="M54 33c7 0 11 5 12 10-3 4-8 6-13 4-4-4-4-10 1-14Z" fill="var(--accent)"/>
-    <circle cx="60" cy="40" r="2.1" fill="currentColor" stroke="none"/>
-    <path d="M70 39c-5 4-10 8-15 10m23-7-13 7m8 1-16 8m-19-23c-7 8-9 19-8 31m13-25c-5 7-7 17-6 26" stroke-width="1.15"/>
+    <path d="M18 84c0-14 2-29 8-40 6-12 16-19 28-19 12 0 17 6 20 11l17 3-12 10-13 2c-6 4-10 11-11 18l-1 17Z" fill="currentColor" stroke-width="1.2"/>
+    <path d="M74 36c-4 3-9 7-15 10l19 2m-24 21c-3 3-6 8-7 15" stroke-width="1.4"/>
+    <g stroke="var(--accent)" fill="none"><path d="M26 76c0-20 8-38 22-43m-16 48c-1-16 3-28 11-37m-4 36c-1-10 1-18 5-24" stroke-width="1.7"/>
+      <path d="m64 39 12 2m-13 3 9 2m-14 3 10 1" stroke-width="1.5"/>
+      <circle cx="56" cy="36" r="2.8" fill="var(--accent)" stroke="none"/></g>
+    <circle cx="56" cy="36" r="1" fill="currentColor" stroke="none"/>
   `,
   seacow: `
-    <path d="M50 78c-1-10 0-20 0-29-7-7-14-10-25-12-8-2-15-7-20-14 4 17 9 29 18 37 7 6 16 7 27 4 11 3 20 2 27-4 9-8 14-20 18-37-5 7-12 12-20 14-11 2-18 5-25 12" fill="currentColor" fill-opacity=".15"/>
-    <path d="M50 78c-1-10 0-20 0-29-7-7-14-10-25-12-8-2-15-7-20-14 4 17 9 29 18 37 7 6 16 7 27 4 11 3 20 2 27-4 9-8 14-20 18-37-5 7-12 12-20 14-11 2-18 5-25 12"/>
-    <path d="M13 36c8 15 20 21 34 19M87 36C79 51 67 57 53 55M21 44c9 12 17 14 27 14m31-14c-9 12-17 14-27 14M50 49v29" stroke-width="1.15"/>
-    <path d="M50 78c-4 4-6 7-6 11m6-11c4 4 6 7 6 11"/>
+    <path d="M50 54C36 41 20 49 6 29c3 19 9 31 21 37 7 4 15 4 23 0 8 4 16 4 23 0 12-6 18-18 21-37-14 20-30 12-44 25Z" fill="currentColor" stroke-width="1.2"/>
+    <path d="M50 66c-1 8-1 17 0 25" stroke-width="2"/>
+    <g stroke="var(--accent)" fill="none" stroke-width="1.9">
+      <path d="M12 39c8 14 20 20 35 20m-29-13c7 9 16 13 27 13m-22-8c6 5 12 7 18 7M88 39c-8 14-20 20-35 20m29-13c-7 9-16 13-27 13m22-8c-6 5-12 7-18 7"/>
+    </g>
   `,
   dodo: `
-    <path d="M26 83c-6-16-5-35 4-49 9-13 25-17 37-9 5 4 7 10 7 17l14 2c-2 11-9 19-22 19-6 10-8 18-7 25" fill="currentColor" fill-opacity=".16"/>
-    <path d="M26 83c-6-16-5-35 4-49 9-13 25-17 37-9 6 5 8 12 7 20l14-1c-2 11-9 19-22 19-6 10-8 18-7 25"/>
-    <path d="M74 44c-1 7-4 12-9 15 10 0 17-5 21-13M33 55c5-6 9-9 16-10"/>
-    <circle cx="55" cy="36" r="3" fill="currentColor" stroke="none"/>
-    <path d="M32 43c5-9 11-14 20-16M26 62c6-4 12-5 17-6M28 71c5-3 10-3 14-3" stroke-width="1.1"/>
+    <path d="M20 83c-3-19 1-40 12-51 8-9 19-11 29-7 9 4 14 12 14 22l15 1c-2 10-9 18-20 21-7 2-14-1-19-4-5 7-8 14-8 20Z" fill="currentColor" stroke-width="1.2"/>
+    <path d="M75 47c-2 9-7 15-14 18 13 1 23-5 28-16M33 85c0-12 2-23 8-33" stroke-width="1.4"/>
+    <g stroke="var(--accent)" fill="none">
+      <path d="M28 74c1-15 5-30 15-38m-9 43c1-13 5-24 12-31m-8 35c1-9 3-17 8-24" stroke-width="1.7"/>
+      <path d="M63 50c3 5 5 7 10 8m4-3 6-3" stroke-width="2"/>
+      <circle cx="58" cy="39" r="3" fill="var(--accent)" stroke="none"/>
+    </g>
+    <circle cx="59" cy="39" r="1" fill="currentColor" stroke="none"/>
   `,
   aurochs: `
-    <path d="M24 44C12 36 10 19 16 10c2 13 9 19 20 21M76 44c12-8 14-25 8-34-2 13-9 19-20 21" fill="currentColor" fill-opacity=".18"/>
-    <path d="M24 44C12 36 10 19 16 10c2 13 9 19 20 21M76 44c12-8 14-25 8-34-2 13-9 19-20 21"/>
-    <path d="M30 39c-4 11-3 22 2 33l18 17 18-17c5-11 6-22 2-33-12-8-28-8-40 0Z" fill="currentColor" fill-opacity=".12"/>
-    <path d="M30 39c-4 11-3 22 2 33l18 17 18-17c5-11 6-22 2-33-12-8-28-8-40 0ZM31 48c9-6 16-6 19-3 3-3 10-3 19 3"/>
-    <path d="M41 58h2m14 0h2M42 77c5-3 11-3 16 0M50 45v25M35 66c4 2 7 2 10 1m20-1c-4 2-7 2-10 1" stroke-width="1.3"/>
+    <path d="M35 42C19 41 9 29 12 10c3 12 10 18 20 20l9 4-6 8Zm30 0c16-1 26-13 23-32-3 12-10 18-20 20l-9 4 6 8Z" fill="currentColor" stroke-width="1.3"/>
+    <path d="M36 38c-2 9-1 17 4 23l10 4 10-4c5-6 6-14 4-23-7-6-21-6-28 0Z" fill="currentColor" stroke-width="1.3"/>
+    <path d="M41 61c0 8 4 17 9 27 5-10 9-19 9-27" fill="currentColor" stroke-width="1.3"/>
+    <g stroke="var(--accent)" fill="none"><path d="M16 19c5 11 12 16 22 17m46-17c-5 11-12 16-22 17M39 42c2 5 5 8 11 10 6-2 9-5 11-10M43 62c1 7 3 13 7 20m7-20c-1 7-3 13-7 20" stroke-width="1.8"/>
+      <path d="M41 38c5-3 13-3 18 0" stroke-width="1.1"/></g>
   `,
   solitaire: `
-    <path d="M27 85c-4-13-2-29 4-40 5-9 12-13 20-12l3-15c3-8 14-9 19-3 3 3 4 7 3 11l11 1-8 10-7 1c-6 7-7 18-4 28l8 17" fill="currentColor" fill-opacity=".13"/>
-    <path d="M27 85c-4-13-2-29 4-40 5-9 12-13 20-12l3-15c3-8 14-9 19-3 3 3 4 7 3 11l11 1-8 10-7 1c-6 7-7 18-4 28l8 17"/>
-    <circle cx="68" cy="23" r="2" fill="currentColor" stroke="none"/>
-    <path d="M38 43c11 4 15 12 15 20-2 6-8 10-15 10M76 28c-3 4-6 7-10 8M31 57c4 3 7 5 11 6m-13 1c4 3 8 5 12 6" stroke-width="1.25"/>
-    <circle cx="52" cy="61" r="3.2" fill="currentColor" fill-opacity=".25"/>
+    <path d="M19 88c2-23 12-39 27-43l3-20c2-11 10-17 19-15 7 2 10 8 10 15l12 4-9 9-12 2c-5 7-8 14-8 22l2 27Z" fill="currentColor" stroke-width="1.2"/>
+    <path d="M78 25c-1 6-4 10-9 15m-22 5c5 7 8 15 8 23" stroke-width="1.4"/>
+    <g stroke="var(--accent)" fill="none"><path d="M29 82c2-15 8-24 18-29m-11 31c1-11 5-19 12-24m-6 25c1-7 3-13 7-17M54 25c2-6 6-10 11-11" stroke-width="1.7"/>
+      <circle cx="67" cy="24" r="2.6" fill="var(--accent)" stroke="none"/></g>
+    <circle cx="67" cy="24" r=".9" fill="currentColor" stroke="none"/>
   `,
   saddle: `
-    <path d="M19 70c2-23 13-39 28-43 10-2 17 5 20 19l3-16c5-10 14-12 20-5l5 9-9 6-8-4-5 25-6 14H30Z" fill="currentColor" fill-opacity=".12"/>
-    <path d="M19 70c2-23 13-39 28-43 10-2 17 5 20 19l3-16c5-10 14-12 20-5l5 9-9 6-8-4-5 25-6 14H30Z"/>
-    <path d="M24 57c14-4 28-2 43 4M37 33c6 12 7 25 4 39M54 31c-4 11-4 23 0 39M25 70h47M28 75l-4 11m39-11 4 11" stroke-width="1.15"/>
-    <circle cx="85" cy="29" r="1.7" fill="currentColor" stroke="none"/>
+    <path d="M14 75c3-23 14-42 31-48 13-4 24 2 30 18l4-13 10-7 7 10-12 5-5 25-11 14H25Z" fill="currentColor" stroke-width="1.2"/>
+    <path d="M17 76h54m8-31 8-10" stroke-width="1.4"/>
+    <g stroke="var(--accent)" fill="none"><path d="M24 61c16-4 30-2 48 7M34 37c5 10 6 23 3 37m17-43c-4 13-4 26 0 43M20 68c15-1 32 1 45 6" stroke-width="1.9"/>
+      <path d="m30 52 8 4m8-12 8 6m5 10 8 4" stroke-width="1.2"/></g>
   `,
   domed: `
-    <path d="M13 70c2-26 16-43 37-43s35 17 37 43Z" fill="currentColor" fill-opacity=".12"/>
-    <path d="M13 70c2-26 16-43 37-43s35 17 37 43ZM13 70h74M50 28v42M30 35c-5 12-6 24-6 35m46-35c5 12 6 24 6 35"/>
-    <path d="M18 55c10-3 20-2 32 5 12-7 22-8 32-5M32 38c6 7 12 10 18 10s12-3 18-10M29 70l-4 10m46-10 4 10" stroke-width="1.15"/>
+    <path d="M10 77c1-29 17-49 40-49s39 20 40 49H10Z" fill="currentColor" stroke-width="1.3"/>
+    <path d="M10 77h80" stroke-width="1.5"/>
+    <g stroke="var(--accent)" fill="none"><path d="M50 30v45M31 38c-6 11-9 23-9 37m47-37c6 11 9 23 9 37M15 61c12-2 24 1 35 8 11-7 23-10 35-8M32 40c6 7 12 10 18 10s12-3 18-10" stroke-width="1.8"/>
+      <path d="m20 66 6 3m48 0 6-3M38 52l5 4m14 0 5-4" stroke-width="1.1"/></g>
   `,
   bluebuck: `
-    <path d="M36 42C24 26 24 13 30 5c-1 13 5 23 14 30M64 42C76 26 76 13 70 5c1 13-5 23-14 30"/>
-    <path d="M35 39c-5 11-6 22-1 32l16 19 16-19c5-10 4-21-1-32-9-8-21-8-30 0Z" fill="currentColor" fill-opacity=".11"/>
-    <path d="M35 39c-5 11-6 22-1 32l16 19 16-19c5-10 4-21-1-32-9-8-21-8-30 0Z"/>
-    <path d="M32 46l-9-4 8 16m37-12 9-4-8 16M39 56h2m18 0h2M43 77c4-3 10-3 14 0M50 40v40" stroke-width="1.15"/>
-    <path d="M29 16l7 5m-4-12 7 6m32 1-7 5m4-12-7 6" stroke-width="1"/>
+    <path d="M39 49C26 39 19 23 27 7c-1 17 10 24 22 36l-10 6Zm22 0C74 39 81 23 73 7c1 17-10 24-22 36l10 6Z" fill="currentColor" stroke-width="1.2"/>
+    <path d="M38 42c-5 10-6 20-2 28l14 19 14-19c4-8 3-18-2-28-7-7-17-7-24 0Z" fill="currentColor" stroke-width="1.2"/>
+    <g stroke="var(--accent)" fill="none"><path d="M28 18c2 11 8 18 15 22m29-22c-2 11-8 18-15 22M40 48c2 7 6 13 10 17 4-4 8-10 10-17m-17 24 7 12 7-12" stroke-width="1.8"/>
+      <path d="m32 26 5 4m-4-13 4 5m31 4-5 4m4-13-4 5" stroke-width="1.2"/></g>
   `,
   bluepigeon: `
-    <path d="M49 10c14 11 22 23 22 37 0 18-11 31-22 44C38 78 27 65 27 47c0-14 8-26 22-37Z" fill="currentColor" fill-opacity=".1"/>
-    <path d="M49 10c14 11 22 23 22 37 0 18-11 31-22 44C38 78 27 65 27 47c0-14 8-26 22-37ZM49 10v81"/>
-    <path d="M49 23 37 31m12 2-16 9m16 2-18 9m18 2-18 9m18 2-13 10m13-53 12 8m-12 2 16 9m-16 2 18 9m-18 2 18 9m-18 2 13 10" stroke-width="1.2"/>
-    <path d="M31 43l-6 5 6 5-7 5 9 4m34-19 6 5-6 5 7 5-9 4" stroke-width="1.1"/>
+    <path d="M48 9c14 13 23 26 23 42 0 17-9 29-22 40C36 79 27 65 27 50c0-16 8-29 21-41Z" fill="currentColor" stroke-width="1.2"/>
+    <path d="M49 18v72" stroke="var(--accent)" stroke-width="2"/>
+    <g stroke="var(--accent)" fill="none" stroke-width="1.8"><path d="M48 28 37 36m11 2-15 9m15 2-17 9m17 2-14 10m14 1-10 9m11-52 11 8m-11 2 15 9m-15 2 17 9m-17 2 14 10m-14 1 10 9"/></g>
+    <path d="m29 45-7 6 7 5-5 5 7 5m39-21 7 6-7 5 5 5-7 5" stroke-width="1.4"/>
   `,
   macaw: `
-    <path d="M22 83c-5-15-2-32 9-44 8-9 22-13 35-8 5 2 9 7 10 13l13 2c0 16-9 28-25 30l-12 12" fill="currentColor" fill-opacity=".12"/>
-    <path d="M22 83c-5-15-2-32 9-44 8-9 22-13 35-8 5 2 9 7 10 13l13 2c0 16-9 28-25 30l-12 12"/>
-    <path d="M75 43c-3 7-7 11-13 14 8 2 17 0 25-8M39 44c9 3 15 9 17 18M32 55c9 2 15 7 17 14"/>
-    <circle cx="62" cy="39" r="2.3" fill="currentColor" stroke="none"/>
-    <path d="M26 64c6 1 12 5 15 9m-16-1c5 1 9 4 12 8" stroke-width="1.1"/>
+    <path d="M18 81c-1-17 4-31 15-41 10-9 24-12 35-5 7 4 10 12 9 20l14 1c-3 12-13 22-29 23-9 1-16-2-20-9l-6 17Z" fill="currentColor" stroke-width="1.2"/>
+    <path d="M77 54c-2 11-8 18-17 23 15 0 26-8 31-20" stroke-width="1.5"/>
+    <g stroke="var(--accent)" fill="none"><path d="M25 76c1-13 7-23 16-30m-10 34c3-12 8-20 16-26m-9 29c3-9 7-16 13-21M43 38c4 4 6 9 7 15m-2-18c5 4 7 8 9 15m-2-17c5 4 7 9 8 14" stroke-width="1.8"/>
+      <circle cx="65" cy="43" r="2.7" fill="var(--accent)" stroke="none"/></g>
+    <circle cx="65" cy="43" r="1" fill="currentColor" stroke="none"/>
   `,
   warrah: `
-    <path d="M19 80c2-12 8-22 18-28l-2-29 13 16 11-3 12-18 2 26c5 4 9 10 9 17l10 4-12 10-16 2-13 13" fill="currentColor" fill-opacity=".14"/>
-    <path d="M19 80c2-12 8-22 18-28l-2-29 13 16 11-3 12-18 2 26c5 4 9 10 9 17l10 4-12 10-16 2-13 13"/>
-    <path d="M35 52c6 4 11 10 13 17m20-17c5 4 7 9 9 13M67 69l15-1M39 27l5 17m25-19-6 17" stroke-width="1.1"/>
-    <circle cx="74" cy="55" r="2.2" fill="currentColor" stroke="none"/>
+    <path d="M15 82c4-16 13-29 28-35l-2-30 14 20 14-3 11-16 1 28c5 5 8 10 9 17l5 7-13 6-14-3-16 15Z" fill="currentColor" stroke-width="1.2"/>
+    <path d="M43 47c5 7 10 13 12 23m22-13 13 7m-17 9 9 4" stroke-width="1.4"/>
+    <g stroke="var(--accent)" fill="none"><path d="M24 75c6-12 14-19 24-23m-17 27c6-10 12-16 21-20m-13 22c5-7 10-13 15-16M45 27l5 12m26-9-9 13M70 52c3 4 5 9 6 13" stroke-width="1.8"/>
+      <circle cx="77" cy="54" r="2.5" fill="var(--accent)" stroke="none"/></g>
+    <circle cx="77" cy="54" r=".9" fill="currentColor" stroke="none"/>
   `
 };
