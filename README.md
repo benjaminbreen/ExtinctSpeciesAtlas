@@ -4,7 +4,7 @@ I am a historian of science and medicine interested in what the written record c
 
 The scope begins with **species reported in writing while they still existed**, or in sources close enough to their disappearance to preserve historical testimony. It does not include animals known only from fossils or archaeological remains, such as Paleolithic megafauna. A historical name does not always correspond neatly to a modern species. Where identification or extinction status is disputed, the dossier should explain the disagreement rather than silently resolve it.
 
-Silphium of Cyrenaica is the first case. Ancient authors describe a plant of economic and medicinal importance, but its botanical identity and the circumstances of its disappearance are uncertain. The dossier begins with three texts presented in depth—Herodotus, Pliny, and Synesius—and a growing index of other passages. Each of the three detailed records has a separate page with its original language, a new working English translation, notes, and relevant further reading. The dossier also has a map, a linked reference panel, and an attributed image gallery. This is a beginning, **not a complete silphium bibliography**. The great auk, Steller’s sea cow, and dodo appear in the index as entries to develop later.
+Silphium of Cyrenaica is the first case. Ancient authors describe a plant of economic and medicinal importance, but its botanical identity and the circumstances of its disappearance are uncertain. The dossier begins with three texts presented in depth—Herodotus, Pliny, and Synesius—and a growing index of other passages. Each of the three detailed records has a separate page with its original language, a new working English translation, notes, and relevant further reading. The dossier also has a map, a linked reference panel, and an attributed image gallery. This is a beginning, **not a complete silphium bibliography**. The other eleven species in the homepage index are research stubs, not completed dossiers.
 
 ## Research approach
 
@@ -16,7 +16,7 @@ The silphium page's **Source index** starts with eleven passages and defaults to
 
 Corrections and leads to overlooked sources are welcome through [GitHub issues](https://github.com/benjaminbreen/ExtinctSpeciesAtlas/issues). Please include a passage reference or link to an edition where possible.
 
-The site has a standalone [About page](about.html) describing its purpose and author. A [proposed first corpus](research/first-corpus.md) records twelve research candidates and starting references; those proposals are not yet completed dossiers.
+The site has a standalone [About page](about.html) describing its purpose and author. A [proposed first corpus](research/first-corpus.md) records the twelve cases and starting references. A separate [assessment](research/corpus-assessment.md) compares the evidence for human involvement and the likely research yield of each case.
 
 The **[Authorities index](authorities.html)** connects the eleven silphium passages to nine authorial entries. It can be sorted by chronology, name, or number of indexed passages, with list and card views. The Hippocratic corpus is a composite attribution; its entry does not claim that Hippocrates wrote *Diseases IV*. Author names on the three bilingual source pages link to this index. Short numbered notes linked from the translations replace large interpretive sections. The index also gathers the secondary studies cited in the detailed records.
 
@@ -35,6 +35,8 @@ Open [http://localhost:4173/](http://localhost:4173/). JavaScript modules need H
 Import this repository into Vercel. Set the framework preset to **Other**, leave the build command empty, and use `.` as the output directory. The repository root contains `index.html`; no nested root directory is needed. The site uses relative asset and page paths, so the same files can also be served as a standalone subfolder of another static site.
 
 ## Sources, images, and map data
+
+The homepage index uses three transparent, AI-generated contact sheets as small interface illustrations. Their quadrant mapping, prompts, and historical visual points of departure are recorded in [assets/species-icons/README.md](assets/species-icons/README.md). They are not historical source images; the silphium dossier's primary images remain attributed scans.
 
 `data/authorities.json` holds the edited index of names, approximate dates, brief biographies, image descriptions, and works. Its biographical links point to Wikipedia; the page's descriptions are short paraphrases. The circular images are locally served derivatives of Wikimedia Commons files. They are later busts, statues, engravings, or manuscript depictions, **not contemporary likenesses**. Each entry links to its Commons file page and gives its date or nature, credit, and license. File-level source and license data are in `assets/authorities/manifest.json`. After editing the data, run `python3 scripts/build_authorities.py`; `python3 scripts/fetch_authority_images.py` refreshes the Commons derivatives (requires Pillow). Review provenance and license fields before committing an image refresh.
 

@@ -1,0 +1,83 @@
+/* The index is the atlas's compact, scrollable table of cases. */
+.species-entry{
+  min-height:148px;
+  grid-template-columns:6.5% 10% minmax(0,1fr) 19% 18%;
+  gap:0;
+  padding:14px 0;
+}
+.species-entry[data-species="aurochs"]{--entry:#8b6743}
+.species-entry[data-species="solitaire"]{--entry:#9a634f}
+.species-entry[data-species="saddle"]{--entry:#58776e}
+.species-entry[data-species="domed"]{--entry:#9a8055}
+.species-entry[data-species="bluebuck"]{--entry:#527d91}
+.species-entry[data-species="bluepigeon"]{--entry:#75638a}
+.species-entry[data-species="macaw"]{--entry:#a35e4b}
+.species-entry[data-species="warrah"]{--entry:#727b56}
+.entry-number{font-size:clamp(2.7rem,4.3vw,4.7rem);align-self:center}
+.entry-icon{
+  display:block;
+  width:min(100%,126px);
+  aspect-ratio:1;
+  background-size:200% 200%;
+  background-repeat:no-repeat;
+  filter:grayscale(1) contrast(1.1);
+  opacity:.91;
+}
+.icon-silphium,.icon-aurochs,.icon-dodo,.icon-solitaire{background-image:url("./assets/species-icons/sheet-01.png")}
+.icon-seacow,.icon-saddle,.icon-domed,.icon-bluebuck{background-image:url("./assets/species-icons/sheet-02.png")}
+.icon-bluepigeon,.icon-auk,.icon-macaw,.icon-warrah{background-image:url("./assets/species-icons/sheet-03.png")}
+.icon-silphium,.icon-seacow,.icon-bluepigeon{background-position:0 0}
+.icon-aurochs,.icon-saddle,.icon-auk{background-position:100% 0}
+.icon-dodo,.icon-domed,.icon-macaw{background-position:0 100%}
+.icon-solitaire,.icon-bluebuck,.icon-warrah{background-position:100% 100%}
+.entry-main{padding:0 22px 0 16px}
+.entry-main strong{font-size:clamp(2.25rem,3.1vw,3.55rem);line-height:.98;letter-spacing:-.055em}
+.entry-main small{font-size:.94rem;margin-top:6px}
+.entry-main::after{width:58px;margin-top:12px}
+.species-entry[data-species="saddle"] .entry-main strong,
+.species-entry[data-species="domed"] .entry-main strong,
+.species-entry[data-species="bluepigeon"] .entry-main strong,
+.species-entry[data-species="warrah"] .entry-main strong{font-size:clamp(1.85rem,2.55vw,2.9rem)}
+.entry-place,.entry-status{height:68px;padding-left:17px;line-height:1.12}
+.entry-place{font-size:clamp(1.18rem,1.55vw,1.7rem)}
+.entry-status{font-size:clamp(1rem,1.22vw,1.35rem);color:var(--muted);padding-right:4px}
+.species-entry[data-species="silphium"] .entry-status{color:var(--ink)}
+.entry-status span{font-size:1.6rem}
+.index-section{padding-bottom:22px}
+.index-image-note{font-size:.79rem;line-height:1.35;color:var(--muted);margin:15px 0 0;text-align:right}
+@media(max-width:1100px){
+  .species-entry{grid-template-columns:7.5% 12% minmax(0,1fr) 18% 19%;min-height:136px}
+  .entry-icon{width:min(100%,106px)}
+  .entry-main strong{font-size:clamp(2rem,3.4vw,3rem)}
+  .species-entry[data-species="saddle"] .entry-main strong,
+  .species-entry[data-species="domed"] .entry-main strong,
+  .species-entry[data-species="bluepigeon"] .entry-main strong,
+  .species-entry[data-species="warrah"] .entry-main strong{font-size:clamp(1.8rem,2.6vw,2.5rem)}
+}
+@media(max-width:760px){
+  .species-entry{grid-template-columns:50px 83px minmax(0,1fr);grid-template-rows:auto auto auto;min-height:126px;padding:15px 0}
+  .entry-number{grid-column:1;grid-row:1/4;align-self:start;font-size:2.8rem}
+  .entry-icon{grid-column:2;grid-row:1/4;width:77px;margin:0 7px 0 0;align-self:start}
+  .entry-main{grid-column:3;grid-row:1;padding:0 0 4px 2px}
+  .entry-main strong{font-size:clamp(2rem,5.8vw,2.8rem)}
+  .entry-main small{font-size:.81rem;margin-top:5px}
+  .entry-main::after{width:42px;margin-top:9px}
+  .species-entry[data-species="saddle"] .entry-main strong,
+  .species-entry[data-species="domed"] .entry-main strong,
+  .species-entry[data-species="bluepigeon"] .entry-main strong,
+  .species-entry[data-species="warrah"] .entry-main strong{font-size:clamp(1.7rem,4.7vw,2.25rem)}
+  .entry-place,.entry-status{grid-column:3;display:block;border:0;height:auto;padding:0 0 0 2px}
+  .entry-place{grid-row:2;margin-top:2px;font-size:1.03rem}
+  .entry-status{grid-row:3;margin-top:2px;font-size:.88rem}
+  .entry-status span{font-size:1rem}
+}
+@media(max-width:430px){
+  .species-entry{grid-template-columns:40px 66px minmax(0,1fr);min-height:110px}
+  .entry-number{font-size:2.4rem}
+  .entry-icon{width:61px;margin-right:5px}
+  .entry-main strong{font-size:clamp(1.82rem,7vw,2.2rem)}
+  .species-entry[data-species="saddle"] .entry-main strong,
+  .species-entry[data-species="domed"] .entry-main strong,
+  .species-entry[data-species="bluepigeon"] .entry-main strong,
+  .species-entry[data-species="warrah"] .entry-main strong{font-size:1.65rem}
+}

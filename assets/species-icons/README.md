@@ -1,0 +1,27 @@
+# Species index illustrations
+
+The three transparent PNG contact sheets are AI-generated **interface illustrations**, not historical prints or evidence for a species' appearance. Each 1254 × 1254 sheet contains four figures in a 2 × 2 grid. The homepage displays its quadrants with CSS background positioning, leaving the original sheets intact.
+
+| Sheet | Upper left | Upper right | Lower left | Lower right |
+| --- | --- | --- | --- | --- |
+| `sheet-01.png` | Silphium | Aurochs | Dodo | Rodrigues solitaire |
+| `sheet-02.png` | Steller's sea cow | Rodrigues saddle-backed tortoise | Rodrigues domed tortoise | Bluebuck |
+| `sheet-03.png` | Mauritius blue pigeon | Great auk | Cuban macaw | Falkland Islands wolf |
+
+All three were made with the built-in imagegen tool. The [full prompts](prompts.md) requested a transparent background, isolated quadrants, monochrome natural-history engraving linework, and no labels, borders, or scenery. The subject prompts specified these historical visual points of departure:
+
+| Subject | Historical point of departure named in prompt or used to check form |
+| --- | --- |
+| Silphium | [1644 Bodaeus van Stapel edition of Theophrastus, p. 598](https://archive.org/details/BIUSante_00956/page/n619/mode/1up), a later interpretation of *laserpitium* |
+| Aurochs | [Sigismund von Herberstein's 1556 aurochs woodcut](https://commons.wikimedia.org/wiki/File:Tur_ZHerberstein_pol_XVIw_small.jpg) |
+| Dodo | [Seventeenth-century drawings discussed by the Natural History Museum](https://www.nhm.ac.uk/discover/the-dodo-bird-the-real-facts-about-this-icon-of-extinction.html) |
+| Rodrigues solitaire | [François Leguat's 1708 illustrated voyage](https://www.e-rara.ch/download/pdf/11437565.pdf) |
+| Steller's sea cow | [J. F. Brandt's 1846 reconstruction](https://commons.wikimedia.org/wiki/File:Extanstellersseacowea.jpg), made after the species disappeared |
+| Rodrigues tortoises | [Leguat's voyage](https://www.biodiversitylibrary.org/bibliography/36081) and [morphological work distinguishing the two species](https://iucn-tftsg.org/wp-content/uploads/file/Articles/Austin_and_Arnold_2001.pdf) |
+| Bluebuck | [Historical illustrations and surviving specimens assessed by Naturalis](https://repository.naturalis.nl/pub/318339) |
+| Mauritius blue pigeon | [Sonnerat's 1782 plate in the BnF catalogue](https://catalogue.bnf.fr/ark:/12148/cb44555801p) |
+| Great auk | [Thomas Bewick's 1804 wood engraving](https://commons.wikimedia.org/wiki/File:Great_Auk_Thomas_Bewick_1804.jpg) |
+| Cuban macaw | [Jacques Barraband's c. 1800 watercolour](https://commons.wikimedia.org/wiki/File:Cubanredmacaw-JacquesBarraband1800.png) |
+| Falkland Islands wolf | [Charles Hamilton Smith's nineteenth-century print](https://commons.wikimedia.org/wiki/File:Dusicyon_antarcticus_-_Smith_-_Iconographia_Zoologica.png) |
+
+These references guided the written prompts and review of the resulting anatomy. The historical images were **not** provided to the generator as image inputs, and the output is not a facsimile of any one print. The atlas's historical image gallery continues to use attributed scans and photographs rather than these generated illustrations.
