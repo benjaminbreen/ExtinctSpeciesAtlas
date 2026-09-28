@@ -1,0 +1,38 @@
+/* Great auk dossier uses the atlas's established layout and North Atlantic ink. */
+.auk-page .detail-hero{grid-template-columns:56% 28% 16%}
+.auk-page .detail-hero h1{font-size:clamp(5.7rem,9vw,8.6rem);letter-spacing:-.06em}
+.auk-page .detail-subtitle{font-size:1.45rem}
+.auk-page .detail-hero-figure img{height:225px;object-fit:contain;mix-blend-mode:multiply}
+.auk-page .source-heading h3{display:flex;align-items:center;gap:.35rem;flex-wrap:wrap}
+.auk-page .source-heading h3>a:not(.panel-author-avatar):hover{color:var(--accent)}
+.panel-author-avatar{display:inline-flex;width:33px;height:33px;overflow:hidden;border-radius:50%;border:1px solid var(--quiet);margin-right:5px;flex:0 0 auto}
+.panel-author-avatar img{width:100%;height:100%;object-fit:cover;object-position:center 24%;filter:grayscale(1)}
+.auk-page #source-panel-1 .panel-author-avatar img{object-position:center 14%;transform:scale(1.32)}
+.auk-page .record-map .atlas-map{height:255px}
+.auk-page .record-map .map-location-label{font-size:34px;stroke-width:4px}
+.auk-page .record-map .map-sea-label{font-size:27px;letter-spacing:2px}
+.auk-page .record-map .map-land-label{font-size:21px;letter-spacing:3px}
+.auk-map-place .map-point{fill:#746e62;stroke:#f1eadf}
+.auk-map-place .map-point-ring{stroke:#746e62}
+.auk-map-place.is-active .map-point{fill:#536d81}
+.auk-map-place.is-active .map-point-ring{stroke:#536d81;stroke-width:2.5}
+.auk-map-place.is-active .map-location-label{fill:#35566a}
+.auk-page .reference-image img{mix-blend-mode:multiply}
+.auk-page .gallery-item img{object-fit:contain;background:#eee9df}
+.auk-source .source-grid{grid-template-columns:58% 42%}
+.auk-source .source-column:nth-child(2){background:#eeeae124}
+.auk-source .source-column:nth-child(2) .source-text{font-size:1rem}
+.auk-source .source-text p{margin-bottom:1em}
+.auk-source .source-editions{flex-wrap:wrap}
+.auk-source .source-head h1{font-size:clamp(4.3rem,6.4vw,7rem)}
+.auk-facsimile{margin:16px 0 18px}
+.auk-facsimile a{display:block;max-width:370px;max-height:385px;overflow:hidden;border:1px solid var(--quiet);background:#ece7dc}
+.auk-facsimile img{display:block;width:100%;height:100%;max-height:385px;object-fit:contain;object-position:top center;transition:transform .2s}
+.auk-facsimile a:hover img{transform:scale(1.035)}
+.auk-facsimile figcaption{font:.74rem/1.35 var(--font-text);color:var(--muted);max-width:360px;margin-top:8px}
+.auk-edition{border-top:1px solid var(--quiet);padding-top:12px;margin-top:14px}
+.auk-edition h3{font:400 1.45rem var(--font-display);margin:0 0 7px}
+.auk-edition p{font:.94rem/1.43 var(--font-text);margin:0}
+@media(max-width:1050px){.auk-page .detail-hero{grid-template-columns:55% 26% 19%}.auk-page .detail-hero h1{font-size:clamp(4.8rem,8.5vw,7rem)}}
+@media(max-width:760px){.auk-page .detail-hero{display:block}.auk-page .detail-hero h1{font-size:clamp(4.15rem,13vw,6.4rem);white-space:normal;max-width:75%}.auk-page .detail-hero-figure{right:1%;width:35%;height:195px}.auk-page .detail-hero-figure img{height:190px}.auk-source .source-grid{display:block}.auk-page .record-map .atlas-map{height:325px}}
+@media(max-width:430px){.auk-page .detail-hero h1{font-size:13vw;max-width:77%}.auk-page .detail-hero-figure{width:37%;right:0}.auk-page .source-heading h3{font-size:1.5rem}.auk-page .source-quote{font-size:1.35rem}body[data-page="detail"].auk-page .wordmark,body[data-page="source"].auk-source .wordmark{font-size:1.7rem}body[data-page="detail"].auk-page .masthead nav,body[data-page="source"].auk-source .masthead nav{font-size:.82rem;gap:.75rem}}

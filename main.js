@@ -25,7 +25,7 @@ function setSpecies(name) {
   }
 }
 
-setSpecies('silphium');
+setSpecies(document.body.dataset.species || 'silphium');
 
 if (document.body.dataset.page === 'home') {
   const entries = [...document.querySelectorAll('.species-entry')];
@@ -39,6 +39,7 @@ if (document.body.dataset.page === 'home') {
     'south-atlantic': 'South Atlantic', 'southern-africa': 'Southern Africa',
     europe: 'Europe', caribbean: 'Caribbean', mammal: 'Mammals', bird: 'Birds', reptile: 'Reptiles',
     cyrenaica: 'Cyrenaica', rome: 'Rome', 'bering-sea': 'Bering Sea', mauritius: 'Mauritius',
+    'st-kilda': 'St Kilda', 'funk-island': 'Funk Island', 'eldey': 'Eldey',
     rodrigues: 'Rodrigues', cape: 'Cape, South Africa', cuba: 'Cuba', 'falkland-islands': 'Falkland Islands'
   };
   const selected = tag && filters[tag] ? { type: 'tags', key: tag, label: filters[tag] }

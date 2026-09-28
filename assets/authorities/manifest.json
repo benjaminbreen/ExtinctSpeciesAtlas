@@ -70,5 +70,29 @@
     "file": "assets/authorities/synesius.webp",
     "display_credit": "British Museum / André Thévet · public domain",
     "depiction": "Imagined portrait engraved for André Thévet’s 1584 collection"
+  },
+  {
+    "authority": "pennant",
+    "source": "https://commons.wikimedia.org/wiki/File:Thomas_Pennant_portrait_1779.jpg",
+    "license": "Public domain",
+    "file": "assets/authorities/pennant.webp",
+    "display_credit": "National Library of Wales · public domain",
+    "depiction": "Engraved portrait of Thomas Pennant, eighteenth century"
+  },
+  {
+    "authority": "cartwright",
+    "source": "https://commons.wikimedia.org/wiki/File:George_Cartwright.jpg",
+    "license": "Public domain",
+    "file": "assets/authorities/cartwright.webp",
+    "display_credit": "Wikimedia Commons · public domain",
+    "depiction": "Engraved portrait of George Cartwright"
+  },
+  {
+    "authority": "newton",
+    "source": "https://commons.wikimedia.org/wiki/File:Alfred_Newton_(engraved_portrait).png",
+    "license": "Public domain",
+    "file": "assets/authorities/newton.webp",
+    "display_credit": "The Graphic / Historian 1875 · public domain / CC0",
+    "depiction": "Engraved portrait in The Graphic, 1887"
   }
 ]

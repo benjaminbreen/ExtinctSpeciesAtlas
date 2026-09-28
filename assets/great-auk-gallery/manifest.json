@@ -1,0 +1,35 @@
+[
+  {
+    "slug": "worm-1655",
+    "file": "Wormius' Great Auk.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Wormius%27_Great_Auk.jpg",
+    "credit": "Ole Worm, Museum Wormianum, 1655",
+    "license": "Public domain",
+    "local": "assets/great-auk-gallery/worm-1655.webp",
+    "display_derivative": "assets/great-auk-gallery/worm-1655-ink.webp"
+  },
+  {
+    "slug": "bewick-1804",
+    "file": "Great Auk Thomas Bewick 1804.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Great_Auk_Thomas_Bewick_1804.jpg",
+    "credit": "Thomas Bewick, A History of British Birds, 1804",
+    "license": "Public domain",
+    "local": "assets/great-auk-gallery/bewick-1804.webp"
+  },
+  {
+    "slug": "audubon-1838",
+    "file": "341 Great Auk.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:341_Great_Auk.jpg",
+    "credit": "John James Audubon, Birds of America, plate 341, 1827–1838",
+    "license": "Public domain",
+    "local": "assets/great-auk-gallery/audubon-1838.webp"
+  },
+  {
+    "slug": "egg-1888",
+    "file": "A great auk egg. Coloured lithograph by F. W. Frohawk, 1888. Wellcome V0022387.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:A_great_auk_egg._Coloured_lithograph_by_F._W._Frohawk%2C_1888._Wellcome_V0022387.jpg",
+    "credit": "F. W. Frohawk, 1888; Wellcome Collection",
+    "license": "CC BY 4.0",
+    "local": "assets/great-auk-gallery/egg-1888.webp"
+  }
+]

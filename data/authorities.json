@@ -115,5 +115,44 @@
     "image_description": "Imagined portrait engraved for André Thévet’s 1584 collection",
     "image_credit": "British Museum / André Thévet · public domain",
     "works": [{"label": "Letter 106", "href": "./source-synesius.html"}, {"label": "Letter 134", "href": "./silphium.html#ref-synesius-134"}]
+  },
+  {
+    "slug": "pennant",
+    "name": "Thomas Pennant",
+    "dates": "1726–1798",
+    "sort_year": 1726,
+    "field": "Natural history · English",
+    "description": "Welsh naturalist whose British Zoology describes the great auk and draws on Martin Martin’s earlier account of St Kilda.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Pennant",
+    "image_file": "Thomas Pennant portrait 1779.jpg",
+    "image_description": "Engraved portrait of Thomas Pennant, eighteenth century",
+    "image_credit": "National Library of Wales · public domain",
+    "works": [{"label": "British Zoology, vol. II, 507–508", "href": "./source-pennant.html"}]
+  },
+  {
+    "slug": "cartwright",
+    "name": "George Cartwright",
+    "dates": "1739–1819",
+    "sort_year": 1739,
+    "field": "Travel journal · English",
+    "description": "Trader and journal writer in Labrador and Newfoundland. His entry for 5 July 1785 describes great auk harvesting at Funk Island.",
+    "wikipedia": "https://en.wikipedia.org/wiki/George_Cartwright_(trader)",
+    "image_file": "George Cartwright.jpg",
+    "image_description": "Engraved portrait of George Cartwright",
+    "image_credit": "Wikimedia Commons · public domain",
+    "works": [{"label": "Journal, 5 July 1785", "href": "./source-cartwright.html"}]
+  },
+  {
+    "slug": "newton",
+    "name": "Alfred Newton",
+    "dates": "1829–1907",
+    "sort_year": 1829,
+    "field": "Ornithology · English",
+    "description": "British ornithologist who published John Wolley’s research and interviews about the great auk in Iceland.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alfred_Newton",
+    "image_file": "Alfred Newton (engraved portrait).png",
+    "image_description": "Engraved portrait in The Graphic, 1887",
+    "image_credit": "The Graphic / Historian 1875 · public domain / CC0",
+    "works": [{"label": "Wolley’s researches, Ibis (1861)", "href": "./source-newton.html"}]
   }
 ]
