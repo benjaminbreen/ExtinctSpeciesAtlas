@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#f5f2e9" />
+    <meta name="description" content="Silphium of Cyrenaica: three primary sources, their contradictions, a historical woodcut, and a zoomable map of the recorded landscape." />
+    <title>Silphium — Atlas of Historically Lost Species</title>
+    <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml" />
+    <link rel="preload" href="./assets/gfs-didot.ttf" as="font" type="font/ttf" crossorigin />
+    <link rel="stylesheet" href="./styles.css" />
+    <script type="module" src="./main.js"></script>
+    <script type="module" src="./map.js"></script>
+  </head>
+  <body data-page="detail">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <div class="site-seal" aria-hidden="true"><span class="seal-symbol"></span></div>
+    <div class="page-shell">
+      <header class="masthead">
+        <a class="wordmark" href="./index.html" aria-label="Atlas home">Atlas<span class="wordmark-period">.</span></a>
+        <nav aria-label="Main navigation"><a href="./index.html#index">Index</a><a href="./index.html#about">About</a></nav>
+      </header>
+
+      <main id="main">
+        <section class="detail-hero" aria-labelledby="species-title">
+          <div class="detail-title-block">
+            <p class="folio-label">01 / A lost plant</p>
+            <h1 id="species-title">Silphium</h1>
+            <p class="detail-subtitle">Cyrenaica</p>
+            <div class="accent-rule"></div>
+          </div>
+          <figure class="detail-hero-figure">
+            <img src="./assets/silphium-woodcut-isolated.webp" alt="Historic woodcut of a flowering laserpitium plant from a 1644 edition of Theophrastus" width="830" height="1220" />
+            <figcaption>1644 botanical woodcut · identity unverified</figcaption>
+          </figure>
+        </section>
+
+        <section class="dossier-intro" aria-label="Silphium in brief">
+          <p class="lead">Ancient writers describe silphium as a valuable plant associated with Cyrenaica. Its botanical identity remains unresolved.</p>
+          <div class="intro-facts">
+            <div><span>Historical home</span><strong>Cyrenaica, North Africa</strong></div>
+            <div><span>Botanical identity</span><strong>Unresolved</strong></div>
+            <div><span>The record</span><strong>Greek and Latin testimony, coins, later echoes</strong></div>
+          </div>
+        </section>
+
+        <section id="record" class="record-section" aria-labelledby="record-title">
+          <div class="record-left">
+            <h2 id="record-title">The record</h2>
+            <p class="record-instruction">Three places in the surviving text. Select a source to read its claim.</p>
+            <div class="source-tabs" role="tablist" aria-label="Silphium sources">
+              <button type="button" class="source-tab" id="source-tab-0" role="tab" aria-controls="source-panel-0" data-source-tab>
+                <span class="timeline-dot"></span><span class="tab-number">01</span><span class="tab-copy"><strong>Herodotus</strong><em>Histories 4.169</em><small>Sets out a coastal span for silphium.</small></span>
+              </button>
+              <button type="button" class="source-tab" id="source-tab-1" role="tab" aria-controls="source-panel-1" data-source-tab>
+                <span class="timeline-dot"></span><span class="tab-number">02</span><span class="tab-copy"><strong>Pliny</strong><em>Natural History 19.15</em><small>Reports scarcity in Cyrenaica.</small></span>
+              </button>
+              <button type="button" class="source-tab" id="source-tab-2" role="tab" aria-controls="source-panel-2" data-source-tab>
+                <span class="timeline-dot"></span><span class="tab-number">03</span><span class="tab-copy"><strong>Synesius</strong><em>Letter 106</em><small>Names silphium in a garden centuries later.</small></span>
+              </button>
+            </div>
+          </div>
+          <div class="record-right">
+            <article id="source-panel-0" class="source-panel" role="tabpanel" aria-labelledby="source-tab-0" data-source-panel>
+              <div class="source-heading"><h3>Herodotus · <i>Histories</i></h3><span>01</span></div>
+              <div class="source-body">
+                <div class="source-excerpt"><blockquote>“From this point begins the silphion and it extends along the coast…”</blockquote><cite>4.169 · G. C. Macaulay translation</cite></div>
+                <div class="source-swatch"><a class="source-map-link" href="#map"><img src="./assets/map-inset.svg" alt="Small map of the Cyrenaican coast" /><span>Explore the map ↓</span></a><strong>c. 5th century BCE</strong><small>Greek</small></div>
+              </div>
+              <dl class="source-observations"><div><dt>Place named</dt><dd>From the island of Platea toward the entrance of the Syrtis, along the North African coast.</dd></div><div><dt>What it establishes</dt><dd>A reported geographic range. The ancient endpoints are not precise coordinates.</dd></div></dl>
+              <p class="source-reading">Herodotus describes a coastal span, but the passage does not identify the plant botanically or establish precise modern boundaries for its range.</p>
+              <a class="source-link" href="https://lexundria.com/hdt/4.169/mcly" target="_blank" rel="noopener noreferrer">Read the passage in its edition <span aria-hidden="true">↗</span></a>
+            </article>
+            <article id="source-panel-1" class="source-panel" role="tabpanel" aria-labelledby="source-tab-1" data-source-panel>
+              <div class="source-heading"><h3>Pliny · <i>Natural History</i></h3><span>02</span></div>
+              <div class="source-body">
+                <div class="source-excerpt"><blockquote>“Within the memory of the present generation, a single stalk is all that has ever been found there…”</blockquote><cite>19.15 · Bostock and Riley translation</cite></div>
+                <div class="source-swatch"><a class="source-map-link" href="#map"><img src="./assets/map-inset.svg" alt="Small map of the Cyrenaican coast" /><span>Explore the map ↓</span></a><strong>1st century CE</strong><small>Latin</small></div>
+              </div>
+              <dl class="source-observations"><div><dt>Place named</dt><dd>Cyrenaica, with Cyrene and Rome appearing in the account of resin and trade.</dd></div><div><dt>What it establishes</dt><dd>Pliny says the Cyrenaic plant had become extremely scarce; he reports a stalk sent to Nero.</dd></div></dl>
+              <p class="source-reading">This is a report of rarity, not a dated extinction certificate. Pliny also distinguishes the celebrated Cyrenaic product from resins sold from Persia, Media, and Armenia.</p>
+              <a class="source-link" href="https://peterburk.github.io/pliny/ChaptersHtml/19.%20Book%20XIX.%20The%20Nature%20And%20Cultivation%20Of%20Flax,%20And%20An%20Account%20Of%20Various%20Garden%20Plants./15.%20Chap.%2015.-Laserpitium,%20Laser,%20And%20Maspetum..html" target="_blank" rel="noopener noreferrer">Read the chapter in its edition <span aria-hidden="true">↗</span></a>
+            </article>
+            <article id="source-panel-2" class="source-panel" role="tabpanel" aria-labelledby="source-tab-2" data-source-panel>
+              <div class="source-heading"><h3>Synesius · <i>Letter 106</i></h3><span>03</span></div>
+              <div class="source-body">
+                <div class="source-excerpt"><blockquote>“I asked the young man who brought me some silphium from you, whether you had grown it yourself…”</blockquote><cite>Letter 106 · A. Fitzgerald translation</cite></div>
+                <div class="source-swatch"><a class="source-map-link" href="#map"><img src="./assets/map-inset.svg" alt="Small map of the Cyrenaican coast" /><span>Explore the map ↓</span></a><strong>c. 402 CE</strong><small>Greek</small></div>
+              </div>
+              <dl class="source-observations"><div><dt>Place named</dt><dd>His brother Euoptius’s garden in the Cyrenaican region, associated with Ptolemais.</dd></div><div><dt>What it establishes</dt><dd>The name “silphium” remained in use and a plant so named could be grown there.</dd></div></dl>
+              <p class="source-reading">Synesius does not say that silphium was nearly gone. His letter complicates a simple last-stalk story: whether his garden plant was the ancient Cyrenaic species remains open.</p>
+              <a class="source-link" href="https://www.livius.org/sources/content/synesius/synesius-letter-106/" target="_blank" rel="noopener noreferrer">Read the letter in its edition <span aria-hidden="true">↗</span></a>
+            </article>
+          </div>
+        </section>
+
+        <section id="map" class="map-section" aria-labelledby="map-title">
+          <div class="map-section-header"><div><span class="folio-label">A geographic reading</span><h2 id="map-title">The country of silphium</h2></div><p>This view focuses on Cyrenaica, shared by all three sources. Its colored coastal wash is a schematic reading of Herodotus, not a measured ancient habitat.</p></div>
+          <div class="map-frame">
+            <div class="map-toolbar"><span>Cyrenaica · North Africa</span><div class="map-controls"><button type="button" data-zoom-out aria-label="Zoom map out">−</button><output id="zoom-level" aria-label="Map zoom">100%</output><button type="button" data-zoom-in aria-label="Zoom map in">+</button><button type="button" data-map-reset>Reset</button></div></div>
+            <div id="atlas-map" class="atlas-map" aria-label="Zoomable map of Cyrenaica showing Cyrene, Ptolemais, and the schematic coastal range recorded by Herodotus"></div>
+            <div class="map-bottom"><span>Drag to pan · Scroll or use controls to zoom</span><span>Coastline: Natural Earth, 1:50m</span></div>
+          </div>
+          <div class="map-key"><div><span class="key-symbol key-region"></span><strong>Reported range</strong><small>Herodotus; approximate</small></div><div><span class="key-symbol key-point"></span><strong>Named places</strong><small>Ancient sites; approximate point locations</small></div><div><span class="key-symbol key-land"></span><strong>Land &amp; sea</strong><small>Modern coastline for orientation</small></div></div>
+          <p class="map-caveat">Platea is named by Herodotus but not pinned here: its identification and the exact endpoints of his range remain uncertain.</p>
+        </section>
+
+        <section class="afterword" aria-labelledby="afterword-title">
+          <h2 id="afterword-title">What the sources do not establish</h2>
+          <div><p>Pliny reports that the prized Cyrenaic plant had become scarce. Centuries later, Synesius refers to silphium grown in a garden. These accounts may describe different plants under the same name; the texts alone cannot establish their botanical identities.</p><p>Later evidence, including coins, herbals, and other written sources, needs to be considered alongside these three starting texts. The dates and circumstances of the plant’s disappearance remain uncertain.</p></div>
+        </section>
+
+        <section id="image-note" class="image-note" aria-labelledby="image-title">
+          <div><span class="folio-label">The image</span><h2 id="image-title">The 1644 woodcuts</h2><p>The botanical woodcut on this page comes from page 598 of Johannes Bodaeus van Stapel’s 1644 edition of Theophrastus. Its caption calls the plant <i>laserpitium</i> drawn from his garden. On the same printed page, another image compares a proposed plant with a Cyrene coin. These images document early modern attempts to identify silphium; neither verifies the ancient plant’s appearance.</p><a class="source-link" href="https://archive.org/details/BIUSante_00956/page/n619/mode/1up" target="_blank" rel="noopener noreferrer">View the original page <span aria-hidden="true">↗</span></a></div>
+          <figure><img src="./assets/laserpitium-alpino.webp" width="710" height="1215" loading="lazy" alt="Woodcut on the same 1644 page showing a proposed laserpitium beside a reproduction of a Cyrene coin" /><figcaption>The companion woodcut, “Laserpitium ex Alpino,” and a printed rendering of a Cyrene coin.</figcaption></figure>
+        </section>
+      </main>
+
+      <footer class="site-footer"><span>Atlas of Historically Lost Species</span><a href="./index.html#index">Return to index ↗</a></footer>
+    </div>
+  </body>
+</html>

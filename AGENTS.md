@@ -1,0 +1,9 @@
+# Editorial and development notes
+
+This site is a research atlas by a historian of science and medicine. Its subject is species with written historical testimony that disappeared before 1900. Fossil-only or Paleolithic cases are outside its scope. Cases with disputed taxonomic identity or extinction status must say so plainly.
+
+Write in a direct academic voice that remains readable to a general audience. Do not add promotional copy, slogans, aphorisms, sentimental lines about absence or memory, generic “storytelling” prose, or decorative text with no evidentiary purpose. The page should explain the sources and their limits, not advertise itself. Do not invent quotations or make a source seem more conclusive than it is.
+
+For each historical claim, prefer a specific primary-source passage and a link to an edition. Attribute translations. Keep interpretation distinct from what the source directly reports. Label approximate geography and uncertain identifications. Date and credit historical images, and distinguish depictions made long after the species from observations made while it existed.
+
+The design should remain minimalist and responsive, with clear reading order and restrained interaction. Keep the species index easy to scan and the source and map controls usable by keyboard.

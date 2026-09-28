@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#f5f2e9" />
+    <meta name="description" content="An atlas of species that vanished within the historical record. Begin with silphium of Cyrenaica." />
+    <title>Atlas of Historically Lost Species</title>
+    <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml" />
+    <link rel="preload" href="./assets/gfs-didot.ttf" as="font" type="font/ttf" crossorigin />
+    <link rel="stylesheet" href="./styles.css" />
+    <script type="module" src="./main.js"></script>
+  </head>
+  <body data-page="home">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <div class="site-seal" aria-hidden="true"><span class="seal-symbol"></span></div>
+    <div class="page-shell">
+      <header class="masthead">
+        <a class="wordmark" href="./index.html" aria-label="Atlas home">Atlas<span class="wordmark-period">.</span></a>
+        <nav aria-label="Main navigation">
+          <a href="#index">Index</a>
+          <a href="#about">About</a>
+        </nav>
+      </header>
+
+      <main id="main">
+        <section class="home-hero observe-species" data-species="silphium" aria-labelledby="site-title">
+          <div class="hero-copy">
+            <h1 id="site-title">Atlas of<br />Historically<br />Lost Species</h1>
+            <div class="accent-rule"></div>
+            <p>Primary sources, maps, and images for species documented in writing before their extinction.</p>
+          </div>
+          <figure class="hero-figure">
+            <div class="figure-plate">
+              <img src="./assets/silphium-woodcut-isolated.webp" alt="Seventeenth-century woodcut of a flowering laserpitium plant, with broad leaves and three umbels" width="830" height="1220" fetchpriority="high" />
+            </div>
+            <figcaption><i>Laserpitium</i> in a 1644 edition of Theophrastus. An early modern interpretation, not a verified image of the lost plant. <a href="./silphium.html#image-note">Image note ↗</a></figcaption>
+          </figure>
+        </section>
+
+        <section id="index" class="index-section" aria-labelledby="index-title">
+          <div class="section-heading"><h2 id="index-title">Index</h2><span>01—04</span></div>
+          <a class="species-entry observe-species" data-species="silphium" href="./silphium.html" aria-label="Read the silphium dossier">
+            <span class="entry-number">01</span>
+            <span class="entry-main"><strong>Silphium</strong><small>The plant of Cyrenaica</small></span>
+            <span class="entry-place">Cyrenaica</span>
+            <span class="entry-status">Identity unresolved <span aria-hidden="true">↗</span></span>
+          </a>
+          <article class="species-entry observe-species" data-species="auk" aria-labelledby="auk-title">
+            <span class="entry-number">02</span>
+            <span class="entry-main"><strong id="auk-title">Great auk</strong><small><i>Pinguinus impennis</i></small></span>
+            <span class="entry-place">North Atlantic</span>
+            <span class="entry-status">Dossier in preparation</span>
+          </article>
+          <article class="species-entry observe-species" data-species="seacow" aria-labelledby="seacow-title">
+            <span class="entry-number">03</span>
+            <span class="entry-main"><strong id="seacow-title">Steller’s sea cow</strong><small><i>Hydrodamalis gigas</i></small></span>
+            <span class="entry-place">Bering Sea</span>
+            <span class="entry-status">Dossier in preparation</span>
+          </article>
+          <article class="species-entry observe-species" data-species="dodo" aria-labelledby="dodo-title">
+            <span class="entry-number">04</span>
+            <span class="entry-main"><strong id="dodo-title">Dodo</strong><small><i>Raphus cucullatus</i></small></span>
+            <span class="entry-place">Mauritius</span>
+            <span class="entry-status">Dossier in preparation</span>
+          </article>
+        </section>
+
+        <section id="about" class="about-section" aria-labelledby="about-title">
+          <div class="about-label">Scope &amp; method</div>
+          <div>
+            <h2 id="about-title">About the atlas</h2>
+            <p>This project gathers written accounts of species that became extinct before 1900. Each dossier brings primary texts, historical images, and named places together, with links to source editions and clear notes where identification or location is uncertain.</p>
+          </div>
+          <a href="./silphium.html" class="text-link">Read the silphium dossier <span aria-hidden="true">↗</span></a>
+        </section>
+      </main>
+
+      <footer class="site-footer"><span>Atlas of Historically Lost Species</span><a href="#main">Back to top ↑</a></footer>
+    </div>
+  </body>
+</html>
