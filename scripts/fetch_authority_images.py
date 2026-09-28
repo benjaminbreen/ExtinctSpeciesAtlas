@@ -18,6 +18,11 @@ DEST = ROOT / "assets" / "authorities"
 DEST.mkdir(exist_ok=True)
 HEADERS = {"User-Agent": "HistoricalLostSpeciesAtlas/0.3 (https://github.com/benjaminbreen/ExtinctSpeciesAtlas)"}
 items = json.loads((ROOT / "data" / "authorities.json").read_text())
+commons_items = [item for item in items if item.get("image_file")]
+existing_manifest = {
+    item["authority"]: item
+    for item in json.loads((DEST / "manifest.json").read_text())
+}
 
 
 def fetch(url):
@@ -28,7 +33,7 @@ def fetch(url):
 api = "https://commons.wikimedia.org/w/api.php?" + urlencode({
     "action": "query",
     "prop": "imageinfo",
-    "titles": "|".join("File:" + item["image_file"] for item in items),
+    "titles": "|".join("File:" + item["image_file"] for item in commons_items),
     "iiprop": "url|extmetadata",
     "iiurlwidth": "420",
     "format": "json",
@@ -37,6 +42,9 @@ results = json.loads(fetch(api))["query"]["pages"].values()
 pages = {page["title"]: page for page in results}
 manifest = []
 for item in items:
+    if not item.get("image_file"):
+        manifest.append(existing_manifest[item["slug"]])
+        continue
     title = "File:" + item["image_file"]
     info = pages[title]["imageinfo"][0]
     path = DEST / (item["slug"] + ".webp")

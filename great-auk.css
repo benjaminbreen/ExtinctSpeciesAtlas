@@ -7,7 +7,11 @@
 .auk-page .source-heading h3>a:not(.panel-author-avatar):hover{color:var(--accent)}
 .panel-author-avatar{display:inline-flex;width:33px;height:33px;overflow:hidden;border-radius:50%;border:1px solid var(--quiet);margin-right:5px;flex:0 0 auto}
 .panel-author-avatar img{width:100%;height:100%;object-fit:cover;object-position:center 24%;filter:grayscale(1)}
-.auk-page #source-panel-1 .panel-author-avatar img{object-position:center 14%;transform:scale(1.32)}
+.auk-page #source-panel-2 .panel-author-avatar img{object-position:center 14%;transform:scale(1.32)}
+.facsimile-link{border:1px solid var(--quiet);margin:16px 0;padding:28px 24px;min-height:180px;background:#eee9df8a}
+.facsimile-link p{font:.94rem/1.45 var(--font-text);margin:13px 0 0}
+.facsimile-link p:first-of-type{font:1.45rem/1.15 var(--font-display)}
+.facsimile-link a{color:var(--accent);text-decoration:underline;text-underline-offset:4px}
 .auk-page .record-map .atlas-map{height:255px}
 .auk-page .record-map .map-location-label{font-size:34px;stroke-width:4px}
 .auk-page .record-map .map-sea-label{font-size:27px;letter-spacing:2px}
@@ -35,4 +39,4 @@
 .auk-edition p{font:.94rem/1.43 var(--font-text);margin:0}
 @media(max-width:1050px){.auk-page .detail-hero{grid-template-columns:55% 26% 19%}.auk-page .detail-hero h1{font-size:clamp(4.8rem,8.5vw,7rem)}}
 @media(max-width:760px){.auk-page .detail-hero{display:block}.auk-page .detail-hero h1{font-size:clamp(4.15rem,13vw,6.4rem);white-space:normal;max-width:75%}.auk-page .detail-hero-figure{right:1%;width:35%;height:195px}.auk-page .detail-hero-figure img{height:190px}.auk-source .source-grid{display:block}.auk-page .record-map .atlas-map{height:325px}}
-@media(max-width:430px){.auk-page .detail-hero h1{font-size:13vw;max-width:77%}.auk-page .detail-hero-figure{width:37%;right:0}.auk-page .source-heading h3{font-size:1.5rem}.auk-page .source-quote{font-size:1.35rem}body[data-page="detail"].auk-page .wordmark,body[data-page="source"].auk-source .wordmark{font-size:1.7rem}body[data-page="detail"].auk-page .masthead nav,body[data-page="source"].auk-source .masthead nav{font-size:.82rem;gap:.75rem}}
+@media(max-width:430px){.auk-page .detail-hero h1{font-size:13vw;max-width:77%}.auk-page .detail-hero-figure{width:37%;right:0}.auk-page .source-heading h3{font-size:1.5rem}.auk-page .source-quote{font-size:1.12rem}body[data-page="detail"].auk-page .wordmark,body[data-page="source"].auk-source .wordmark{font-size:1.7rem}body[data-page="detail"].auk-page .masthead nav,body[data-page="source"].auk-source .masthead nav{font-size:.82rem;gap:.75rem}}

@@ -10,7 +10,12 @@
     "image_file": "Marble bust of Herodotos MET DT11742 (cropped).jpg",
     "image_description": "Roman copy of a Greek bust, second century CE",
     "image_credit": "Metropolitan Museum of Art · CC0",
-    "works": [{"label": "Histories 4.169", "href": "./source-herodotus.html"}]
+    "works": [
+      {
+        "label": "Histories 4.169",
+        "href": "./source-herodotus.html"
+      }
+    ]
   },
   {
     "slug": "hippocratic",
@@ -23,7 +28,12 @@
     "image_file": "Hippocrates.jpg",
     "image_description": "Later engraving of Hippocrates, the corpus’s traditional namesake; the author of Diseases IV is unknown",
     "image_credit": "Unidentified engraver · public domain",
-    "works": [{"label": "Diseases IV.34", "href": "./silphium.html#ref-hippocratic"}]
+    "works": [
+      {
+        "label": "Diseases IV.34",
+        "href": "./silphium.html#ref-hippocratic"
+      }
+    ]
   },
   {
     "slug": "theophrastus",
@@ -36,7 +46,12 @@
     "image_file": "Teofrasto Orto botanico detail.jpg",
     "image_description": "Modern statue at Palermo Botanical Garden",
     "image_credit": "tato grasso / Singinglemon · CC BY-SA 2.5",
-    "works": [{"label": "Enquiry into Plants 6.3", "href": "./silphium.html#ref-theophrastus"}]
+    "works": [
+      {
+        "label": "Enquiry into Plants 6.3",
+        "href": "./source-theophrastus.html"
+      }
+    ]
   },
   {
     "slug": "plautus",
@@ -49,7 +64,12 @@
     "image_file": "Plautus 18th century engraving (cropped).jpg",
     "image_description": "Imagined portrait engraved in 1770",
     "image_credit": "Pierre François Barrois · public domain",
-    "works": [{"label": "Rudens 630–31", "href": "./silphium.html#ref-plautus"}]
+    "works": [
+      {
+        "label": "Rudens 630–31",
+        "href": "./silphium.html#ref-plautus"
+      }
+    ]
   },
   {
     "slug": "catullus",
@@ -62,7 +82,12 @@
     "image_file": "Catull Sirmione.jpg",
     "image_description": "Twentieth-century bust at Sirmione",
     "image_credit": "Schorle · CC BY-SA 3.0",
-    "works": [{"label": "Poem 7", "href": "./silphium.html#ref-catullus"}]
+    "works": [
+      {
+        "label": "Poem 7",
+        "href": "./silphium.html#ref-catullus"
+      }
+    ]
   },
   {
     "slug": "strabo",
@@ -75,20 +100,12 @@
     "image_file": "Strabo.jpg",
     "image_description": "Imagined portrait engraved by André Thévet in 1584",
     "image_credit": "André Thévet · public domain",
-    "works": [{"label": "Geography 17.3.23", "href": "./silphium.html#ref-strabo"}]
-  },
-  {
-    "slug": "dioscorides",
-    "name": "Dioscorides",
-    "dates": "fl. c. 50–70 CE",
-    "sort_year": 50,
-    "field": "Medicine · Greek",
-    "description": "Greek physician and pharmacological author. De materia medica 3.80 compares silphium and resin from Libya and eastern regions.",
-    "wikipedia": "https://en.wikipedia.org/wiki/Dioscorides",
-    "image_file": "Dioscorides Vienna (detail) (cropped).jpg",
-    "image_description": "Dioscorides depicted in the Vienna Dioscurides manuscript, c. 512 CE",
-    "image_credit": "Unknown artist · public domain",
-    "works": [{"label": "De materia medica 3.80", "href": "./silphium.html#ref-dioscorides"}]
+    "works": [
+      {
+        "label": "Geography 17.3.23",
+        "href": "./silphium.html#ref-strabo"
+      }
+    ]
   },
   {
     "slug": "pliny",
@@ -101,7 +118,34 @@
     "image_file": "Grande Illustrazione del Lombardo Veneto Vol 3 Plinio Secondo 300dpi.jpg",
     "image_description": "Nineteenth-century imagined portrait, published in 1859",
     "image_credit": "Geoffrey · public domain",
-    "works": [{"label": "Natural History 19.38–42", "href": "./source-pliny.html"}, {"label": "Natural History 22.100–101", "href": "./silphium.html#ref-pliny-22"}]
+    "works": [
+      {
+        "label": "Natural History 19.38–42",
+        "href": "./source-pliny.html"
+      },
+      {
+        "label": "Natural History 22.100–101",
+        "href": "./source-pliny-medicine.html"
+      }
+    ]
+  },
+  {
+    "slug": "dioscorides",
+    "name": "Dioscorides",
+    "dates": "fl. c. 50–70 CE",
+    "sort_year": 50,
+    "field": "Medicine · Greek",
+    "description": "Greek physician and pharmacological author. De materia medica 3.80 compares silphium and resin from Libya and eastern regions.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dioscorides",
+    "image_file": "Dioscorides Vienna (detail) (cropped).jpg",
+    "image_description": "Dioscorides depicted in the Vienna Dioscurides manuscript, c. 512 CE",
+    "image_credit": "Unknown artist · public domain",
+    "works": [
+      {
+        "label": "De materia medica 3.80",
+        "href": "./silphium.html#ref-dioscorides"
+      }
+    ]
   },
   {
     "slug": "synesius",
@@ -114,7 +158,34 @@
     "image_file": "Synezius dict le Philosophe (BM 1879,1213.111).jpg",
     "image_description": "Imagined portrait engraved for André Thévet’s 1584 collection",
     "image_credit": "British Museum / André Thévet · public domain",
-    "works": [{"label": "Letter 106", "href": "./source-synesius.html"}, {"label": "Letter 134", "href": "./silphium.html#ref-synesius-134"}]
+    "works": [
+      {
+        "label": "Letter 106",
+        "href": "./source-synesius.html"
+      },
+      {
+        "label": "Letter 134",
+        "href": "./silphium.html#ref-synesius-134"
+      }
+    ]
+  },
+  {
+    "slug": "martin",
+    "name": "Martin Martin",
+    "dates": "fl. 1690s–1719",
+    "sort_year": 1690,
+    "field": "Travel writing · Gaelic / English",
+    "description": "Traveller from Skye who visited St Kilda in 1697. His 1698 book describes the Gairfowl’s body, egg, and seasonal presence.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Martin_Martin",
+    "image_file": null,
+    "image_description": "Typographic initials; no portrait used",
+    "image_credit": "Atlas of Historically Lost Species · original asset",
+    "works": [
+      {
+        "label": "A Late Voyage to St Kilda, ch. II",
+        "href": "./source-martin.html"
+      }
+    ]
   },
   {
     "slug": "pennant",
@@ -127,7 +198,12 @@
     "image_file": "Thomas Pennant portrait 1779.jpg",
     "image_description": "Engraved portrait of Thomas Pennant, eighteenth century",
     "image_credit": "National Library of Wales · public domain",
-    "works": [{"label": "British Zoology, vol. II, 507–508", "href": "./source-pennant.html"}]
+    "works": [
+      {
+        "label": "British Zoology, vol. II, 507–508",
+        "href": "./source-pennant.html"
+      }
+    ]
   },
   {
     "slug": "cartwright",
@@ -140,7 +216,12 @@
     "image_file": "George Cartwright.jpg",
     "image_description": "Engraved portrait of George Cartwright",
     "image_credit": "Wikimedia Commons · public domain",
-    "works": [{"label": "Journal, 5 July 1785", "href": "./source-cartwright.html"}]
+    "works": [
+      {
+        "label": "Journal, 5 July 1785",
+        "href": "./source-cartwright.html"
+      }
+    ]
   },
   {
     "slug": "newton",
@@ -153,6 +234,29 @@
     "image_file": "Alfred Newton (engraved portrait).png",
     "image_description": "Engraved portrait in The Graphic, 1887",
     "image_credit": "The Graphic / Historian 1875 · public domain / CC0",
-    "works": [{"label": "Wolley’s researches, Ibis (1861)", "href": "./source-newton.html"}]
+    "works": [
+      {
+        "label": "Wolley’s researches, Ibis (1861)",
+        "href": "./source-newton.html"
+      }
+    ]
+  },
+  {
+    "slug": "lucas",
+    "name": "Frederic A. Lucas",
+    "dates": "1852–1929",
+    "sort_year": 1852,
+    "field": "Zoology · English",
+    "description": "American zoologist who visited Funk Island in 1887 and mapped the great auk’s former breeding ground from terrain and surviving remains.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Frederic_Augustus_Lucas",
+    "image_file": null,
+    "image_description": "Typographic initials; no portrait used",
+    "image_credit": "Atlas of Historically Lost Species · original asset",
+    "works": [
+      {
+        "label": "The Expedition to Funk Island, pp. 505–507",
+        "href": "./source-lucas.html"
+      }
+    ]
   }
 ]

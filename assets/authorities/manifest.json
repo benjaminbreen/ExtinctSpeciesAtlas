@@ -94,5 +94,21 @@
     "file": "assets/authorities/newton.webp",
     "display_credit": "The Graphic / Historian 1875 · public domain / CC0",
     "depiction": "Engraved portrait in The Graphic, 1887"
+  },
+  {
+    "authority": "martin",
+    "source": "./assets/authorities/martin.webp",
+    "license": "Original site asset",
+    "file": "assets/authorities/martin.webp",
+    "display_credit": "Atlas of Historically Lost Species · original asset",
+    "depiction": "Typographic initials; no portrait used"
+  },
+  {
+    "authority": "lucas",
+    "source": "./assets/authorities/lucas.webp",
+    "license": "Original site asset",
+    "file": "assets/authorities/lucas.webp",
+    "display_credit": "Atlas of Historically Lost Species · original asset",
+    "depiction": "Typographic initials; no portrait used"
   }
 ]

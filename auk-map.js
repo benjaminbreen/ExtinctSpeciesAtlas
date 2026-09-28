@@ -58,7 +58,8 @@ if (mount) {
   const endDrag = event => { if (drag && event.pointerId === drag.pointerId) { drag = null; svg.classList.remove('is-dragging'); } };
   svg.addEventListener('pointerup', endDrag);
   svg.addEventListener('pointercancel', endDrag);
-  document.addEventListener('atlas:source', event => locations.forEach((item, index) => mount.querySelector(`[data-map-place="${item.id}"]`).classList.toggle('is-active', index === event.detail.index)));
-  mount.querySelector('[data-map-place="funk-island"]').classList.add('is-active');
+  const sourcePlaces = ['st-kilda', 'st-kilda', 'funk-island', 'eldey', 'funk-island'];
+  document.addEventListener('atlas:source', event => locations.forEach(item => mount.querySelector(`[data-map-place="${item.id}"]`).classList.toggle('is-active', item.id === sourcePlaces[event.detail.index])));
+  mount.querySelector(`[data-map-place="${sourcePlaces[Number(document.body.dataset.defaultSource ?? 0)]}"]`).classList.add('is-active');
   render();
 }

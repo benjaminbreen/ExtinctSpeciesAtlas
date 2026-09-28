@@ -14,7 +14,7 @@
   <script type="module" src="./map.js"></script>
   <script type="module" src="./catalog.js"></script>
 </head>
-<body data-page="detail">
+<body data-page="detail" data-default-source="2">
   <a class="skip-link" href="#main">Skip to content</a>
   <div class="site-seal" aria-hidden="true"><span class="seal-symbol"></span></div>
   <div class="page-shell">
@@ -45,55 +45,85 @@
       <section id="record" class="record-section" aria-labelledby="record-title">
         <div class="record-left">
           <h2 id="record-title">The record</h2>
-          <p class="record-instruction">Three starting sources. Select a text to compare its report and recorded places.</p>
+          <p class="record-instruction">Five texts in depth. Select a source to read its passage and locate its reported places.</p>
           <div class="source-tabs" role="tablist" aria-label="Silphium sources">
             <button type="button" class="source-tab" id="source-tab-0" role="tab" aria-controls="source-panel-0" data-source-tab>
               <span class="timeline-dot"></span><span class="tab-number">01</span><span class="tab-copy"><strong>Herodotus</strong><em>Histories 4.169</em><small>Geographic range; fifth century BCE</small></span>
             </button>
             <button type="button" class="source-tab" id="source-tab-1" role="tab" aria-controls="source-panel-1" data-source-tab>
-              <span class="timeline-dot"></span><span class="tab-number">02</span><span class="tab-copy"><strong>Pliny</strong><em>Natural History 19.38–42</em><small>Scarcity and trade; first century CE</small></span>
+              <span class="timeline-dot"></span><span class="tab-number">02</span><span class="tab-copy"><strong>Theophrastus</strong><em>Enquiry into Plants 6.3</em><small>Form, resin, and harvesting</small></span>
             </button>
             <button type="button" class="source-tab" id="source-tab-2" role="tab" aria-controls="source-panel-2" data-source-tab>
-              <span class="timeline-dot"></span><span class="tab-number">03</span><span class="tab-copy"><strong>Synesius</strong><em>Letter 106</em><small>A garden plant; early fifth century CE</small></span>
+              <span class="timeline-dot"></span><span class="tab-number">03</span><span class="tab-copy"><strong>Pliny</strong><em>Natural History 19.38–40</em><small>Scarcity and trade</small></span>
+            </button>
+            <button type="button" class="source-tab" id="source-tab-3" role="tab" aria-controls="source-panel-3" data-source-tab>
+              <span class="timeline-dot"></span><span class="tab-number">04</span><span class="tab-copy"><strong>Pliny</strong><em>Natural History 22.100–101</em><small>Medical uses and imported resin</small></span>
+            </button>
+            <button type="button" class="source-tab" id="source-tab-4" role="tab" aria-controls="source-panel-4" data-source-tab>
+              <span class="timeline-dot"></span><span class="tab-number">05</span><span class="tab-copy"><strong>Synesius</strong><em>Letter 106</em><small>A plant from his brother’s garden</small></span>
             </button>
           </div>
         </div>
         <div class="record-right">
           <article id="source-panel-0" class="source-panel" role="tabpanel" aria-labelledby="source-tab-0" data-source-panel>
             <div class="source-heading"><h3>Herodotus <i>Histories</i> 4.169</h3><span>01</span></div>
-            <p class="source-quote">“Silphium begins here and extends from the island of Platea as far as the mouth of the Syrtis.”</p>
+            <p class="source-quote">“On the mainland are Menelaus’s harbor and Aziris, where the Cyreneans lived; silphium begins there. Silphium extends from the island of Platea as far as the mouth of the Syrtis.”</p>
             <p class="translation-credit">Translation for this atlas from the Greek</p>
             <table class="source-metadata"><tbody>
               <tr><th scope="row">Reported range</th><td><a href="./index.html?place=cyrenaica#index">Cyrenaica ↗</a>; from Platea to the Syrtis</td></tr>
               <tr><th scope="row">Place type</th><td>Coastal span; endpoints not fixed on the map</td></tr>
               <tr><th scope="row">Text / language</th><td><i>Histories</i> 4.169 · Greek</td></tr>
             </tbody></table>
-            <p class="source-reading">The passage names the Gilligamae and places silphium within their territory. It does not describe a specimen or give modern coordinates.</p>
+            <p class="source-reading">Herodotus places the plant within his account of the Gilligamae and names several coastal landmarks.</p>
             <a class="source-link" href="./source-herodotus.html">Read more · source text and notes <span aria-hidden="true">↗</span></a>
           </article>
           <article id="source-panel-1" class="source-panel" role="tabpanel" aria-labelledby="source-tab-1" data-source-panel>
-            <div class="source-heading"><h3>Pliny <i>Natural History</i> 19</h3><span>02</span></div>
-            <p class="source-quote">“For many years now it has not been found in that country. In our own time only one stalk was found and sent to the emperor Nero.”</p>
-            <p class="translation-credit">Translation for this atlas from the Latin · 19.39</p>
+            <div class="source-heading"><h3><a class="panel-author-avatar" href="./authorities.html#theophrastus"><img src="./assets/authorities/theophrastus.webp" width="34" height="34" alt="" /></a><a href="./authorities.html#theophrastus">Theophrastus</a> <i>Enquiry into Plants</i></h3><span>02</span></div>
+            <p class="source-quote">“Silphium has a large, thick root. Its stalk is about the size and thickness of ferula, and its leaf, called maspeton, resembles celery. Its broad, leaf-like seed is called phyllon. Like ferula, it puts up a new stalk each year. In spring it sends out leaves that purge sheep, fatten them greatly, and make their meat remarkably pleasant.”</p>
+            <p class="translation-credit">Translation for this atlas from the Greek · 6.3</p>
+            <table class="source-metadata"><tbody>
+              <tr><th scope="row">Growing region</th><td><a href="./index.html?place=cyrenaica#index">Cyrenaica ↗</a>; most abundant near the Syrtis</td></tr>
+              <tr><th scope="row">Trade</th><td>Piraeus; resin mixed with meal for transport</td></tr>
+              <tr><th scope="row">Text / language</th><td><i>Enquiry into Plants</i> 6.3 · Greek</td></tr>
+            </tbody></table>
+            <p class="source-reading">The account also describes how the resin was processed and records a wide reported range in Libya.</p>
+            <a class="source-link" href="./source-theophrastus.html">Read the source record <span aria-hidden="true">↗</span></a>
+          </article>
+          <article id="source-panel-2" class="source-panel" role="tabpanel" aria-labelledby="source-tab-2" data-source-panel>
+            <div class="source-heading"><h3>Pliny <i>Natural History</i> 19</h3><span>03</span></div>
+            <p class="source-quote">“For many years now it has not been found in that land, because the contractors who rent the pastures, finding greater profit in it, devastate the plant as fodder for their flocks. In our own time only one stalk was found, and it was sent to the emperor Nero. … For a long time the only laser reaching us has been what grows abundantly in Persia, Media, and Armenia.”</p>
+            <p class="translation-credit">Translation for this atlas from the Latin · 19.38–40</p>
             <table class="source-metadata"><tbody>
               <tr><th scope="row">Growing region</th><td><a href="./index.html?place=cyrenaica#index">Cyrenaica ↗</a></td></tr>
               <tr><th scope="row">Trade &amp; substitutes</th><td><a href="./index.html?place=rome#index">Rome ↗</a>; Persian, Median, and Armenian resin</td></tr>
-              <tr><th scope="row">Text / language</th><td><i>Natural History</i> 19.38–42 · Latin</td></tr>
+              <tr><th scope="row">Text / language</th><td><i>Natural History</i> 19.38–40 · Latin</td></tr>
             </tbody></table>
-            <p class="source-reading">Pliny reports scarcity of the Cyrenaic plant. He also says resin from other regions was still available, so his account requires attention to which plant and product each name denotes.</p>
-            <a class="source-link" href="./source-pliny.html">Read more · source text and notes <span aria-hidden="true">↗</span></a>
+            <p class="source-reading">Pliny connects scarcity to grazing contracts and distinguishes Cyrenaic laser from imported resin.</p>
+            <a class="source-link" href="./source-pliny.html">Read the source record <span aria-hidden="true">↗</span></a>
           </article>
-          <article id="source-panel-2" class="source-panel" role="tabpanel" aria-labelledby="source-tab-2" data-source-panel>
-            <div class="source-heading"><h3>Synesius <i>Letter 106</i></h3><span>03</span></div>
-            <p class="source-quote">“I asked the young man about the silphium: had it come from your own cultivation, or had you received it as a gift?”</p>
+          <article id="source-panel-3" class="source-panel" role="tabpanel" aria-labelledby="source-tab-3" data-source-panel>
+            <div class="source-heading"><h3>Pliny <i>Natural History</i> 22</h3><span>04</span></div>
+            <p class="source-quote">“Now it is chiefly imported from Syria; it is poorer than the Parthian product but better than the Median, since all the Cyrenaic has disappeared, as noted earlier. The leaves of silphium are used in remedies to purge the womb and expel a dead fetus: they are boiled in fragrant white wine and a measure is drunk after a bath. The root helps a roughened throat and is applied to collections of blood.”</p>
+            <p class="translation-credit">Translation for this atlas from the Latin · 22.100–101</p>
+            <table class="source-metadata"><tbody>
+              <tr><th scope="row">Former source</th><td><a href="./index.html?place=cyrenaica#index">Cyrenaica ↗</a></td></tr>
+              <tr><th scope="row">Imports</th><td>Syria, Parthia, and Media</td></tr>
+              <tr><th scope="row">Text / language</th><td><i>Natural History</i> 22.100–101 · Latin</td></tr>
+            </tbody></table>
+            <p class="source-reading">This passage joins Pliny’s report of disappearance to a practical catalogue of medicines.</p>
+            <a class="source-link" href="./source-pliny-medicine.html">Read the source record <span aria-hidden="true">↗</span></a>
+          </article>
+          <article id="source-panel-4" class="source-panel" role="tabpanel" aria-labelledby="source-tab-4" data-source-panel>
+            <div class="source-heading"><h3>Synesius <i>Letter 106</i></h3><span>05</span></div>
+            <p class="source-quote">“I asked the young man about the silphium: had it come to you from cultivation, or had you received it as a gift and set aside a portion for me? When I learned that the garden you care for had produced this yield too, along with everything else, I was pleased twice over: by the beauty of the plant and by the reputation of the place.”</p>
             <p class="translation-credit">Translation for this atlas from the Greek</p>
             <table class="source-metadata"><tbody>
-              <tr><th scope="row">Growing place</th><td>His brother’s garden; town not named in this letter</td></tr>
-              <tr><th scope="row">Regional context</th><td><a href="./index.html?place=cyrenaica#index">Cyrenaica ↗</a>; inferred from the correspondence</td></tr>
+              <tr><th scope="row">Growing place</th><td>His brother’s garden</td></tr>
+              <tr><th scope="row">Region</th><td><a href="./index.html?place=cyrenaica#index">Cyrenaica ↗</a></td></tr>
               <tr><th scope="row">Text / language</th><td><i>Letter</i> 106 · Greek</td></tr>
             </tbody></table>
-            <p class="source-reading">A plant called silphium was being grown and exchanged. The letter does not establish whether it was botanically identical to the prized plant described by earlier authors.</p>
-            <a class="source-link" href="./source-synesius.html">Read more · source text and notes <span aria-hidden="true">↗</span></a>
+            <p class="source-reading">Synesius thanks his brother for a plant sent from the family garden.</p>
+            <a class="source-link" href="./source-synesius.html">Read the source record <span aria-hidden="true">↗</span></a>
           </article>
         </div>
         <aside id="map" class="record-map" aria-labelledby="map-title">
@@ -156,13 +186,13 @@
         <ol id="source-catalog" class="catalog-list" data-view="list">
           <li id="ref-herodotus" data-authority="herodotus" data-year="-440" data-author="Herodotus"><span class="catalog-date">c. 440 BCE</span><div class="catalog-main"><h3><a class="catalog-author" href="./authorities.html#herodotus">Herodotus</a> <em>Histories</em> 4.169</h3><p>Places the silphium country between Platea and the Syrtis.</p></div><span class="catalog-kind">Geography · Greek</span><a href="./source-herodotus.html" aria-label="Read Herodotus source record">Read record ↗</a></li>
           <li id="ref-hippocratic" data-authority="hippocratic" data-year="-400" data-author="Hippocratic corpus"><span class="catalog-date">c. 400 BCE</span><div class="catalog-main"><h3><a class="catalog-author" href="./authorities.html#hippocratic">Hippocratic corpus</a> <em>Diseases IV</em> 34</h3><p>Reports unsuccessful efforts to grow Libyan silphium in Ionia and the Peloponnese.</p></div><span class="catalog-kind">Medicine · Greek</span><a href="https://remacle.org/bloodwolf/erudits/Hippocrate/maladies4.htm" target="_blank" rel="noopener noreferrer" aria-label="Read Diseases IV 34 in Greek and French">Read text ↗</a></li>
-          <li id="ref-theophrastus" data-authority="theophrastus" data-year="-325" data-author="Theophrastus"><span class="catalog-date">late 4th c. BCE</span><div class="catalog-main"><h3><a class="catalog-author" href="./authorities.html#theophrastus">Theophrastus</a> <em>Enquiry into Plants</em> 6.3</h3><p>Describes the plant, its collection, processing, and reported range; records conflicting accounts.</p></div><span class="catalog-kind">Botany · Greek</span><a href="https://topostext.org/work/242" target="_blank" rel="noopener noreferrer" aria-label="Read Theophrastus on ToposText">Read text ↗</a></li>
+          <li id="ref-theophrastus" data-authority="theophrastus" data-year="-325" data-author="Theophrastus"><span class="catalog-date">late 4th c. BCE</span><div class="catalog-main"><h3><a class="catalog-author" href="./authorities.html#theophrastus">Theophrastus</a> <em>Enquiry into Plants</em> 6.3</h3><p>Describes the plant, its collection, processing, and reported range; records conflicting accounts.</p></div><span class="catalog-kind">Botany · Greek</span><a href="./source-theophrastus.html">Read record ↗</a></li>
           <li id="ref-plautus" data-authority="plautus" data-year="-195" data-author="Plautus"><span class="catalog-date">c. 200–190 BCE</span><div class="catalog-main"><h3><a class="catalog-author" href="./authorities.html#plautus">Plautus</a> <em>Rudens</em> 630–31</h3><p>A character invokes a hoped-for crop of <i>sirpe</i> and <i>laserpicium</i> and a safe shipment to Capua.</p></div><span class="catalog-kind">Comedy · Latin</span><a href="https://www.thelatinlibrary.com/plautus/rudens.shtml" target="_blank" rel="noopener noreferrer" aria-label="Read Plautus Rudens in Latin">Read text ↗</a></li>
           <li id="ref-catullus" data-authority="catullus" data-year="-55" data-author="Catullus"><span class="catalog-date">mid 1st c. BCE</span><div class="catalog-main"><h3><a class="catalog-author" href="./authorities.html#catullus">Catullus</a> <em>Poem</em> 7</h3><p>Calls Cyrene “silphium-bearing” in a geographic poetic comparison.</p></div><span class="catalog-kind">Poetry · Latin</span><a href="https://latin.packhum.org/loc/472/1/6" target="_blank" rel="noopener noreferrer" aria-label="Read Catullus poem 7 in Latin">Read text ↗</a></li>
           <li id="ref-strabo" data-authority="strabo" data-year="10" data-author="Strabo"><span class="catalog-date">early 1st c. CE</span><div class="catalog-main"><h3><a class="catalog-author" href="./authorities.html#strabo">Strabo</a> <em>Geography</em> 17.3.23</h3><p>Describes a long, narrow silphium-producing region south of Cyrenaica.</p></div><span class="catalog-kind">Geography · Greek</span><a href="https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/17C%2A.html" target="_blank" rel="noopener noreferrer" aria-label="Read Strabo Geography 17.3.23">Read text ↗</a></li>
           <li id="ref-dioscorides" data-authority="dioscorides" data-year="60" data-author="Dioscorides"><span class="catalog-date">mid 1st c. CE</span><div class="catalog-main"><h3><a class="catalog-author" href="./authorities.html#dioscorides">Dioscorides</a> <em>De materia medica</em> 3.80</h3><p>Describes silphium and its resin in Libya, Syria, Armenia, and Media; compares the regional products.</p></div><span class="catalog-kind">Medicine · Greek</span><a href="https://plantuse.plantnet.org/fr/Dioscoride:_livre_3#silphion" target="_blank" rel="noopener noreferrer" aria-label="Read Dioscorides 3.80 in Greek">Read text ↗</a></li>
           <li id="ref-pliny-19" data-authority="pliny" data-year="77" data-author="Pliny"><span class="catalog-date">c. 77 CE</span><div class="catalog-main"><h3><a class="catalog-author" href="./authorities.html#pliny">Pliny</a> <em>Natural History</em> 19.38–42</h3><p>Reports scarcity in Cyrenaica and distinguishes imported substitutes.</p></div><span class="catalog-kind">Natural history · Latin</span><a href="./source-pliny.html" aria-label="Read Pliny source record">Read record ↗</a></li>
-          <li id="ref-pliny-22" data-authority="pliny" data-year="77.1" data-author="Pliny"><span class="catalog-date">c. 77 CE</span><div class="catalog-main"><h3><a class="catalog-author" href="./authorities.html#pliny">Pliny</a> <em>Natural History</em> 22.100–101</h3><p>Describes medicinal uses and says the Cyrenaic variety is no longer available.</p></div><span class="catalog-kind">Medicine · Latin</span><a href="https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Pliny_the_Elder/22%2A.html" target="_blank" rel="noopener noreferrer" aria-label="Read Pliny Natural History book 22 in Latin">Read text ↗</a></li>
+          <li id="ref-pliny-22" data-authority="pliny" data-year="77.1" data-author="Pliny"><span class="catalog-date">c. 77 CE</span><div class="catalog-main"><h3><a class="catalog-author" href="./authorities.html#pliny">Pliny</a> <em>Natural History</em> 22.100–101</h3><p>Describes medicinal uses and says the Cyrenaic variety is no longer available.</p></div><span class="catalog-kind">Medicine · Latin</span><a href="./source-pliny-medicine.html">Read record ↗</a></li>
           <li id="ref-synesius-106" data-authority="synesius" data-year="402" data-author="Synesius"><span class="catalog-date">402 CE</span><div class="catalog-main"><h3><a class="catalog-author" href="./authorities.html#synesius">Synesius</a> <em>Letter</em> 106</h3><p>Discusses a silphium plant sent from his brother’s garden.</p></div><span class="catalog-kind">Letter · Greek</span><a href="./source-synesius.html" aria-label="Read Synesius letter 106 source record">Read record ↗</a></li>
           <li id="ref-synesius-134" data-authority="synesius" data-year="405" data-author="Synesius"><span class="catalog-date">405 CE</span><div class="catalog-main"><h3><a class="catalog-author" href="./authorities.html#synesius">Synesius</a> <em>Letter</em> 134</h3><p>Lists silphium juice among gifts to be sent from Cyrene.</p></div><span class="catalog-kind">Letter · Greek</span><a href="https://www.livius.org/sources/content/synesius/synesius-letter-134/" target="_blank" rel="noopener noreferrer" aria-label="Read Synesius letter 134">Read text ↗</a></li>
         </ol>

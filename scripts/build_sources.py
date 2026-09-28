@@ -1,4 +1,4 @@
-"""Build the three committed, standalone bilingual source records.
+"""Build the committed, standalone bilingual silphium source records.
 
 Run after editing the source data below. The published site needs no build step.
 """
@@ -56,7 +56,37 @@ SOURCES = {
         ],
         "note_targets": [(0, "silphium begins there."), (1, "mouth of the Syrtis.")],
         "reading": ["amigues", "briggs"],
-        "neighbors": (None, "pliny"),
+        "neighbors": (None, "theophrastus"),
+    },
+    "theophrastus": {
+        "author": "Theophrastus",
+        "work": "Enquiry into Plants 6.3",
+        "period": "Late fourth century BCE",
+        "language": "Ancient Greek",
+        "scope": "The silphium account, selected consecutive paragraphs",
+        "summary": "Theophrastus describes silphium's roots, leaves, seed, resin, collection rules, and growing region.",
+        "place": "Cyrenaica",
+        "place_note": "Libya, especially the region around the Syrtis",
+        "original_source": "https://eulogikon.org/works/theophrastus-eresus-enquiry-plants-ljk-ag",
+        "original_label": "Greek text at Eulogikon",
+        "other_source": "https://topostext.org/work/242",
+        "other_label": "Hort's 1916 translation at ToposText",
+        "original": [
+            "Τὸ δὲ σίλφιον ἔχει ῥίζαν μὲν πολλὴν καὶ παχεῖαν, τὸν δὲ καυλὸν ἡλίκον νάρθηξ, σχεδὸν δὲ καὶ τῷ πάχει παραπλήσιον, τὸ δὲ φύλλον, ὃ καλοῦσι μάσπετον, ὅμοιον τῷ σελίνῳ· σπέρμα δ’ ἔχει πλατύ, οἷον φυλλῶδες, τὸ λεγόμενον φύλλον. ἐπετειόκαυλον δ’ ἐστίν, ὥσπερ ὁ νάρθηξ. ἅμα μὲν οὖν τῷ ἦρι τὸ μάσπετον τοῦτο ἀφίησιν, ὃ καθαίρει τὰ πρόβατα καὶ παχύνει σφόδρα καὶ τὰ κρέα θαυμαστὰ ποιεῖ τῇ ἡδονῇ· μετὰ δὲ ταῦτα καυλόν, 〈ὃν〉 ἐσθίεσθαι πάντα τρόπον ἑφθὸν ὀπτόν, καθαίρειν δὲ καὶ τοῦτόν φασι τὰ σώματα τετταράκοντα ἡμέραις.",
+            "ὀπὸν δὲ διττὸν ἔχει, τὸν μὲν ἀπὸ τοῦ καυλοῦ τὸν δὲ ἀπὸ τῆς ῥίζης, δι’ ὃ καλοῦσι τὸν μὲν καυλίαν τὸν δὲ ῥιζίαν. ἡ δὲ ῥίζα τὸν φλοιὸν ἔχει μέλανα, καὶ τοῦτον περιαιροῦσιν. ἔστι δὲ ὥσπερ μέταλλα τῶν ῥιζοτομιῶν αὐτοῖς, ἐξ ὧν ὁπόσον ἂν δοκῇ συμφέρειν ταμιευόμενοι πρὸς τὰς τομὰς καὶ τὸ προϋπάρχον τέμνουσιν· οὐκ ἔξεστι γὰρ οὔτε παρατέμνειν οὔτε πλεῖον τῶν τεταγμένων· καὶ γὰρ διαφθείρεται καὶ σήπεται τὸ ἀργὸν ἐὰν χρονίζῃ.",
+            "κατεργάζονται δὲ ἄγοντες εἰς τὸν Πειραιᾶ τόνδε τὸν τρόπον· ὅταν βάλωσι εἰς ἀγγεῖα καὶ ἄλευρα μίξωσι, σείουσι χρόνον συχνόν, ὅθεν καὶ τὸ χρῶμα λαμβάνει καὶ ἐργασθὲν ἄσηπτον ἤδη διαμένει. τὰ μὲν οὖν κατὰ τὴν ἐργασίαν καὶ τομὴν οὕτως ἔχει. Τόπον δὲ πολὺν ἐπέχει τῆς Λιβύης· πλείω γάρ φασιν ἢ τετρακισχίλια στάδια· πλεῖστα δὲ γίνεσθαι περὶ τὴν σύρτιν ἀπὸ τῶν Εὐεσπερίδων.",
+            "ἴδιον δὲ τὸ φεύγειν τὴν ἐργαζομένην καὶ ἀεὶ συνεργαζομένης καὶ συνημερουμένης ἐξαναχωρεῖν, ὡς οὐ δεομένου δῆλον ὅτι θεραπείας ἀλλ’ ὄντος ἀγρίου. φασὶ δ’ οἱ Κυρηναῖοι φανῆναι τὸ σίλφιον ἔτεσι πρότερον ἢ αὐτοὶ τὴν πόλιν ᾤκησαν ἑπτά· οἰκοῦσι δὲ μάλιστα περὶ τριακόσια εἰς Σιμωνίδην ἄρχοντα Ἀθήνῃσιν. Οἱ μὲν οὖν οὕτω λέγουσιν.",
+        ],
+        "english": [
+            "Silphium has a large, thick root. Its stalk is about the size and thickness of ferula, and its leaf, called maspeton, resembles celery. Its broad, leaf-like seed is called phyllon. Like ferula, it puts up a new stalk each year. In spring it sends out leaves that purge sheep, fatten them greatly, and make their meat remarkably pleasant. Later comes the stalk, which people eat boiled or roasted; this too is said to purge the body over forty days.",
+            "It yields two kinds of juice: one from the stalk, called kaulias, and one from the root, called rhizias. The root has a black bark that is stripped away. They allot places for digging roots as if they were mines, regulating how much may be cut in light of previous harvests and the available supply. Cutting beyond the appointed amount is forbidden; unused juice spoils if kept too long.",
+            "When they bring it to Piraeus, they put it in vessels, mix it with meal, and shake it for a long time. This gives it its color, and after this treatment it keeps without decaying. The plant occupies a great stretch of Libya, more than four thousand stadia according to the report, and is most abundant around the Syrtis from Euesperides.",
+            "It is peculiar in avoiding cultivated ground. As the land is worked and domesticated, the plant withdraws: it is wild and needs no tending. The Cyreneans say that silphium appeared seven years before they founded their city, which had been settled for about three hundred years by the archonship of Simonides at Athens. That is their account.",
+        ],
+        "notes": ["The linked Greek text numbers these paragraphs 6.3.1–3. Hort's 1916 edition places the opening of this account at 6.3.2; both links give the larger chapter for comparison."],
+        "note_targets": [(0, "Silphium has a large, thick root.")],
+        "reading": ["amigues", "briggs"],
+        "neighbors": ("herodotus", "pliny"),
     },
     "pliny": {
         "author": "Pliny the Elder",
@@ -87,7 +117,29 @@ SOURCES = {
         ],
         "note_targets": [(1, "fodder for their flocks."), (2, "Persia, Media, and Armenia.")],
         "reading": ["parejko", "amigues", "briggs"],
-        "neighbors": ("herodotus", "synesius"),
+        "neighbors": ("theophrastus", "pliny-medicine"),
+    },
+    "pliny-medicine": {
+        "author": "Pliny the Elder", "work": "Natural History 22.100–101", "period": "First century CE", "language": "Latin",
+        "scope": "Continuous passage, sections 100–101",
+        "summary": "Pliny compares imported silphium and lists uses of its leaf, root, and resin.",
+        "place": "Cyrenaica", "place_note": "Cyrenaic product compared with Syrian, Parthian, and Median imports",
+        "original_source": "https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Pliny_the_Elder/22%2A.html",
+        "original_label": "Latin text at LacusCurtius",
+        "other_source": "https://www.perseus.tufts.edu/hopper/text?doc=Plin.+Nat.+22.100",
+        "other_label": "Passage at Perseus",
+        "original": [
+            "Imbribus proveniunt omnia haec, imbre et silphium venit primo, ut dictum est. ex Syria nunc hoc maxime inportatur, deterius Parthico, sed Medico melius, extincto omni Cyrenaico, ut diximus. usus silphii in medicamenta foliorum ad purgandas vulvas pellendosque emortuos partus; decocuntur in vino albo et odorato, ut bibatur mensura acetabuli a balineis. radix prodest arteriis exasperatis, collectionibus sanguinis inlinitur. sed in cibis concoquitur aegre, inflationes facit et ructus. urinae quoque noxia est, suggillatis cum vino et oleo amicissima et cum cera strumis. verrucae sedis crebriore eius suffitu cadunt.",
+            "Laser e silphio profluens quo diximus modo inter eximia naturae dona numeratum plurimis compositionibus inseritur, per se autem algores excalfacit, potum nervorum vitia extenuat. feminis datur in vino et lanis mollibus admovetur vulvae ad menses ciendos. pedum clavos circumscariphatos ferro mixtum cerae extrahit. urinam ciet ciceris magnitudine dilutum.",
+        ],
+        "english": [
+            "All these plants come with rain, and silphium too first appeared after rain, as I have said. Now it is chiefly imported from Syria; it is poorer than the Parthian product but better than the Median, since all the Cyrenaic has disappeared, as noted earlier. The leaves of silphium are used in remedies to purge the womb and expel a dead fetus: they are boiled in fragrant white wine and an acetabulum measure is drunk after a bath. The root helps a roughened throat and is applied to collections of blood. As food it is hard to digest and causes flatulence and belching. It is also harmful to the urinary tract, but with wine and oil it is useful on bruises and with wax on swellings. Frequent fumigation with it removes anal warts.",
+            "Laser, the resin flowing from silphium in the way already described, is counted among nature's exceptional gifts and enters many preparations. By itself it warms those who are chilled; drunk, it eases disorders of the nerves. It is given to women in wine and applied to the womb on soft wool to bring on menstruation. Mixed with wax, it draws out corns on the feet after they have been scored with iron. A chickpea-sized amount diluted in water promotes urination.",
+        ],
+        "notes": ["Pliny's phrase extincto omni Cyrenaico follows his account in Book 19 of the Cyrenaic plant and its replacement in trade by imported resins."],
+        "note_targets": [(0, "since all the Cyrenaic has disappeared")],
+        "reading": ["parejko", "amigues", "briggs"],
+        "neighbors": ("pliny", "synesius"),
     },
     "synesius": {
         "author": "Synesius of Cyrene",
@@ -116,7 +168,7 @@ SOURCES = {
         ],
         "note_targets": [(0, "the garden you care for"), (0, "this yield too")],
         "reading": ["roques", "amigues"],
-        "neighbors": ("pliny", None),
+        "neighbors": ("pliny-medicine", None),
     },
 }
 
@@ -138,7 +190,8 @@ def annotated_english(item):
 
 def page(key, item):
     title = f'{item["author"]} — {item["work"]}'
-    original_lang = 'la' if key == 'pliny' else 'grc'
+    original_lang = 'la' if item['language'] == 'Latin' else 'grc'
+    authority = key.split('-')[0]
     original = ''.join(f'<p>{escape(text)}</p>' for text in item['original'])
     english = annotated_english(item)
     notes = ''.join(
@@ -172,7 +225,7 @@ def page(key, item):
     <header class="masthead"><a class="wordmark" href="./index.html" aria-label="Atlas of Historically Lost Species, home"><span class="wordmark-short" aria-hidden="true">AHLo<span class="wordmark-accent">S</span></span><span class="wordmark-long" aria-hidden="true">Atlas of Historically Lost Species</span></a><nav aria-label="Main navigation"><a href="./index.html#index">Index</a><a href="./authorities.html">Authorities</a><a href="./about.html">About</a></nav></header>
     <main id="main">
       <nav class="source-breadcrumb" aria-label="Breadcrumb"><a href="./silphium.html#record">Silphium</a> / Primary source / {escape(item['author'])}</nav>
-      <header class="source-head"><div><span class="folio-label">Primary source · {escape(item['period'])}</span><div class="source-author-title"><a class="source-author-avatar" href="./authorities.html#{key}" aria-label="{escape(item['author'], quote=True)} in the authorities index"><img src="./assets/authorities/{key}.webp" width="84" height="84" alt="" /></a><h1><a href="./authorities.html#{key}">{escape(item['author'])}</a></h1></div><p class="source-deck"><i>{escape(item['work'])}</i>. {escape(item['summary'])}</p></div>
+      <header class="source-head"><div><span class="folio-label">Primary source · {escape(item['period'])}</span><div class="source-author-title"><a class="source-author-avatar" href="./authorities.html#{authority}" aria-label="{escape(item['author'], quote=True)} in the authorities index"><img src="./assets/authorities/{authority}.webp" width="84" height="84" alt="" /></a><h1><a href="./authorities.html#{authority}">{escape(item['author'])}</a></h1></div><p class="source-deck"><i>{escape(item['work'])}</i>. {escape(item['summary'])}</p></div>
       <div class="source-head-meta"><dl><div><dt>Passage shown</dt><dd>{escape(item['scope'])}</dd></div><div><dt>Original language</dt><dd>{escape(item['language'])}</dd></div><div><dt>Place in record</dt><dd><a href="./index.html?place=cyrenaica#index">{escape(item['place'])} ↗</a><br>{escape(item['place_note'])}</dd></div></dl></div></header>
       <div class="source-grid" aria-label="Original text and English translation">
         <section class="source-column" aria-labelledby="original-title"><div class="source-column-head"><h2 id="original-title">Original text</h2><span>{escape(item['language'])}</span></div><div class="source-text" lang="{original_lang}">{original}</div></section>

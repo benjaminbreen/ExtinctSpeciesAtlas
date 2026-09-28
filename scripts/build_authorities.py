@@ -36,7 +36,7 @@ def build():
         works = ''.join(f'<li><a href="{link(work["href"])}">{text(work["label"])} ↗</a></li>' for work in record['works'])
         entries.append(f'''<li class="authority-entry" id="{slug}" data-name="{link(record['name'])}" data-year="{record['sort_year']}" data-count="{len(record['works'])}">
           <span class="authority-index-number">{index:02d}</span>
-          <a class="authority-portrait" href="{link(image_sources[slug])}" target="_blank" rel="noopener noreferrer" aria-label="Wikimedia Commons image for {link(record['name'])}"><img src="./assets/authorities/{slug}.webp" width="144" height="144" loading="lazy" alt="{link(record['image_description'])}" /></a>
+          <a class="authority-portrait" href="{link(image_sources[slug])}" target="_blank" rel="noopener noreferrer" aria-label="Image source for {link(record['name'])}"><img src="./assets/authorities/{slug}.webp" width="144" height="144" loading="lazy" alt="{link(record['image_description'])}" /></a>
           <div class="authority-identity"><h2><a href="{link(record['wikipedia'])}" target="_blank" rel="noopener noreferrer">{text(record['name'])}</a></h2><p class="authority-dates">{text(record['dates'])}</p><p class="authority-field">{text(record['field'])}</p></div>
           <div class="authority-description"><p>{text(record['description'])}</p><p class="authority-depiction"><a href="{link(image_sources[slug])}" target="_blank" rel="noopener noreferrer">Image ↗</a> {text(record['image_description'])}. {text(record['image_credit'])}.</p></div>
           <div class="authority-works"><span>{len(record['works']):02d} {"passages" if len(record['works']) > 1 else "passage"}</span><ul>{works}</ul></div>

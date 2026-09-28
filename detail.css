@@ -37,17 +37,17 @@ body[data-page="source"] .site-seal::before{display:none}
 .record-left h2{font-size:2.2rem;margin:0;padding-bottom:4px}
 .record-instruction{font-size:.82rem;line-height:1.3;padding:9px 0 1px;max-width:260px}
 .source-tabs{margin-top:3px}
-.source-tabs::before{top:16px;bottom:40px;left:7px}
-.source-tab{min-height:111px;grid-template-columns:16px 29px 1fr;gap:7px;padding:15px 0 13px}
+.source-tabs::before{top:16px;bottom:25px;left:7px}
+.source-tab{min-height:82px;grid-template-columns:16px 29px 1fr;gap:7px;padding:10px 0 9px}
 .timeline-dot{width:15px;height:15px;margin-top:4px}
 .tab-number{font-size:1.09rem}
-.tab-copy strong{font-size:1.62rem}
-.tab-copy em{font-size:.88rem;margin-top:1px}
-.tab-copy small{font-size:.77rem;line-height:1.25;margin-top:6px}
+.tab-copy strong{font-size:1.35rem}
+.tab-copy em{font-size:.81rem;margin-top:1px}
+.tab-copy small{font-size:.73rem;line-height:1.22;margin-top:4px}
 .record-right{min-width:0;padding:0 25px 0 30px}
-.source-heading h3{font-size:1.98rem;margin:0 0 7px}
+.source-heading h3{font-size:1.78rem;margin:0 0 7px}
 .source-heading span{font-size:1.35rem}
-.source-quote{font:400 clamp(1.25rem,1.7vw,1.72rem)/1.19 var(--font-display);letter-spacing:-.012em;margin:17px 0 4px;max-width:630px}
+.source-quote{font:400 clamp(1.08rem,1.15vw,1.26rem)/1.36 var(--font-display);letter-spacing:-.005em;margin:14px 0 8px;max-width:650px}
 .translation-credit{font-size:.73rem;color:var(--muted);margin:0 0 17px}
 .source-metadata{border-collapse:collapse;width:100%;font-size:.84rem;line-height:1.25;table-layout:fixed}
 .source-metadata tr{border-top:1px solid var(--quiet)}
@@ -193,7 +193,7 @@ body[data-page="detail"] .site-footer,body[data-page="source"] .site-footer{min-
 @media(max-width:1100px){
  .detail-hero{grid-template-columns:57% 25% 18%}.detail-hero h1{font-size:clamp(5.3rem,10.5vw,8rem)}
  .detail-tags a{font-size:.8rem}.record-section{grid-template-columns:25% 47% 28%}.record-right{padding:0 17px 0 20px}.record-map{padding-left:15px}
- .record-map-title span{display:none}.record-map .map-toolbar>span{display:none}.record-map .map-toolbar{justify-content:end}.source-quote{font-size:1.35rem}
+ .record-map-title span{display:none}.record-map .map-toolbar>span{display:none}.record-map .map-toolbar{justify-content:end}.source-quote{font-size:1.12rem}
  .reference-card{padding:14px;min-height:395px}.reference-image{height:105px}.reference-quote{font-size:1.08rem}.reference-card h3{font-size:1.58rem}
  .gallery-grid{grid-template-columns:repeat(4,minmax(0,1fr))}.catalog-list li{grid-template-columns:14% 48% 19% 19%}
 }
@@ -214,7 +214,7 @@ body[data-page="detail"] .site-footer,body[data-page="source"] .site-footer{min-
  .detail-tags span{flex-basis:100%;margin:0}.detail-tags a{font-size:.76rem;border:1px solid var(--quiet);padding:5px 7px;background:var(--paper)}
  .record-section{display:block;padding:25px 0 32px}.record-left{border:0;padding:0}.record-left h2{font-size:2rem}.record-instruction{max-width:none;font-size:.78rem}
  .source-tabs{margin:15px 0 20px;gap:12px}.source-tab{min-height:75px;flex-basis:135px;padding:5px 0 9px;grid-template-columns:23px 1fr}.tab-number{font-size:1rem}.tab-copy strong{font-size:1.3rem}.tab-copy em{font-size:.75rem}
- .record-right{padding:0}.source-heading h3{font-size:1.65rem}.source-quote{font-size:1.36rem;margin-top:13px}.source-metadata{font-size:.79rem}.source-reading{font-size:.88rem}
+ .record-right{padding:0}.source-heading h3{font-size:1.65rem}.source-quote{font-size:1.12rem;margin-top:13px}.source-metadata{font-size:.79rem}.source-reading{font-size:.88rem}
  .record-map{border-left:0;border-top:1px solid var(--ink);padding:24px 0 0;margin-top:25px}.record-map-title h2{font-size:1.7rem}.record-map-title span{display:block}.record-map .map-toolbar>span{display:block}.record-map .map-toolbar{justify-content:space-between}.record-map .atlas-map{height:265px}
  .afterword{display:block;padding:40px 0}.afterword h2{font-size:2.25rem;margin-bottom:14px}.afterword div{columns:1}.image-note{padding:40px 0}.image-note h2{font-size:2.35rem}.image-note figure{margin:30px auto 0}
  .reference-section,.gallery-section,.catalog-section{padding:32px 0 39px}.section-intro{display:block;padding-bottom:15px}.section-intro h2{font-size:2.55rem}.section-intro>p{font-size:.83rem;margin:12px 0 0}

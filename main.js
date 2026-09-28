@@ -102,5 +102,5 @@ if (document.body.dataset.page === 'detail') {
       selectSource(next, true);
     });
   });
-  selectSource(1);
+  selectSource(Number(document.body.dataset.defaultSource ?? 1));
 }
