@@ -20,10 +20,10 @@ a:focus-visible,button:focus-visible{outline:2px solid var(--accent);outline-off
 .wordmark:is(:hover,:focus-visible) .wordmark-short{opacity:0}
 .wordmark:is(:hover,:focus-visible) .wordmark-long{opacity:1;transform:translateX(0)}
 .masthead nav{display:flex;gap:3.8rem;font-size:1.15rem}.masthead nav a,.site-footer a{transition:color .18s}.masthead nav a:hover,.site-footer a:hover{color:var(--accent)}
-.site-seal{position:fixed;z-index:21;right:6.7vw;top:27vh;width:140px;height:140px;border-radius:50%;background:var(--accent);color:var(--paper);display:grid;place-items:center;box-shadow:0 1px 0 #56322822;transition:background .42s,width .35s,height .35s,top .35s,right .35s;pointer-events:none}
-.site-seal::before{content:"";position:absolute;width:1px;height:208px;left:50%;top:-57px;background:var(--ink);z-index:-1;opacity:.68;transition:height .35s,top .35s}
-.seal-symbol{display:block;width:65%;height:65%}.seal-symbol svg{width:100%;height:100%}
-.has-scrolled .site-seal{width:68px;height:68px;right:4.8vw;top:95px}.has-scrolled .site-seal::before{height:0;top:0}
+.site-seal{position:fixed;z-index:21;right:6.7vw;top:27vh;width:140px;height:140px;border-radius:50%;background:var(--accent);color:#241b17;display:grid;place-items:center;box-shadow:inset 0 0 0 1px #241b1718,0 1px 0 #56322822;transition:background .42s,width .35s,height .35s,top .35s,right .35s;pointer-events:none}
+.site-seal::before{content:"";position:absolute;width:1px;height:208px;left:50%;top:-57px;background:var(--ink);z-index:1;opacity:.64;transition:height .35s,top .35s}
+.seal-symbol{display:block;width:69%;height:74%;position:relative;z-index:2}.seal-symbol svg{width:100%;height:100%;display:block;filter:drop-shadow(0 0 .2px currentColor)}
+.has-scrolled .site-seal{width:80px;height:80px;right:4.8vw;top:95px}.has-scrolled .site-seal::before{height:116px;top:-18px}
 .home-hero{min-height:min(730px,calc(100svh - 84px));display:grid;grid-template-columns:61% 39%;position:relative;border-bottom:2px solid var(--ink);padding:76px 0 62px}
 .hero-copy{position:relative;z-index:2;align-self:center;padding-bottom:22px}
 .hero-copy h1{font:400 clamp(5.2rem,9.2vw,10.5rem)/.77 var(--font-display);letter-spacing:-.072em;margin:0 0 45px -8px;white-space:nowrap}

@@ -1,5 +1,15 @@
 # Species index illustrations
 
+The colored circular seal uses twelve original vector specimen details from
+[`seal-marks.js`](seal-marks.js). The silphium mark is a stylized ribbed seed
+informed by the reference image supplied for the interface; the others isolate
+recognizable features such as a beak, horn, tail fluke, shell profile, or
+feather. These are navigational marks, not tracings, historical depictions, or
+evidence for appearance. They remain sharp at small screen sizes and change
+with the index accent color.
+
+The larger monochrome figures beside the index entries are separate assets.
+
 The three transparent PNG contact sheets are AI-generated **interface illustrations**, not historical prints or evidence for a species' appearance. Each 1254 × 1254 sheet contains four figures in a 2 × 2 grid. The homepage displays its quadrants with CSS background positioning, leaving the original sheets intact.
 
 | Sheet | Upper left | Upper right | Lower left | Lower right |

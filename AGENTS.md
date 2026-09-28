@@ -14,4 +14,6 @@ The design should remain minimalist and responsive, with clear reading order and
 
 The homepage's species figures are generated interface illustrations. Keep them visibly and separately labeled as such; never place them in a historical image gallery or cite them as evidence for a species' appearance. Preserve the contact-sheet mapping, prompts, and historical visual points of departure in `assets/species-icons/`.
 
+The small colored seal uses original SVG specimen-detail marks in `assets/species-icons/seal-marks.js`. Treat them as navigational graphics rather than historical source images. Keep the dark linework, vertical hairline, and species-specific accent colors; do not substitute generic white line icons or present the marks as facsimiles.
+
 The silphium reference panel and gallery are attributed snapshots of external resources, checked on the dates stated in the README. When refreshing them, verify what each platform actually claims, preserve file-level image credits and license links, and never equate a reused plant name with the ancient Cyrenaic plant. Reports of a stalk, a garden plant, and a traded resin are different kinds of evidence; a late mention of “silphium” is not automatically a verified survival date. The source index is explicitly in progress, so extend it with verified passage references rather than implying it is already exhaustive.
