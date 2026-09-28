@@ -71,7 +71,7 @@ if (document.body.dataset.page === 'home') {
   update();
 }
 
-if (['detail', 'source'].includes(document.body.dataset.page)) {
+if (['detail', 'source', 'authorities'].includes(document.body.dataset.page)) {
   const updateSeal = () => document.body.classList.toggle('has-scrolled', window.scrollY > 150);
   window.addEventListener('scroll', updateSeal, { passive: true });
   updateSeal();

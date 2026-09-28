@@ -35,7 +35,7 @@ SOURCES = {
         "period": "Fifth century BCE",
         "language": "Ancient Greek",
         "scope": "Complete section 4.169",
-        "summary": "A geographic statement within Herodotus's account of Libyan peoples. The plant is placed between named coastal landmarks; no botanical description is given.",
+        "summary": "Herodotus places silphium in the country of the Gilligamae, from Platea to the Syrtis.",
         "place": "Cyrenaica",
         "place_note": "Reported coastal span; endpoints uncertain",
         "original_source": "https://penelope.uchicago.edu/Thayer/H/Roman/Texts/Herodotus/4G%2A.html",
@@ -51,9 +51,10 @@ SOURCES = {
             "Silphium extends from the island of Platea as far as the mouth of the Syrtis. The customs of these people resemble those of the others.",
         ],
         "notes": [
-            "The passage's frame is an account of the Gilligamae, not a botanical description. Its named endpoints should not be treated as precise coordinates or as proof that every part of the intervening land supported the plant.",
-            "Cyrenaica is the regional association used by the atlas. Platea, Aziris, Menelaus's harbor, and the Syrtis appear in the text; their modern identifications need separate source work before point mapping.",
+            "This passage describes Gilligamae territory; it does not describe a specimen of the plant.",
+            "Platea, Aziris, Menelaus's harbor, and the Syrtis are textual landmarks. Their modern identifications do not yield a precisely mapped growing range.",
         ],
+        "note_targets": [(0, "silphium begins there."), (1, "mouth of the Syrtis.")],
         "reading": ["amigues", "briggs"],
         "neighbors": (None, "pliny"),
     },
@@ -81,9 +82,10 @@ SOURCES = {
             "For a long time the only laser reaching us has been what grows abundantly in Persia, Media, and Armenia. It is much inferior to the Cyrenaic product, and even it is adulterated with gum, sagapenum, or ground beans. It should therefore be remembered that, in the consulship of Gaius Valerius and Marcus Herennius, thirty pounds of laserpicium were officially brought from Cyrene to Rome; and that Caesar, at the beginning of the civil war, brought out fifteen hundred pounds from the treasury along with gold and silver.",
         ],
         "notes": [
-            "Pliny's 'not found in that land' refers to Cyrenaica. In the next section he explicitly distinguishes the Cyrenaic product from resin imported from Persia, Media, and Armenia. His narrative is evidence for scarcity and changing supply, not a securely dated last surviving plant.",
-            "The passage attributes destruction to pasture contractors. That is Pliny's explanation, not independently verified evidence for the cause of disappearance. Section numbering follows the continuous Latin text; some English editions call the chapter 19.15.",
+            "The damage attributed to pasture contractors is Pliny's explanation. His account gives no independently dated last specimen. Some English editions label this passage chapter 19.15.",
+            "Pliny distinguishes Cyrenaic laser from resin still imported from Persia, Media, and Armenia. The name of a product does not establish its botanical source.",
         ],
+        "note_targets": [(1, "fodder for their flocks."), (2, "Persia, Media, and Armenia.")],
         "reading": ["parejko", "amigues", "briggs"],
         "neighbors": ("herodotus", "synesius"),
     },
@@ -93,7 +95,7 @@ SOURCES = {
         "period": "Early fifth century CE",
         "language": "Ancient Greek",
         "scope": "Complete letter",
-        "summary": "A letter to his brother about silphium brought from a garden. The text uses the ancient name but does not identify the plant botanically or name the garden's town.",
+        "summary": "Synesius asks whether his brother grew the silphium sent to him and praises the garden.",
         "place": "Cyrenaica",
         "place_note": "Regional context; town not stated in the letter",
         "original_source": "https://eulogikon.org/works/synesius-cyrene-letters-nicander-sys-ah",
@@ -109,9 +111,10 @@ SOURCES = {
             "May you enjoy that fertile plot. May you not tire of watering your beloved beds, nor may they ever cease to produce, so that you have enough for yourself and can send us whatever the seasons bring.",
         ],
         "notes": [
-            "The letter is addressed to Synesius's brother Euoptius. The garden's town is not named in these lines. Associating it with Ptolemais comes from the broader correspondence and modern editorial context, not from Letter 106 itself.",
-            "The Greek word καρπός can mean fruit, produce, or yield; the translation here uses 'yield.' The letter shows that a plant called silphium was cultivated and exchanged, but its identity with earlier Cyrenaic silphium cannot be proven from the name alone.",
+            "The letter is addressed to Euoptius, Synesius's brother. It does not name the garden's town; a more specific location comes from other correspondence.",
+            "The Greek καρπός can mean fruit, produce, or yield. The name silphium alone does not identify this garden plant with the earlier Cyrenaic one.",
         ],
+        "note_targets": [(0, "the garden you care for"), (0, "this yield too")],
         "reading": ["roques", "amigues"],
         "neighbors": ("pliny", None),
     },
@@ -122,12 +125,26 @@ def external_link(url, label):
     return f'<a href="{escape(url, quote=True)}" target="_blank" rel="noopener noreferrer">{escape(label)} ↗</a>'
 
 
+def annotated_english(item):
+    paragraphs = [escape(text) for text in item['english']]
+    for n, (paragraph_index, phrase) in enumerate(item['note_targets'], 1):
+        target = escape(phrase)
+        if target not in paragraphs[paragraph_index]:
+            raise ValueError(f'Footnote anchor not found: {item["author"]}, {phrase}')
+        marker = f'<sup class="footnote-ref" id="fnref-{n}"><a href="#fn-{n}" aria-label="Note {n}">{n}</a></sup>'
+        paragraphs[paragraph_index] = paragraphs[paragraph_index].replace(target, target + marker, 1)
+    return ''.join(f'<p>{paragraph}</p>' for paragraph in paragraphs)
+
+
 def page(key, item):
     title = f'{item["author"]} — {item["work"]}'
     original_lang = 'la' if key == 'pliny' else 'grc'
     original = ''.join(f'<p>{escape(text)}</p>' for text in item['original'])
-    english = ''.join(f'<p>{escape(text)}</p>' for text in item['english'])
-    notes = ''.join(f'<p>{escape(text)}</p>' for text in item['notes'])
+    english = annotated_english(item)
+    notes = ''.join(
+        f'<li id="fn-{n}"><span class="footnote-number">{n:02d}</span><p>{escape(text)} <a class="footnote-back" href="#fnref-{n}" aria-label="Back to note {n} reference">↩</a></p></li>'
+        for n, text in enumerate(item['notes'], 1)
+    )
     bibliography = ''.join(
         f'<li><span>{n:02d}</span><div><a href="{escape(SECONDARY[ref][2], quote=True)}" target="_blank" rel="noopener noreferrer">{escape(SECONDARY[ref][0])} ↗</a><br>{escape(SECONDARY[ref][1])}</div></li>'
         for n, ref in enumerate(item['reading'], 1)
@@ -152,17 +169,18 @@ def page(key, item):
   <a class="skip-link" href="#main">Skip to content</a>
   <div class="site-seal" aria-hidden="true"><span class="seal-symbol"></span></div>
   <div class="page-shell">
-    <header class="masthead"><a class="wordmark" href="./index.html" aria-label="Atlas home">Atlas<span class="wordmark-period">.</span></a><nav aria-label="Main navigation"><a href="./index.html#index">Index</a><a href="./index.html#about">About</a></nav></header>
+    <header class="masthead"><a class="wordmark" href="./index.html" aria-label="Atlas home">Atlas<span class="wordmark-period">.</span></a><nav aria-label="Main navigation"><a href="./index.html#index">Index</a><a href="./authorities.html">Authorities</a><a href="./index.html#about">About</a></nav></header>
     <main id="main">
       <nav class="source-breadcrumb" aria-label="Breadcrumb"><a href="./silphium.html#record">Silphium</a> / Primary source / {escape(item['author'])}</nav>
-      <header class="source-head"><div><span class="folio-label">Primary source · {escape(item['period'])}</span><h1>{escape(item['author'])}</h1><p class="source-deck"><i>{escape(item['work'])}</i>. {escape(item['summary'])}</p></div>
+      <header class="source-head"><div><span class="folio-label">Primary source · {escape(item['period'])}</span><div class="source-author-title"><a class="source-author-avatar" href="./authorities.html#{key}" aria-label="{escape(item['author'], quote=True)} in the authorities index"><img src="./assets/authorities/{key}.webp" width="84" height="84" alt="" /></a><h1><a href="./authorities.html#{key}">{escape(item['author'])}</a></h1></div><p class="source-deck"><i>{escape(item['work'])}</i>. {escape(item['summary'])}</p></div>
       <div class="source-head-meta"><dl><div><dt>Passage shown</dt><dd>{escape(item['scope'])}</dd></div><div><dt>Original language</dt><dd>{escape(item['language'])}</dd></div><div><dt>Place in record</dt><dd><a href="./index.html?place=cyrenaica#index">{escape(item['place'])} ↗</a><br>{escape(item['place_note'])}</dd></div></dl></div></header>
       <div class="source-grid" aria-label="Original text and English translation">
         <section class="source-column" aria-labelledby="original-title"><div class="source-column-head"><h2 id="original-title">Original text</h2><span>{escape(item['language'])}</span></div><div class="source-text" lang="{original_lang}">{original}</div></section>
         <section class="source-column" aria-labelledby="translation-title"><div class="source-column-head"><h2 id="translation-title">English</h2><span>New working translation for this atlas</span></div><div class="source-text">{english}</div></section>
       </div>
-      <section class="source-notes" aria-label="Notes and text provenance"><div><h2>Reading the passage</h2>{notes}</div><div><h2>Text and translation</h2><p>The English beside the original is a working translation prepared for this atlas. Consult the linked editions for textual variants, notes, and alternative translations.</p><div class="edition-links">{external_link(item['original_source'], item['original_label'])}{external_link(item['other_source'], item['other_label'])}</div></div></section>
-      <section class="further-reading" aria-labelledby="further-title"><h2 id="further-title">Further reading</h2><p class="source-reading">Scholarship that discusses silphium and helps interpret this source. Linked works may differ in their conclusions.</p><ol class="further-list">{bibliography}</ol></section>
+      <div class="source-editions" aria-label="Texts used"><span>Texts used</span>{external_link(item['original_source'], item['original_label'])}{external_link(item['other_source'], item['other_label'])}</div>
+      <section class="further-reading" aria-labelledby="further-title"><h2 id="further-title">Further reading</h2><ol class="further-list">{bibliography}</ol></section>
+      <aside class="source-footnotes" aria-labelledby="notes-title"><h2 id="notes-title">Notes</h2><ol>{notes}</ol></aside>
     </main>
     <footer class="site-footer"><span>Atlas of Historically Lost Species</span><span><a href="./silphium.html#record">Back to the silphium record ↗</a>{' · ' + next_links if next_links else ''}</span></footer>
   </div>
@@ -171,5 +189,6 @@ def page(key, item):
 '''
 
 
-for key, item in SOURCES.items():
-    (ROOT / f'source-{key}.html').write_text(page(key, item), encoding='utf-8')
+if __name__ == '__main__':
+    for key, item in SOURCES.items():
+        (ROOT / f'source-{key}.html').write_text(page(key, item), encoding='utf-8')

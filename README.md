@@ -16,6 +16,8 @@ The silphium page's **Source index** starts with eleven passages and defaults to
 
 Corrections and leads to overlooked sources are welcome through [GitHub issues](https://github.com/benjaminbreen/ExtinctSpeciesAtlas/issues). Please include a passage reference or link to an edition where possible.
 
+The **[Authorities index](authorities.html)** connects the eleven silphium passages to nine authorial entries. It can be sorted by chronology, name, or number of indexed passages, with list and card views. The Hippocratic corpus is a composite attribution; its entry does not claim that Hippocrates wrote *Diseases IV*. Author names on the three bilingual source pages link to this index. Short numbered notes linked from the translations replace large interpretive sections. The index also gathers the secondary studies cited in the detailed records.
+
 ## Run locally
 
 This is a static HTML, CSS, and JavaScript site. It has no build step, API key, or runtime dependency. From the repository root:
@@ -31,6 +33,8 @@ Open [http://localhost:4173/](http://localhost:4173/). JavaScript modules need H
 Import this repository into Vercel. Set the framework preset to **Other**, leave the build command empty, and use `.` as the output directory. The repository root contains `index.html`; no nested root directory is needed. The site uses relative asset and page paths, so the same files can also be served as a standalone subfolder of another static site.
 
 ## Sources, images, and map data
+
+`data/authorities.json` holds the edited index of names, approximate dates, brief biographies, image descriptions, and works. Its biographical links point to Wikipedia; the page's descriptions are short paraphrases. The circular images are locally served derivatives of Wikimedia Commons files. They are later busts, statues, engravings, or manuscript depictions, **not contemporary likenesses**. Each entry links to its Commons file page and gives its date or nature, credit, and license. File-level source and license data are in `assets/authorities/manifest.json`. After editing the data, run `python3 scripts/build_authorities.py`; `python3 scripts/fetch_authority_images.py` refreshes the Commons derivatives (requires Pillow). Review provenance and license fields before committing an image refresh.
 
 - Herodotus, *Histories* 4.169, [G. C. Macaulay translation](https://lexundria.com/hdt/4.169/mcly).
 - Pliny, *Natural History* 19.15 (numbering varies by edition), [John Bostock and H. T. Riley translation](https://peterburk.github.io/pliny/ChaptersHtml/19.%20Book%20XIX.%20The%20Nature%20And%20Cultivation%20Of%20Flax,%20And%20An%20Account%20Of%20Various%20Garden%20Plants./15.%20Chap.%2015.-Laserpitium,%20Laser,%20And%20Maspetum..html).

@@ -1,0 +1,74 @@
+[
+  {
+    "authority": "herodotus",
+    "source": "https://commons.wikimedia.org/wiki/File:Marble_bust_of_Herodotos_MET_DT11742_(cropped).jpg",
+    "license": "CC0",
+    "file": "assets/authorities/herodotus.webp",
+    "display_credit": "Metropolitan Museum of Art · CC0",
+    "depiction": "Roman copy of a Greek bust, second century CE"
+  },
+  {
+    "authority": "hippocratic",
+    "source": "https://commons.wikimedia.org/wiki/File:Hippocrates.jpg",
+    "license": "Public domain",
+    "file": "assets/authorities/hippocratic.webp",
+    "display_credit": "Unidentified engraver · public domain",
+    "depiction": "Later engraving of Hippocrates, the corpus’s traditional namesake; the author of Diseases IV is unknown"
+  },
+  {
+    "authority": "theophrastus",
+    "source": "https://commons.wikimedia.org/wiki/File:Teofrasto_Orto_botanico_detail.jpg",
+    "license": "CC BY-SA 2.5",
+    "file": "assets/authorities/theophrastus.webp",
+    "display_credit": "tato grasso / Singinglemon · CC BY-SA 2.5",
+    "depiction": "Modern statue at Palermo Botanical Garden"
+  },
+  {
+    "authority": "plautus",
+    "source": "https://commons.wikimedia.org/wiki/File:Plautus_18th_century_engraving_(cropped).jpg",
+    "license": "Public domain",
+    "file": "assets/authorities/plautus.webp",
+    "display_credit": "Pierre François Barrois · public domain",
+    "depiction": "Imagined portrait engraved in 1770"
+  },
+  {
+    "authority": "catullus",
+    "source": "https://commons.wikimedia.org/wiki/File:Catull_Sirmione.jpg",
+    "license": "CC BY-SA 3.0",
+    "file": "assets/authorities/catullus.webp",
+    "display_credit": "Schorle · CC BY-SA 3.0",
+    "depiction": "Twentieth-century bust at Sirmione"
+  },
+  {
+    "authority": "strabo",
+    "source": "https://commons.wikimedia.org/wiki/File:Strabo.jpg",
+    "license": "Public domain",
+    "file": "assets/authorities/strabo.webp",
+    "display_credit": "André Thévet · public domain",
+    "depiction": "Imagined portrait engraved by André Thévet in 1584"
+  },
+  {
+    "authority": "dioscorides",
+    "source": "https://commons.wikimedia.org/wiki/File:Dioscorides_Vienna_(detail)_(cropped).jpg",
+    "license": "Public domain",
+    "file": "assets/authorities/dioscorides.webp",
+    "display_credit": "Unknown artist · public domain",
+    "depiction": "Dioscorides depicted in the Vienna Dioscurides manuscript, c. 512 CE"
+  },
+  {
+    "authority": "pliny",
+    "source": "https://commons.wikimedia.org/wiki/File:Grande_Illustrazione_del_Lombardo_Veneto_Vol_3_Plinio_Secondo_300dpi.jpg",
+    "license": "Public domain",
+    "file": "assets/authorities/pliny.webp",
+    "display_credit": "Geoffrey · public domain",
+    "depiction": "Nineteenth-century imagined portrait, published in 1859"
+  },
+  {
+    "authority": "synesius",
+    "source": "https://commons.wikimedia.org/wiki/File:Synezius_dict_le_Philosophe_(BM_1879,1213.111).jpg",
+    "license": "Public domain",
+    "file": "assets/authorities/synesius.webp",
+    "display_credit": "British Museum / André Thévet · public domain",
+    "depiction": "Imagined portrait engraved for André Thévet’s 1584 collection"
+  }
+]
