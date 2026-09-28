@@ -16,6 +16,8 @@ The silphium page's **Source index** starts with eleven passages and defaults to
 
 Corrections and leads to overlooked sources are welcome through [GitHub issues](https://github.com/benjaminbreen/ExtinctSpeciesAtlas/issues). Please include a passage reference or link to an edition where possible.
 
+The site has a standalone [About page](about.html) describing its purpose and author. A [proposed first corpus](research/first-corpus.md) records twelve research candidates and starting references; those proposals are not yet completed dossiers.
+
 The **[Authorities index](authorities.html)** connects the eleven silphium passages to nine authorial entries. It can be sorted by chronology, name, or number of indexed passages, with list and card views. The Hippocratic corpus is a composite attribution; its entry does not claim that Hippocrates wrote *Diseases IV*. Author names on the three bilingual source pages link to this index. Short numbered notes linked from the translations replace large interpretive sections. The index also gathers the secondary studies cited in the detailed records.
 
 ## Run locally
