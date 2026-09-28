@@ -30,7 +30,30 @@ function setSpecies(name) {
 setSpecies('silphium');
 
 if (document.body.dataset.page === 'home') {
-  const items = [...document.querySelectorAll('.observe-species')];
+  const entries = [...document.querySelectorAll('.species-entry')];
+  const params = new URLSearchParams(location.search);
+  const tag = params.get('tag');
+  const place = params.get('place');
+  const filters = {
+    'classical-era': 'Classical era', mediterranean: 'Mediterranean', medicinal: 'Medicinal',
+    'early-modern': 'Early modern', 'north-atlantic': 'North Atlantic',
+    'north-pacific': 'North Pacific', 'indian-ocean': 'Indian Ocean',
+    cyrenaica: 'Cyrenaica', rome: 'Rome', 'bering-sea': 'Bering Sea', mauritius: 'Mauritius'
+  };
+  const selected = tag && filters[tag] ? { type: 'tags', key: tag, label: filters[tag] }
+    : place && filters[place] ? { type: 'places', key: place, label: filters[place] } : null;
+  if (selected) {
+    const visible = entries.filter(entry => {
+      const matches = (entry.dataset[selected.type] || '').split(' ').includes(selected.key);
+      entry.hidden = !matches;
+      return matches;
+    });
+    const status = document.querySelector('#filter-status');
+    status.hidden = false;
+    document.querySelector('#filter-description').textContent = `${selected.type === 'tags' ? 'Subject' : 'Place'}: ${selected.label} · ${visible.length} ${visible.length === 1 ? 'entry' : 'entries'}`;
+    document.querySelector('.section-heading span').textContent = `${visible.length} / ${entries.length}`;
+  }
+  const items = [...document.querySelectorAll('.observe-species')].filter(item => !item.hidden);
   const update = () => {
     const referenceY = window.innerHeight * 0.44;
     const current = items.reduce((best, element) => {
@@ -48,10 +71,13 @@ if (document.body.dataset.page === 'home') {
   update();
 }
 
-if (document.body.dataset.page === 'detail') {
+if (['detail', 'source'].includes(document.body.dataset.page)) {
   const updateSeal = () => document.body.classList.toggle('has-scrolled', window.scrollY > 150);
   window.addEventListener('scroll', updateSeal, { passive: true });
   updateSeal();
+}
+
+if (document.body.dataset.page === 'detail') {
   const buttons = [...document.querySelectorAll('[data-source-tab]')];
   const panels = [...document.querySelectorAll('[data-source-panel]')];
   function selectSource(index, focus = false) {
@@ -74,5 +100,5 @@ if (document.body.dataset.page === 'detail') {
       selectSource(next, true);
     });
   });
-  selectSource(0);
+  selectSource(1);
 }

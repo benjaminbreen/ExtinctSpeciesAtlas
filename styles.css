@@ -1,6 +1,7 @@
 @font-face{font-family:"GFS Didot";src:url("./assets/gfs-didot.ttf") format("truetype");font-display:swap}
 :root{--paper:#f6f3eb;--ink:#171715;--muted:#655f58;--hair:#4d4944;--quiet:#c6c0b5;--accent:#bd4e36;--font-display:"GFS Didot",Didot,"Bodoni 72",Georgia,serif;--font-text:Georgia,"Times New Roman",serif}
 *{box-sizing:border-box}
+[hidden]{display:none!important}
 html{scroll-behavior:smooth}
 body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--font-text);-webkit-font-smoothing:antialiased}
 body::before{content:"";position:fixed;inset:0;pointer-events:none;z-index:30;opacity:.12;background-image:url("data:image/svg+xml,%3Csvg viewBox='0 0 120 120' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.67' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='.2'/%3E%3C/svg%3E")}
@@ -27,6 +28,7 @@ a:focus-visible,button:focus-visible{outline:2px solid var(--accent);outline-off
 .hero-figure figcaption{font-size:.8rem;line-height:1.35;color:var(--muted);width:min(100%,450px);padding-top:10px;align-self:flex-end}.hero-figure figcaption a{text-decoration:underline;text-underline-offset:3px}
 .hero-margin-note{position:absolute;right:0;top:31%;font-size:.85rem;line-height:1.55;font-style:italic;text-align:left;border-left:1px solid var(--ink);padding-left:17px;max-width:100px}
 .section-heading{display:flex;justify-content:space-between;align-items:center;padding:23px 0 13px;border-bottom:1px solid var(--ink);font:400 1.15rem var(--font-display)}.section-heading h2{font:inherit;margin:0}.section-heading span{font-variant-numeric:lining-nums;color:var(--muted)}
+.filter-status{display:flex;justify-content:space-between;gap:20px;border-bottom:1px solid var(--ink);padding:12px 0;font-size:.92rem}.filter-status a{color:var(--accent);text-decoration:underline;text-underline-offset:3px}
 .species-entry{--entry:#bd4e36;min-height:214px;border-bottom:1px solid var(--ink);display:grid;grid-template-columns:14% 38% 24% 24%;align-items:center;position:relative;padding:28px 0;transition:background .2s}
 .species-entry[data-species="auk"]{--entry:#536d81}.species-entry[data-species="seacow"]{--entry:#68816c}.species-entry[data-species="dodo"]{--entry:#856579}
 a.species-entry:hover{background:#ebe7dd}.species-entry::after{content:"";position:absolute;bottom:-1px;left:0;height:3px;width:0;background:var(--entry);transition:width .35s}a.species-entry:hover::after{width:100%}
