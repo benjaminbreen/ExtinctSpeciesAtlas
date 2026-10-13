@@ -9,13 +9,7 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Herodotus",
     "image_file": "Marble bust of Herodotos MET DT11742 (cropped).jpg",
     "image_description": "Roman copy of a Greek bust, second century CE",
-    "image_credit": "Metropolitan Museum of Art · CC0",
-    "works": [
-      {
-        "label": "Histories 4.169",
-        "href": "./source-herodotus.html"
-      }
-    ]
+    "image_credit": "Metropolitan Museum of Art · CC0"
   },
   {
     "slug": "hippocratic",
@@ -27,13 +21,7 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Hippocratic_Corpus",
     "image_file": "Hippocrates.jpg",
     "image_description": "Later engraving of Hippocrates, the corpus’s traditional namesake; the author of Diseases IV is unknown",
-    "image_credit": "Unidentified engraver · public domain",
-    "works": [
-      {
-        "label": "Diseases IV.34",
-        "href": "./silphium.html#ref-hippocratic"
-      }
-    ]
+    "image_credit": "Unidentified engraver · public domain"
   },
   {
     "slug": "theophrastus",
@@ -45,13 +33,7 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Theophrastus",
     "image_file": "Teofrasto Orto botanico detail.jpg",
     "image_description": "Modern statue at Palermo Botanical Garden",
-    "image_credit": "tato grasso / Singinglemon · CC BY-SA 2.5",
-    "works": [
-      {
-        "label": "Enquiry into Plants 6.3",
-        "href": "./source-theophrastus.html"
-      }
-    ]
+    "image_credit": "tato grasso / Singinglemon · CC BY-SA 2.5"
   },
   {
     "slug": "plautus",
@@ -63,13 +45,7 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Plautus",
     "image_file": "Plautus 18th century engraving (cropped).jpg",
     "image_description": "Imagined portrait engraved in 1770",
-    "image_credit": "Pierre François Barrois · public domain",
-    "works": [
-      {
-        "label": "Rudens 630–31",
-        "href": "./silphium.html#ref-plautus"
-      }
-    ]
+    "image_credit": "Pierre François Barrois · public domain"
   },
   {
     "slug": "catullus",
@@ -81,13 +57,7 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Catullus",
     "image_file": "Catull Sirmione.jpg",
     "image_description": "Twentieth-century bust at Sirmione",
-    "image_credit": "Schorle · CC BY-SA 3.0",
-    "works": [
-      {
-        "label": "Poem 7",
-        "href": "./silphium.html#ref-catullus"
-      }
-    ]
+    "image_credit": "Schorle · CC BY-SA 3.0"
   },
   {
     "slug": "strabo",
@@ -99,13 +69,7 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Strabo",
     "image_file": "Strabo.jpg",
     "image_description": "Imagined portrait engraved by André Thévet in 1584",
-    "image_credit": "André Thévet · public domain",
-    "works": [
-      {
-        "label": "Geography 17.3.23",
-        "href": "./silphium.html#ref-strabo"
-      }
-    ]
+    "image_credit": "André Thévet · public domain"
   },
   {
     "slug": "pliny",
@@ -117,17 +81,7 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Pliny_the_Elder",
     "image_file": "Grande Illustrazione del Lombardo Veneto Vol 3 Plinio Secondo 300dpi.jpg",
     "image_description": "Nineteenth-century imagined portrait, published in 1859",
-    "image_credit": "Geoffrey · public domain",
-    "works": [
-      {
-        "label": "Natural History 19.38–42",
-        "href": "./source-pliny.html"
-      },
-      {
-        "label": "Natural History 22.100–101",
-        "href": "./source-pliny-medicine.html"
-      }
-    ]
+    "image_credit": "Geoffrey · public domain"
   },
   {
     "slug": "dioscorides",
@@ -139,13 +93,7 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Dioscorides",
     "image_file": "Dioscorides Vienna (detail) (cropped).jpg",
     "image_description": "Dioscorides depicted in the Vienna Dioscurides manuscript, c. 512 CE",
-    "image_credit": "Unknown artist · public domain",
-    "works": [
-      {
-        "label": "De materia medica 3.80",
-        "href": "./silphium.html#ref-dioscorides"
-      }
-    ]
+    "image_credit": "Unknown artist · public domain"
   },
   {
     "slug": "synesius",
@@ -157,17 +105,7 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Synesius",
     "image_file": "Synezius dict le Philosophe (BM 1879,1213.111).jpg",
     "image_description": "Imagined portrait engraved for André Thévet’s 1584 collection",
-    "image_credit": "British Museum / André Thévet · public domain",
-    "works": [
-      {
-        "label": "Letter 106",
-        "href": "./source-synesius.html"
-      },
-      {
-        "label": "Letter 134",
-        "href": "./silphium.html#ref-synesius-134"
-      }
-    ]
+    "image_credit": "British Museum / André Thévet · public domain"
   },
   {
     "slug": "martin",
@@ -179,13 +117,7 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Martin_Martin",
     "image_file": null,
     "image_description": "Typographic initials; no portrait used",
-    "image_credit": "Atlas of Historically Lost Species · original asset",
-    "works": [
-      {
-        "label": "A Late Voyage to St Kilda, ch. II",
-        "href": "./source-martin.html"
-      }
-    ]
+    "image_credit": "Atlas of Historically Lost Species · original asset"
   },
   {
     "slug": "pennant",
@@ -197,13 +129,7 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Pennant",
     "image_file": "Thomas Pennant portrait 1779.jpg",
     "image_description": "Engraved portrait of Thomas Pennant, eighteenth century",
-    "image_credit": "National Library of Wales · public domain",
-    "works": [
-      {
-        "label": "British Zoology, vol. II, 507–508",
-        "href": "./source-pennant.html"
-      }
-    ]
+    "image_credit": "National Library of Wales · public domain"
   },
   {
     "slug": "cartwright",
@@ -215,13 +141,7 @@
     "wikipedia": "https://en.wikipedia.org/wiki/George_Cartwright_(trader)",
     "image_file": "George Cartwright.jpg",
     "image_description": "Engraved portrait of George Cartwright",
-    "image_credit": "Wikimedia Commons · public domain",
-    "works": [
-      {
-        "label": "Journal, 5 July 1785",
-        "href": "./source-cartwright.html"
-      }
-    ]
+    "image_credit": "Wikimedia Commons · public domain"
   },
   {
     "slug": "newton",
@@ -233,13 +153,7 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Alfred_Newton",
     "image_file": "Alfred Newton (engraved portrait).png",
     "image_description": "Engraved portrait in The Graphic, 1887",
-    "image_credit": "The Graphic / Historian 1875 · public domain / CC0",
-    "works": [
-      {
-        "label": "Wolley’s researches, Ibis (1861)",
-        "href": "./source-newton.html"
-      }
-    ]
+    "image_credit": "The Graphic / Historian 1875 · public domain / CC0"
   },
   {
     "slug": "lucas",
@@ -251,12 +165,126 @@
     "wikipedia": "https://en.wikipedia.org/wiki/Frederic_Augustus_Lucas",
     "image_file": null,
     "image_description": "Typographic initials; no portrait used",
-    "image_credit": "Atlas of Historically Lost Species · original asset",
-    "works": [
-      {
-        "label": "The Expedition to Funk Island, pp. 505–507",
-        "href": "./source-lucas.html"
-      }
-    ]
+    "image_credit": "Atlas of Historically Lost Species · original asset"
+  },
+  {
+    "slug": "clusius",
+    "name": "Carolus Clusius",
+    "dates": "1526–1609",
+    "sort_year": 1526,
+    "field": "Natural history · Latin",
+    "description": "Author of Exoticorum libri decem (1605), which includes a description of a dodo leg in the collection of Pieter Pauw at Leiden.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Carolus_Clusius",
+    "image_file": null,
+    "image_description": "Typographic initials; no portrait used",
+    "image_credit": "Atlas of Historically Lost Species · original asset"
+  },
+  {
+    "slug": "herbert",
+    "name": "Thomas Herbert",
+    "dates": "1606–1682",
+    "sort_year": 1606,
+    "field": "Travel · English",
+    "description": "Author of A relation of some yeares travaile (1634), including a description and illustration of the dodo.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sir_Thomas_Herbert,_1st_Baronet",
+    "image_file": null,
+    "image_description": "Typographic initials; no portrait used",
+    "image_credit": "Atlas of Historically Lost Species · original asset"
+  },
+  {
+    "slug": "lestrange",
+    "name": "Hamon L’Estrange",
+    "dates": "1583–1654",
+    "sort_year": 1583,
+    "field": "Natural history · English",
+    "description": "His annotations on Thomas Browne describe a captive bird shown in London about 1638.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hamon_le_Strange",
+    "image_file": null,
+    "image_description": "Typographic initials; no portrait used",
+    "image_credit": "Atlas of Historically Lost Species · original asset"
+  },
+  {
+    "slug": "cauche",
+    "name": "François Cauche",
+    "dates": "fl. 1630s–1651",
+    "sort_year": 1630,
+    "field": "Travel · French",
+    "description": "His Relation du voyage appears in Relations veritables et curieuses (1651), compiled by Claude-Barthélemy Morisot.",
+    "wikipedia": "https://archive.org/details/relationsveritab00unkn",
+    "image_file": null,
+    "image_description": "Typographic initials; no portrait used",
+    "image_credit": "Atlas of Historically Lost Species · original asset"
+  },
+  {
+    "slug": "barrow",
+    "name": "John Barrow",
+    "dates": "1764–1848",
+    "sort_year": 1764,
+    "field": "Travel writing · British colonial administration",
+    "description": "Travelled in southern Africa while serving under Lord Macartney at the Cape. His account includes a reported reappearance of blue antelope near Sweet Milk Valley.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sir_John_Barrow,_1st_Baronet",
+    "image_file": null,
+    "image_description": "Typographic initials; no portrait used",
+    "image_credit": "Atlas of Historically Lost Species · original asset"
+  },
+  {
+    "slug": "tyssen",
+    "name": "John Tyssen",
+    "dates": "fl. 1842",
+    "sort_year": 1842,
+    "field": "Naval correspondence",
+    "description": "Lieutenant commanding HMS Sparrow. Recorded the statements of Henry Whiteman and Samuel Profit after rescuing them on West Falkland in February 1842.",
+    "wikipedia": "https://falklandstimeline.wordpress.com/wp-content/uploads/2023/10/copies-or-extracts-of-any-correspondence-relative-to-the-falkland-islands-1843.pdf#page=20",
+    "image_file": null,
+    "image_description": "Typographic initials; no portrait used",
+    "image_credit": "Atlas of Historically Lost Species · original asset"
+  },
+  {
+    "slug": "falkland-magazine",
+    "name": "Falkland Islands Magazine contributors",
+    "dates": "fl. 1894 · composite attribution",
+    "sort_year": 1894,
+    "field": "Editorial inquiry · local correspondence",
+    "description": "The magazine’s editor and the correspondents E. J. Smith, Thomas H. Butler and an anonymous writer signing “A Witness.” The letters concern remembered killings at Fox Bay.",
+    "wikipedia": "https://web.archive.org/web/20250525222855id_/https://nationalarchives.gov.fk/jdownloads/The%20Falkland%20Islands%20Magazine/FIM%201893%20and%201894.pdf#page=192",
+    "image_file": null,
+    "image_description": "Typographic initials; no portrait used",
+    "image_credit": "Atlas of Historically Lost Species · original asset"
+  },
+  {
+    "slug": "steller",
+    "name": "Georg Wilhelm Steller",
+    "dates": "1709–1746",
+    "sort_year": 1709,
+    "field": "Natural history · Bering’s second Kamchatka expedition",
+    "description": "German physician and naturalist in Russian service. Shipwrecked with Bering’s crew on Bering Island in 1741–1742, where he described the sea cow from living and dissected animals.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Georg_Wilhelm_Steller",
+    "image_file": null,
+    "image_description": "Typographic initials; no portrait used",
+    "image_credit": "Atlas of Historically Lost Species · original asset"
+  },
+  {
+    "slug": "sauer",
+    "name": "Martin Sauer",
+    "dates": "fl. 1785–1802",
+    "sort_year": 1785,
+    "field": "Expedition account · Russian service",
+    "description": "English secretary to Joseph Billings’s Russian expedition to north-eastern Siberia and the Aleutian Islands, 1785–1794. His published account reports the sea cow’s extinction at second hand.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Billings_Expedition",
+    "image_file": null,
+    "image_description": "Typographic initials; no portrait used",
+    "image_credit": "Atlas of Historically Lost Species · original asset"
+  },
+  {
+    "slug": "nordenskiold",
+    "name": "A. E. Nordenskiöld",
+    "dates": "1832–1901",
+    "sort_year": 1832,
+    "field": "Arctic exploration · geology",
+    "description": "Finnish-born Swedish geologist and explorer. Led the Vega expedition through the Northeast Passage, 1878–1880, and gathered testimony about the sea cow on Bering Island in 1879.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Adolf_Erik_Nordenski%C3%B6ld",
+    "image_file": null,
+    "image_description": "Typographic initials; no portrait used",
+    "image_credit": "Atlas of Historically Lost Species · original asset"
   }
 ]

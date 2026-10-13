@@ -1,0 +1,42 @@
+[
+  {
+    "page_id": "gundlach-1876:00287",
+    "source_id": "gundlach-1876",
+    "printed_page": "276",
+    "scan_url": "https://archive.org/details/contribucionlaor00gund/page/n288/mode/1up",
+    "status": "known_source_recovered_in_machine_ocr",
+    "image_checked": false,
+    "novelty_status": "not_new",
+    "note": "For retrieval validation and first human review. Open scan before transcribing or making a biological claim."
+  },
+  {
+    "page_id": "perpina-1889:00236",
+    "source_id": "perpina-1889",
+    "printed_page": "247",
+    "scan_url": "https://archive.org/details/elcamagueyviajes00perp/page/n237/mode/1up",
+    "status": "known_source_recovered_in_machine_ocr",
+    "image_checked": false,
+    "novelty_status": "not_new",
+    "note": "For retrieval validation and first human review. Open scan before transcribing or making a biological claim."
+  },
+  {
+    "page_id": "cory-1889:00184",
+    "source_id": "cory-1889",
+    "printed_page": "177",
+    "scan_url": "https://archive.org/details/birdsofwestindie00cory/page/n185/mode/1up",
+    "status": "known_source_recovered_in_machine_ocr",
+    "image_checked": false,
+    "novelty_status": "not_new",
+    "note": "For retrieval validation and first human review. Open scan before transcribing or making a biological claim."
+  },
+  {
+    "page_id": "barbour-1923:00091",
+    "source_id": "barbour-1923",
+    "printed_page": "80",
+    "scan_url": "https://archive.org/details/birdsofcuba00barb/page/n100/mode/1up",
+    "status": "known_source_recovered_in_machine_ocr",
+    "image_checked": false,
+    "novelty_status": "not_new",
+    "note": "For retrieval validation and first human review. Open scan before transcribing or making a biological claim."
+  }
+]

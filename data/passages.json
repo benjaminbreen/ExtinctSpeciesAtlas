@@ -1,0 +1,2300 @@
+[
+  {
+    "id": "herodotus",
+    "species_ids": [
+      "silphium"
+    ],
+    "authority_id": "herodotus",
+    "page": "source-herodotus.html",
+    "format": "bilingual",
+    "catalog": {
+      "anchor": "ref-herodotus",
+      "sort_year": -440.0,
+      "sort_author": "Herodotus",
+      "date_label": "c. 440 BCE",
+      "heading_html": "<a class=\"catalog-author\" href=\"./authorities.html#herodotus\">Herodotus</a> <em>Histories</em> 4.169",
+      "kind": "Geography · Greek",
+      "href": "./source-herodotus.html",
+      "link_label": "Read record ↗",
+      "aria_label": "Read Herodotus source record",
+      "summary_html": "Places the silphium country between Platea and the Syrtis."
+    },
+    "authority_work": {
+      "label": "Histories 4.169",
+      "href": "./source-herodotus.html"
+    },
+    "content": {
+      "author": "Herodotus",
+      "work": "Histories 4.169",
+      "period": "Fifth century BCE",
+      "language": "Ancient Greek",
+      "scope": "Complete section 4.169",
+      "summary": "Herodotus places silphium in the country of the Gilligamae, from Platea to the Syrtis.",
+      "place": "Cyrenaica",
+      "place_note": "Reported coastal span; endpoints uncertain",
+      "original_source": "https://penelope.uchicago.edu/Thayer/H/Roman/Texts/Herodotus/4G%2A.html",
+      "original_label": "Greek text at LacusCurtius",
+      "other_source": "https://lexundria.com/hdt/4.169/mcly",
+      "other_label": "Macaulay's historical translation",
+      "original": [
+        "Τούτων δὲ ἔχονται Γιλιγάμαι, νεμόμενοι τὸ πρὸς ἑσπέρην χώρην μέχρι Ἀφροδισιάδος νήσου. ἐν δὲ τῷ μεταξὺ τούτου χώρῳ ἥ τε Πλατέα νῆσος ἐπικέεται, τὴν ἔκτισαν οἱ Κυρηναῖοι, καὶ ἐν τῇ ἠπείρῳ Μενέλαος λιμήν ἐστι καὶ Ἄζιρις, τὴν οἱ Κυρηναῖοι οἴκεον, καὶ τὸ σίλφιον ἄρχεται ἀπὸ τούτου·",
+        "παρήκει δὲ ἀπὸ Πλατέην νήσου μέχρι τοῦ στόματος τῆς Σύρτιος τὸ σίλφιον, νόμοισι δὲ χρέωνται οὗτοι παραπλησίοισι τοῖσι ἑτέροισι."
+      ],
+      "english": [
+        "Next to these are the Gilligamae, who occupy the country westward as far as the island of Aphrodisias. In the intervening country lies the island of Platea, which the Cyreneans settled. On the mainland are Menelaus's harbor and Aziris, where the Cyreneans lived; silphium begins there.",
+        "Silphium extends from the island of Platea as far as the mouth of the Syrtis. The customs of these people resemble those of the others."
+      ],
+      "notes": [
+        "This passage describes Gilligamae territory; it does not describe a specimen of the plant.",
+        "Platea, Aziris, Menelaus's harbor, and the Syrtis are textual landmarks. Their modern identifications do not yield a precisely mapped growing range."
+      ],
+      "note_targets": [
+        [
+          0,
+          "silphium begins there."
+        ],
+        [
+          1,
+          "mouth of the Syrtis."
+        ]
+      ],
+      "reading": [
+        "amigues",
+        "briggs"
+      ],
+      "neighbors": [
+        null,
+        "theophrastus"
+      ]
+    },
+    "research": {
+      "reviewed_by": null,
+      "reviewed_on": null,
+      "novelty_status": "not_assessed",
+      "relationships": []
+    }
+  },
+  {
+    "id": "silphium-hippocratic",
+    "species_ids": [
+      "silphium"
+    ],
+    "authority_id": "hippocratic",
+    "page": null,
+    "format": null,
+    "catalog": {
+      "anchor": "ref-hippocratic",
+      "sort_year": -400.0,
+      "sort_author": "Hippocratic corpus",
+      "date_label": "c. 400 BCE",
+      "heading_html": "<a class=\"catalog-author\" href=\"./authorities.html#hippocratic\">Hippocratic corpus</a> <em>Diseases IV</em> 34",
+      "kind": "Medicine · Greek",
+      "href": "https://remacle.org/bloodwolf/erudits/Hippocrate/maladies4.htm",
+      "link_label": "Read text ↗",
+      "aria_label": "Read Diseases IV 34 in Greek and French",
+      "summary_html": "Reports unsuccessful efforts to grow Libyan silphium in Ionia and the Peloponnese."
+    },
+    "authority_work": {
+      "label": "Diseases IV.34",
+      "href": "./silphium.html#ref-hippocratic"
+    },
+    "content": null,
+    "research": {
+      "reviewed_by": null,
+      "reviewed_on": null,
+      "novelty_status": "not_assessed",
+      "relationships": []
+    }
+  },
+  {
+    "id": "theophrastus",
+    "species_ids": [
+      "silphium"
+    ],
+    "authority_id": "theophrastus",
+    "page": "source-theophrastus.html",
+    "format": "bilingual",
+    "catalog": {
+      "anchor": "ref-theophrastus",
+      "sort_year": -325.0,
+      "sort_author": "Theophrastus",
+      "date_label": "late 4th c. BCE",
+      "heading_html": "<a class=\"catalog-author\" href=\"./authorities.html#theophrastus\">Theophrastus</a> <em>Enquiry into Plants</em> 6.3",
+      "kind": "Botany · Greek",
+      "href": "./source-theophrastus.html",
+      "link_label": "Read record ↗",
+      "aria_label": null,
+      "summary_html": "Describes the plant, its collection, processing, and reported range; records conflicting accounts."
+    },
+    "authority_work": {
+      "label": "Enquiry into Plants 6.3",
+      "href": "./source-theophrastus.html"
+    },
+    "content": {
+      "author": "Theophrastus",
+      "work": "Enquiry into Plants 6.3",
+      "period": "Late fourth century BCE",
+      "language": "Ancient Greek",
+      "scope": "The silphium account, selected consecutive paragraphs",
+      "summary": "Theophrastus describes silphium's roots, leaves, seed, resin, collection rules, and growing region.",
+      "place": "Cyrenaica",
+      "place_note": "Libya, especially the region around the Syrtis",
+      "original_source": "https://eulogikon.org/works/theophrastus-eresus-enquiry-plants-ljk-ag",
+      "original_label": "Greek text at Eulogikon",
+      "other_source": "https://topostext.org/work/242",
+      "other_label": "Hort's 1916 translation at ToposText",
+      "original": [
+        "Τὸ δὲ σίλφιον ἔχει ῥίζαν μὲν πολλὴν καὶ παχεῖαν, τὸν δὲ καυλὸν ἡλίκον νάρθηξ, σχεδὸν δὲ καὶ τῷ πάχει παραπλήσιον, τὸ δὲ φύλλον, ὃ καλοῦσι μάσπετον, ὅμοιον τῷ σελίνῳ· σπέρμα δ’ ἔχει πλατύ, οἷον φυλλῶδες, τὸ λεγόμενον φύλλον. ἐπετειόκαυλον δ’ ἐστίν, ὥσπερ ὁ νάρθηξ. ἅμα μὲν οὖν τῷ ἦρι τὸ μάσπετον τοῦτο ἀφίησιν, ὃ καθαίρει τὰ πρόβατα καὶ παχύνει σφόδρα καὶ τὰ κρέα θαυμαστὰ ποιεῖ τῇ ἡδονῇ· μετὰ δὲ ταῦτα καυλόν, 〈ὃν〉 ἐσθίεσθαι πάντα τρόπον ἑφθὸν ὀπτόν, καθαίρειν δὲ καὶ τοῦτόν φασι τὰ σώματα τετταράκοντα ἡμέραις.",
+        "ὀπὸν δὲ διττὸν ἔχει, τὸν μὲν ἀπὸ τοῦ καυλοῦ τὸν δὲ ἀπὸ τῆς ῥίζης, δι’ ὃ καλοῦσι τὸν μὲν καυλίαν τὸν δὲ ῥιζίαν. ἡ δὲ ῥίζα τὸν φλοιὸν ἔχει μέλανα, καὶ τοῦτον περιαιροῦσιν. ἔστι δὲ ὥσπερ μέταλλα τῶν ῥιζοτομιῶν αὐτοῖς, ἐξ ὧν ὁπόσον ἂν δοκῇ συμφέρειν ταμιευόμενοι πρὸς τὰς τομὰς καὶ τὸ προϋπάρχον τέμνουσιν· οὐκ ἔξεστι γὰρ οὔτε παρατέμνειν οὔτε πλεῖον τῶν τεταγμένων· καὶ γὰρ διαφθείρεται καὶ σήπεται τὸ ἀργὸν ἐὰν χρονίζῃ.",
+        "κατεργάζονται δὲ ἄγοντες εἰς τὸν Πειραιᾶ τόνδε τὸν τρόπον· ὅταν βάλωσι εἰς ἀγγεῖα καὶ ἄλευρα μίξωσι, σείουσι χρόνον συχνόν, ὅθεν καὶ τὸ χρῶμα λαμβάνει καὶ ἐργασθὲν ἄσηπτον ἤδη διαμένει. τὰ μὲν οὖν κατὰ τὴν ἐργασίαν καὶ τομὴν οὕτως ἔχει. Τόπον δὲ πολὺν ἐπέχει τῆς Λιβύης· πλείω γάρ φασιν ἢ τετρακισχίλια στάδια· πλεῖστα δὲ γίνεσθαι περὶ τὴν σύρτιν ἀπὸ τῶν Εὐεσπερίδων.",
+        "ἴδιον δὲ τὸ φεύγειν τὴν ἐργαζομένην καὶ ἀεὶ συνεργαζομένης καὶ συνημερουμένης ἐξαναχωρεῖν, ὡς οὐ δεομένου δῆλον ὅτι θεραπείας ἀλλ’ ὄντος ἀγρίου. φασὶ δ’ οἱ Κυρηναῖοι φανῆναι τὸ σίλφιον ἔτεσι πρότερον ἢ αὐτοὶ τὴν πόλιν ᾤκησαν ἑπτά· οἰκοῦσι δὲ μάλιστα περὶ τριακόσια εἰς Σιμωνίδην ἄρχοντα Ἀθήνῃσιν. Οἱ μὲν οὖν οὕτω λέγουσιν."
+      ],
+      "english": [
+        "Silphium has a large, thick root. Its stalk is about the size and thickness of ferula, and its leaf, called maspeton, resembles celery. Its broad, leaf-like seed is called phyllon. Like ferula, it puts up a new stalk each year. In spring it sends out leaves that purge sheep, fatten them greatly, and make their meat remarkably pleasant. Later comes the stalk, which people eat boiled or roasted; this too is said to purge the body over forty days.",
+        "It yields two kinds of juice: one from the stalk, called kaulias, and one from the root, called rhizias. The root has a black bark that is stripped away. They allot places for digging roots as if they were mines, regulating how much may be cut in light of previous harvests and the available supply. Cutting beyond the appointed amount is forbidden; unused juice spoils if kept too long.",
+        "When they bring it to Piraeus, they put it in vessels, mix it with meal, and shake it for a long time. This gives it its color, and after this treatment it keeps without decaying. The plant occupies a great stretch of Libya, more than four thousand stadia according to the report, and is most abundant around the Syrtis from Euesperides.",
+        "It is peculiar in avoiding cultivated ground. As the land is worked and domesticated, the plant withdraws: it is wild and needs no tending. The Cyreneans say that silphium appeared seven years before they founded their city, which had been settled for about three hundred years by the archonship of Simonides at Athens. That is their account."
+      ],
+      "notes": [
+        "The linked Greek text numbers these paragraphs 6.3.1–3. Hort's 1916 edition places the opening of this account at 6.3.2; both links give the larger chapter for comparison."
+      ],
+      "note_targets": [
+        [
+          0,
+          "Silphium has a large, thick root."
+        ]
+      ],
+      "reading": [
+        "amigues",
+        "briggs"
+      ],
+      "neighbors": [
+        "herodotus",
+        "pliny"
+      ]
+    },
+    "research": {
+      "reviewed_by": null,
+      "reviewed_on": null,
+      "novelty_status": "not_assessed",
+      "relationships": []
+    }
+  },
+  {
+    "id": "silphium-plautus",
+    "species_ids": [
+      "silphium"
+    ],
+    "authority_id": "plautus",
+    "page": null,
+    "format": null,
+    "catalog": {
+      "anchor": "ref-plautus",
+      "sort_year": -195.0,
+      "sort_author": "Plautus",
+      "date_label": "c. 200–190 BCE",
+      "heading_html": "<a class=\"catalog-author\" href=\"./authorities.html#plautus\">Plautus</a> <em>Rudens</em> 630–31",
+      "kind": "Comedy · Latin",
+      "href": "https://www.thelatinlibrary.com/plautus/rudens.shtml",
+      "link_label": "Read text ↗",
+      "aria_label": "Read Plautus Rudens in Latin",
+      "summary_html": "A character invokes a hoped-for crop of <i>sirpe</i> and <i>laserpicium</i> and a safe shipment to Capua."
+    },
+    "authority_work": {
+      "label": "Rudens 630–31",
+      "href": "./silphium.html#ref-plautus"
+    },
+    "content": null,
+    "research": {
+      "reviewed_by": null,
+      "reviewed_on": null,
+      "novelty_status": "not_assessed",
+      "relationships": []
+    }
+  },
+  {
+    "id": "silphium-catullus",
+    "species_ids": [
+      "silphium"
+    ],
+    "authority_id": "catullus",
+    "page": null,
+    "format": null,
+    "catalog": {
+      "anchor": "ref-catullus",
+      "sort_year": -55.0,
+      "sort_author": "Catullus",
+      "date_label": "mid 1st c. BCE",
+      "heading_html": "<a class=\"catalog-author\" href=\"./authorities.html#catullus\">Catullus</a> <em>Poem</em> 7",
+      "kind": "Poetry · Latin",
+      "href": "https://latin.packhum.org/loc/472/1/6",
+      "link_label": "Read text ↗",
+      "aria_label": "Read Catullus poem 7 in Latin",
+      "summary_html": "Calls Cyrene “silphium-bearing” in a geographic poetic comparison."
+    },
+    "authority_work": {
+      "label": "Poem 7",
+      "href": "./silphium.html#ref-catullus"
+    },
+    "content": null,
+    "research": {
+      "reviewed_by": null,
+      "reviewed_on": null,
+      "novelty_status": "not_assessed",
+      "relationships": []
+    }
+  },
+  {
+    "id": "silphium-strabo",
+    "species_ids": [
+      "silphium"
+    ],
+    "authority_id": "strabo",
+    "page": null,
+    "format": null,
+    "catalog": {
+      "anchor": "ref-strabo",
+      "sort_year": 10.0,
+      "sort_author": "Strabo",
+      "date_label": "early 1st c. CE",
+      "heading_html": "<a class=\"catalog-author\" href=\"./authorities.html#strabo\">Strabo</a> <em>Geography</em> 17.3.23",
+      "kind": "Geography · Greek",
+      "href": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/17C%2A.html",
+      "link_label": "Read text ↗",
+      "aria_label": "Read Strabo Geography 17.3.23",
+      "summary_html": "Describes a long, narrow silphium-producing region south of Cyrenaica."
+    },
+    "authority_work": {
+      "label": "Geography 17.3.23",
+      "href": "./silphium.html#ref-strabo"
+    },
+    "content": null,
+    "research": {
+      "reviewed_by": null,
+      "reviewed_on": null,
+      "novelty_status": "not_assessed",
+      "relationships": []
+    }
+  },
+  {
+    "id": "silphium-dioscorides",
+    "species_ids": [
+      "silphium"
+    ],
+    "authority_id": "dioscorides",
+    "page": null,
+    "format": null,
+    "catalog": {
+      "anchor": "ref-dioscorides",
+      "sort_year": 60.0,
+      "sort_author": "Dioscorides",
+      "date_label": "mid 1st c. CE",
+      "heading_html": "<a class=\"catalog-author\" href=\"./authorities.html#dioscorides\">Dioscorides</a> <em>De materia medica</em> 3.80",
+      "kind": "Medicine · Greek",
+      "href": "https://plantuse.plantnet.org/fr/Dioscoride:_livre_3#silphion",
+      "link_label": "Read text ↗",
+      "aria_label": "Read Dioscorides 3.80 in Greek",
+      "summary_html": "Describes silphium and its resin in Libya, Syria, Armenia, and Media; compares the regional products."
+    },
+    "authority_work": {
+      "label": "De materia medica 3.80",
+      "href": "./silphium.html#ref-dioscorides"
+    },
+    "content": null,
+    "research": {
+      "reviewed_by": null,
+      "reviewed_on": null,
+      "novelty_status": "not_assessed",
+      "relationships": []
+    }
+  },
+  {
+    "id": "pliny",
+    "species_ids": [
+      "silphium"
+    ],
+    "authority_id": "pliny",
+    "page": "source-pliny.html",
+    "format": "bilingual",
+    "catalog": {
+      "anchor": "ref-pliny-19",
+      "sort_year": 77.0,
+      "sort_author": "Pliny",
+      "date_label": "c. 77 CE",
+      "heading_html": "<a class=\"catalog-author\" href=\"./authorities.html#pliny\">Pliny</a> <em>Natural History</em> 19.38–42",
+      "kind": "Natural history · Latin",
+      "href": "./source-pliny.html",
+      "link_label": "Read record ↗",
+      "aria_label": "Read Pliny source record",
+      "summary_html": "Reports scarcity in Cyrenaica and distinguishes imported substitutes."
+    },
+    "authority_work": {
+      "label": "Natural History 19.38–42",
+      "href": "./source-pliny.html"
+    },
+    "content": {
+      "author": "Pliny the Elder",
+      "work": "Natural History 19.38–40",
+      "period": "First century CE",
+      "language": "Latin",
+      "scope": "Continuous passage, sections 38–40",
+      "summary": "Pliny describes the Cyrenaic plant, its valued resin, its reported scarcity, and substitute resin still reaching Rome from other regions.",
+      "place": "Cyrenaica",
+      "place_note": "Growing region; Rome is a destination in the account",
+      "original_source": "https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Pliny_the_Elder/19%2A.html",
+      "original_label": "Latin text at LacusCurtius",
+      "other_source": "https://peterburk.github.io/pliny/ChaptersHtml/19.%20Book%20XIX.%20The%20Nature%20And%20Cultivation%20Of%20Flax,%20And%20An%20Account%20Of%20Various%20Garden%20Plants./15.%20Chap.%2015.-Laserpitium,%20Laser,%20And%20Maspetum..html",
+      "other_label": "Bostock and Riley translation",
+      "original": [
+        "Ab his proximum dicetur auctoritate clarissimum laserpicium, quod Graeci silphion vocant, in Cyrenaica provincia repertum, cuius sucus laser vocatur, magnificum in usu medicamentisque et ad pondus argentei denarii repensum.",
+        "Multis iam annis in ea terra non invenitur, quoniam publicani, qui pascua conducunt, maius ita lucrum sentientes depopulantur pecorum pabulo. unus omnino caulis nostra memoria repertus Neroni principi missus est. si quando incidit pecus in spem nascentis, hoc deprehenditur signo: ove, cum comederit, dormiente protinus, capra sternuente crebrius.",
+        "Diuque iam non aliud ad nos invenitur laser, quam quod in Perside aut Media et Armenia nascitur large, sed multo infra Cyrenaicum, id quoque adulteratum cummi aut sacopenio aut faba fracta; quo minus omittendum videtur C. Valerio M. Herennio cos. Cyrenis advecta Romam publice laserpicii pondo XXX, Caesarem vero dictatorem initio belli civilis inter aurum argentumque protulisse ex aerario laserpicii pondo MD."
+      ],
+      "english": [
+        "Next in importance comes the much celebrated laserpicium, which the Greeks call silphion. It was found in the province of Cyrenaica. Its juice is called laser; it was highly prized for ordinary and medicinal uses and weighed against silver denarii.",
+        "For many years now it has not been found in that land, because the contractors who rent the pastures, finding greater profit in it, devastate the plant as fodder for their flocks. In our own time only one stalk was found, and it was sent to the emperor Nero. If an animal comes upon a growing shoot, one can tell: after eating it, a sheep immediately sleeps, while a goat sneezes repeatedly.",
+        "For a long time the only laser reaching us has been what grows abundantly in Persia, Media, and Armenia. It is much inferior to the Cyrenaic product, and even it is adulterated with gum, sagapenum, or ground beans. It should therefore be remembered that, in the consulship of Gaius Valerius and Marcus Herennius, thirty pounds of laserpicium were officially brought from Cyrene to Rome; and that Caesar, at the beginning of the civil war, brought out fifteen hundred pounds from the treasury along with gold and silver."
+      ],
+      "notes": [
+        "The damage attributed to pasture contractors is Pliny's explanation. His account gives no independently dated last specimen. Some English editions label this passage chapter 19.15.",
+        "Pliny distinguishes Cyrenaic laser from resin still imported from Persia, Media, and Armenia. The name of a product does not establish its botanical source."
+      ],
+      "note_targets": [
+        [
+          1,
+          "fodder for their flocks."
+        ],
+        [
+          2,
+          "Persia, Media, and Armenia."
+        ]
+      ],
+      "reading": [
+        "parejko",
+        "amigues",
+        "briggs"
+      ],
+      "neighbors": [
+        "theophrastus",
+        "pliny-medicine"
+      ]
+    },
+    "research": {
+      "reviewed_by": null,
+      "reviewed_on": null,
+      "novelty_status": "not_assessed",
+      "relationships": []
+    }
+  },
+  {
+    "id": "pliny-medicine",
+    "species_ids": [
+      "silphium"
+    ],
+    "authority_id": "pliny",
+    "page": "source-pliny-medicine.html",
+    "format": "bilingual",
+    "catalog": {
+      "anchor": "ref-pliny-22",
+      "sort_year": 77.1,
+      "sort_author": "Pliny",
+      "date_label": "c. 77 CE",
+      "heading_html": "<a class=\"catalog-author\" href=\"./authorities.html#pliny\">Pliny</a> <em>Natural History</em> 22.100–101",
+      "kind": "Medicine · Latin",
+      "href": "./source-pliny-medicine.html",
+      "link_label": "Read record ↗",
+      "aria_label": null,
+      "summary_html": "Describes medicinal uses and says the Cyrenaic variety is no longer available."
+    },
+    "authority_work": {
+      "label": "Natural History 22.100–101",
+      "href": "./source-pliny-medicine.html"
+    },
+    "content": {
+      "author": "Pliny the Elder",
+      "work": "Natural History 22.100–101",
+      "period": "First century CE",
+      "language": "Latin",
+      "scope": "Continuous passage, sections 100–101",
+      "summary": "Pliny compares imported silphium and lists uses of its leaf, root, and resin.",
+      "place": "Cyrenaica",
+      "place_note": "Cyrenaic product compared with Syrian, Parthian, and Median imports",
+      "original_source": "https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Pliny_the_Elder/22%2A.html",
+      "original_label": "Latin text at LacusCurtius",
+      "other_source": "https://www.perseus.tufts.edu/hopper/text?doc=Plin.+Nat.+22.100",
+      "other_label": "Passage at Perseus",
+      "original": [
+        "Imbribus proveniunt omnia haec, imbre et silphium venit primo, ut dictum est. ex Syria nunc hoc maxime inportatur, deterius Parthico, sed Medico melius, extincto omni Cyrenaico, ut diximus. usus silphii in medicamenta foliorum ad purgandas vulvas pellendosque emortuos partus; decocuntur in vino albo et odorato, ut bibatur mensura acetabuli a balineis. radix prodest arteriis exasperatis, collectionibus sanguinis inlinitur. sed in cibis concoquitur aegre, inflationes facit et ructus. urinae quoque noxia est, suggillatis cum vino et oleo amicissima et cum cera strumis. verrucae sedis crebriore eius suffitu cadunt.",
+        "Laser e silphio profluens quo diximus modo inter eximia naturae dona numeratum plurimis compositionibus inseritur, per se autem algores excalfacit, potum nervorum vitia extenuat. feminis datur in vino et lanis mollibus admovetur vulvae ad menses ciendos. pedum clavos circumscariphatos ferro mixtum cerae extrahit. urinam ciet ciceris magnitudine dilutum."
+      ],
+      "english": [
+        "All these plants come with rain, and silphium too first appeared after rain, as I have said. Now it is chiefly imported from Syria; it is poorer than the Parthian product but better than the Median, since all the Cyrenaic has disappeared, as noted earlier. The leaves of silphium are used in remedies to purge the womb and expel a dead fetus: they are boiled in fragrant white wine and an acetabulum measure is drunk after a bath. The root helps a roughened throat and is applied to collections of blood. As food it is hard to digest and causes flatulence and belching. It is also harmful to the urinary tract, but with wine and oil it is useful on bruises and with wax on swellings. Frequent fumigation with it removes anal warts.",
+        "Laser, the resin flowing from silphium in the way already described, is counted among nature's exceptional gifts and enters many preparations. By itself it warms those who are chilled; drunk, it eases disorders of the nerves. It is given to women in wine and applied to the womb on soft wool to bring on menstruation. Mixed with wax, it draws out corns on the feet after they have been scored with iron. A chickpea-sized amount diluted in water promotes urination."
+      ],
+      "notes": [
+        "Pliny's phrase extincto omni Cyrenaico follows his account in Book 19 of the Cyrenaic plant and its replacement in trade by imported resins."
+      ],
+      "note_targets": [
+        [
+          0,
+          "since all the Cyrenaic has disappeared"
+        ]
+      ],
+      "reading": [
+        "parejko",
+        "amigues",
+        "briggs"
+      ],
+      "neighbors": [
+        "pliny",
+        "synesius"
+      ]
+    },
+    "research": {
+      "reviewed_by": null,
+      "reviewed_on": null,
+      "novelty_status": "not_assessed",
+      "relationships": []
+    }
+  },
+  {
+    "id": "synesius",
+    "species_ids": [
+      "silphium"
+    ],
+    "authority_id": "synesius",
+    "page": "source-synesius.html",
+    "format": "bilingual",
+    "catalog": {
+      "anchor": "ref-synesius-106",
+      "sort_year": 402.0,
+      "sort_author": "Synesius",
+      "date_label": "402 CE",
+      "heading_html": "<a class=\"catalog-author\" href=\"./authorities.html#synesius\">Synesius</a> <em>Letter</em> 106",
+      "kind": "Letter · Greek",
+      "href": "./source-synesius.html",
+      "link_label": "Read record ↗",
+      "aria_label": "Read Synesius letter 106 source record",
+      "summary_html": "Discusses a silphium plant sent from his brother’s garden."
+    },
+    "authority_work": {
+      "label": "Letter 106",
+      "href": "./source-synesius.html"
+    },
+    "content": {
+      "author": "Synesius of Cyrene",
+      "work": "Letter 106",
+      "period": "Early fifth century CE",
+      "language": "Ancient Greek",
+      "scope": "Complete letter",
+      "summary": "Synesius asks whether his brother grew the silphium sent to him and praises the garden.",
+      "place": "Cyrenaica",
+      "place_note": "Regional context; town not stated in the letter",
+      "original_source": "https://eulogikon.org/works/synesius-cyrene-letters-nicander-sys-ah",
+      "original_label": "Greek text of Letter 106",
+      "other_source": "https://www.livius.org/sources/content/synesius/synesius-letter-106/",
+      "other_label": "Fitzgerald translation and context",
+      "original": [
+        "Ἠρόμην τὸ μειράκιον ὑπὲρ τοῦ σιλφίου πότερον ἀπὸ γεωργίας σοι γέγονεν, ἢ δῶρον λαβὼν ἔθου μερίδα κἀμοί. καὶ δῆτα μαθὼν ὡς τὸ σπουδαζόμενον ὑπὸ σοῦ κηπίον πρὸς ἅπασι καὶ τοῦτον ἐκόμισε τὸν καρπόν, ἥσθην διπλῇ, τῷ τε κάλλει τοῦ λαχάνου καὶ τῇ φήμῃ τοῦ τόπου.",
+        "ὄναιο τοῦ παμφόρου χωρίου, καὶ μήτε σὺ κάμοις ἐπαντλῶν ταῖς φιλτάταις πρασιαῖς, μήτ’ ἐκεῖναί ποτε πρὸς τὰς ὠδῖνας ἀπαγορεύσειαν, ἵν’ ἔχοις αὐτός τε χρῆσθαι καὶ ἡμῖν διαπέμπειν ὅσα φέρουσιν ὧραι."
+      ],
+      "english": [
+        "I asked the young man about the silphium: had it come to you from cultivation, or had you received it as a gift and set aside a portion for me? When I learned that the garden you care for had produced this yield too, along with everything else, I was pleased twice over: by the beauty of the plant and by the reputation of the place.",
+        "May you enjoy that fertile plot. May you not tire of watering your beloved beds, nor may they ever cease to produce, so that you have enough for yourself and can send us whatever the seasons bring."
+      ],
+      "notes": [
+        "The letter is addressed to Euoptius, Synesius's brother. It does not name the garden's town; a more specific location comes from other correspondence.",
+        "The Greek καρπός can mean fruit, produce, or yield. The name silphium alone does not identify this garden plant with the earlier Cyrenaic one."
+      ],
+      "note_targets": [
+        [
+          0,
+          "the garden you care for"
+        ],
+        [
+          0,
+          "this yield too"
+        ]
+      ],
+      "reading": [
+        "roques",
+        "amigues"
+      ],
+      "neighbors": [
+        "pliny-medicine",
+        null
+      ]
+    },
+    "research": {
+      "reviewed_by": null,
+      "reviewed_on": null,
+      "novelty_status": "not_assessed",
+      "relationships": []
+    }
+  },
+  {
+    "id": "silphium-synesius-134",
+    "species_ids": [
+      "silphium"
+    ],
+    "authority_id": "synesius",
+    "page": null,
+    "format": null,
+    "catalog": {
+      "anchor": "ref-synesius-134",
+      "sort_year": 405.0,
+      "sort_author": "Synesius",
+      "date_label": "405 CE",
+      "heading_html": "<a class=\"catalog-author\" href=\"./authorities.html#synesius\">Synesius</a> <em>Letter</em> 134",
+      "kind": "Letter · Greek",
+      "href": "https://www.livius.org/sources/content/synesius/synesius-letter-134/",
+      "link_label": "Read text ↗",
+      "aria_label": "Read Synesius letter 134",
+      "summary_html": "Lists silphium juice among gifts to be sent from Cyrene."
+    },
+    "authority_work": {
+      "label": "Letter 134",
+      "href": "./silphium.html#ref-synesius-134"
+    },
+    "content": null,
+    "research": {
+      "reviewed_by": null,
+      "reviewed_on": null,
+      "novelty_status": "not_assessed",
+      "relationships": []
+    }
+  },
+  {
+    "id": "martin",
+    "species_ids": [
+      "great-auk"
+    ],
+    "authority_id": "martin",
+    "page": "source-martin.html",
+    "format": "english",
+    "catalog": {
+      "anchor": "ref-martin",
+      "sort_year": 1698.0,
+      "sort_author": "Martin",
+      "date_label": "1698",
+      "heading_html": "<a class=\"catalog-author\" href=\"./authorities.html#martin\">Martin Martin</a> <em>A Late Voyage to St Kilda</em>, ch. II",
+      "kind": "Travel account · English",
+      "href": "./source-martin.html",
+      "link_label": "Read record ↗",
+      "aria_label": null,
+      "summary_html": "Describes the Gairfowl’s form, egg, flightlessness, and seasonal presence."
+    },
+    "authority_work": {
+      "label": "A Late Voyage to St Kilda, ch. II",
+      "href": "./source-martin.html"
+    },
+    "content": {
+      "author": "Martin Martin",
+      "work": "A Late Voyage to St Kilda, chapter II",
+      "period": "1698",
+      "place": "St Kilda",
+      "place_key": "st-kilda",
+      "summary": "Martin's description of the Gairfowl records its appearance, egg, inability to fly, and seasonal presence at St Kilda.",
+      "facsimile": null,
+      "edition": "A Late Voyage to St. Kilda, the Remotest of All the Hebrides. London: D. Brown and T. Goodwin, 1698, chapter II, p. 27.",
+      "primary": [
+        "Full text of chapter II",
+        "https://www.undiscoveredscotland.co.uk/usebooks/martin-stkilda/chapter02.html"
+      ],
+      "companion": [
+        "1698 edition record",
+        "https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp96344"
+      ],
+      "paragraphs": [
+        "The sea-fowls are, first, Gairfowl, being the stateliest, as well as the largest of all the fowls here, and above the size of a solan goose, of a black colour, red about the eyes, a large white spot under each eye, a long broad bill; stands stately, its whole body erected, its wings short, it flyeth not at all, lays its egg upon the bare rock, which, if taken away, it lays no more for that year; it is palmypes, or whole-footed, and has the hatching spot upon its breast, i.e., a bare spot from which the feathers have fallen off with the heat in hatching; its egg is twice as big as that of a solan goose, and is variously spotted, black, green, and dark; it comes without regard to any wind, appears the first of May, and goes away about the middle of June."
+      ],
+      "note_phrase": "Gairfowl",
+      "note": "Martin visited St Kilda in 1697. Pennant later drew on this description in British Zoology.",
+      "reading": [
+        "palsson",
+        "thomas"
+      ],
+      "neighbors": [
+        null,
+        "pennant"
+      ]
+    },
+    "research": {
+      "reviewed_by": null,
+      "reviewed_on": null,
+      "novelty_status": "not_assessed",
+      "relationships": []
+    }
+  },
+  {
+    "id": "pennant",
+    "species_ids": [
+      "great-auk"
+    ],
+    "authority_id": "pennant",
+    "page": "source-pennant.html",
+    "format": "english",
+    "catalog": {
+      "anchor": "ref-pennant",
+      "sort_year": 1776.0,
+      "sort_author": "Pennant",
+      "date_label": "1776",
+      "heading_html": "<a class=\"catalog-author\" href=\"./authorities.html#pennant\">Thomas Pennant</a> <em>British Zoology</em>, II.507–508",
+      "kind": "Natural history · English",
+      "href": "./source-pennant.html",
+      "link_label": "Read record ↗",
+      "aria_label": null,
+      "summary_html": "Names St Kilda and describes the bird’s egg, plumage, and flightless wings."
+    },
+    "authority_work": {
+      "label": "British Zoology, vol. II, 507–508",
+      "href": "./source-pennant.html"
+    },
+    "content": {
+      "author": "Thomas Pennant",
+      "work": "British Zoology, vol. II, pp. 507–508",
+      "period": "1776",
+      "place": "St Kilda",
+      "place_key": "st-kilda",
+      "summary": "A description of the great auk’s body and breeding season, drawing on Martin Martin’s account of St Kilda.",
+      "facsimile": "pennant-507.webp",
+      "facsimile_alt": "Page 507 of Pennant's British Zoology, headed Great Auk",
+      "facsimile_caption": "Pennant, British Zoology, II.507. Scan via Internet Archive / Biodiversity Heritage Library.",
+      "edition": "Fourth edition. Warrington: William Eyres for Benjamin White, 1776. Volume II, pages 507–508; plate LXXXI.",
+      "primary": [
+        "Scanned volume",
+        "https://archive.org/details/britishzoology21penn"
+      ],
+      "companion": [
+        "Martin Martin’s St Kilda account",
+        "https://www.undiscoveredscotland.co.uk/usebooks/martin-stkilda/chapter02.html"
+      ],
+      "paragraphs": [
+        "According to Mr. Martin, this bird breeds on the isle of St. Kilda, appearing there the beginning of May, and retiring the middle of June. It lays one egg, which is six inches long, of a white color; some are irregularly marked with purplish lines crossing each other, others blotched with black and ferruginous about the thicker end: if the egg is taken away, it will not lay another that season.",
+        "A late writer informs us, that it does not visit that island annually, but sometimes keeps away for several years together; and adds, that it lays its egg close to the sea-mark; being incapable, by reason of the shortness of its wings, to mount higher.",
+        "The length of this bird, to the end of its toes, is three feet; the bill, to the corner of the mouth, four inches and a quarter: part of the upper mandible is covered with short, black, velvet-like feathers; it is very strong, compressed and marked with several furrows that tally both above and below: between the eyes and the bill on each side is a large white spot: the rest of the head, the neck, back, tail and wings, are of a glossy black: the tips of the lesser quill-feathers white: the whole under side of the body white: the legs black. The wings of this bird are so small, as to be useless for flight: the length, from the tip of the longest quill-feathers to the first joint, being only four inches and a quarter."
+      ],
+      "note_phrase": "According to Mr. Martin",
+      "note": "Pennant cites Martin Martin, A Late Voyage to St Kilda (1698), p. 27, for this breeding account.",
+      "reading": [
+        "palsson",
+        "thomas"
+      ],
+      "neighbors": [
+        "martin",
+        "cartwright"
+      ]
+    },
+    "research": {
+      "reviewed_by": null,
+      "reviewed_on": null,
+      "novelty_status": "not_assessed",
+      "relationships": []
+    }
+  },
+  {
+    "id": "cartwright",
+    "species_ids": [
+      "great-auk"
+    ],
+    "authority_id": "cartwright",
+    "page": "source-cartwright.html",
+    "format": "english",
+    "catalog": {
+      "anchor": "ref-cartwright",
+      "sort_year": 1792.0,
+      "sort_author": "Cartwright",
+      "date_label": "1785 / 1792",
+      "heading_html": "<a class=\"catalog-author\" href=\"./authorities.html#cartwright\">George Cartwright</a> <em>Journal</em>, III.55",
+      "kind": "Journal · English",
+      "href": "./source-cartwright.html",
+      "link_label": "Read record ↗",
+      "aria_label": null,
+      "summary_html": "A boat of birds arrives from Funk Island; Cartwright describes the feather harvest."
+    },
+    "authority_work": {
+      "label": "Journal, 5 July 1785",
+      "href": "./source-cartwright.html"
+    },
+    "content": {
+      "author": "George Cartwright",
+      "work": "Journal, vol. III, p. 55",
+      "period": "5 July 1785 · published 1792",
+      "place": "Funk Island",
+      "place_key": "funk-island",
+      "summary": "A boat of birds from Funk Island prompts Cartwright’s account of harvesting for food, eggs, and feathers.",
+      "facsimile": "cartwright-55.webp",
+      "facsimile_alt": "Page 55 of Cartwright's 1792 journal describing Funk Island and its penguins",
+      "facsimile_caption": "Cartwright, Journal, III.55. Scan via Canadiana.org / Biodiversity Heritage Library.",
+      "edition": "A Journal of Transactions and Events during a Residence of Nearly Sixteen Years on the Coast of Labrador. Newark: Allin and Ridge, 1792. Volume III, page 55; entry for 5 July 1785.",
+      "primary": [
+        "Scanned volume III",
+        "https://www.biodiversitylibrary.org/item/101679"
+      ],
+      "companion": [
+        "BHL text of volume III",
+        "https://www.biodiversitylibrary.org/itemtext/101679"
+      ],
+      "paragraphs": [
+        "This morning I had my boat moved nearer to the Lyon, and we spent the day on board that vessel. In the evening the Stag, a brig of Mr. Slade’s, sailed for a market with old fish. A boat came in from Funk Island laden with birds, chiefly penguins.",
+        "Funk Island is a small flat island-rock, about twenty leagues east of the island of Fogo, in the latitude of 50° north. Innumerable flocks of sea-fowl breed upon it every summer, which are of great service to the poor inhabitants of Fogo; who make voyages there to load with birds and eggs. When the water is smooth, they make their shallop fast to the shore, lay their gang-boards from the gunwale of the boat to the rocks, and then drive as many penguins on board, as she will hold; for, the wings of those birds being remarkably short, they cannot fly.",
+        "But it has been customary of late years, for several crews of men to live all the summer on that island, for the sole purpose of killing birds for the sake of their feathers, the destruction which they have made is incredible. If a stop is not soon put to that practice, the whole breed will be diminished to almost nothing, particularly the penguins: for this is now the only island they have left to breed upon; all others lying so near to the shores of Newfoundland, they are continually robbed. The birds which the people bring from thence, they salt and eat, in lieu of salted pork."
+      ],
+      "note_phrase": "penguins",
+      "note": "In this North Atlantic passage, Cartwright’s “penguins” are great auks, Pinguinus impennis.",
+      "reading": [
+        "lucas",
+        "thomas"
+      ],
+      "neighbors": [
+        "pennant",
+        "newton"
+      ]
+    },
+    "research": {
+      "reviewed_by": null,
+      "reviewed_on": null,
+      "novelty_status": "not_assessed",
+      "relationships": []
+    }
+  },
+  {
+    "id": "newton",
+    "species_ids": [
+      "great-auk"
+    ],
+    "authority_id": "newton",
+    "page": "source-newton.html",
+    "format": "english",
+    "catalog": {
+      "anchor": "ref-newton",
+      "sort_year": 1861.0,
+      "sort_author": "Newton",
+      "date_label": "1844 / 1861",
+      "heading_html": "<a class=\"catalog-author\" href=\"./authorities.html#newton\">Alfred Newton</a> <em>Ibis</em> 3:390–392",
+      "kind": "Ornithology · English",
+      "href": "./source-newton.html",
+      "link_label": "Read record ↗",
+      "aria_label": null,
+      "summary_html": "Names and interviews members of the party that captured two auks on Eldey."
+    },
+    "authority_work": {
+      "label": "Wolley’s researches, Ibis (1861)",
+      "href": "./source-newton.html"
+    },
+    "content": {
+      "author": "Alfred Newton",
+      "work": "Ibis 3 (1861): 390–392",
+      "period": "1861 · 1844 testimony",
+      "place": "Eldey",
+      "place_key": "eldey",
+      "summary": "Newton reports the 1844 capture on Eldey from interviews conducted with John Wolley in Iceland.",
+      "facsimile": "newton-391.webp",
+      "facsimile_alt": "Page 391 of Newton's 1861 article describing the 1844 Eldey capture",
+      "facsimile_caption": "Newton, Ibis 3 (1861), p. 391. Scan via BioStor / Biodiversity Heritage Library.",
+      "edition": "“Abstract of Mr. J. Wolley’s Researches in Iceland respecting the Gare-fowl or Great Auk.” Ibis 3, no. 4 (October 1861): 374–399; passage on pages 390–392.",
+      "primary": [
+        "Article and page scans",
+        "https://biostor.org/reference/292413"
+      ],
+      "companion": [
+        "Article DOI",
+        "https://doi.org/10.1111/j.1474-919X.1861.tb08857.x"
+      ],
+      "paragraphs": [
+        "The party consisted of fourteen men: two of these are dead, but with all the remaining twelve we conversed. They were commanded, as I have just said, by Vilhjalmur, and started in an eight-oared boat from Kyrkjuvogr, one evening between the 2nd and 5th of June, 1844. The next morning early they arrived off Eldey.",
+        "In form the island is a precipitous stack, perpendicular nearly all round. The most lofty part has been variously estimated to be from fifty to seventy fathoms in height; but on the opposite side a shelf (generally known as the ‘Underland’) slopes up from the sea to a considerable elevation, until it is terminated abruptly by the steep cliff of the higher portion. At the foot of this inclined plane is the only landing-place; and further up, out of the reach of the waves, is the spot where the Gare-fowls had their home.",
+        "In this expedition but three men ascended: Jon Brandsson, a son of the former leader, who had several times before visited the rock, with Sigurðr Islefsson and Ketil Ketilsson. A fourth, who was called upon to assist, refused, so dangerous did the landing seem. As the men I have named clambered up, they saw two Gare-fowls sitting among the numberless other rock-birds (Uria troile and Alca torda), and at once gave chase.",
+        "The Gare-fowls showed not the slightest disposition to repel the invaders, but immediately ran along under the high cliff, their heads erect, their little wings somewhat extended. They uttered no cry of alarm, and moved, with their short steps, about as quickly as a man could walk. Jon with outstretched arms drove one into a corner, where he soon had it fast. Sigurðr and Ketil pursued the second, and the former seized it close to the edge of the rock, here risen to a precipice some fathoms high, the water being directly below it. Ketil then returned to the sloping shelf whence the birds had started, and saw an egg lying on the lava slab, which he knew to be a Gare-fowl’s. He took it up, but finding it was broken, put it down again. Whether there was not also another egg is uncertain. All this took place in much less time than it takes to tell it. They hurried down again, for the wind was rising."
+      ],
+      "note_phrase": "with all the remaining twelve we conversed",
+      "note": "Newton and Wolley conducted these interviews during their 1858 Iceland visit. The passage was published after Wolley’s death.",
+      "reading": [
+        "palsson",
+        "birkhead"
+      ],
+      "neighbors": [
+        "cartwright",
+        "lucas"
+      ],
+      "reader": {
+        "byline_html": "<i>Ibis</i> 3, no. 4 (1861) · pp. 390–392",
+        "article_title": "“Abstract of Mr. J. Wolley’s Researches in Iceland respecting the Gare-fowl or Great Auk.”",
+        "passage_label": "English · pp. 390–392",
+        "dates": [
+          {
+            "label": "Reported event",
+            "date": "June 1844",
+            "detail_html": "Departure between 2 and 5 June; arrival the following morning"
+          },
+          {
+            "label": "Interviews",
+            "date": "1858",
+            "detail_html": "Newton and Wolley’s Iceland visit<sup><a href=\"#fn-1\" aria-label=\"Note 1\">1</a></sup>"
+          },
+          {
+            "label": "Publication",
+            "date": "October 1861",
+            "detail_html": "<i>Ibis</i> 3, no. 4 · article pp. 374–399"
+          }
+        ],
+        "edition_html": "Alfred Newton, “Abstract of Mr. J. Wolley’s Researches in Iceland respecting the Gare-fowl or Great Auk.” <i>Ibis</i> 3, no. 4 (October 1861): 374–399. Selected passage: 390–392.",
+        "citation_html": "Newton, Alfred. “Abstract of Mr. J. Wolley’s Researches in Iceland respecting the Gare-fowl or Great Auk.” <i>Ibis</i> 3, no. 4 (1861): 374–399, especially 390–392. https://doi.org/10.1111/j.1474-919X.1861.tb08857.x.",
+        "breadcrumb_label": "Newton, 1861",
+        "portrait_alt": "Later representation of Alfred Newton; attribution in the Authorities index",
+        "scan_alt": "Page 391 of Newton’s 1861 article",
+        "scan_caption": "Alfred Newton, <i>Ibis</i> 3 (1861), p. 391.<br>Scan via BioStor / Biodiversity Heritage Library.",
+        "dialog_title": "Newton · <i>Ibis</i>, 1861 · p. 391",
+        "scan_button_label": "Enlarge page 391",
+        "enlarged_alt": "Enlarged scan of page 391",
+        "related_label": "Related source: Cartwright, 1785 ↗",
+        "companion_label": "DOI: 10.1111/j.1474-919X.1861.tb08857.x"
+      }
+    },
+    "research": {
+      "reviewed_by": null,
+      "reviewed_on": null,
+      "novelty_status": "not_assessed",
+      "relationships": []
+    }
+  },
+  {
+    "id": "lucas",
+    "species_ids": [
+      "great-auk"
+    ],
+    "authority_id": "lucas",
+    "page": "source-lucas.html",
+    "format": "english",
+    "catalog": {
+      "anchor": "ref-lucas",
+      "sort_year": 1888.0,
+      "sort_author": "Lucas",
+      "date_label": "1887 / 1888",
+      "heading_html": "<a class=\"catalog-author\" href=\"./authorities.html#lucas\">Frederic A. Lucas</a> <em>Expedition to Funk Island</em>, 505–507",
+      "kind": "Field report · English",
+      "href": "./source-lucas.html",
+      "link_label": "Read record ↗",
+      "aria_label": null,
+      "summary_html": "Maps the former breeding ground from island terrain, vegetation, and surviving bones."
+    },
+    "authority_work": {
+      "label": "The Expedition to Funk Island, pp. 505–507",
+      "href": "./source-lucas.html"
+    },
+    "content": {
+      "author": "Frederic A. Lucas",
+      "work": "The Expedition to Funk Island, pp. 505–507",
+      "period": "1888 report",
+      "place": "Funk Island",
+      "place_key": "funk-island",
+      "summary": "Lucas describes the 1887 museum expedition to Funk Island and locates the great auk's former breeding ground through the terrain and surviving bones.",
+      "facsimile": null,
+      "edition": "“The Expedition to Funk Island, with Observations upon the History and Anatomy of the Great Auk.” Report of the United States National Museum for 1888, pp. 493–529, plates LXXI–LXXIII; field visit in July 1887.",
+      "primary": [
+        "Smithsonian report PDF",
+        "https://repository.si.edu/bitstream/handle/10088/29937/1888_Lucas_493-530.pdf"
+      ],
+      "companion": [
+        "Smithsonian catalog record",
+        "https://repository.si.edu/items/c6fcb913-d880-4975-8af9-9f11ce64198f"
+      ],
+      "paragraphs": [
+        "Leaving St. John's on the morning of July 21, we sailed northward toward Cape Bonavista, a headland that still bears its original appellation, following almost exactly the track pursued by Cartier's vessels more than three centuries ago. Daybreak on the morning of the 22d found us in sight of Funk Island, but the wind was so light that not until noon were we near enough for a boat to be lowered and a start made for the shore.",
+        "The best landing is at a spot termed ‘The Bench,’ lying a hundred yards or so to the west of the northeastern or Escape Point, and toward this portion of the island, where from time immemorial man had landed to despoil the feathered inhabitants, we directed our course.",
+        "A large portion of the southern and most extensive swell of rock is thickly covered with vegetation, this, the former breeding ground of the Great Auk, being mapped out in vivid green by the plants nourished by the decomposed bodies and slowly decomposing bones of the long extinct bird. It would seem that the Auk inhabited every accessible foot of ground, the inability of the bird to fly restricting it of necessity to such portions of the island as could be reached after a landing had been effected on the northerly or southerly slope."
+      ],
+      "note_phrase": "former breeding ground of the Great Auk",
+      "note": "Lucas's observations come from a July 1887 visit. The report includes a map and three plates of island topography and specimens.",
+      "reading": [
+        "palsson",
+        "thomas"
+      ],
+      "neighbors": [
+        "newton",
+        null
+      ]
+    },
+    "research": {
+      "reviewed_by": null,
+      "reviewed_on": null,
+      "novelty_status": "not_assessed",
+      "relationships": []
+    }
+  },
+  {
+    "id": "clusius",
+    "species_ids": [
+      "dodo"
+    ],
+    "authority_id": "clusius",
+    "page": "source-clusius.html",
+    "format": "reader",
+    "catalog": {
+      "anchor": "ref-clusius",
+      "sort_year": 1605,
+      "sort_author": "Carolus Clusius",
+      "date_label": "1605",
+      "heading_html": "<a href=\"./authorities.html#clusius\">Carolus Clusius</a>, <i>Exoticorum libri decem</i>",
+      "kind": "Latin / English",
+      "href": "./source-clusius.html",
+      "link_label": "Read record ↗",
+      "aria_label": null,
+      "summary_html": "Dodo leg examined in Leiden; Latin text and English translation."
+    },
+    "authority_work": {
+      "label": "Exoticorum libri decem",
+      "href": "./source-clusius.html"
+    },
+    "content": {
+      "author": "Carolus Clusius",
+      "work": "Exoticorum libri decem",
+      "period": "1605",
+      "place": "Leiden",
+      "place_key": "leiden",
+      "summary": "Dodo leg examined in Leiden; Latin text and English translation.",
+      "facsimile": "clusius-100.webp",
+      "facsimile_path": "./assets/dodo-facsimiles/clusius-100.webp",
+      "edition": "Carolus Clusius, Exoticorum libri decem (1605), p. 100.",
+      "primary": [
+        "Internet Archive · digitized edition",
+        "https://archive.org/details/clusius/page/100/mode/1up"
+      ],
+      "companion": [
+        "The Dodo and Its Kindred (1848)",
+        "https://archive.org/details/dodoitskindredor00stri"
+      ],
+      "paragraphs": [
+        "Verumenimverò, concinnatâ & descriptâ jam quâ potui fide hujus avis historiâ, illius crus genu tenus rescissum, apud Cl. V. Petrum Pawium, primarium artis Medicæ in Academia Lugduno-Batava Professorem videre contigit recens è Mauritii Insula relatum."
+      ],
+      "note_phrase": "",
+      "note": "",
+      "reading": [
+        "strickland-clusius"
+      ],
+      "neighbors": [
+        null,
+        "herbert"
+      ],
+      "language": "la",
+      "scans": [
+        {
+          "src": "./assets/dodo-facsimiles/clusius-100.webp",
+          "label": "1605 · p. 100",
+          "caption": "Clusius, 1605, p. 100.",
+          "url": "https://archive.org/details/clusius/page/100/mode/1up"
+        },
+        {
+          "src": "./assets/dodo-facsimiles/translation-125.webp",
+          "label": "English · p. 125",
+          "caption": "Strickland & Melville, 1848, p. 125.",
+          "url": "https://archive.org/details/dodoitskindredor00stri/page/125/mode/1up"
+        }
+      ],
+      "reader": {
+        "byline_html": "<a href=\"./authorities.html#clusius\">Carolus Clusius</a> · 1526–1609",
+        "article_title": "Exoticorum libri decem",
+        "passage_label": "p. 100 · extract",
+        "dates": [
+          {
+            "label": "Publication",
+            "date": "1605",
+            "detail_html": "Printed edition"
+          },
+          {
+            "label": "Place in account",
+            "date": "Leiden",
+            "detail_html": "Specimen from Mauritius"
+          }
+        ],
+        "edition_html": "Carolus Clusius, Exoticorum libri decem (1605), p. 100.",
+        "citation_html": "Carolus Clusius, Exoticorum libri decem (1605), p. 100.",
+        "breadcrumb_label": "Clusius",
+        "portrait_alt": "Typographic initials; no portrait used",
+        "scan_alt": "Clusius, 1605, p. 100.",
+        "scan_caption": "Clusius, 1605, p. 100.",
+        "dialog_title": "Clusius, 1605, p. 100.",
+        "scan_button_label": "Enlarge Clusius, 1605, p. 100.",
+        "enlarged_alt": "Clusius, 1605, p. 100.",
+        "related_label": "Previous source ↗"
+      },
+      "translation": [
+        "After I had written down the history of this bird as well as I could, I happened to see in the house of Peter Pawius, Professor of Medicine in the University of Leyden, a leg cut off at the knee, and recently brought from Mauritius."
+      ],
+      "translation_credit_html": "English: <a href=\"https://archive.org/details/dodoitskindredor00stri/page/125/mode/1up\">Strickland &amp; Melville, 1848, p. 125 ↗</a>."
+    },
+    "research": {
+      "reviewed_by": "Codex; visual comparison with printed scans",
+      "reviewed_on": "2026-10-02",
+      "novelty_status": "established",
+      "relationships": []
+    }
+  },
+  {
+    "id": "herbert",
+    "species_ids": [
+      "dodo"
+    ],
+    "authority_id": "herbert",
+    "page": "source-herbert.html",
+    "format": "reader",
+    "catalog": {
+      "anchor": "ref-herbert",
+      "sort_year": 1634,
+      "sort_author": "Thomas Herbert",
+      "date_label": "1634",
+      "heading_html": "<a href=\"./authorities.html#herbert\">Thomas Herbert</a>, <i>A relation of some yeares travaile</i>",
+      "kind": "English",
+      "href": "./source-herbert.html",
+      "link_label": "Read record ↗",
+      "aria_label": null,
+      "summary_html": "Dodo description and illustration in the 1634 edition."
+    },
+    "authority_work": {
+      "label": "A relation of some yeares travaile",
+      "href": "./source-herbert.html"
+    },
+    "content": {
+      "author": "Thomas Herbert",
+      "work": "A relation of some yeares travaile",
+      "period": "1634",
+      "place": "Mauritius",
+      "place_key": "mauritius",
+      "summary": "Dodo description and illustration in the 1634 edition.",
+      "facsimile": "herbert-211.webp",
+      "facsimile_path": "./assets/dodo-facsimiles/herbert-211.webp",
+      "edition": "Thomas Herbert, A relation of some yeares travaile, begunne anno 1626 (London: W. Stansby and J. Bloome, 1634), pp. 211–212.",
+      "primary": [
+        "Internet Archive · digitized edition",
+        "https://archive.org/details/b30326825/page/211/mode/1up"
+      ],
+      "companion": [
+        "The Dodo and Its Kindred (1848)",
+        "https://archive.org/details/dodoitskindredor00stri"
+      ],
+      "paragraphs": [
+        "First, here and here only and in Dygarroys, is generated the Dodo, which for shape and rarenesse may Antigonize the Phœnix of Arabia, her body is round and fat, few weigh lesse then fifty pound. are reputed of more for wonder then food, greasie stomackes may seeke after them, but to the delicate, they are offensiue and of no nourishment.",
+        "Her visage darts forth melancholy, as sensible of Natures injurie, in framing so great a body, to be guided with complementall wings, so small and impotent, that they serue only to proue her Bird.",
+        "The halfe of her head is naked, seeming couered with a fine vaile, her bill is crooked downwards, in midst is the thrill, from which part to the end tis of a light greene, mixt with a pale yellow tincture; her eyes are small, and like to Diamonds round and rowling: her clothing downy feathers, her traine three small plumes short and inproportionable, her legs suting to her body, her pounces sharpe, her appetite strong and greedy, Stones and Iron are digested, which description, will better be conceiued in her representation."
+      ],
+      "note_phrase": "Dygarroys",
+      "note": "Dygarroys is Rodrigues, home of the solitaire. Herbert’s geographical attribution is discussed in Strickland and Melville, The Dodo and Its Kindred (1848), pp. 19–21.",
+      "reading": [
+        "strickland-herbert"
+      ],
+      "neighbors": [
+        "clusius",
+        "lestrange"
+      ],
+      "language": "en",
+      "scans": [
+        {
+          "src": "./assets/dodo-facsimiles/herbert-211.webp",
+          "label": "p. 211",
+          "caption": "Herbert, 1634, p. 211. Wellcome Library.",
+          "url": "https://archive.org/details/b30326825/page/211/mode/1up"
+        },
+        {
+          "src": "./assets/dodo-facsimiles/herbert-212.webp",
+          "label": "p. 212 · illustration",
+          "caption": "Herbert, 1634, p. 212. Wellcome Library.",
+          "url": "https://archive.org/details/b30326825/page/212/mode/1up"
+        }
+      ],
+      "reader": {
+        "byline_html": "<a href=\"./authorities.html#herbert\">Thomas Herbert</a> · 1606–1682",
+        "article_title": "A relation of some yeares travaile",
+        "passage_label": "p. 211",
+        "dates": [
+          {
+            "label": "Publication",
+            "date": "1634",
+            "detail_html": "Printed edition"
+          },
+          {
+            "label": "Place in account",
+            "date": "Mauritius",
+            "detail_html": "Island account"
+          }
+        ],
+        "edition_html": "Thomas Herbert, A relation of some yeares travaile, begunne anno 1626 (London: W. Stansby and J. Bloome, 1634), pp. 211–212.",
+        "citation_html": "Thomas Herbert, A relation of some yeares travaile, begunne anno 1626 (London: W. Stansby and J. Bloome, 1634), pp. 211–212.",
+        "breadcrumb_label": "Herbert",
+        "portrait_alt": "Typographic initials; no portrait used",
+        "scan_alt": "Herbert, 1634, p. 211. Wellcome Library.",
+        "scan_caption": "Herbert, 1634, p. 211. Wellcome Library.",
+        "dialog_title": "Herbert, 1634, p. 211. Wellcome Library.",
+        "scan_button_label": "Enlarge Herbert, 1634, p. 211. Wellcome Library.",
+        "enlarged_alt": "Herbert, 1634, p. 211. Wellcome Library.",
+        "related_label": "Previous source ↗"
+      }
+    },
+    "research": {
+      "reviewed_by": "Codex; visual comparison with printed scans",
+      "reviewed_on": "2026-10-02",
+      "novelty_status": "established",
+      "relationships": []
+    }
+  },
+  {
+    "id": "lestrange",
+    "species_ids": [
+      "dodo"
+    ],
+    "authority_id": "lestrange",
+    "page": "source-lestrange.html",
+    "format": "reader",
+    "catalog": {
+      "anchor": "ref-lestrange",
+      "sort_year": 1638,
+      "sort_author": "Hamon L’Estrange",
+      "date_label": "c. 1638",
+      "heading_html": "<a href=\"./authorities.html#lestrange\">Hamon L’Estrange</a>, <i>Annotations on Thomas Browne</i>",
+      "kind": "English",
+      "href": "./source-lestrange.html",
+      "link_label": "Read record ↗",
+      "aria_label": null,
+      "summary_html": "Account of a captive dodo in London, about 1638."
+    },
+    "authority_work": {
+      "label": "Annotations on Thomas Browne",
+      "href": "./source-lestrange.html"
+    },
+    "content": {
+      "author": "Hamon L’Estrange",
+      "work": "Annotations on Thomas Browne",
+      "period": "1848",
+      "place": "London",
+      "place_key": "london",
+      "summary": "Account of a captive dodo in London, about 1638.",
+      "facsimile": "lestrange-22.webp",
+      "facsimile_path": "./assets/dodo-facsimiles/lestrange-22.webp",
+      "edition": "Hamon L’Estrange, annotations on Thomas Browne, Sloane MS 1839; printed in H. E. Strickland and A. G. Melville, The Dodo and Its Kindred (London: Reeve, Benham, and Reeve, 1848), p. 22.",
+      "primary": [
+        "Internet Archive · digitized edition",
+        "https://archive.org/details/dodoitskindredor00stri/page/22/mode/1up"
+      ],
+      "companion": [
+        "The Dodo and Its Kindred (1848)",
+        "https://archive.org/details/dodoitskindredor00stri"
+      ],
+      "paragraphs": [
+        "About 1638, as I walked London streets, I saw the picture of a strange fowle hong out upon a cloth, [hiatus in the MS.] and myselfe with one or two more then in company went in to see it. It was kept in a chamber, and was a great fowle somewhat bigger than the largest Turky Cock, and so legged and footed, but stouter and thicker and of a more erect shape, coloured before like the breast of a yong cock fesan, and on the back of dunn or deare coulour. The keeper called it a Dodo, and in the ende of a chymney in the chamber there lay a heape of large pebble stones, whereof hee gave it many in our sight, some as bigg as nutmegs, and the keeper told us shee eats them (conducing to digestion), and though I remember not how farr the keeper was questioned therein, yet I am confident that afterwards shee cast them all againe."
+      ],
+      "note_phrase": "[hiatus in the MS.]",
+      "note": "Bracketed gap as printed in the 1848 transcription.",
+      "reading": [
+        "strickland-lestrange"
+      ],
+      "neighbors": [
+        "herbert",
+        "cauche"
+      ],
+      "language": "en",
+      "scans": [
+        {
+          "src": "./assets/dodo-facsimiles/lestrange-22.webp",
+          "label": "1848 · p. 22",
+          "caption": "Strickland & Melville, 1848, p. 22. Smithsonian Libraries.",
+          "url": "https://archive.org/details/dodoitskindredor00stri/page/22/mode/1up"
+        }
+      ],
+      "reader": {
+        "byline_html": "<a href=\"./authorities.html#lestrange\">Hamon L’Estrange</a> · 1583–1654",
+        "article_title": "Annotations on Thomas Browne",
+        "passage_label": "p. 22",
+        "dates": [
+          {
+            "label": "Publication",
+            "date": "1848",
+            "detail_html": "Printed edition"
+          },
+          {
+            "label": "Place in account",
+            "date": "London",
+            "detail_html": "Captive bird · c. 1638"
+          }
+        ],
+        "edition_html": "Hamon L’Estrange, annotations on Thomas Browne, Sloane MS 1839; printed in H. E. Strickland and A. G. Melville, The Dodo and Its Kindred (London: Reeve, Benham, and Reeve, 1848), p. 22.",
+        "citation_html": "Hamon L’Estrange, annotations on Thomas Browne, Sloane MS 1839; printed in H. E. Strickland and A. G. Melville, The Dodo and Its Kindred (London: Reeve, Benham, and Reeve, 1848), p. 22.",
+        "breadcrumb_label": "Lestrange",
+        "portrait_alt": "Typographic initials; no portrait used",
+        "scan_alt": "Strickland & Melville, 1848, p. 22. Smithsonian Libraries.",
+        "scan_caption": "Strickland & Melville, 1848, p. 22. Smithsonian Libraries.",
+        "dialog_title": "Strickland & Melville, 1848, p. 22. Smithsonian Libraries.",
+        "scan_button_label": "Enlarge Strickland & Melville, 1848, p. 22. Smithsonian Libraries.",
+        "enlarged_alt": "Strickland & Melville, 1848, p. 22. Smithsonian Libraries.",
+        "related_label": "Previous source ↗"
+      }
+    },
+    "research": {
+      "reviewed_by": "Codex; visual comparison with printed scans",
+      "reviewed_on": "2026-10-02",
+      "novelty_status": "established",
+      "relationships": []
+    }
+  },
+  {
+    "id": "cauche",
+    "species_ids": [
+      "dodo"
+    ],
+    "authority_id": "cauche",
+    "page": "source-cauche.html",
+    "format": "reader",
+    "catalog": {
+      "anchor": "ref-cauche",
+      "sort_year": 1651,
+      "sort_author": "François Cauche",
+      "date_label": "1651",
+      "heading_html": "<a href=\"./authorities.html#cauche\">François Cauche</a>, <i>Relation du voyage</i>",
+      "kind": "French / English",
+      "href": "./source-cauche.html",
+      "link_label": "Read record ↗",
+      "aria_label": null,
+      "summary_html": "Mauritius birds, eggs, and nests; French text and English translation."
+    },
+    "authority_work": {
+      "label": "Relation du voyage",
+      "href": "./source-cauche.html"
+    },
+    "content": {
+      "author": "François Cauche",
+      "work": "Relation du voyage",
+      "period": "1651",
+      "place": "Mauritius",
+      "place_key": "mauritius",
+      "summary": "Mauritius birds, eggs, and nests; French text and English translation.",
+      "facsimile": "cauche-131.webp",
+      "facsimile_path": "./assets/dodo-facsimiles/cauche-131.webp",
+      "edition": "François Cauche, Relation du voyage, in Relations veritables et curieuses de l’isle de Madagascar, et du Bresil (Paris: Augustin Courbé, 1651), pp. 130–131.",
+      "primary": [
+        "Internet Archive · digitized edition",
+        "https://archive.org/details/relationsveritab00unkn/page/131/mode/1up"
+      ],
+      "companion": [
+        "The Dodo and Its Kindred (1848)",
+        "https://archive.org/details/dodoitskindredor00stri"
+      ],
+      "paragraphs": [
+        "Ils ne font qu’vn œuf, blanc, gros comme vn pain d’vn sol, contre lequel ils mettent vne pierre blanche de la grosseur d’vn œuf de poules. Ils ponnent sur de l’herbe qu’ils amassent, & font leurs nids dans les forests, si on tuë le petit, on trouue vne pierre grise dans son gesier, nous les appellions, oiseaux de Nazaret. La graisse est excellente pour adoucir les muscles, & nerfs."
+      ],
+      "note_phrase": "oiseaux de Nazaret",
+      "note": "Identification with the dodo is disputed: the preceding description gives three toes and no tongue. See Strickland and Melville (1848), pp. 21–22. Marginal notes are visible in the scan.",
+      "reading": [
+        "strickland-cauche"
+      ],
+      "neighbors": [
+        "lestrange",
+        null
+      ],
+      "language": "fr",
+      "scans": [
+        {
+          "src": "./assets/dodo-facsimiles/cauche-131.webp",
+          "label": "p. 131",
+          "caption": "Cauche, 1651, p. 131. John Carter Brown Library.",
+          "url": "https://archive.org/details/relationsveritab00unkn/page/131/mode/1up"
+        },
+        {
+          "src": "./assets/dodo-facsimiles/cauche-130.webp",
+          "label": "p. 130",
+          "caption": "Cauche, 1651, p. 130. John Carter Brown Library.",
+          "url": "https://archive.org/details/relationsveritab00unkn/page/130/mode/1up"
+        },
+        {
+          "src": "./assets/dodo-facsimiles/translation-126.webp",
+          "label": "English · p. 126",
+          "caption": "Strickland & Melville, 1848, p. 126.",
+          "url": "https://archive.org/details/dodoitskindredor00stri/page/126/mode/1up"
+        }
+      ],
+      "reader": {
+        "byline_html": "<a href=\"./authorities.html#cauche\">François Cauche</a> · fl. 1630s–1651",
+        "article_title": "Relation du voyage",
+        "passage_label": "p. 131 · extract",
+        "dates": [
+          {
+            "label": "Publication",
+            "date": "1651",
+            "detail_html": "Printed edition"
+          },
+          {
+            "label": "Place in account",
+            "date": "Mauritius",
+            "detail_html": "Island account"
+          }
+        ],
+        "edition_html": "François Cauche, Relation du voyage, in Relations veritables et curieuses de l’isle de Madagascar, et du Bresil (Paris: Augustin Courbé, 1651), pp. 130–131.",
+        "citation_html": "François Cauche, Relation du voyage, in Relations veritables et curieuses de l’isle de Madagascar, et du Bresil (Paris: Augustin Courbé, 1651), pp. 130–131.",
+        "breadcrumb_label": "Cauche",
+        "portrait_alt": "Typographic initials; no portrait used",
+        "scan_alt": "Cauche, 1651, p. 131. John Carter Brown Library.",
+        "scan_caption": "Cauche, 1651, p. 131. John Carter Brown Library.",
+        "dialog_title": "Cauche, 1651, p. 131. John Carter Brown Library.",
+        "scan_button_label": "Enlarge Cauche, 1651, p. 131. John Carter Brown Library.",
+        "enlarged_alt": "Cauche, 1651, p. 131. John Carter Brown Library.",
+        "related_label": "Previous source ↗"
+      },
+      "translation": [
+        "They only lay one egg which is white, the size of a halfpenny roll, by the side of which they place a white stone the size of a hen’s egg. They lay on grass which they collect, and make their nests in the forests; if one kills the young one, a grey stone is found in the gizzard. We call them Oiseaux de Nazaret. The fat is excellent to give ease to the muscles and nerves."
+      ],
+      "translation_credit_html": "English: <a href=\"https://archive.org/details/dodoitskindredor00stri/page/126/mode/1up\">Strickland &amp; Melville, 1848, p. 126 ↗</a>."
+    },
+    "research": {
+      "reviewed_by": "Codex; visual comparison with printed scans",
+      "reviewed_on": "2026-10-02",
+      "novelty_status": "established",
+      "relationships": []
+    }
+  },
+  {
+    "id": "pennant-bluebuck",
+    "species_ids": [
+      "bluebuck"
+    ],
+    "authority_id": "pennant",
+    "page": "source-pennant-bluebuck.html",
+    "format": "reader",
+    "catalog": {
+      "anchor": "ref-pennant-bluebuck",
+      "sort_year": 1771,
+      "sort_author": "Pennant",
+      "date_label": "1771",
+      "heading_html": "<a class=\"catalog-author\" href=\"./authorities.html#pennant\">Thomas Pennant</a> <em>Synopsis of Quadrupeds</em>, pp. 24–25",
+      "kind": "Natural history · English",
+      "href": "./source-pennant-bluebuck.html",
+      "link_label": "Read record ↗",
+      "aria_label": null,
+      "summary_html": "A description based on a skin bought at Amsterdam and brought from the Cape of Good Hope."
+    },
+    "authority_work": {
+      "label": "Synopsis of Quadrupeds, pp. 24–25",
+      "href": "./source-pennant-bluebuck.html"
+    },
+    "content": {
+      "author": "Thomas Pennant",
+      "work": "Synopsis of Quadrupeds",
+      "period": "1771",
+      "place": "Cape of Good Hope · origin of a skin bought at Amsterdam",
+      "place_key": "cape",
+      "summary": "A description based on a skin bought at Amsterdam and brought from the Cape of Good Hope.",
+      "facsimile": "pennant-24.webp",
+      "facsimile_path": "./assets/bluebuck-facsimiles/pennant-24.webp",
+      "edition": "Thomas Pennant, Synopsis of Quadrupeds (Chester: J. Monk, 1771), entry 13, “Blue,” pp. 24–25.",
+      "primary": [
+        "Internet Archive · digitized edition",
+        "https://archive.org/details/synopsisofquadru00penn/page/24/mode/1up"
+      ],
+      "companion": [
+        "Darwin Online · transcription",
+        "https://darwin-online.org.uk/converted/Ancillary/BeagleLibrary/1771_Pennant_A730.html"
+      ],
+      "paragraphs": [
+        "A. with sharp-pointed, taper, arcuated horns bending backwards, marked with twenty prominent rings, but smooth towards their points, twenty inches long: ears sharp-pointed, above nine inches in length: larger than a buck: color, when alive, a fine blue; when dead, changes to a bluish grey, with a mixture of white: hairs long: beneath each eye a large white mark: belly white: tail seven inches long; the hairs at the end six inches. From a skin bought at Amsterdam, brought from the Cape of Good Hope; where they are found, but far up the country. This is the species which, from the length of its hair and form of the horns, connects this genus with that of the Goat."
+      ],
+      "note_phrase": "From a skin bought at Amsterdam",
+      "note": "Pennant describes a preserved skin. His statement about the colour of the living animal is reported information, rather than a field observation. The heading is “Blue”; “Blue Goat” appears among the citations, referring to Kolben’s Cape, II, p. 114.",
+      "reading": [
+        "husson-holthuis",
+        "rookmaaker"
+      ],
+      "neighbors": [
+        "barrow-bluebuck",
+        null
+      ],
+      "language": "en",
+      "scans": [
+        {
+          "src": "./assets/bluebuck-facsimiles/pennant-24.webp",
+          "label": "p. 24",
+          "caption": "Pennant, 1771, p. 24. Smithsonian Libraries / Internet Archive.",
+          "url": "https://archive.org/details/synopsisofquadru00penn/page/24/mode/1up"
+        },
+        {
+          "src": "./assets/bluebuck-facsimiles/pennant-25.webp",
+          "label": "p. 25",
+          "caption": "Pennant, 1771, p. 25. Smithsonian Libraries / Internet Archive.",
+          "url": "https://archive.org/details/synopsisofquadru00penn/page/25/mode/1up"
+        }
+      ],
+      "reader": {
+        "byline_html": "<a href=\"./authorities.html#pennant\">Thomas Pennant</a> · 1726–1798",
+        "article_title": "Synopsis of Quadrupeds",
+        "passage_label": "pp. 24–25 · description",
+        "dates": [
+          {
+            "label": "Publication",
+            "date": "1771",
+            "detail_html": "Chester: J. Monk"
+          },
+          {
+            "label": "Specimen",
+            "date": "Amsterdam",
+            "detail_html": "Skin reported as brought from the Cape of Good Hope"
+          }
+        ],
+        "edition_html": "Thomas Pennant, Synopsis of Quadrupeds (Chester: J. Monk, 1771), entry 13, “Blue,” pp. 24–25.",
+        "citation_html": "Thomas Pennant, Synopsis of Quadrupeds (Chester: J. Monk, 1771), entry 13, “Blue,” pp. 24–25.",
+        "breadcrumb_label": "Pennant",
+        "portrait_alt": "Engraved portrait of Thomas Pennant, eighteenth century",
+        "scan_alt": "Pennant, 1771, p. 24. Smithsonian Libraries / Internet Archive.",
+        "scan_caption": "Pennant, 1771, p. 24. Smithsonian Libraries / Internet Archive.",
+        "dialog_title": "Pennant, 1771, p. 24. Smithsonian Libraries / Internet Archive.",
+        "scan_button_label": "Enlarge Pennant, 1771, p. 24. Smithsonian Libraries / Internet Archive.",
+        "enlarged_alt": "Pennant, 1771, p. 24. Smithsonian Libraries / Internet Archive.",
+        "related_label": "Next source ↗"
+      }
+    },
+    "research": {
+      "reviewed_by": "Codex; visual comparison with printed scans; long s regularized and line-end hyphenation joined",
+      "reviewed_on": "2026-10-03",
+      "novelty_status": "established",
+      "relationships": []
+    }
+  },
+  {
+    "id": "barrow-bluebuck",
+    "species_ids": [
+      "bluebuck"
+    ],
+    "authority_id": "barrow",
+    "page": "source-barrow-bluebuck.html",
+    "format": "reader",
+    "catalog": {
+      "anchor": "ref-barrow-bluebuck",
+      "sort_year": 1804,
+      "sort_author": "Barrow",
+      "date_label": "1804",
+      "heading_html": "<a class=\"catalog-author\" href=\"./authorities.html#barrow\">John Barrow</a> <em>An Account of Travels into the Interior of Southern Africa</em>, II, p. 47",
+      "kind": "Travel account · English",
+      "href": "./source-barrow-bluebuck.html",
+      "link_label": "Read record ↗",
+      "aria_label": null,
+      "summary_html": "A reported herd near Sweet Milk Valley; Barrow does not claim to have seen it."
+    },
+    "authority_work": {
+      "label": "An Account of Travels into the Interior of Southern Africa, II, p. 47",
+      "href": "./source-barrow-bluebuck.html"
+    },
+    "content": {
+      "author": "John Barrow",
+      "work": "An Account of Travels into the Interior of Southern Africa",
+      "period": "1804",
+      "place": "Sweet Milk Valley · Cape, approximate locality",
+      "place_key": "cape",
+      "summary": "A reported herd near Sweet Milk Valley; Barrow does not claim to have seen it.",
+      "facsimile": "barrow-47.webp",
+      "facsimile_path": "./assets/bluebuck-facsimiles/barrow-47.webp",
+      "edition": "John Barrow, An Account of Travels into the Interior of Southern Africa, vol. II (London: T. Cadell and W. Davies, 1804), p. 47.",
+      "primary": [
+        "Internet Archive · digitized edition",
+        "https://archive.org/details/accountoftravels02barr/page/47/mode/1up"
+      ],
+      "companion": [
+        "Second edition · 1806, I, pp. 371–372",
+        "https://archive.org/details/travelsintointer11806barr/page/371/mode/2up"
+      ],
+      "paragraphs": [
+        "I observed, in the former volume, that in the neighbourhood of this river was once to be found the Leucophæa or blue antelope, but that, for many years past, it had been lost to the colony. I understood, however, that, a few months before we evacuated the Cape, a small herd of this beautiful animal had again made its appearance among the wooded hills behind Sweet Milk Valley, where, instead of suffering them to remain unmolested, at least for some time, the farmers were lying in wait for their destruction."
+      ],
+      "note_phrase": "I understood, however",
+      "note": "Barrow names no informant and gives no anatomical description of the reported herd. “A few months before we evacuated the Cape” suggests late 1802 or early 1803, before the British evacuation in 1803; this date is inferred. The report does not independently confirm that bluebuck survived beyond c. 1800. The same account reappears in the second edition (1806), vol. I, pp. 371–372.",
+      "reading": [
+        "rookmaaker",
+        "hempel"
+      ],
+      "neighbors": [
+        "pennant-bluebuck",
+        null
+      ],
+      "language": "en",
+      "scans": [
+        {
+          "src": "./assets/bluebuck-facsimiles/barrow-47.webp",
+          "label": "p. 47",
+          "caption": "Barrow, 1804, vol. II, p. 47. Boston Public Library / Internet Archive.",
+          "url": "https://archive.org/details/accountoftravels02barr/page/47/mode/1up"
+        }
+      ],
+      "reader": {
+        "byline_html": "<a href=\"./authorities.html#barrow\">John Barrow</a> · 1764–1848",
+        "article_title": "An Account of Travels into the Interior of Southern Africa",
+        "passage_label": "II, p. 47 · extract",
+        "dates": [
+          {
+            "label": "Publication",
+            "date": "1804",
+            "detail_html": "Volume II, p. 47"
+          },
+          {
+            "label": "Reported event",
+            "date": "c. 1802–1803",
+            "detail_html": "Inferred date · report received by Barrow"
+          }
+        ],
+        "edition_html": "John Barrow, An Account of Travels into the Interior of Southern Africa, vol. II (London: T. Cadell and W. Davies, 1804), p. 47.",
+        "citation_html": "John Barrow, An Account of Travels into the Interior of Southern Africa, vol. II (London: T. Cadell and W. Davies, 1804), p. 47.",
+        "breadcrumb_label": "Barrow",
+        "portrait_alt": "Typographic initials; no portrait used",
+        "scan_alt": "Barrow, 1804, vol. II, p. 47. Boston Public Library / Internet Archive.",
+        "scan_caption": "Barrow, 1804, vol. II, p. 47. Boston Public Library / Internet Archive.",
+        "dialog_title": "Barrow, 1804, vol. II, p. 47. Boston Public Library / Internet Archive.",
+        "scan_button_label": "Enlarge Barrow, 1804, vol. II, p. 47. Boston Public Library / Internet Archive.",
+        "enlarged_alt": "Barrow, 1804, vol. II, p. 47. Boston Public Library / Internet Archive.",
+        "related_label": "Previous source ↗"
+      }
+    },
+    "research": {
+      "reviewed_by": "Codex; visual comparison with printed scans; long s regularized and line-end hyphenation joined",
+      "reviewed_on": "2026-10-03",
+      "novelty_status": "established",
+      "relationships": []
+    }
+  },
+  {
+    "id": "tyssen-warrah",
+    "species_ids": [
+      "warrah"
+    ],
+    "authority_id": "tyssen",
+    "page": "source-tyssen-warrah.html",
+    "format": "reader",
+    "catalog": {
+      "anchor": "ref-tyssen-warrah",
+      "sort_year": 1843,
+      "date_label": "1843",
+      "sort_author": "John Tyssen",
+      "heading_html": "<a class=\"catalog-author\" href=\"./authorities.html#tyssen\">John Tyssen</a> <em>Copies or Extracts of any Correspondence relative to the Falkland Islands</em>",
+      "kind": "Report · English",
+      "href": "./source-tyssen-warrah.html",
+      "link_label": "Read record ↗",
+      "aria_label": null,
+      "summary_html": "Henry Whiteman and Samuel Profit’s account of their time ashore on West Falkland."
+    },
+    "authority_work": {
+      "label": "Copies or Extracts of any Correspondence relative to the Falkland Islands (1843), p. 15",
+      "href": "./source-tyssen-warrah.html"
+    },
+    "content": {
+      "author": "John Tyssen",
+      "work": "Copies or Extracts of any Correspondence relative to the Falkland Islands",
+      "period": "1843",
+      "place": "West Falkland",
+      "place_key": "falkland-islands",
+      "summary": "Henry Whiteman and Samuel Profit’s account of their time ashore on West Falkland.",
+      "facsimile": "tyssen-1843-p15.webp",
+      "facsimile_path": "./assets/warrah-facsimiles/tyssen-1843-p15.webp",
+      "edition": "John Tyssen, enclosure in No. 6, White Rock Harbour, 12 February 1842, in Copies or Extracts of any Correspondence relative to the Falkland Islands, House of Commons paper 148 (22 June 1843), p. 15.",
+      "primary": [
+        "Digitized edition",
+        "https://falklandstimeline.wordpress.com/wp-content/uploads/2023/10/copies-or-extracts-of-any-correspondence-relative-to-the-falkland-islands-1843.pdf#page=20"
+      ],
+      "companion": [
+        "Falklands Timeline · parliamentary paper",
+        "https://falklandstimeline.wordpress.com/wp-content/uploads/2023/10/copies-or-extracts-of-any-correspondence-relative-to-the-falkland-islands-1843.pdf#page=20"
+      ],
+      "paragraphs": [
+        "Henry Whiteman, native of Great Britain, aged 18 years, and Samuel Profit, native of New Providence, U. S., aged 24 years, state:—“That on the 18th or 28th of December 1840, they left the American brigantine Enterprize, John Green, master, in company with another seaman named John Bray; that, to the best of their knowledge, they landed with the brigantine’s dinghy in Queen Charlotte’s Sound, West Falkland; that the cause of their leaving the said brigantine was discontent at their treatment; that John Bray, after various disagreements amongst themselves, separated from them about two and a half months after their landing; that they subsisted on the wild fowl of the island, seals, roots of the tussock (daily), and the berries of the heather; that they were healthy and did not experience any very severe weather (in comparison with the winters in the United States); that, with the exception of two days, they ate their victuals raw, being unable to procure fire; that at times they were attacked by the warrahs or foxes, and killed 12 of them.”",
+        "When they were brought on board H. M. ketch Sparrow, at White Rock Harbour, they were in a good state of health, but from the middle downwards were without clothing, and the upper parts were barely covered with rags."
+      ],
+      "note_phrase": null,
+      "note": "",
+      "reading": [
+        "castaways"
+      ],
+      "neighbors": [
+        null,
+        "fim-warrah-query"
+      ],
+      "language": "en",
+      "scans": [
+        {
+          "src": "./assets/warrah-facsimiles/tyssen-1843-p15.webp",
+          "label": "p. 15",
+          "caption": "House of Commons, 1843, p. 15. Falklands Timeline.",
+          "url": "https://falklandstimeline.wordpress.com/wp-content/uploads/2023/10/copies-or-extracts-of-any-correspondence-relative-to-the-falkland-islands-1843.pdf#page=20"
+        }
+      ],
+      "reader": {
+        "byline_html": "<a href=\"./authorities.html#tyssen\">John Tyssen</a>",
+        "article_title": "Copies or Extracts of any Correspondence relative to the Falkland Islands",
+        "passage_label": "p. 15 · extract",
+        "dates": [
+          {
+            "label": "Statement",
+            "date": "12 February 1842",
+            "detail_html": "White Rock Harbour"
+          },
+          {
+            "label": "Publication",
+            "date": "22 June 1843",
+            "detail_html": "House of Commons paper 148"
+          }
+        ],
+        "edition_html": "John Tyssen, enclosure in No. 6, White Rock Harbour, 12 February 1842, in Copies or Extracts of any Correspondence relative to the Falkland Islands, House of Commons paper 148 (22 June 1843), p. 15.",
+        "citation_html": "John Tyssen, enclosure in No. 6, White Rock Harbour, 12 February 1842, in Copies or Extracts of any Correspondence relative to the Falkland Islands, House of Commons paper 148 (22 June 1843), p. 15.",
+        "breadcrumb_label": "Tyssen",
+        "portrait_alt": "Typographic initials; no portrait used",
+        "scan_alt": "House of Commons, 1843, p. 15. Falklands Timeline.",
+        "scan_caption": "House of Commons, 1843, p. 15. Falklands Timeline.",
+        "dialog_title": "House of Commons, 1843, p. 15. Falklands Timeline.",
+        "scan_button_label": "Enlarge House of Commons, 1843, p. 15. Falklands Timeline.",
+        "enlarged_alt": "House of Commons, 1843, p. 15. Falklands Timeline.",
+        "related_label": "Previous source ↗"
+      }
+    },
+    "research": {
+      "reviewed_by": "Codex; visual comparison with printed scans; line-end hyphenation joined",
+      "reviewed_on": "2026-10-03",
+      "novelty_status": "established",
+      "relationships": []
+    }
+  },
+  {
+    "id": "fim-warrah-query",
+    "species_ids": [
+      "warrah"
+    ],
+    "authority_id": "falkland-magazine",
+    "page": "source-fim-warrah-query.html",
+    "format": "reader",
+    "catalog": {
+      "anchor": "ref-fim-warrah-query",
+      "sort_year": 1894,
+      "date_label": "July 1894",
+      "sort_author": "The Falkland Islands Magazine",
+      "heading_html": "<a class=\"catalog-author\" href=\"./authorities.html#falkland-magazine\">The Falkland Islands Magazine</a> <em>The Falkland Islands Magazine</em>",
+      "kind": "Periodical · English",
+      "href": "./source-fim-warrah-query.html",
+      "link_label": "Read record ↗",
+      "aria_label": null,
+      "summary_html": "An editorial request for skins, skulls and dates of the last local killings."
+    },
+    "authority_work": {
+      "label": "The Falkland Islands Magazine (July 1894), Unnumbered page",
+      "href": "./source-fim-warrah-query.html"
+    },
+    "content": {
+      "author": "The Falkland Islands Magazine",
+      "work": "The Falkland Islands Magazine",
+      "period": "July 1894",
+      "place": "Falkland Islands",
+      "place_key": "falkland-islands",
+      "summary": "An editorial request for skins, skulls and dates of the last local killings.",
+      "facsimile": "fim-1894-specimen-query.webp",
+      "facsimile_path": "./assets/warrah-facsimiles/fim-1894-specimen-query.webp",
+      "edition": "“Natural History Notes,” The Falkland Islands Magazine, no. 63 (July 1894), unnumbered page.",
+      "primary": [
+        "Digitized edition",
+        "https://web.archive.org/web/20250525222855id_/https://nationalarchives.gov.fk/jdownloads/The%20Falkland%20Islands%20Magazine/FIM%201893%20and%201894.pdf#page=160"
+      ],
+      "companion": [
+        "Jane Cameron National Archives",
+        "https://nationalarchives.gov.fk/jdownloads/The%20Falkland%20Islands%20Magazine/FIM%201893%20and%201894.pdf"
+      ],
+      "paragraphs": [
+        "Wanted to know if any one on the Islands has a skin of the native fox and if so if they would sell it and the price? Also if any one can inform the Editor when and where the last wild fox was killed on the East Falklands and the same with regard to the fox on the West Falklands. Also if any person has got or could get the skull of one of them."
+      ],
+      "note_phrase": null,
+      "note": "",
+      "reading": [],
+      "neighbors": [
+        "tyssen-warrah",
+        "fim-warrah-letters"
+      ],
+      "language": "en",
+      "scans": [
+        {
+          "src": "./assets/warrah-facsimiles/fim-1894-specimen-query.webp",
+          "label": "Unnumbered page",
+          "caption": "The Falkland Islands Magazine, July 1894, unnumbered page. Jane Cameron National Archives / Internet Archive.",
+          "url": "https://web.archive.org/web/20250525222855id_/https://nationalarchives.gov.fk/jdownloads/The%20Falkland%20Islands%20Magazine/FIM%201893%20and%201894.pdf#page=160"
+        }
+      ],
+      "reader": {
+        "byline_html": "<a href=\"./authorities.html#falkland-magazine\">The Falkland Islands Magazine</a>",
+        "article_title": "The Falkland Islands Magazine",
+        "passage_label": "Unnumbered page · extract",
+        "dates": [
+          {
+            "label": "Publication",
+            "date": "July 1894",
+            "detail_html": "No. 63"
+          }
+        ],
+        "edition_html": "“Natural History Notes,” The Falkland Islands Magazine, no. 63 (July 1894), unnumbered page.",
+        "citation_html": "“Natural History Notes,” The Falkland Islands Magazine, no. 63 (July 1894), unnumbered page.",
+        "breadcrumb_label": "Falkland Islands Magazine",
+        "portrait_alt": "Typographic initials; no portrait used",
+        "scan_alt": "The Falkland Islands Magazine, July 1894, unnumbered page. Jane Cameron National Archives / Internet Archive.",
+        "scan_caption": "The Falkland Islands Magazine, July 1894, unnumbered page. Jane Cameron National Archives / Internet Archive.",
+        "dialog_title": "The Falkland Islands Magazine, July 1894, unnumbered page. Jane Cameron National Archives / Internet Archive.",
+        "scan_button_label": "Enlarge The Falkland Islands Magazine, July 1894, unnumbered page. Jane Cameron National Archives / Internet Archive.",
+        "enlarged_alt": "The Falkland Islands Magazine, July 1894, unnumbered page. Jane Cameron National Archives / Internet Archive.",
+        "related_label": "Previous source ↗"
+      }
+    },
+    "research": {
+      "reviewed_by": "Codex; visual comparison with printed scans; line-end hyphenation joined",
+      "reviewed_on": "2026-10-03",
+      "novelty_status": "unassessed",
+      "relationships": []
+    }
+  },
+  {
+    "id": "fim-warrah-letters",
+    "species_ids": [
+      "warrah"
+    ],
+    "authority_id": "falkland-magazine",
+    "page": "source-fim-warrah-letters.html",
+    "format": "reader",
+    "catalog": {
+      "anchor": "ref-fim-warrah-letters",
+      "sort_year": 1894,
+      "date_label": "October 1894",
+      "sort_author": "E. J. Smith, Thomas H. Butler and “A Witness”",
+      "heading_html": "<a class=\"catalog-author\" href=\"./authorities.html#falkland-magazine\">E. J. Smith, Thomas H. Butler and “A Witness”</a> <em>The Falkland Islands Magazine</em>",
+      "kind": "Periodical · English",
+      "href": "./source-fim-warrah-letters.html",
+      "link_label": "Read record ↗",
+      "aria_label": null,
+      "summary_html": "Three retrospective letters about killings at Fox Bay in 1873 or 1874."
+    },
+    "authority_work": {
+      "label": "The Falkland Islands Magazine (October 1894), Unnumbered letters page",
+      "href": "./source-fim-warrah-letters.html"
+    },
+    "content": {
+      "author": "E. J. Smith, Thomas H. Butler and “A Witness”",
+      "work": "The Falkland Islands Magazine",
+      "period": "October 1894",
+      "place": "Falkland Islands",
+      "place_key": "falkland-islands",
+      "summary": "Three retrospective letters about killings at Fox Bay in 1873 or 1874.",
+      "facsimile": "fim-1894-letters.webp",
+      "facsimile_path": "./assets/warrah-facsimiles/fim-1894-letters.webp",
+      "edition": "E. J. Smith, Thomas H. Butler and “A Witness,” letters in The Falkland Islands Magazine, vol. VI, no. 66 (October 1894), unnumbered letters page.",
+      "primary": [
+        "Digitized edition",
+        "https://web.archive.org/web/20250525222855id_/https://nationalarchives.gov.fk/jdownloads/The%20Falkland%20Islands%20Magazine/FIM%201893%20and%201894.pdf#page=192"
+      ],
+      "companion": [
+        "Jane Cameron National Archives",
+        "https://nationalarchives.gov.fk/jdownloads/The%20Falkland%20Islands%20Magazine/FIM%201893%20and%201894.pdf"
+      ],
+      "paragraphs": [
+        "Port Edgar. August 31st, 1894.",
+        "Dear Sir,",
+        "On seeing in the Magazine that you would like to know when the last fox was killed, the last one to my knowledge, I think it was in the year 1873 or ’74, was killed by Mr. Edward Packe in Fox Bay. A man by the name of John Dack and myself went out to kill beef as they were all wild cattle in those days. We killed a cow down by Gun Hill and returned home with the beef, arriving about two o’clock in the morning. When Mr. Edward Packe went out in the morning he saw a fox going into the hen house so went into the house and got his rifle and fired at the fox and broke its fore leg, he then hit it with the butt end of the rifle and broke it, as he had no more bullets. This fox is supposed to have come across our tracks and followed them, I have helped to kill plenty in White Rock, but that is the last one. I am almost sure it was in 1874.",
+        "I will enclose a threepenny piece, dated 1874, that I found in a bull’s stomach, I send it to let you see it and will you please send it back to me, if it is any use for the Magazine I will tell you all about it.",
+        "I remain, yours truly,",
+        "E. J. Smith.",
+        "We have written for particulars of threepenny bit which we received safely.—Editor.",
+        "Sir,",
+        "In reply to your query about the foxes—the last fox killed in the West Falklands to my knowledge, was killed in Fox Bay, west side, in the early part of the year 1874. That was the last one I either saw or heard of, possibly some may have been seen later, in some other part.",
+        "I remain, Sir, yours sincerely.",
+        "Thomas H. Butler.",
+        "West Fox Bay. September 1st, 1894.",
+        "Sir,",
+        "The last fox killed out here was shot outside the old cook-house door at West Fox Bay, which used to be the Station dwelling house, in February 1873.",
+        "A Witness."
+      ],
+      "note_phrase": null,
+      "note": "",
+      "reading": [
+        "blair"
+      ],
+      "neighbors": [
+        "fim-warrah-query",
+        null
+      ],
+      "language": "en",
+      "scans": [
+        {
+          "src": "./assets/warrah-facsimiles/fim-1894-letters.webp",
+          "label": "Unnumbered letters page",
+          "caption": "The Falkland Islands Magazine, October 1894, unnumbered letters page. Jane Cameron National Archives / Internet Archive.",
+          "url": "https://web.archive.org/web/20250525222855id_/https://nationalarchives.gov.fk/jdownloads/The%20Falkland%20Islands%20Magazine/FIM%201893%20and%201894.pdf#page=192"
+        }
+      ],
+      "reader": {
+        "byline_html": "<a href=\"./authorities.html#falkland-magazine\">E. J. Smith, Thomas H. Butler and “A Witness”</a>",
+        "article_title": "The Falkland Islands Magazine",
+        "passage_label": "Unnumbered letters page",
+        "dates": [
+          {
+            "label": "Publication",
+            "date": "October 1894",
+            "detail_html": "Vol. VI, no. 66"
+          },
+          {
+            "label": "Reported events",
+            "date": "1873–1874",
+            "detail_html": "Fox Bay · retrospective letters"
+          }
+        ],
+        "edition_html": "E. J. Smith, Thomas H. Butler and “A Witness,” letters in The Falkland Islands Magazine, vol. VI, no. 66 (October 1894), unnumbered letters page.",
+        "citation_html": "E. J. Smith, Thomas H. Butler and “A Witness,” letters in The Falkland Islands Magazine, vol. VI, no. 66 (October 1894), unnumbered letters page.",
+        "breadcrumb_label": "Falkland Islands Magazine",
+        "portrait_alt": "Typographic initials; no portrait used",
+        "scan_alt": "The Falkland Islands Magazine, October 1894, unnumbered letters page. Jane Cameron National Archives / Internet Archive.",
+        "scan_caption": "The Falkland Islands Magazine, October 1894, unnumbered letters page. Jane Cameron National Archives / Internet Archive.",
+        "dialog_title": "The Falkland Islands Magazine, October 1894, unnumbered letters page. Jane Cameron National Archives / Internet Archive.",
+        "scan_button_label": "Enlarge The Falkland Islands Magazine, October 1894, unnumbered letters page. Jane Cameron National Archives / Internet Archive.",
+        "enlarged_alt": "The Falkland Islands Magazine, October 1894, unnumbered letters page. Jane Cameron National Archives / Internet Archive.",
+        "related_label": "Previous source ↗"
+      }
+    },
+    "research": {
+      "reviewed_by": "Codex; visual comparison with printed scans; line-end hyphenation joined",
+      "reviewed_on": "2026-10-03",
+      "novelty_status": "established",
+      "relationships": []
+    }
+  },
+  {
+    "id": "steller-seacow-habits",
+    "species_ids": [
+      "seacow"
+    ],
+    "authority_id": "steller",
+    "page": "source-steller-seacow-habits.html",
+    "format": "reader",
+    "catalog": {
+      "anchor": "ref-steller-seacow-habits",
+      "sort_year": 1751,
+      "sort_author": "Steller",
+      "date_label": "1751",
+      "heading_html": "<a class=\"catalog-author\" href=\"./authorities.html#steller\">Georg Wilhelm Steller</a> <em>De bestiis marinis</em>, trans. 1899, pp. 197–198",
+      "kind": "Natural history · Latin, English translation",
+      "href": "./source-steller-seacow-habits.html",
+      "link_label": "Read record ↗",
+      "aria_label": null,
+      "summary_html": "Steller’s observations of sea cow herds, feeding and breeding during the wintering on Bering Island, 1741–1742."
+    },
+    "authority_work": {
+      "label": "De bestiis marinis (1751), herds and feeding",
+      "href": "./source-steller-seacow-habits.html"
+    },
+    "content": {
+      "author": "Georg Wilhelm Steller",
+      "work": "De bestiis marinis",
+      "period": "1751",
+      "place": "Bering Island · Commander Islands",
+      "place_key": "bering-sea",
+      "summary": "Steller’s observations of sea cow herds, feeding and breeding during the wintering on Bering Island, 1741–1742.",
+      "facsimile": "steller-197.webp",
+      "facsimile_path": "./assets/seacow-facsimiles/steller-197.webp",
+      "edition": "Georg Wilhelm Steller, “De bestiis marinis,” Novi Commentarii Academiae Scientiarum Imperialis Petropolitanae 2 (1751 [for 1749]), pp. 289–398; English translation by Walter Miller and Jennie Emerson Miller, “The Beasts of the Sea,” in David Starr Jordan, The Fur Seals and Fur-Seal Islands of the North Pacific Ocean, part 3 (Washington: Government Printing Office, 1899), pp. 179–218, pp. 197–198.",
+      "primary": [
+        "Internet Archive · 1899 translation",
+        "https://archive.org/details/fursealsfurseali03unit/page/197/mode/1up"
+      ],
+      "companion": [
+        "University of Nebraska–Lincoln · 2011 edition of the translation",
+        "https://digitalcommons.unl.edu/libraryscience/17"
+      ],
+      "paragraphs": [
+        "It happened to me on one unlucky occasion that I could watch the habits and ways of these beasts daily for ten months from the door of my hut, and I will briefly note down the observations that I made with great care.",
+        "These animals are fond of shallow sandy places along the seashore, but they like especially to live around the mouths of rivers and creeks, for they love fresh running water, and they always live in herds. They keep the young and the half-grown before them while they feed, but they are careful to surround them on the flank and rear and always to keep them in the middle of the herd. When the tide came in they came up so close to the shore that I often hunted them with my stick or lance, and sometimes even stroked their backs with my hand. If they were badly hurt, they did nothing but withdraw to a distance from the shore, and after a short time they would forget their injury and come back. Most commonly whole families live together in one community, the male with one grown female and their tender little offspring. They appear to me to be monogamous. The young are born at any time of year, but most frequently in autumn, as I judged from the new-born little ones that I saw about that time. From this fact, as I noticed that they copulated by preference in the early spring, I concluded that the foetus remained more than a year in the womb. From the shortness of the [uterine] cornua (ex cornuum brevitate), and from the fact that there are only two mammæ, I infer that they have but one calf, and I have never seen more than one with the mother at a time.",
+        "These animals are very voracious and eat incessantly, and because they are so greedy they keep their heads always under water, without regard to life and safety. Hence a man in a boat, or swimming naked, can move among them without danger and select at ease the one of the herd he desires to strike—and accomplish it all while they are feeding. When they raise their noses above the water, as they do every four or five minutes, they blow out the air and a little water with a snort such as a horse makes in blowing his nose. As they feed they move first one foot and then the other, as cattle and sheep do when they graze, and thus with a gentle motion half swim and half walk. Half of the body—the back and sides—projects above the water. […]"
+      ],
+      "note_phrase": "for ten months",
+      "note": "Steller wintered on Bering Island with the survivors of Bering’s second Kamchatka expedition from November 1741 to August 1742. He died in 1746; the Latin text was printed posthumously. The translators worked from a typewritten copy of the 1751 text (preface, p. 179).",
+      "reading": [
+        "royster",
+        "turvey-risley"
+      ],
+      "neighbors": [
+        null,
+        "steller-seacow-capture"
+      ],
+      "language": "en",
+      "scans": [
+        {
+          "src": "./assets/seacow-facsimiles/steller-197.webp",
+          "label": "p. 197",
+          "caption": "Steller, trans. Miller and Miller, 1899, p. 197. Smithsonian Libraries / Internet Archive.",
+          "url": "https://archive.org/details/fursealsfurseali03unit/page/197/mode/1up"
+        },
+        {
+          "src": "./assets/seacow-facsimiles/steller-198.webp",
+          "label": "p. 198",
+          "caption": "Steller, trans. Miller and Miller, 1899, p. 198. Smithsonian Libraries / Internet Archive.",
+          "url": "https://archive.org/details/fursealsfurseali03unit/page/198/mode/1up"
+        }
+      ],
+      "reader": {
+        "byline_html": "<a href=\"./authorities.html#steller\">Georg Wilhelm Steller</a> · 1709–1746",
+        "article_title": "De bestiis marinis",
+        "passage_label": "pp. 197–198 · extract, English translation",
+        "dates": [
+          {
+            "label": "Observation",
+            "date": "1741–1742",
+            "detail_html": "Wintering on Bering Island"
+          },
+          {
+            "label": "Latin publication",
+            "date": "1751",
+            "detail_html": "Novi Commentarii, II, posthumous"
+          },
+          {
+            "label": "English translation",
+            "date": "1899",
+            "detail_html": "Walter Miller and Jennie Emerson Miller"
+          }
+        ],
+        "edition_html": "Georg Wilhelm Steller, “De bestiis marinis,” Novi Commentarii Academiae Scientiarum Imperialis Petropolitanae 2 (1751 [for 1749]), pp. 289–398; English translation by Walter Miller and Jennie Emerson Miller, “The Beasts of the Sea,” in David Starr Jordan, The Fur Seals and Fur-Seal Islands of the North Pacific Ocean, part 3 (Washington: Government Printing Office, 1899), pp. 179–218, pp. 197–198.",
+        "citation_html": "Georg Wilhelm Steller, “De bestiis marinis,” Novi Commentarii Academiae Scientiarum Imperialis Petropolitanae 2 (1751 [for 1749]), pp. 289–398; English translation by Walter Miller and Jennie Emerson Miller, “The Beasts of the Sea,” in David Starr Jordan, The Fur Seals and Fur-Seal Islands of the North Pacific Ocean, part 3 (Washington: Government Printing Office, 1899), pp. 179–218, pp. 197–198.",
+        "breadcrumb_label": "Steller, observations",
+        "portrait_alt": "Typographic initials; no portrait used",
+        "scan_alt": "Steller, trans. Miller and Miller, 1899, p. 197. Smithsonian Libraries / Internet Archive.",
+        "scan_caption": "Steller, trans. Miller and Miller, 1899, p. 197. Smithsonian Libraries / Internet Archive.",
+        "dialog_title": "Steller, trans. Miller and Miller, 1899, p. 197. Smithsonian Libraries / Internet Archive.",
+        "scan_button_label": "Enlarge Steller, trans. Miller and Miller, 1899, p. 197. Smithsonian Libraries / Internet Archive.",
+        "enlarged_alt": "Steller, trans. Miller and Miller, 1899, p. 197. Smithsonian Libraries / Internet Archive.",
+        "related_label": "Next source ↗",
+        "text_label": "English translation"
+      }
+    },
+    "research": {
+      "reviewed_by": "Claude; visual comparison with printed scans; long s regularized, line-end hyphenation joined, footnote markers omitted",
+      "reviewed_on": "2026-10-12",
+      "novelty_status": "established",
+      "relationships": []
+    }
+  },
+  {
+    "id": "steller-seacow-capture",
+    "species_ids": [
+      "seacow"
+    ],
+    "authority_id": "steller",
+    "page": "source-steller-seacow-capture.html",
+    "format": "reader",
+    "catalog": {
+      "anchor": "ref-steller-seacow-capture",
+      "sort_year": 1751.1,
+      "sort_author": "Steller",
+      "date_label": "1751",
+      "heading_html": "<a class=\"catalog-author\" href=\"./authorities.html#steller\">Georg Wilhelm Steller</a> <em>De bestiis marinis</em>, trans. 1899, pp. 198–199",
+      "kind": "Natural history · Latin, English translation",
+      "href": "./source-steller-seacow-capture.html",
+      "link_label": "Read record ↗",
+      "aria_label": null,
+      "summary_html": "Steller’s account of the shipwrecked crew’s hunting method, and of the herd’s response to a harpooned animal."
+    },
+    "authority_work": {
+      "label": "De bestiis marinis (1751), capture",
+      "href": "./source-steller-seacow-capture.html"
+    },
+    "content": {
+      "author": "Georg Wilhelm Steller",
+      "work": "De bestiis marinis",
+      "period": "1751",
+      "place": "Bering Island · Commander Islands",
+      "place_key": "bering-sea",
+      "summary": "Steller’s account of the shipwrecked crew’s hunting method, and of the herd’s response to a harpooned animal.",
+      "facsimile": "steller-198.webp",
+      "facsimile_path": "./assets/seacow-facsimiles/steller-198.webp",
+      "edition": "Georg Wilhelm Steller, “De bestiis marinis,” Novi Commentarii Academiae Scientiarum Imperialis Petropolitanae 2 (1751 [for 1749]), pp. 289–398; English translation by Walter Miller and Jennie Emerson Miller, “The Beasts of the Sea,” in David Starr Jordan, The Fur Seals and Fur-Seal Islands of the North Pacific Ocean, part 3 (Washington: Government Printing Office, 1899), pp. 179–218, pp. 198–199.",
+      "primary": [
+        "Internet Archive · 1899 translation",
+        "https://archive.org/details/fursealsfurseali03unit/page/198/mode/1up"
+      ],
+      "companion": [
+        "University of Nebraska–Lincoln · 2011 edition of the translation",
+        "https://digitalcommons.unl.edu/libraryscience/17"
+      ],
+      "paragraphs": [
+        "Their capture used to be effected with a large iron hook whose point resembled an anchor’s fluke. The other end was secured by a very long, stout rope to an iron ring. A strong man took this hook and entered the boat with four or five others, and while one held the rudder three or four rowed gently toward the herd. The spearman stood in the prow of the boat holding the hook in his hand, and struck as soon as he was near enough. As soon as this was done, thirty men standing on the shore with the other end of the rope in their hands held the animal, and in spite of its frantic efforts at resistance they dragged him laboriously toward the shore. The boat was held steady by another rope, and the men wore the animal out by constant blows, until, tired and rendered thoroughly passive by the spears, it was finished by their knives and other weapons and drawn to land. Great pieces were cut from the animal while still alive, but all that he did was to work his tail vigorously and to brace himself with his fore feet, so that great pieces of skin were often torn off. […]",
+        "But if one animal is caught with the hook and begins to plunge about rather violently those near him in the herd are thrown into commotion as well and endeavor to assist him. To this end some of them try to upset the boat with their backs, others bear down upon the rope and try to break it, or endeavor to extract the hook from the back of their wounded companion with a blow from their tails, and several times they proved successful. It is a very curious evidence of their nature and of their conjugal affection that when a female was caught the male, after trying with all his strength, but in vain, to free his captured mate, would follow her quite to the shore, even though we struck him many blows, and that when she was dead he would sometimes come up to her as unexpectedly and as swiftly as an arrow. When we came the next day, early in the morning, to cut up the flesh and take it home, we found the male still waiting near his mate; and I saw this again on the third day when I came alone for the purpose of examining the entrails."
+      ],
+      "note_phrase": "thirty men standing on the shore",
+      "note": "The hunters were the castaways of Bering’s expedition. Steller’s detailed description is of a female killed on 12 July 1742 (p. 182).",
+      "reading": [
+        "royster",
+        "turvey-risley"
+      ],
+      "neighbors": [
+        "steller-seacow-habits",
+        "sauer-seacow"
+      ],
+      "language": "en",
+      "scans": [
+        {
+          "src": "./assets/seacow-facsimiles/steller-198.webp",
+          "label": "p. 198",
+          "caption": "Steller, trans. Miller and Miller, 1899, p. 198. Smithsonian Libraries / Internet Archive.",
+          "url": "https://archive.org/details/fursealsfurseali03unit/page/198/mode/1up"
+        },
+        {
+          "src": "./assets/seacow-facsimiles/steller-199.webp",
+          "label": "p. 199",
+          "caption": "Steller, trans. Miller and Miller, 1899, p. 199. Smithsonian Libraries / Internet Archive.",
+          "url": "https://archive.org/details/fursealsfurseali03unit/page/199/mode/1up"
+        }
+      ],
+      "reader": {
+        "byline_html": "<a href=\"./authorities.html#steller\">Georg Wilhelm Steller</a> · 1709–1746",
+        "article_title": "De bestiis marinis",
+        "passage_label": "pp. 198–199 · extract, English translation",
+        "dates": [
+          {
+            "label": "Observation",
+            "date": "1741–1742",
+            "detail_html": "Wintering on Bering Island"
+          },
+          {
+            "label": "Latin publication",
+            "date": "1751",
+            "detail_html": "Novi Commentarii, II, posthumous"
+          },
+          {
+            "label": "English translation",
+            "date": "1899",
+            "detail_html": "Walter Miller and Jennie Emerson Miller"
+          }
+        ],
+        "edition_html": "Georg Wilhelm Steller, “De bestiis marinis,” Novi Commentarii Academiae Scientiarum Imperialis Petropolitanae 2 (1751 [for 1749]), pp. 289–398; English translation by Walter Miller and Jennie Emerson Miller, “The Beasts of the Sea,” in David Starr Jordan, The Fur Seals and Fur-Seal Islands of the North Pacific Ocean, part 3 (Washington: Government Printing Office, 1899), pp. 179–218, pp. 198–199.",
+        "citation_html": "Georg Wilhelm Steller, “De bestiis marinis,” Novi Commentarii Academiae Scientiarum Imperialis Petropolitanae 2 (1751 [for 1749]), pp. 289–398; English translation by Walter Miller and Jennie Emerson Miller, “The Beasts of the Sea,” in David Starr Jordan, The Fur Seals and Fur-Seal Islands of the North Pacific Ocean, part 3 (Washington: Government Printing Office, 1899), pp. 179–218, pp. 198–199.",
+        "breadcrumb_label": "Steller, capture",
+        "portrait_alt": "Typographic initials; no portrait used",
+        "scan_alt": "Steller, trans. Miller and Miller, 1899, p. 198. Smithsonian Libraries / Internet Archive.",
+        "scan_caption": "Steller, trans. Miller and Miller, 1899, p. 198. Smithsonian Libraries / Internet Archive.",
+        "dialog_title": "Steller, trans. Miller and Miller, 1899, p. 198. Smithsonian Libraries / Internet Archive.",
+        "scan_button_label": "Enlarge Steller, trans. Miller and Miller, 1899, p. 198. Smithsonian Libraries / Internet Archive.",
+        "enlarged_alt": "Steller, trans. Miller and Miller, 1899, p. 198. Smithsonian Libraries / Internet Archive.",
+        "related_label": "Previous source ↗",
+        "text_label": "English translation"
+      }
+    },
+    "research": {
+      "reviewed_by": "Claude; visual comparison with printed scans; long s regularized, line-end hyphenation joined, footnote markers omitted",
+      "reviewed_on": "2026-10-12",
+      "novelty_status": "established",
+      "relationships": []
+    }
+  },
+  {
+    "id": "sauer-seacow",
+    "species_ids": [
+      "seacow"
+    ],
+    "authority_id": "sauer",
+    "page": "source-sauer-seacow.html",
+    "format": "reader",
+    "catalog": {
+      "anchor": "ref-sauer-seacow",
+      "sort_year": 1802,
+      "sort_author": "Sauer",
+      "date_label": "1802",
+      "heading_html": "<a class=\"catalog-author\" href=\"./authorities.html#sauer\">Martin Sauer</a> <em>An Account of a Geographical and Astronomical Expedition</em>, p. 181",
+      "kind": "Expedition account · English",
+      "href": "./source-sauer-seacow.html",
+      "link_label": "Read record ↗",
+      "aria_label": null,
+      "summary_html": "The Billings expedition’s secretary reports that the last sea cow was killed on Bering Island in 1768."
+    },
+    "authority_work": {
+      "label": "An Account of a Geographical and Astronomical Expedition (1802), p. 181",
+      "href": "./source-sauer-seacow.html"
+    },
+    "content": {
+      "author": "Martin Sauer",
+      "work": "An Account of a Geographical and Astronomical Expedition to the Northern Parts of Russia",
+      "period": "1802",
+      "place": "Bering Island · reported; written at Unalaska",
+      "place_key": "bering-sea",
+      "summary": "The Billings expedition’s secretary reports that the last sea cow was killed on Bering Island in 1768.",
+      "facsimile": "sauer-181.webp",
+      "facsimile_path": "./assets/seacow-facsimiles/sauer-181.webp",
+      "edition": "Martin Sauer, An Account of a Geographical and Astronomical Expedition to the Northern Parts of Russia … Performed … by Commodore Joseph Billings, in the Years 1785, &c. to 1794 (London: T. Cadell and W. Davies, 1802), p. 181.",
+      "primary": [
+        "Internet Archive · digitized edition",
+        "https://archive.org/details/accountofgeograp00saue/page/n226/mode/1up"
+      ],
+      "companion": [
+        "Second digitized copy · Internet Archive",
+        "https://archive.org/details/anaccountageogr00sauegoog"
+      ],
+      "paragraphs": [
+        "Sea cows were very numerous about the coast of Kamtshatka, and the Aleutan islands, at the time when they were first discovered; but the last of this species was killed in 1768 on Bering’s island, and none have been ever seen since."
+      ],
+      "note_phrase": "the Aleutan islands",
+      "note": "Sauer gives no source for the 1768 date, which he reports at second hand. Steller observed living animals only at the Commander Islands. Nordenskiöld (1881, II, p. 275 n.) doubted that the species had occurred in the Aleutians.",
+      "reading": [
+        "stejneger-1887",
+        "turvey-risley"
+      ],
+      "neighbors": [
+        "steller-seacow-capture",
+        "nordenskiold-seacow"
+      ],
+      "language": "en",
+      "scans": [
+        {
+          "src": "./assets/seacow-facsimiles/sauer-181.webp",
+          "label": "p. 181",
+          "caption": "Sauer, 1802, p. 181. John Carter Brown Library / Internet Archive.",
+          "url": "https://archive.org/details/accountofgeograp00saue/page/n226/mode/1up"
+        }
+      ],
+      "reader": {
+        "byline_html": "<a href=\"./authorities.html#sauer\">Martin Sauer</a> · fl. 1785–1802",
+        "article_title": "An Account of a Geographical and Astronomical Expedition to the Northern Parts of Russia",
+        "passage_label": "p. 181 · extract",
+        "dates": [
+          {
+            "label": "Publication",
+            "date": "1802",
+            "detail_html": "London: T. Cadell and W. Davies"
+          },
+          {
+            "label": "Reported event",
+            "date": "1768",
+            "detail_html": "Last kill on Bering Island · reported, unsourced"
+          }
+        ],
+        "edition_html": "Martin Sauer, An Account of a Geographical and Astronomical Expedition to the Northern Parts of Russia … Performed … by Commodore Joseph Billings, in the Years 1785, &c. to 1794 (London: T. Cadell and W. Davies, 1802), p. 181.",
+        "citation_html": "Martin Sauer, An Account of a Geographical and Astronomical Expedition to the Northern Parts of Russia … Performed … by Commodore Joseph Billings, in the Years 1785, &c. to 1794 (London: T. Cadell and W. Davies, 1802), p. 181.",
+        "breadcrumb_label": "Sauer",
+        "portrait_alt": "Typographic initials; no portrait used",
+        "scan_alt": "Sauer, 1802, p. 181. John Carter Brown Library / Internet Archive.",
+        "scan_caption": "Sauer, 1802, p. 181. John Carter Brown Library / Internet Archive.",
+        "dialog_title": "Sauer, 1802, p. 181. John Carter Brown Library / Internet Archive.",
+        "scan_button_label": "Enlarge Sauer, 1802, p. 181. John Carter Brown Library / Internet Archive.",
+        "enlarged_alt": "Sauer, 1802, p. 181. John Carter Brown Library / Internet Archive.",
+        "related_label": "Previous source ↗",
+        "text_label": "Original text"
+      }
+    },
+    "research": {
+      "reviewed_by": "Claude; visual comparison with printed scans; long s regularized, line-end hyphenation joined, footnote markers omitted",
+      "reviewed_on": "2026-10-12",
+      "novelty_status": "established",
+      "relationships": []
+    }
+  },
+  {
+    "id": "nordenskiold-seacow",
+    "species_ids": [
+      "seacow"
+    ],
+    "authority_id": "nordenskiold",
+    "page": "source-nordenskiold-seacow.html",
+    "format": "reader",
+    "catalog": {
+      "anchor": "ref-nordenskiold-seacow",
+      "sort_year": 1881,
+      "sort_author": "Nordenskiöld",
+      "date_label": "1881",
+      "heading_html": "<a class=\"catalog-author\" href=\"./authorities.html#nordenskiold\">A. E. Nordenskiöld</a> <em>The Voyage of the Vega</em>, II, pp. 276–278",
+      "kind": "Expedition account · Swedish, English translation",
+      "href": "./source-nordenskiold-seacow.html",
+      "link_label": "Read record ↗",
+      "aria_label": null,
+      "summary_html": "Testimony gathered on Bering Island in 1879, used to argue that sea cows survived until about 1854. Disputed by Stejneger."
+    },
+    "authority_work": {
+      "label": "The Voyage of the Vega (1881), II, pp. 276–278",
+      "href": "./source-nordenskiold-seacow.html"
+    },
+    "content": {
+      "author": "A. E. Nordenskiöld",
+      "work": "The Voyage of the Vega round Asia and Europe",
+      "period": "1881",
+      "place": "Bering Island · Commander Islands",
+      "place_key": "bering-sea",
+      "summary": "Testimony gathered on Bering Island in 1879, used to argue that sea cows survived until about 1854. Disputed by Stejneger.",
+      "facsimile": "nordenskiold-276.webp",
+      "facsimile_path": "./assets/seacow-facsimiles/nordenskiold-276.webp",
+      "edition": "A. E. Nordenskiöld, The Voyage of the Vega round Asia and Europe, trans. Alexander Leslie, vol. II (London: Macmillan, 1881), pp. 276–278. Swedish original: Vegas färd kring Asien och Europa (Stockholm, 1880–1881).",
+      "primary": [
+        "Internet Archive · digitized edition",
+        "https://archive.org/details/voyageofvegaroun21881nord/page/276/mode/1up"
+      ],
+      "companion": [
+        "Second digitized copy · Internet Archive",
+        "https://archive.org/details/voyagevegaround00nordgoog"
+      ],
+      "paragraphs": [
+        "The latter statement however is undoubtedly incorrect; for, in the course of the many inquiries I made of the natives, I obtained distinct information that living sea-cows had been seen much later. A creole (that is, the offspring of a Russian and an Aleutian), who was sixty-seven years of age, of intelligent appearance and in the full possession of his mental faculties, stated “that his father died in 1847 at the age of eighty-eight. He had come from Volhynia, his native place, to Behring Island at the age of eighteen, accordingly in 1777. The two or three first years of his stay there, i.e. till 1779 or 1780, sea-cows were still being killed as they pastured on sea-weed. The heart only was eaten, and the hide used for baydars. In consequence of its thickness the hide was split in two, and the two pieces thus obtained had gone to make a baydar twenty feet long, seven and a half feet broad, and three feet deep. After that time no sea-cows had been killed.”",
+        "There is evidence, however, that a sea-cow had been seen at the island still later. Two creoles, Feodor Mertchenin and Stepnoff, stated, that about twenty-five years ago at Tolstoj-mys, on the east side of the island, they had seen an animal unknown to them which was very thick before, but grew smaller behind, had small fore-feet, and appeared with a length of about fifteen feet above water, now raising itself up, now lowering itself. The animal “blew,” not through blowholes, but through the mouth, which was somewhat drawn out. It was brown in colour with some lighter spots. A back fin was wanting, but when the animal raised itself it was possible, on account of its great leanness, to see its backbone projecting. I instituted a through examination of both my informants. Their accounts agreed completely, and appeared to have claims to be regarded as trustworthy. That the animal which they saw was actually a sea-cow, is clearly proved both by the description of the animal’s form and way of pasturing in the water, and by the account of the way in which it breathed, its colour, and leanness. […] As these natives had no knowledge of Steller’s description of the animal, it is impossible that their statement can be false. The death-year of the Rhytina race must therefore be altered at least to 1854."
+      ],
+      "note_phrase": "about twenty-five years ago",
+      "note": "Nordenskiöld collected these statements during the Vega’s visit to Bering Island in August 1879. “The latter statement” is the conclusion, attributed to von Baer and Brandt, that the species was exterminated in 1768. Leonhard Stejneger later re-examined the same informants and rejected both the 1854 sighting and Nordenskiöld’s version of the 1779–1780 kills (Stejneger 1886). The omission removes Nordenskiöld’s quotations from Steller.",
+      "reading": [
+        "stejneger-1886",
+        "stejneger-1887"
+      ],
+      "neighbors": [
+        "sauer-seacow",
+        null
+      ],
+      "language": "en",
+      "scans": [
+        {
+          "src": "./assets/seacow-facsimiles/nordenskiold-276.webp",
+          "label": "p. 276",
+          "caption": "Nordenskiöld, trans. Leslie, 1881, II, p. 276. Smithsonian Libraries / Internet Archive.",
+          "url": "https://archive.org/details/voyageofvegaroun21881nord/page/276/mode/1up"
+        },
+        {
+          "src": "./assets/seacow-facsimiles/nordenskiold-277.webp",
+          "label": "p. 277",
+          "caption": "Nordenskiöld, trans. Leslie, 1881, II, p. 277. Smithsonian Libraries / Internet Archive.",
+          "url": "https://archive.org/details/voyageofvegaroun21881nord/page/277/mode/1up"
+        },
+        {
+          "src": "./assets/seacow-facsimiles/nordenskiold-278.webp",
+          "label": "p. 278",
+          "caption": "Nordenskiöld, trans. Leslie, 1881, II, p. 278. Smithsonian Libraries / Internet Archive.",
+          "url": "https://archive.org/details/voyageofvegaroun21881nord/page/278/mode/1up"
+        }
+      ],
+      "reader": {
+        "byline_html": "<a href=\"./authorities.html#nordenskiold\">A. E. Nordenskiöld</a> · 1832–1901",
+        "article_title": "The Voyage of the Vega round Asia and Europe",
+        "passage_label": "II, pp. 276–278 · extract, English translation",
+        "dates": [
+          {
+            "label": "Interviews",
+            "date": "1879",
+            "detail_html": "Bering Island, August"
+          },
+          {
+            "label": "Reported sighting",
+            "date": "c. 1854",
+            "detail_html": "“About twenty-five years ago” · disputed"
+          },
+          {
+            "label": "Publication",
+            "date": "1881",
+            "detail_html": "English translation by Alexander Leslie"
+          }
+        ],
+        "edition_html": "A. E. Nordenskiöld, The Voyage of the Vega round Asia and Europe, trans. Alexander Leslie, vol. II (London: Macmillan, 1881), pp. 276–278. Swedish original: Vegas färd kring Asien och Europa (Stockholm, 1880–1881).",
+        "citation_html": "A. E. Nordenskiöld, The Voyage of the Vega round Asia and Europe, trans. Alexander Leslie, vol. II (London: Macmillan, 1881), pp. 276–278. Swedish original: Vegas färd kring Asien och Europa (Stockholm, 1880–1881).",
+        "breadcrumb_label": "Nordenskiöld",
+        "portrait_alt": "Typographic initials; no portrait used",
+        "scan_alt": "Nordenskiöld, trans. Leslie, 1881, II, p. 276. Smithsonian Libraries / Internet Archive.",
+        "scan_caption": "Nordenskiöld, trans. Leslie, 1881, II, p. 276. Smithsonian Libraries / Internet Archive.",
+        "dialog_title": "Nordenskiöld, trans. Leslie, 1881, II, p. 276. Smithsonian Libraries / Internet Archive.",
+        "scan_button_label": "Enlarge Nordenskiöld, trans. Leslie, 1881, II, p. 276. Smithsonian Libraries / Internet Archive.",
+        "enlarged_alt": "Nordenskiöld, trans. Leslie, 1881, II, p. 276. Smithsonian Libraries / Internet Archive.",
+        "related_label": "Previous source ↗",
+        "text_label": "English translation"
+      }
+    },
+    "research": {
+      "reviewed_by": "Claude; visual comparison with printed scans; long s regularized, line-end hyphenation joined, footnote markers omitted",
+      "reviewed_on": "2026-10-12",
+      "novelty_status": "established",
+      "relationships": []
+    }
+  }
+]

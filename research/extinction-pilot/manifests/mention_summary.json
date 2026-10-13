@@ -1,0 +1,31 @@
+{
+  "candidate_pages": 318,
+  "counts_by_alias": {
+    "alias-034": 6,
+    "alias-021": 9,
+    "alias-004": 155,
+    "alias-035": 1,
+    "alias-036": 1,
+    "alias-032": 1,
+    "alias-046": 107,
+    "alias-020": 1,
+    "alias-018": 12,
+    "alias-045": 16,
+    "alias-017": 6,
+    "alias-031": 3,
+    "alias-050": 9,
+    "alias-007": 6,
+    "alias-033": 1,
+    "alias-029": 1,
+    "alias-030": 1,
+    "alias-049": 50,
+    "alias-047": 29,
+    "alias-053": 4,
+    "alias-048": 11,
+    "alias-002": 1,
+    "alias-003": 1,
+    "alias-028": 7
+  },
+  "method": "Unicode normalization, long-s normalization, line-end hyphen repair, whole-term matching. No fuzzy or semantic retrieval yet.",
+  "status": "retrieval_only"
+}

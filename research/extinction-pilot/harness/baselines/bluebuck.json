@@ -1,0 +1,909 @@
+{
+  "baseline_id": "bluebuck",
+  "taxon_ids": [
+    "bluebuck"
+  ],
+  "compiled": "2026-10-03",
+  "status": "machine-compiled from the listed literature; not checked by Benjamin",
+  "sources": [
+    {
+      "source_key": "rookmaaker1989",
+      "citation": "Rookmaaker, L. C. 1989. The Zoological Exploration of Southern Africa 1650-1790. Rotterdam & Brookfield: A. A. Balkema. Species account no. 49, Hippotragus leucophaeus, pp. 300-301; record entries throughout.",
+      "url": "https://archive.org/details/1989-zoological-exploration-southern-africa",
+      "read": "full text (Internet Archive OCR; page numbers derived from the scan's running heads, checked for each cited page)"
+    },
+    {
+      "source_key": "rookmaaker1992",
+      "citation": "Rookmaaker, L. C. 1992. Additions and revisions to the list of specimens of the extinct blue antelope (Hippotragus leucophaeus). Annals of the South African Museum 102(4): 131-141.",
+      "url": "https://archive.org/details/annalsofsoutha102199sout",
+      "read": "full text"
+    },
+    {
+      "source_key": "klein1974",
+      "citation": "Klein, R. G. 1974. On the taxonomic status, distribution and ecology of the blue antelope, Hippotragus leucophaeus (Pallas, 1766). Annals of the South African Museum 65(4): 99-143.",
+      "url": "https://archive.org/details/annalsofsouthaf651974sout",
+      "read": "full text (historical sections; the paper is mainly about fossil material)"
+    },
+    {
+      "source_key": "husson-holthuis1969",
+      "citation": "Husson, A. M. and L. B. Holthuis. 1969. On the type of Antilope leucophaea Pallas, 1766, preserved in the collection of the Rijksmuseum van Natuurlijke Historie, Leiden. Zoologische Mededelingen 44(11): 147-157.",
+      "url": "https://archive.org/details/zoologische-mededelingen-44-147-157",
+      "read": "full text"
+    },
+    {
+      "source_key": "husson-holthuis1975",
+      "citation": "Husson, A. M. and L. B. Holthuis. 1975. The earliest figures of the blaauwbok, Hippotragus leucophaeus (Pallas, 1766) and of the greater kudu, Tragelaphus strepsiceros (Pallas, 1766). Zoologische Mededelingen 49(5): 57-63.",
+      "url": "https://archive.org/details/zoologische-mededelingen-49-057-063",
+      "read": "full text"
+    },
+    {
+      "source_key": "hempel2021",
+      "citation": "Hempel, E., F. Bibi, J. T. Faith, J. S. Brink, D. C. Kalthoff, P. Kamminga, J. L. A. Paijmans, M. V. Westbury, M. Hofreiter and F. E. Zachos. 2021. Identifying the true number of specimens of the extinct blue antelope (Hippotragus leucophaeus). Scientific Reports 11. https://doi.org/10.1038/s41598-020-80142-2",
+      "url": "https://www.nature.com/articles/s41598-020-80142-2",
+      "read": "full text of article (Supplementary Document S1 and Table S1, with fuller specimen histories and lost specimens, not read)"
+    },
+    {
+      "source_key": "hempel2022",
+      "citation": "Hempel, E. et al. 2022. Blue turns to gray: paleogenomic insights into the evolutionary history and extinction of the blue antelope (Hippotragus leucophaeus). Molecular Biology and Evolution 39(12): msac241. https://doi.org/10.1093/molbev/msac241",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9750129/",
+      "read": "full text (genomic paper; little on written records)"
+    },
+    {
+      "source_key": "hempel2024",
+      "citation": "Hempel, E., J. T. Faith et al. 2024. Colonial-driven extinction of the blue antelope despite genomic adaptation to low population size. Current Biology 34: 2020-2029.e6. https://doi.org/10.1016/j.cub.2024.03.051",
+      "url": "https://wiredspace.wits.ac.za/bitstreams/6b5d741e-78b7-438a-9861-ca7abb3a5b82/download",
+      "read": "full text (genomic paper; no new written records)"
+    },
+    {
+      "source_key": "glenn2020",
+      "citation": "Glenn, I. 2020. The Paris bloubok (Hippotragus leucophaeus (Pallas, 1766) [Bovidae]) and its provenance. Zoosystema 42(5): 77-84. https://doi.org/10.5252/zoosystema2020v42a5",
+      "url": "https://sciencepress.mnhn.fr/sites/default/files/articles/pdf/zoosystema2020v42a5.pdf",
+      "read": "full text"
+    },
+    {
+      "source_key": "sclater-thomas1899",
+      "citation": "Sclater, P. L. and O. Thomas. 1899. The blue-buck. In The Book of Antelopes, vol. 4, pp. 5-12. London: R. H. Porter.",
+      "url": "https://archive.org/details/bookofantelopes418942scla",
+      "read": "full text (older compilation; synonymy list and quoted Le Vaillant and Lichtenstein passages)"
+    },
+    {
+      "source_key": "renshaw1904",
+      "citation": "Renshaw, G. 1904. The blaauwbok. In Natural History Essays, pp. 38-58. London: Sherratt & Hughes.",
+      "url": "https://archive.org/details/naturalhistoryes00rens",
+      "read": "full text (older compilation; dates sometimes inaccurate, e.g. Le Vaillant hunt printed as 'December, 1871')"
+    },
+    {
+      "source_key": "kerley2009",
+      "citation": "Kerley, G. I. H., R. Sims-Castley, A. F. Boshoff and R. M. Cowling. 2009. Extinction of the blue antelope Hippotragus leucophaeus: modeling predicts non-viable global population size as the primary driver. Biodiversity and Conservation 18(12): 3235-3242. https://doi.org/10.1007/s10531-009-9639-x",
+      "url": "https://doi.org/10.1007/s10531-009-9639-x",
+      "read": "not accessed (paywalled); its statement on precise records known only from a web-search snippet and the Wikipedia 'Bluebuck' article that cites it"
+    },
+    {
+      "source_key": "skead1980",
+      "citation": "Skead, C. J. 1980. Blue antelope (extinct blaauwbok), Hippotragus leucophaeus (Pallas, 1766). In Historical Mammal Incidence in the Cape Province, vol. 1, pp. 526-537. Cape Town: Department of Nature and Environmental Conservation, Cape Provincial Administration. Also Skead 1987, vol. 2, pp. 631-634.",
+      "url": null,
+      "read": "not accessed (citation from hempel2021 reference list)"
+    },
+    {
+      "source_key": "skead2011",
+      "citation": "Skead, C. J. 2011. Historical Incidence of the Larger Land Mammals in the Broader Western and Northern Cape. 2nd ed., ed. A. F. Boshoff, G. I. H. Kerley and P. H. Lloyd. Port Elizabeth: Centre for African Conservation Ecology, Nelson Mandela Metropolitan University. Chapter 4 includes the blue antelope (bloubok).",
+      "url": "https://ace.mandela.ac.za/Historical-Incidence-of-the-Larger-Mammals/Books-with-detailed-information-for-parts-of-%E2%80%98Sout/Western-and-Northern-Cape-provinces",
+      "read": "not accessed (no free PDF found; ACE sells print copies; the Rhino Resource Center PDF is the rhinoceros chapter only)"
+    },
+    {
+      "source_key": "mohr1967",
+      "citation": "Mohr, E. 1967. Der Blaubock, Hippotragus leucophaeus (Pallas, 1766): eine Dokumentation. Mammalia Depicta. Hamburg & Berlin: Paul Parey.",
+      "url": null,
+      "read": "not accessed (known only through citations in klein1974, rookmaaker1989, rookmaaker1992, husson-holthuis1969/1975, glenn2020)"
+    },
+    {
+      "source_key": "plaxton2023",
+      "citation": "Plaxton, L., E. Hempel, et al. 2023. Assessing the identity of rare historical museum specimens of the extinct blue antelope (Hippotragus leucophaeus) using an ancient DNA approach. Mammalian Biology. https://doi.org/10.1007/s42991-023-00373-4",
+      "url": "https://doi.org/10.1007/s42991-023-00373-4",
+      "read": "not accessed (title and authors from Crossref only)"
+    },
+    {
+      "source_key": "wikipedia-bluebuck",
+      "citation": "Wikipedia, 'Bluebuck' (raw wikitext, consulted 2026-10-03). Used only as a pointer to literature not read here (Kerley 2009; Loubser, Brink and Laurens 1990).",
+      "url": "https://en.wikipedia.org/wiki/Bluebuck",
+      "read": "full text (tertiary; not used as authority)"
+    },
+    {
+      "source_key": "barrow1804-primary",
+      "citation": "Barrow, J. 1804. An Account of Travels into the Interior of Southern Africa. Vol. 2. London: T. Cadell and W. Davies, p. 47.",
+      "url": "https://archive.org/details/accountoftravels02barr/page/47/mode/2up",
+      "read": "Title page and p. 47 verified against page images; relevant surrounding OCR read. Archive metadata incorrectly assigns this volume the date 1801; its title page reads 1804."
+    },
+    {
+      "source_key": "barrow1806-primary",
+      "citation": "Barrow, J. 1806. Travels into the Interior of Southern Africa. 2nd ed. Vol. 1. London: T. Cadell and W. Davies, pp. 371–372.",
+      "url": "https://archive.org/details/travelsintointer11806barr/page/371/mode/2up",
+      "read": "pp. 371–372 checked against page images; repeats the 1804 second-volume herd report."
+    },
+    {
+      "source_key": "pennant1771-primary",
+      "citation": "Pennant, T. 1771. Synopsis of Quadrupeds. Chester: J. Monk, pp. 24–25, entry 13.",
+      "url": "https://darwin-online.org.uk/converted/Ancillary/BeagleLibrary/1771_Pennant_A730.html",
+      "read": "Digitized transcription of pp. 24–25 and plate list; scan comparison pending."
+    }
+  ],
+  "known_gaps": [
+    "Earliest mention: Rookmaaker 1992, p. 131: it 'has been stated that the species was mentioned for the first time in 1719' by Kolb, but the name already appears in Schreyer 1681 (list of 'blaue Bocke'). Hempel et al. 2021 (Introduction) call it 'likely first mentioned in writing by J. Schreyer in 1679', citing the 1681 edition. The discrepancy over 1679 and 1681 is unresolved in the sources read. [rookmaaker1992 p. 131; hempel2021]",
+    "Klein 1974, p. 99, following Mohr 1967: 6-10, treats Kolb 1719 as 'the first published account'. He dates the last sighting to 'around 1800', following Harper 1945: 698-700. [klein1974 p. 99]",
+    "Last record: Lichtenstein 1811: 265 says one was shot in 1800, with its skin now in Leiden, and none seen since. Lichtenstein 1814: 160 gives 1799 as the year the last one was shot. Husson and Holthuis 1969 (pp. 148-149) show that the 1799/1800 skin(s) cannot be the extant Leiden lectotype. No blaauwbok appears in the 1 May 1834 list of the Leiden Academisch Kabinet, so Lichtenstein's specimen is either an error or was lost between 1811 and 1834. Rookmaaker 1992 (p. 138) suggests it was De Mist's Haarlem skin and says 'Maybe further research can clarify these statements.' [husson-holthuis1969 pp. 148-149; rookmaaker1992 p. 138]",
+    "The De Mist skin was received in Haarlem on 23 July 1805 and listed by Van Marum in 1812. Rookmaaker 1992, p. 138: 'From 1812 onwards, the history of the skin becomes obscure'. Rookmaaker 1992, pp. 139-140: 'there is not a single clue as to what happened to this skin'. Haarlem Cabinet transfer records of 1866 do not mention mammals. [rookmaaker1992 pp. 138-140]",
+    "Figures: Husson and Holthuis 1975, p. 59: 'only three original figures of the Blaauwbok are known to have been published in the 18th century'. These are Buffon 1764 (horn), Pennant 1771 (head) and Allamand 1778 (whole animal). Kolb's 1719 'blauen Bockes' plate is a misprint for an unnamed buck, which they identify as a greater kudu. [husson-holthuis1975 pp. 58-59]",
+    "Drawings: Rookmaaker 1992, p. 132 (following Rookmaaker 1989) names three known 18th-century drawings: Gordon (Rijksmuseum, GA 159) and two near-identical Levaillant drawings (Library of Parliament, Cape Town, CT 77; Leiden University Library, UBL 13). Glenn 2020 (p. 83) adds the vignette on De Laborde's 1790 map, drawn by Willem van Leen. [rookmaaker1992 p. 132; glenn2020 p. 83]",
+    "Glenn 2020, p. 81, citing Mohr 1967: 74: 'only two naturalists illustrated and commented on Bloubok they had seen dead and alive: Gordon and Levaillant'. [glenn2020 p. 81]",
+    "Precise localities: according to a web-search snippet and the Wikipedia article citing Kerley et al. 2009, only two historical records are 'reasonably precise': Thunberg, 20 January 1774, and Le Vaillant, 'March/April 1783'. The 1783 date conflicts with Glenn 2020 (hunt in 'early 1782') and Sclater and Thomas 1899 (departure 18 December 1781, hunt a few days later). Check this against the paper itself. [kerley2009 (snippet only); glenn2020 p. 78; sclater-thomas1899 p. 8]",
+    "Range: Rookmaaker 1989, p. 300: range 'apparently always was restricted to the region between Caledon and Swellendam'. Klein 1974, pp. 99, 114: mainly the Swellendam-Caledon-Bredasdorp triangle, 'occasionally as far east as Plettenberg Bay'. The Plettenberg Bay reference rests on Gordon's 1778 animal, which Mohr 1967: 16 considered a roan. [rookmaaker1989 p. 300; klein1974 pp. 99, 112, 114]",
+    "Sparrman never saw a live animal; he saw only a preserved skin at the Krakeel River (Rookmaaker 1989, p. 144). The claim that the Stockholm mount came from Sparrman 'must be discarded' (Rookmaaker 1989, pp. 147, 300). [rookmaaker1989 pp. 144, 147, 300]",
+    "Provenance of specimens: Hempel et al. 2021 say all four DNA-confirmed specimens (Stockholm, Vienna, Leiden fragments, Uppsala horns) 'lack verified, detailed location information'. Supplementary Document S1, which covers lost specimens, was not read. [hempel2021 Discussion]",
+    "After 1800: Renshaw 1904 (pp. 45-46) says no specimen, skull or report was found by later travellers (Barrow, Campbell, Burchell, A. Smith); Harris searched in vain in 1836-37. [renshaw1904 pp. 45-46] Direct primary-source reading now establishes a secondhand report in Barrow 1804 ii:47, referring to a few months before the 1803 evacuation. The older summary must not be treated as proof of no post-1800 report.",
+    "Cape archival (VOC) records: none of the sources read cites a dagregister, resolution or VOC letter for the bluebuck. Rookmaaker 1989 lists only printed reports and manuscripts (Schreyer, Buttner MS c.1716, Kolb, Hop/Allamand, Mentzel, Gordon MSS, Thunberg, Sparrman, Levaillant). The 1680-1770 Company journals and travel diaries remain unsearched as far as these works show. Skead 1980/2011 and Mohr 1967 were not accessed and may cite archival items. [compiler note, not a statement in the literature]",
+    "Compiler note, not stated as such in the sources: between Kolb (1708) and Thunberg (1774), the only direct field record in the sources read is Buttner's manuscript (c.1716, identification disputed). Mentzel (at the Cape 1732-1741, publishing in 1787) is a compiled list. The dated field records therefore cluster in 1774-1782, plus Barrow's hearsay of late 1802/early 1803 (relative dating inferred from Barrow 1804 ii:47; previously misdated c.1797 in this compilation) and Lichtenstein's of 1803-04. [rookmaaker1989 pp. 28, 30, 39]"
+  ],
+  "vocabulary": [
+    {
+      "term": "blaue Böcke / blaue Bocke",
+      "language": "de",
+      "attested_in": "Schreyer 1681: 81 ('Gems-Böcke, blaue Böcke, bundte Böcke ...')",
+      "cited_by": "rookmaaker1992 p. 131; rookmaaker1989 p. 6 (name index: 'blaue böcke, tzairan')"
+    },
+    {
+      "term": "blauen Bockes / blaue Böcke",
+      "language": "de",
+      "attested_in": "Kolb 1719: 140-143 (text; the plate 'Vorstellung eines blauen Bockes' is a misprint for the unnamed buck in part of the edition)",
+      "cited_by": "husson-holthuis1975 pp. 57-58; rookmaaker1989 p. 30"
+    },
+    {
+      "term": "blaue bock",
+      "language": "de",
+      "attested_in": "Buttner MS c.1716 (Nienaber and Raven-Hart 1970: 52, 96); Mentzel 1787: 363-411",
+      "cited_by": "rookmaaker1989 pp. 28, 39"
+    },
+    {
+      "term": "tzairan",
+      "language": "de",
+      "attested_in": "Mentzel 1787 (name list)",
+      "cited_by": "rookmaaker1989 pp. 6, 39"
+    },
+    {
+      "term": "Een Vreemde Bok / frembden Bockes",
+      "language": "nl/de",
+      "attested_in": "Kolb 1727 Dutch ed., plate opp. p. 170; corrected 1719 plate. NOT the bluebuck; Husson and Holthuis identify the animal as greater kudu",
+      "cited_by": "husson-holthuis1975 p. 58"
+    },
+    {
+      "term": "tzeiran / zeiran / tseiran / Le Tzeiran",
+      "language": "fr (applied from a Central Asian gazelle name)",
+      "attested_in": "Buffon 1764 ('Une corne de tzeiran'); Allamand 1778 'Addition à l'article du tzeiran'; Allamand 1781: 38; Gordon GA 159 ('den Zeiran van Buffon'); Thunberg ('tseiran')",
+      "cited_by": "husson-holthuis1975 p. 59; rookmaaker1989 pp. 85, 126-127, 153, 159; rookmaaker1992 p. 134"
+    },
+    {
+      "term": "Theiram / Le Theiram",
+      "language": "fr",
+      "attested_in": "Levaillant drawings CT 77 ('Le Blauwe Bok ou Theiram') and UBL 13 ('Le Theiram ... Male, ou le Blauwe Bok, dans le Soete Melks Valey')",
+      "cited_by": "rookmaaker1989 pp. 213, 218-219"
+    },
+    {
+      "term": "blaauwe bok / blauwe bok / Blauwe Bok",
+      "language": "nl",
+      "attested_in": "Gordon GA 159 ('Dit is de blaauwe bok van de Caap'); Africana Museum drawing 61/1248 ('Blauwe bok'); Levaillant drawing captions; Thunberg's gloss",
+      "cited_by": "rookmaaker1989 pp. 69, 85, 159, 213"
+    },
+    {
+      "term": "blaauwbok / blauwbok",
+      "language": "nl",
+      "attested_in": "Gordon MSS GM 16 (animal list; notes); Gordon GA 160 caption; Immelman letter, 25 March 1781 ('1 skin of blauwbok')",
+      "cited_by": "rookmaaker1989 pp. 74, 85, 161"
+    },
+    {
+      "term": "Blaauwe Bok (Antilope Leucophaea)",
+      "language": "nl",
+      "attested_in": "Van Marum 1812: 166 (De Mist gift); Van Marum letter, 23 July 1805 (translated as 'the Blue Buck')",
+      "cited_by": "rookmaaker1992 pp. 136-138"
+    },
+    {
+      "term": "blaauwbok (auction advertisement 'Antilope Leucophas (de blaauwbok)')",
+      "language": "nl",
+      "attested_in": "Opregte Haarlemsche Courant, 5 April 1842 (auction of 15 April 1842)",
+      "cited_by": "husson-holthuis1969 pp. 150-151 (translated); rookmaaker1992 p. 134"
+    },
+    {
+      "term": "blauwe Bock / blaauw-bok",
+      "language": "sv/nl (Sparrman's Dutch name)",
+      "attested_in": "Sparrman 1783: 626 (Swedish); English ed. 1786 ii: 219 'Blaauw-bok'",
+      "cited_by": "rookmaaker1989 p. 144; sclater-thomas1899 p. 5"
+    },
+    {
+      "term": "blå-bocken (OCR 'blà-bácken') / Capra leucophaea",
+      "language": "sv/la",
+      "attested_in": "Thunberg 1789 (Resa ii): 127 ('blå-bocken (blauwe bok, tseiran, Capra leucophaea)')",
+      "cited_by": "rookmaaker1989 p. 159; sclater-thomas1899 p. 6"
+    },
+    {
+      "term": "Blawe-Bock / bouc bleu",
+      "language": "nl (as spelled by Le Vaillant) / fr",
+      "attested_in": "Le Vaillant 1790, Voyage i: 58 (Sclater) / p. 82 (Glenn, different edition)",
+      "cited_by": "rookmaaker1989 p. 251; sclater-thomas1899 pp. 5, 8; glenn2020 p. 79"
+    },
+    {
+      "term": "Blau-bok",
+      "language": "de",
+      "attested_in": "Lichtenstein 1811 Reise i: 265; ii: 121",
+      "cited_by": "sclater-thomas1899 p. 9"
+    },
+    {
+      "term": "Antilope leucophaea / Antilope leucophaeus",
+      "language": "la",
+      "attested_in": "Pallas 1766: 4; Pallas 1767; Thunberg 1811: 313; Lichtenstein 1814; Bullock sale catalogue 1819 ('Blue Antelope, A. Leucophaea')",
+      "cited_by": "husson-holthuis1969 p. 153; rookmaaker1989 p. 154; rookmaaker1992 p. 134"
+    },
+    {
+      "term": "Antilope (Bubalis) leucophaea; Aigocerus leucophaeus; Hippotragus leucophaeus; Cemas glaucus; Antilope capensis (P. L. S. Müller 1776)",
+      "language": "la",
+      "attested_in": "synonymy, 1776-1898",
+      "cited_by": "sclater-thomas1899 pp. 5-6"
+    },
+    {
+      "term": "Antelope glauca",
+      "language": "la",
+      "attested_in": "J. R. Forster 1790b: 75 (in his German Le Vaillant translation); Forster 1844 Descriptiones animalium: 391",
+      "cited_by": "rookmaaker1989 p. 251; sclater-thomas1899 p. 6"
+    },
+    {
+      "term": "Blue Antelope",
+      "language": "en",
+      "attested_in": "Pennant 1781 History of Quadrupeds; G. Forster 1777 ('the blue antelope'); Bullock sale 1819; Pennant 1771, list of plates (plate VI); Barrow 1804 ii:47",
+      "cited_by": "sclater-thomas1899 p. 7; rookmaaker1989 p. 45; rookmaaker1992 p. 134"
+    },
+    {
+      "term": "blue goat",
+      "language": "en",
+      "attested_in": "Pennant 1771, Synopsis of Quadrupeds, p. 24, citation 'Blue Goat. Kolben’s Cape. II. 114.' under entry 13, BLUE. A cited earlier label, not an additional independent observation.",
+      "cited_by": "Direct reading of the Darwin Online transcription, 2026-10-03; scan comparison pending"
+    },
+    {
+      "term": "Bouc-Chamois",
+      "language": "fr",
+      "attested_in": "Journal Historique (Amsterdam 1778), p. 58, as reported by Pennant; probably Hop 1778. Not verified",
+      "cited_by": "renshaw1904 p. 51 (citing Pennant)"
+    },
+    {
+      "term": "La Gazelle Tzeiran; grande antilope bleue",
+      "language": "fr",
+      "attested_in": "Buffon 1782 Suppl. vi: 168; Delegorgue 1847 attributes 'grande antilope bleue' to Levaillant",
+      "cited_by": "sclater-thomas1899 p. 5; glenn2020 p. 78"
+    },
+    {
+      "term": "une grande gazelle non décrite",
+      "language": "fr",
+      "attested_in": "Inventory of Levaillant's collection sold to the MNHN (Paris Archives nationales F/17/1241, carton 4, dossier Denoor); Glenn argues this is the bluebuck",
+      "cited_by": "glenn2020 p. 80"
+    },
+    {
+      "term": "groot-blaauw-book; bastaard-guyms-book; bastaard-Eland",
+      "language": "nl/af (as spelled by Delegorgue)",
+      "attested_in": "Delegorgue 1847. Applied to the ROAN, which Delegorgue conflates with Levaillant's bluebuck; 'groot-blaauw-book des anciens colons de Swellendam'",
+      "cited_by": "glenn2020 p. 78"
+    },
+    {
+      "term": "bastard gemsbok",
+      "language": "en/af",
+      "attested_in": "1853 eyewitness report near Bethlehem, Free State, argued by Colahan (1990) to be a bluebuck. Disputed; source not read",
+      "cited_by": "wikipedia-bluebuck (citing Loubser et al. 1990)"
+    },
+    {
+      "term": "bloubok",
+      "language": "af",
+      "attested_in": "modern Afrikaans name",
+      "cited_by": "hempel2021; glenn2020"
+    },
+    {
+      "term": "FALSE FRIEND: kleine blauwbokje / numgotje / blauwbokje",
+      "language": "nl",
+      "attested_in": "Gordon MSS GM 16 animal list. This is the blue duiker (Philantomba monticola), not the bluebuck",
+      "cited_by": "rookmaaker1989 p. 74"
+    },
+    {
+      "term": "FALSE FRIEND: Blaauwberg / Blaauwe berg (place name); blaauwe reiger, blauwe kraan, blauwe valk (birds)",
+      "language": "nl",
+      "attested_in": "various Cape texts",
+      "cited_by": "rookmaaker1989 pp. 32 and passim"
+    }
+  ],
+  "records": [
+    {
+      "record_id": "bluebuck-1681-schreyer-list",
+      "observation_date": "1668/1677",
+      "publication_date": "1681",
+      "observer": "Johann Schreyer (at the Cape 1668-1677)",
+      "source": "Schreyer, J. 1681. Neue Ost-Indianische Reise-Beschreibung. Leipzig: J. C. Wohlfart, p. 81.",
+      "archival_ref": null,
+      "locality": "Cape ('auff den hohen Bergen'), unspecified",
+      "kind": "hearsay/compilation (list of animals)",
+      "name_used": "blaue Böcke",
+      "cited_by": [
+        "rookmaaker1992 p. 131",
+        "rookmaaker1989 p. 300 (reference list)",
+        "hempel2021 Introduction (as 1679)"
+      ],
+      "notes": "Earliest known written mention. The observation dates are the span of Schreyer's Cape service as usually given; the sources read state only the publication. Hempel et al. 2021 give 1679. Identification rests on the name alone."
+    },
+    {
+      "record_id": "bluebuck-1708-kolb-caledon",
+      "observation_date": "1708",
+      "publication_date": "1719",
+      "observer": "Peter Kolb",
+      "source": "Kolb, P. 1719. Caput Bonae Spei hodiernum. Nürnberg, pp. 141-143 (land-animal chapter, 1719: 136-173). Dutch ed. 1727.",
+      "archival_ref": null,
+      "locality": "on the way to Caledon (Rookmaaker); 'near Caledon' (Hempel et al. 2021)",
+      "kind": "observation in the wild; one hunted and eaten",
+      "name_used": "blaue Böcke",
+      "cited_by": [
+        "rookmaaker1989 p. 30",
+        "rookmaaker1989 p. 300 (Kolb 1719:141)",
+        "hempel2021 Introduction",
+        "klein1974 p. 99 (via Mohr 1967: 6-10)",
+        "husson-holthuis1975 pp. 57-59"
+      ],
+      "notes": "Rookmaaker: Kolb saw 10 animals in 1708, one shot and eaten; hair smooth with a bluish gloss that turns grey after death. Kolb's plate 'Vorstellung eines blauen Bockes' (1719 pl. 2 fig. 2) is a misprint for the unnamed buck, identified as greater kudu by Husson and Holthuis 1975. It is therefore not a bluebuck figure."
+    },
+    {
+      "record_id": "bluebuck-1716-buttner-ms",
+      "observation_date": "1713/1717",
+      "publication_date": "1970 (transcription)",
+      "observer": "Johan Daniel Buttner (at the Cape 1713-1717, 1723-1730)",
+      "source": "Buttner, 'Waare relation und Beschrijbung von Cabo de Goede Hoop', c.1716; extracts by J. N. von Dessin in the South African Library, Cape Town; ed. Nienaber and Raven-Hart 1970, pp. 52, 96.",
+      "archival_ref": "South African Library, Cape Town: three MS extracts by J. N. von Dessin (shelfmarks not given in rookmaaker1989)",
+      "locality": "Cape, unspecified",
+      "kind": "observation/compilation (manuscript description)",
+      "name_used": "blaue bock",
+      "cited_by": [
+        "rookmaaker1989 p. 28",
+        "rookmaaker1989 p. 300 (reference 'Buttner (v.1713, 4.58)')"
+      ],
+      "notes": "Described as 'von Couleur recht himmelblau', deer-sized, in groups of up to 20. Identification disputed: the 1970 editors called it Connochaetes gnou, while Rookmaaker lists it under H. leucophaeus."
+    },
+    {
+      "record_id": "bluebuck-1732-mentzel-list",
+      "observation_date": "1732/1741",
+      "publication_date": "1787",
+      "observer": "Otto Friedrich Mentzel",
+      "source": "Mentzel, O. F. 1787. Vollständige und zuverlässige geographische und topographische Beschreibung des ... Vorgebirges der Guten Hoffnung, vol. 2: 363-411 (bluebuck refs 366, 406); English transl. Van Riebeeck Society 1944: 219-246.",
+      "archival_ref": null,
+      "locality": "Cape, unspecified",
+      "kind": "hearsay/compilation (alphabetical animal list, written long after his stay)",
+      "name_used": "blaue bock; tzairan",
+      "cited_by": [
+        "rookmaaker1989 p. 39",
+        "rookmaaker1989 p. 300 (Mentzel 1787:366, 406)"
+      ],
+      "notes": "Rookmaaker says some species appear twice under different names in Mentzel's list. 'tzairan' may be borrowed from Buffon/Allamand rather than from Mentzel's own Cape usage (compiler's inference)."
+    },
+    {
+      "record_id": "bluebuck-1764-buffon-horn",
+      "observation_date": "before 1764",
+      "publication_date": "1764",
+      "observer": "Buffon (Daubenton)",
+      "source": "Buffon, Histoire naturelle 12 (1764): 271, pl. 31 fig. 6, 'Une corne de tzeiran'.",
+      "archival_ref": null,
+      "locality": "origin unknown",
+      "kind": "illustration (horn); specimen",
+      "name_used": "tzeiran",
+      "cited_by": [
+        "husson-holthuis1975 p. 59"
+      ],
+      "notes": "First published figure that can be attributed to the species, after Kolb's plate was set aside. The mutilated horn was referred to the blaauwbok by Allamand 1778: 151-152, and this was accepted by Mohr 1967: 74, fig. 50."
+    },
+    {
+      "record_id": "bluebuck-1764-klockner-skin",
+      "observation_date": "1764/1776",
+      "publication_date": "1778",
+      "observer": "Jacob Christoph Klöckner (taxidermist, Amsterdam)",
+      "source": "Allamand, J. N. S. 1778. Addition à l'article du tzeiran. In Buffon, Histoire naturelle, suppl. 4: 151-153, pl. LXIII (Amsterdam: Schneider); Dutch ed. 1784, 15: 206-208, pl. 55.",
+      "archival_ref": null,
+      "locality": "skin found 'dans la boutique d'un marchand' (probably Amsterdam); packing suggested a Cape origin",
+      "kind": "specimen (now Leiden lectotype RMNH.MAM.20681)",
+      "name_used": "tzeiran",
+      "cited_by": [
+        "husson-holthuis1969 pp. 149-153",
+        "rookmaaker1989 pp. 126, 300-301",
+        "rookmaaker1992 pp. 133-134",
+        "hempel2021 Specimens not analyzed"
+      ],
+      "notes": "Chain of custody: Klöckner, who settled in Amsterdam in 1764 → J. C. Sylvius van Lennep (died 17 December 1776) → Hollandsche Maatschappij der Wetenschappen, Haarlem (Van Marum catalogue 1803; seen c.1800 by Rudolphi 1804: 120) → auction by A. Engesmet, 15 April 1842 → bought by H. Schlegel for Leiden. Selected as lectotype by Husson and Holthuis 1969; the restricted type locality 'Swellendam District' is their designation, not a collection datum. Allamand's 1778 plate is the first published figure of the whole animal."
+    },
+    {
+      "record_id": "bluebuck-1766-pallas-description",
+      "observation_date": "1763/1766",
+      "publication_date": "1766",
+      "observer": "Peter Simon Pallas",
+      "source": "Pallas, P. S. 1766. Miscellanea zoologica, p. 4 ('Hujus plurimas vidi pelles Promontoriae bonae Spei missas'); Spicilegia zoologica 1 (1767): 6.",
+      "archival_ref": null,
+      "locality": "skins sent from the Cape of Good Hope, seen in Dutch collections",
+      "kind": "specimens (syntype series); formal description",
+      "name_used": "Antilope leucophaea",
+      "cited_by": [
+        "husson-holthuis1969 pp. 152-153",
+        "rookmaaker1989 p. 301",
+        "hempel2021 Introduction"
+      ],
+      "notes": "Pallas cites Kolb's Dutch edition. The specimens are not individually identified; the Leiden mount is the lectotype. Husson and Holthuis suggest that the Amsterdam skin later seen by Le Vaillant may also have belonged to the type series."
+    },
+    {
+      "record_id": "bluebuck-1771-pennant-amsterdam-skin",
+      "observation_date": "before 1771",
+      "publication_date": "1771",
+      "observer": "Thomas Pennant",
+      "source": "Pennant, T. 1771. Synopsis of Quadrupeds, pp. 24–25, entry 13, BLUE; head vignette on plate VI. Later account in History of Quadrupeds, 1781.",
+      "archival_ref": null,
+      "locality": "skin bought in Amsterdam, said to be from the Cape of Good Hope",
+      "kind": "specimen; illustration (head)",
+      "name_used": "BLUE (entry 13); Blue Goat in the citation to Kolben; Antelope Leucophœa in the citation to Pallas",
+      "cited_by": [
+        "husson-holthuis1975 p. 59",
+        "sclater-thomas1899 p. 7",
+        "renshaw1904 pp. 40, 51",
+        "rookmaaker1992 p. 134"
+      ],
+      "notes": "Second published figure. Pennant gives 20 horn rings and colour 'when alive, a fine blue of a velvet appearance; when dead, changes to bluish-grey' (quoted by Renshaw). The suggestion that Pennant's horns are the NHM London frontlet (NHMUK GERM 636e) is speculative (Mohr 1967: 43; Renshaw). Direct reading of Darwin Online's transcription on 2026-10-03 confirms the account spans pp. 24–25, describes a skin bought at Amsterdam and brought from the Cape, and gives curved, ringed horns and white marks beneath the eyes. 'Blue Goat' is the bibliographic citation to Kolben, not Pennant's section heading. The skin is specimen evidence; the statement about living colour is not an eyewitness observation by Pennant. Transcription checked; the original page images have not yet been compared.",
+      "primary_source_check": {
+        "checked": "2026-10-03",
+        "method": "Printed pp. 24–25 visually compared with the transcription; long s regularized and line-end hyphenation joined.",
+        "url": "https://darwin-online.org.uk/converted/Ancillary/BeagleLibrary/1771_Pennant_A730.html",
+        "pages": "24–25",
+        "decision": "specimen account; living colour and Cape origin not independently verified",
+        "scan_url": "https://archive.org/details/synopsisofquadru00penn/page/24/mode/1up",
+        "public_record": "source-pennant-bluebuck.html"
+      }
+    },
+    {
+      "record_id": "bluebuck-1772-gforster-list",
+      "observation_date": "1772",
+      "publication_date": "1777",
+      "observer": "George Forster",
+      "source": "Forster, G. 1777. A Voyage round the World, pp. 82-85 (footnote listing Cape antelopes).",
+      "archival_ref": null,
+      "locality": "Cape of Good Hope (general list)",
+      "kind": "hearsay/compilation",
+      "name_used": "the blue antelope",
+      "cited_by": [
+        "rookmaaker1989 p. 45"
+      ],
+      "notes": "Name only, in a list of Cape antelopes compiled during Cook's 1772 call at the Cape."
+    },
+    {
+      "record_id": "bluebuck-1774-01-20-thunberg-tigerhoek",
+      "observation_date": "1774-01-20",
+      "publication_date": "1789",
+      "observer": "Carl Peter Thunberg",
+      "source": "Thunberg, C. P. 1789. Resa uti Europa, Africa, Asia, vol. 2: 127; English ed. (Forbes, Van Riebeeck Society 1986): 258; Engl. transl. i: 113 (dated 1798 in Sclater and Thomas).",
+      "archival_ref": null,
+      "locality": "Tigerhoek, 34°9'S 19°54'E (Rookmaaker's coordinates), near Riviersonderend; Thunberg locality [36], second expedition",
+      "kind": "observation/report (Thunberg says it had become rare)",
+      "name_used": "blå-bocken (blauwe bok, tseiran, Capra leucophaea)",
+      "cited_by": [
+        "rookmaaker1989 p. 159",
+        "rookmaaker1989 p. 300 (locality Thunberg 36)",
+        "klein1974 p. 99 (via Mohr 1967: 6)",
+        "kerley2009 (snippet: one of two 'reasonably precise' records)",
+        "sclater-thomas1899 p. 6"
+      ],
+      "notes": "The sources read do not say whether Thunberg saw live animals on this date or recorded local report. Renshaw 1904: 43 says Thunberg reported colonists' belief that careless mothers let calves be taken by predators. Wikipedia wrongly places Tigerhoek in Mpumalanga."
+    },
+    {
+      "record_id": "bluebuck-1775-sparrman-krakeel-skin",
+      "observation_date": "1775/1776",
+      "publication_date": "1783",
+      "observer": "Anders Sparrman",
+      "source": "Sparrman, A. 1783. Resa till Goda Hopps-udden: 626-627; English ed. 1786 ii: 219; Van Riebeeck Society ed. 1977: 168.",
+      "archival_ref": null,
+      "locality": "Krakeel River (Langkloof)",
+      "kind": "specimen (preserved skin seen); hearsay on live colour",
+      "name_used": "blauwe Bock / blaauw-bok",
+      "cited_by": [
+        "rookmaaker1989 p. 144",
+        "sclater-thomas1899 p. 8",
+        "renshaw1904 pp. 40, 51"
+      ],
+      "notes": "Sparrman never saw the animal alive. He repeats reports that the live colour resembles blue velvet and turns leaden after death. The year is inferred from his 1775-1776 inland journey and is not stated in the sources read; Renshaw's 'about 1772' is wrong. A suggestion that the Stockholm mount came from Sparrman is rejected (rookmaaker1989 p. 147)."
+    },
+    {
+      "record_id": "bluebuck-1778-gordon-plettenberg-roan",
+      "observation_date": "1778",
+      "publication_date": null,
+      "observer": "Robert Jacob Gordon",
+      "source": "Gordon Atlas GA 160 (Rijksmuseum, Amsterdam), caption 'Een onbekende gaselle. Mogelijk een bastert van een tzeiran en pasan of Caapse gems en blaauwbok ...'.",
+      "archival_ref": "Rijksmuseum Amsterdam, Gordon Atlas no. 160",
+      "locality": "forests near Plettenberg Bay",
+      "kind": "illustration + skin; NOT a bluebuck (roan, H. equinus)",
+      "name_used": "tzeiran; blaauwbok (in a hybrid hypothesis)",
+      "cited_by": [
+        "rookmaaker1989 pp. 85, 301",
+        "klein1974 p. 112 (Mohr 1967: 16)",
+        "hempel2021 Discussion"
+      ],
+      "notes": "Listed so that it is not mistaken for a new bluebuck record. Mohr considered it more likely a roan, Grubb treated it as the roan holotype, and Rookmaaker lists it under H. equinus. Klein's eastern range limit ('occasionally as far east as Plettenberg Bay') depends on this case."
+    },
+    {
+      "record_id": "bluebuck-1778-hop-allamand-plate",
+      "observation_date": null,
+      "publication_date": "1778",
+      "observer": "J. N. S. Allamand (annotations) in the Hop journal edition",
+      "source": "Hop, H. 1778. Nouvelle description du Cap de Bonne-Espérance avec un journal historique d'un voyage de terre ... (Amsterdam; Dutch and German eds.), Dag-verhaal p. 59: 'tzeiran' described with plate (same plate as Allamand 1778 pl. LXIII).",
+      "archival_ref": null,
+      "locality": "none (European annotation)",
+      "kind": "compilation; illustration",
+      "name_used": "tzeiran (possibly 'Bouc-Chamois', see notes)",
+      "cited_by": [
+        "rookmaaker1989 p. 37",
+        "rookmaaker1989 p. 300 (Hop 1778:59)",
+        "renshaw1904 p. 51"
+      ],
+      "notes": "Hop's 1761-62 expedition itself did not record the species; the entry is Allamand's footnote and plate. Renshaw, citing Pennant, says the 'Journal Historique' (Amsterdam 1778), p. 58, mentions it as 'Bouc-Chamois'. This is unverified and may be the same item."
+    },
+    {
+      "record_id": "bluebuck-1780-gordon-skin-allamand",
+      "observation_date": "1777/1781",
+      "publication_date": "1781",
+      "observer": "Robert Jacob Gordon (killed by him per Allamand); J. N. S. Allamand",
+      "source": "Allamand 1781. In Buffon, Histoire naturelle, suppl. 5: 38, footnote: 'M. Gordon m'a envoié les peaux de l'un & de l'autre [pasan and tzeiran], qu'il a tués au Cap de Bonne Espérance'.",
+      "archival_ref": null,
+      "locality": "Cape of Good Hope (no locality)",
+      "kind": "hunted/killed; specimen sent to Allamand, Leiden",
+      "name_used": "tzeiran",
+      "cited_by": [
+        "rookmaaker1989 pp. 127, 301",
+        "rookmaaker1992 p. 134"
+      ],
+      "notes": "The skin's later fate is unknown. Mohr and Rookmaaker suggested it became the Paris mount via the Stadholder's cabinet (seized in 1795). Glenn 2020 rejects this and suggests the unprovenanced Amsterdam skull ZMA 18.623 as a possible remnant. That skull is now shown to be sable (hempel2021), so Glenn's suggestion fails. The observation date is bounded by Gordon's arrival in 1777 and Allamand's note of 1781."
+    },
+    {
+      "record_id": "bluebuck-1777-gordon-ga159-drawing",
+      "observation_date": "1777/1786",
+      "publication_date": "1967 (Mohr fig. 21)",
+      "observer": "Robert Jacob Gordon",
+      "source": "Gordon Atlas GA 159, with scale of 3 feet 6 inches Rijnlandse maat; text 'Dit is de blaauwe bok van de Caap, men heeft hem den Zeiran van Buffon genoemt, edog ten onregte ...'.",
+      "archival_ref": "Rijksmuseum Amsterdam, Gordon Atlas no. 159 (RP-T-1914-17-159 per Glenn 2020 fig. 4 URL)",
+      "locality": "Cape (no locality stated)",
+      "kind": "illustration (drawing from a dead or live animal; one of the three 18th-century drawings)",
+      "name_used": "blaauwe bok; Zeiran",
+      "cited_by": [
+        "rookmaaker1989 pp. 85, 91 (fig. 42)",
+        "rookmaaker1992 p. 132",
+        "glenn2020 pp. 81-83"
+      ],
+      "notes": "The date range is the compiler's bracket for Gordon's Atlas period and is not given in the sources. Rookmaaker 1989, p. 85: 'Information about the bluebock itself is unfortunately almost absent' in the Gordon papers. Mohr linked the drawing to the Paris mount; Glenn 2020 argues against this on proportions and horn-ring counts (about 23/25)."
+    },
+    {
+      "record_id": "bluebuck-gordon-gm16-notes",
+      "observation_date": "1777/1795",
+      "publication_date": "1979 (Rookmaaker thesis, appendix 2)",
+      "observer": "Robert Jacob Gordon",
+      "source": "Gordon manuscripts GM 16, 'Renseignements et descriptions de plusieurs animaux': short note headed 'blauwbok'; undated list of South African quadrupeds including 'blaauwbok'.",
+      "archival_ref": "Brenthurst Library, Johannesburg, Gordon Manuscripts (formerly Country Archives, Stafford), GM 16",
+      "locality": "none stated",
+      "kind": "manuscript notes / list",
+      "name_used": "blauwbok; blaauwbok",
+      "cited_by": [
+        "rookmaaker1989 p. 74"
+      ],
+      "notes": "Texts reproduced in Rookmaaker 1979: 256-292 (not read). The same list has 'kleine blauwbokje' for the blue duiker."
+    },
+    {
+      "record_id": "bluebuck-c1780-africana-museum-drawing",
+      "observation_date": "late 18th century",
+      "publication_date": null,
+      "observer": "unknown artist (formerly attributed to Gordon)",
+      "source": "Drawing labelled 'Blauwe bok, so worden dese soort van Boke genoemt binnen Affrica, an Cabo de goede hoop. Sijn vell is blauwagtig, eene maane op den hals ...'.",
+      "archival_ref": "Africana Museum (MuseumAfrica), Johannesburg, no. 61/1248",
+      "locality": "'Cabo de goede hoop'",
+      "kind": "illustration; identification doubtful (copy of or model for Gordon's roan GA 160, coloured blue)",
+      "name_used": "Blauwe bok",
+      "cited_by": [
+        "rookmaaker1989 pp. 68-70, 301"
+      ],
+      "notes": "Mohr 1967: 77 doubted the attribution to Gordon. The animal looks like Gordon's roan (GA 160) but is coloured light blue; Rookmaaker suggests the artist did not understand the difference between roan and bluebuck."
+    },
+    {
+      "record_id": "bluebuck-1781-03-25-immelman-skin-uppsala",
+      "observation_date": "1781-03-25",
+      "publication_date": "1989 (letter translated)",
+      "observer": "Daniel Ferdinand Immelman (for C. P. Thunberg)",
+      "source": "Letter, D. F. Immelman to Thunberg, Cabo de Goede Hoop, 25 March 1781: '1 skin of blauwbok rds. 8' bought from a tradesman.",
+      "archival_ref": "Immelman letter to Thunberg, 25 March 1781 (repository not stated in rookmaaker1989 p. 161; presumably Thunberg correspondence, Uppsala)",
+      "locality": "Cape Town (purchase); field origin unknown",
+      "kind": "specimen (skin purchased); Uppsala mount, now horns UPSZMC 78488",
+      "name_used": "blauwbok",
+      "cited_by": [
+        "rookmaaker1989 pp. 161, 300",
+        "rookmaaker1992 p. 134",
+        "hempel2021 Specimens analyzed"
+      ],
+      "notes": "Thunberg listed the specimen (Thunberg 1787: 25; 1811c: 323). The skin was still present in 1846; only the horns survive, DNA-confirmed by hempel2021. The Stockholm and Uppsala mitogenomes are identical, possibly from the same herd."
+    },
+    {
+      "record_id": "bluebuck-1782-levaillant-soetemelksvlei-hunt",
+      "observation_date": "1782 (early; Kerley et al. 2009 reportedly give March/April 1783)",
+      "publication_date": "1790",
+      "observer": "François Levaillant; shot by an unnamed Khoikhoi hunter in his party",
+      "source": "Le Vaillant, F. 1790. Voyage dans l'intérieur de l'Afrique, vol. 1: 58 (ed. used by Sclater) / p. 82 (ed. used by Glenn); English VRS ed. 2007: 64.",
+      "archival_ref": null,
+      "locality": "Soetemelksvlei (Soete Melks Valey), 34°8'S 19°45'E, between Genadendal and Riviersonderend; Sclater places the hunt after reaching 'Tiger-Hoek'",
+      "kind": "hunted/killed (adult male); skin preserved; field drawing",
+      "name_used": "Blawe-Bock (un Bouc bleu); Gazelle; Tzeiran",
+      "cited_by": [
+        "rookmaaker1989 p. 251 (Levaillant locality 6)",
+        "rookmaaker1989 p. 300",
+        "glenn2020 pp. 79-80",
+        "sclater-thomas1899 p. 8 (full French passage)",
+        "kerley2009 (snippet: one of two 'reasonably precise' records)"
+      ],
+      "notes": "Le Vaillant saw only two in the wild, both males, plus a third brought to the Governor. Glenn 2020 argues this skin is the Paris mount MNHN-ZM-MO-1994-1103 (sale of Levaillant's collection; 'une grande gazelle non décrite'). The date is disputed: Glenn has early 1782, Sclater has December 1781 or shortly after, and the Kerley et al. 2009 snippet has March/April 1783."
+    },
+    {
+      "record_id": "bluebuck-1782-levaillant-drawings",
+      "observation_date": "1782",
+      "publication_date": "1989 (Rookmaaker); 2020 (Glenn figs 5-6)",
+      "observer": "François Levaillant (drawings made in his circle)",
+      "source": "Watercolour CT 77 'Le Blauwe Bok ou Theiram' (Library of Parliament, Cape Town); UBL 13 'Le Theiram ... Male, ou le Blauwe Bok, dans le Soete Melks Valey' (Leiden University Library).",
+      "archival_ref": "Library of Parliament, Cape Town, Levaillant watercolours no. CT 77; Leiden University Library, Levaillant watercolours no. UBL 13",
+      "locality": "Soete Melks Valey",
+      "kind": "illustration (from the 1782 specimen per Levaillant's claim)",
+      "name_used": "Blauwe Bok; Theiram",
+      "cited_by": [
+        "rookmaaker1989 pp. 213, 216 (fig. 98), 218-219",
+        "rookmaaker1992 p. 132 (fig. 1)",
+        "glenn2020 pp. 81-82"
+      ],
+      "notes": "Glenn counts about 23 horn rings in CT 77 and 27-28 in UBL 13; the Paris mount has 28. CT 77 is reproduced in Mohr 1967: 2."
+    },
+    {
+      "record_id": "bluebuck-1782-levaillant-governor-specimen",
+      "observation_date": "1782/1784",
+      "publication_date": "1790",
+      "observer": "François Levaillant (seen in Cape Town)",
+      "source": "Le Vaillant 1790, Voyage vol. 1 (same passage as the hunt).",
+      "archival_ref": null,
+      "locality": "from Soete-Melk valley; seen in Cape Town, brought to the Governor",
+      "kind": "specimen (adult male skin/animal brought to the Governor 'quelques années après')",
+      "name_used": "Blawe-Bock",
+      "cited_by": [
+        "sclater-thomas1899 p. 8",
+        "rookmaaker1989 p. 251",
+        "renshaw1904 p. 51 (census no. 7)"
+      ],
+      "notes": "The Governor is not named in the sources read (Van Plettenberg until 1785, compiler's note). The specimen's fate is unknown."
+    },
+    {
+      "record_id": "bluebuck-1784-levaillant-amsterdam-specimen",
+      "observation_date": "1780 or 1784 (Le Vaillant's Amsterdam visits)",
+      "publication_date": "1790/1791",
+      "observer": "François Levaillant",
+      "source": "Le Vaillant 1790 Voyage vol. 1 ('J'en ai vu une autre à Amsterdam que l'on conservoit depuis plus de quinze ans'); Le Vaillant 1791: 116 per Husson and Holthuis.",
+      "archival_ref": null,
+      "locality": "Amsterdam (cabinet); Cape origin presumed",
+      "kind": "specimen",
+      "name_used": "Blawe-Bock",
+      "cited_by": [
+        "husson-holthuis1969 p. 154",
+        "sclater-thomas1899 p. 8",
+        "glenn2020 p. 79"
+      ],
+      "notes": "Preserved for more than 15 years, so in Amsterdam since about 1765-1769. Husson and Holthuis say it is not the Klöckner/Leiden skin and may have been one of Pallas's 'plurimas pelles'. Glenn suggests the Amsterdam skull ZMA 18.623 might derive from it, but that skull is DNA-identified as sable (hempel2021)."
+    },
+    {
+      "record_id": "bluebuck-1788-grill-stockholm-mount",
+      "observation_date": "before 1788",
+      "publication_date": "1788",
+      "observer": "A. U. Grill collection (specimen said to come from C. P. Thunberg)",
+      "source": "Lindroth, Museum Naturalium Grillium Soderforssiense (Stockholm, 1788), per Hempel et al. 2021 ref. 26.",
+      "archival_ref": null,
+      "locality": "unknown",
+      "kind": "specimen (mounted subadult male, NRM 590107)",
+      "name_used": null,
+      "cited_by": [
+        "hempel2021 Specimens analyzed",
+        "rookmaaker1992 p. 132",
+        "rookmaaker1989 pp. 147, 300"
+      ],
+      "notes": "Donated to the Swedish Museum of Natural History by Grill's heirs in 1829. DNA-confirmed; source of the reference mitogenome and nuclear genome. Rookmaaker 1992 says provenance is not known beyond the Grill collection (Grill 1752-1797). The Thunberg link is Hempel et al.'s reading of the 1788 catalogue."
+    },
+    {
+      "record_id": "bluebuck-1790-delaborde-map-vignette",
+      "observation_date": "1782 (based on Levaillant)",
+      "publication_date": "1790",
+      "observer": "Willem van Leen (artist) for J.-B. de Laborde",
+      "source": "De Laborde, J.-B. 1790. Partie méridionale de l'Afrique ... (map for Louis XVI based on Levaillant's travels), inset vignette of a grazing bluebuck.",
+      "archival_ref": "Bibliothèque nationale de France, Gallica ark:/12148/btv1b55011014j",
+      "locality": "map of southern Africa",
+      "kind": "illustration (derived, not a field observation)",
+      "name_used": null,
+      "cited_by": [
+        "glenn2020 p. 83 (fig. 7)"
+      ],
+      "notes": "Glenn 2007 also discusses the map."
+    },
+    {
+      "record_id": "bluebuck-1797-barrow-soetemelk-troop",
+      "observation_date": "late 1802 or early 1803 (inferred; a few months before the British evacuation of the Cape in 1803)",
+      "publication_date": "1804; repeated 1806",
+      "observer": "John Barrow (hearsay from farmers)",
+      "source": "Barrow, J. 1804. An Account of Travels into the Interior of Southern Africa, vol. 2, p. 47. Repeated in Travels into the Interior of Southern Africa, 2nd ed., 1806, vol. 1, pp. 371–372.",
+      "archival_ref": null,
+      "locality": "wooded hills behind the valley of Soete Melk (Zonder End River, near Swellendam)",
+      "kind": "hearsay (unnamed informant; report of a small herd)",
+      "name_used": "Leucophæa or blue antelope",
+      "cited_by": [
+        "renshaw1904 pp. 43-45",
+        "sclater-thomas1899 p. 9 (Lichtenstein says Barrow 'correctly supposed' it almost exterminated)",
+        "Direct reading: Barrow 1804 ii:47; Barrow 1806 i:371–372 (2026-10-03)"
+      ],
+      "notes": "Primary-source correction, 2026-10-03: the report is in the 1804 second volume, p. 47, not the 1801 first volume. Barrow writes that a herd had reappeared a few months before the British evacuation. The late 1802/early 1803 dating is inferred from that relative phrase and the 1803 evacuation; the text supplies no exact sighting date. He does not claim to have seen the herd and gives no anatomical description. This passage does not independently establish survival after 1800. The 1806 first volume, pp. 371–372, repeats it. Title and passage scans checked for both dates/locators as specified in bluebuck_source_checks.json. The legacy record ID retains 1797 for compatibility and must not be read as the observation year.",
+      "superseded_compiler_summary": {
+        "observation_date": "1797 (Renshaw: 1796-7)",
+        "publication_date": "1801",
+        "source": "Barrow, J. 1801. An Account of Travels into the Interior of Southern Africa (passage on the Soete Melk valley).",
+        "kind": "hearsay (report of a small troop; farmers lying in wait to shoot them)",
+        "name_used": "not verified (Renshaw quotes 'leucophaeus ... entirely lost to the Colony')",
+        "notes": "One of the latest reports of living animals. Barrow's text was not checked; the page and exact wording are needed. Barrow first supposed the species extinct and then heard of the troop."
+      },
+      "primary_source_check": {
+        "checked": "2026-10-03",
+        "method": "printed page images",
+        "urls": [
+          "https://archive.org/details/accountoftravels02barr/page/47/mode/2up",
+          "https://archive.org/details/travelsintointer11806barr/page/371/mode/2up"
+        ],
+        "decision": "corrected citation and inferred date; identification unconfirmed"
+      }
+    },
+    {
+      "record_id": "bluebuck-1799-lichtenstein-last-shot",
+      "observation_date": "1799 (Lichtenstein 1814) or 1800 (Lichtenstein 1811)",
+      "publication_date": "1811/1814",
+      "observer": "Hinrich (Martin Heinrich Carl) Lichtenstein (hearsay; skin examined by him in 1814)",
+      "source": "Lichtenstein, H. 1811. Reisen im südlichen Africa, vol. 1: 265 ('Im Jahre 1800 war noch einer geschossen, dessen Fell jetzt in Leyden aufbewahrt wird; seitdem aber hat man keine mehr gesehen'); Lichtenstein 1814. Die Gattung Antilope. Mag. Ges. naturf. Freunde Berlin 6: 159-160 ('Das Fell, nach welchem ich beschreibe, war leider das letzte das gesehen worden ist. Man hat seit 1799, wo dieses Thier geschossen ward, keine wieder eingetroffen').",
+      "archival_ref": null,
+      "locality": "Swellendam district (1814: species found only in 'Zwellendam'); the 1811 remark is made near the Buffeljagts River, December 1803",
+      "kind": "hunted/killed (last specimen); specimen described",
+      "name_used": "Blau-bok; Antilope (Bubalis) leucophaea",
+      "cited_by": [
+        "rookmaaker1992 p. 138",
+        "husson-holthuis1969 pp. 148-149",
+        "sclater-thomas1899 pp. 9-10",
+        "hempel2022 Introduction",
+        "hempel2024 refs 22-23",
+        "klein1974 p. 99 (via Harper 1945)"
+      ],
+      "notes": "This is the conventional extinction date. Lichtenstein's 1811 and 1814 years differ, and the whereabouts of the skin are unresolved: Lichtenstein says Leiden, but no Leiden record exists. Rookmaaker 1992 suggests the skin was De Mist's. Renshaw's census also lists a skin 'sent to Berlin' and 'some' sent to Leyden, which looks like an over-reading of Lichtenstein."
+    },
+    {
+      "record_id": "bluebuck-1804-lichtenstein-dwyka-hearsay",
+      "observation_date": "1804-12 (per Sclater and Thomas: 'the following December')",
+      "publication_date": "1812",
+      "observer": "Lichtenstein (hearsay)",
+      "source": "Lichtenstein 1812. Reisen im südlichen Africa, vol. 2: 121.",
+      "archival_ref": null,
+      "locality": "inner mountain valleys near the Dwyka (Dweika), between Stellenbosch and Graaff-Reinet",
+      "kind": "hearsay ('is said to occur occasionally')",
+      "name_used": "Blau-bok (Antilope leucophaea)",
+      "cited_by": [
+        "sclater-thomas1899 p. 9"
+      ],
+      "notes": "Latest dated report of possible survival. It is unverified hearsay, outside the core range, and contradicts Lichtenstein's own 1814 statement. Renshaw 1904: 45 conflates it with the Buffeljagts River remark."
+    },
+    {
+      "record_id": "bluebuck-1805-07-23-demist-haarlem-skin",
+      "observation_date": "before 1800 (Rookmaaker's inference); received 1805-07-23",
+      "publication_date": "1812",
+      "observer": "J. A. Uytenhage de Mist (donor); Martinus van Marum (recipient)",
+      "source": "Letter, Van Marum to De Mist, 23 July 1805 (transl. Lefebvre and De Bruyn 1976: 239): '... the skin, together with the horns, of the Blue Buck'; Van Marum 1812, Natuurk. Verh. Holl. Maatsch. Wet. 6(1): 166: 'De Huiden van een Leeuw, van een Tyger, en van een Blaauwe Bok (Antilope Leucophaea)'.",
+      "archival_ref": "Van Marum correspondence (Hollandsche Maatschappij der Wetenschappen, Haarlem; repository as in Lefebvre and De Bruyn 1976)",
+      "locality": "Cape; field origin unknown",
+      "kind": "specimen (skin with horns), now lost",
+      "name_used": "Blue Buck (transl.); Blaauwe Bok (Antilope Leucophaea)",
+      "cited_by": [
+        "rookmaaker1992 pp. 136-140"
+      ],
+      "notes": "Rookmaaker suggests it was killed just before 1800, kept in a private collection or shop, then given to or bought by De Mist (Commissioner-General at the Cape 1803-1805), who arrived in Holland on 8 July 1805. It is possibly the skin Lichtenstein described in 1814; roan identity cannot be excluded. It is untraced after 1812."
+    },
+    {
+      "record_id": "bluebuck-1806-vienna-mount",
+      "observation_date": "before 1806",
+      "publication_date": "1886",
+      "observer": null,
+      "source": "Acquisition catalogue, Natural History Museum Vienna (entry 1806); Kohl, F. F. 1886. Ueber neue und seltene Antilopen. Ann. k.k. Naturhist. Hofmus. Wien 1: 75-86 (p. 84).",
+      "archival_ref": "NMW acquisition catalogue, 1806 (per hempel2021)",
+      "locality": "unknown",
+      "kind": "specimen (mounted adult female, NMW ST 715)",
+      "name_used": "Hippotragus leucophaeus (Kohl)",
+      "cited_by": [
+        "hempel2021 Specimens analyzed",
+        "rookmaaker1992 p. 132"
+      ],
+      "notes": "DNA-confirmed. Rookmaaker 1992 says nothing is known of its history; Hempel et al. 2021 give the 1806 acquisition-catalogue entry."
+    },
+    {
+      "record_id": "bluebuck-1819-05-14-bullock-sale",
+      "observation_date": "1819-05-14",
+      "publication_date": "1819",
+      "observer": "William Bullock (sale); W. E. Leach (buyer for British Museum)",
+      "source": "Sale catalogue of the Bullock Museum, London, 10th day's sale, Friday 14 May 1819, lot 89: 'Blue Antelope, A. Leucophaea'; annotated copy in NHM London (facsimile 1979).",
+      "archival_ref": "Natural History Museum, London: annotated copy of the 1819 Bullock sale catalogue",
+      "locality": "London (sale)",
+      "kind": "specimen (sale record); identification doubtful",
+      "name_used": "Blue Antelope, A. Leucophaea",
+      "cited_by": [
+        "rookmaaker1992 p. 134"
+      ],
+      "notes": "Bought by Dr Leach for £1-1-0. Rookmaaker doubts it was a true bluebuck given the low price and lack of interest from Lichtenstein and others. It may relate to the NHM London frontlet NHMUK GERM 636e, but this is not established."
+    },
+    {
+      "record_id": "bluebuck-pre1840-paris-mount",
+      "observation_date": "1782 (if Levaillant's); otherwise unknown",
+      "publication_date": "1840 (Harris mentions it)",
+      "observer": null,
+      "source": "Paris MNHN mounted adult male MNHN-ZM-MO-1994-1103; label 'Hippotragus Leucophaeus Pall. Delegorgue. Afrique Australe' (erroneous); Archives nationales F/17/1241, carton 4, dossier Denoor (sale of Levaillant's collection); Geoffroy Saint-Hilaire 1809, Ann. Mus. Hist. Nat. 13: 87-88.",
+      "archival_ref": "Archives nationales (Paris) F/17/1241, carton 4, dossier Denoor",
+      "locality": "Afrique australe (label); Soetemelksvlei if Levaillant's",
+      "kind": "specimen",
+      "name_used": "'une grande gazelle non décrite' (sale inventory, if identified correctly)",
+      "cited_by": [
+        "glenn2020 pp. 77-83",
+        "rookmaaker1989 pp. 121, 259, 301",
+        "rookmaaker1992 p. 134",
+        "hempel2021 Specimens not analyzed"
+      ],
+      "notes": "Provenance disputed. Harris 1840 and Mohr 1967 favour the Stadholder's cabinet (Gordon); Glenn 2020 argues for Levaillant. The specimen has not been DNA-tested (hempel2021)."
+    },
+    {
+      "record_id": "bluebuck-1901-albany-museum-horns",
+      "observation_date": "before 1901 (old catalogue)",
+      "publication_date": "1902",
+      "observer": "S. Schönland (director, Albany Museum)",
+      "source": "Schönland, S. 1902. Report of the Director. Report of the Committee of the Albany Museum for 1901: 3.",
+      "archival_ref": null,
+      "locality": "Grahamstown (museum)",
+      "kind": "specimen (horns); NOT confirmed, later identified as roan",
+      "name_used": "Blaauwbok (Hippotragus leucophaeus)",
+      "cited_by": [
+        "rookmaaker1992 p. 132"
+      ],
+      "notes": "Horns 'identified in one of our old catalogues as belonging to the Blaauwbok'. Probably destroyed in a fire in the early 1940s. The surviving candidate pair was identified as H. equinus (Holleman in litt. 1991). Listed to prevent false positives."
+    },
+    {
+      "record_id": "bluebuck-1853-bethlehem-bastard-gemsbok",
+      "observation_date": "1853",
+      "publication_date": "1990 (argument)",
+      "observer": "unnamed eyewitness (reported by B. D. Colahan)",
+      "source": "Loubser, J., J. Brink and G. Laurens. 1990. Paintings of the extinct blue antelope, Hippotragus leucophaeus, in the eastern Orange Free State. South African Archaeological Bulletin 45(152): 106-111 (citing Colahan).",
+      "archival_ref": null,
+      "locality": "near Bethlehem, Free State",
+      "kind": "hearsay; identification disputed",
+      "name_used": "bastard gemsbok",
+      "cited_by": [
+        "wikipedia-bluebuck (citing Loubser et al. 1990; not read)"
+      ],
+      "notes": "Known only through Wikipedia in this compilation. 'Bastard gemsbok' is the name Delegorgue (1847) gives for the roan (glenn2020 p. 78), which makes a roan identification likely. Verify against Loubser et al. 1990."
+    },
+    {
+      "record_id": "bluebuck-undated-rock-paintings-eastern-free-state",
+      "observation_date": "undated (precolonial or colonial-era San painting)",
+      "publication_date": "1990",
+      "observer": "San painters (attribution per Loubser et al.)",
+      "source": "Loubser, Brink and Laurens 1990, South African Archaeological Bulletin 45: 106-111.",
+      "archival_ref": null,
+      "locality": "Caledon River valley, eastern (Orange) Free State",
+      "kind": "illustration (rock painting); identification argued, not certain",
+      "name_used": null,
+      "cited_by": [
+        "wikipedia-bluebuck (citing Loubser et al. 1990; not read)",
+        "hempel2022 Discussion ('but see Loubser et al. 1990')"
+      ],
+      "notes": "Pictorial and not written testimony; far outside the historical Cape range. Included only so the harness recognises it as already known."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "case_id": "dodo-globalise",
+  "decisions": {
+    "NL-HaNA_1.04.02_1059_0277": {
+      "scope": "page",
+      "review_status": "needs_literature_check",
+      "novelty_status": "possible_new",
+      "note": "17 and 21 April 1615, official Wapen van Amsterdam journal. Existing findings report an image check of these two entries. Remaining checks: Akveld/Houterman 1971, Parish pp. 99 and 164, Cheke/Hume 1615 references, Hume 2017 and Winters/Hume/Leenstra 2017. Novelty remains provisional.",
+      "reviewer": "Codex, transfer of existing pilot findings",
+      "text_sha256": "ab65d8a20c226744caee1df9a4341a2a1e9edce4d01b80446e0cf0142adcbb72",
+      "updated_at": "2026-10-03",
+      "history": [],
+      "research_note": "research/extinction-pilot/findings/2026-09-30-mauritius-embedding-run.md"
+    },
+    "NL-HaNA_1.04.02_1059_0278": {
+      "scope": "page",
+      "review_status": "needs_scan_check",
+      "novelty_status": "possible_new",
+      "note": "30 April 1615 departure summary in the official journal. Existing findings state that this scan still needs checking. Literature checks are shared with the 17 and 21 April entries; do not count these pages as separate independent witnesses.",
+      "reviewer": "Codex, transfer of existing pilot findings",
+      "text_sha256": "a0c3d782dfcadb4115f1f0ddf165cab30f4d6b1aa9fb4ca0da7d1788d7278d4d",
+      "updated_at": "2026-10-03",
+      "history": [],
+      "research_note": "research/extinction-pilot/findings/2026-09-30-mauritius-embedding-run.md"
+    },
+    "NL-HaNA_1.04.02_1059_0051": {
+      "scope": "page",
+      "review_status": "needs_scan_check",
+      "novelty_status": "possible_new",
+      "note": "Both Volkertsz verse, published by Akveld and Houterman in 1971. Published testimony, potentially overlooked in specialist chronologies; derived from the official journal, not an independent observation. Scan and edition comparison remain pending.",
+      "reviewer": "Codex, transfer of existing pilot findings",
+      "text_sha256": "38016e9980a1e80da8f26b0532f1c6b546fe360f2e0392eb62d12b7b5eeca0a8",
+      "updated_at": "2026-10-03",
+      "history": [],
+      "research_note": "research/extinction-pilot/findings/2026-09-30-mauritius-embedding-run.md"
+    },
+    "NL-HaNA_1.04.02_1128_0360": {
+      "scope": "page",
+      "review_status": "needs_scan_check",
+      "novelty_status": "possible_new",
+      "note": "Gooyer letter dated 20 December 1638 describing a 3 November journey. HTR has velthoenderen on scan 0360. Bonaparte 1890 pp. 39–40 translated the fauna list into French. Probable red hen, with identification and original scan check pending; no dodo is named.",
+      "reviewer": "Codex, transfer of existing pilot findings",
+      "text_sha256": "64d447b80d33d2d6ae35f2905141f43e485436bb1bd4d0d52ca5cee42f110c9c",
+      "updated_at": "2026-10-03",
+      "history": [],
+      "research_note": "research/extinction-pilot/findings/2026-09-30-mauritius-embedding-run.md"
+    }
+  }
+}

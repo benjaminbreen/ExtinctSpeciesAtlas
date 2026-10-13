@@ -1,0 +1,222 @@
+[
+  {
+    "source_id": "gundlach-1876",
+    "bhl_item_id": "136007",
+    "ia_identifier": null,
+    "cluster": "cuba",
+    "genre": "mixed_natural_history",
+    "narrative_family": "gundlach-1876",
+    "selection_note": "Spanish baseline; not the 1893 Ornitologia.",
+    "selection_status": "selected_for_retrieval",
+    "passage_review_status": "not_reviewed"
+  },
+  {
+    "source_id": "perpina-1889",
+    "bhl_item_id": null,
+    "ia_identifier": "elcamagueyviajes00perp",
+    "cluster": "cuba",
+    "genre": "travel_account",
+    "narrative_family": "perpina-camaguey",
+    "selection_note": "Original located through a Commons scan and verified against IA catalog. Known macaw passages from Wiley/Kirwan are retrieval benchmarks, not discoveries.",
+    "selection_status": "selected_for_retrieval",
+    "passage_review_status": "not_reviewed"
+  },
+  {
+    "source_id": "cory-1889",
+    "bhl_item_id": "32515",
+    "ia_identifier": null,
+    "cluster": "cuba",
+    "genre": "compilation",
+    "narrative_family": "cory-west-indies",
+    "selection_note": "Cross-check late survival attribution, not a new sighting.",
+    "selection_status": "selected_for_retrieval",
+    "passage_review_status": "not_reviewed"
+  },
+  {
+    "source_id": "barbour-1923",
+    "bhl_item_id": "130163",
+    "ia_identifier": null,
+    "cluster": "cuba",
+    "genre": "mixed_natural_history",
+    "narrative_family": "barbour-cuba",
+    "selection_note": "Post-extinction retrospective accounts remain in scope.",
+    "selection_status": "selected_for_retrieval",
+    "passage_review_status": "not_reviewed"
+  },
+  {
+    "source_id": "rothschild-1907",
+    "bhl_item_id": "148380",
+    "ia_identifier": null,
+    "cluster": "cross-regional",
+    "genre": "compilation",
+    "narrative_family": "rothschild-extinct-birds",
+    "selection_note": "Historical synonym/bibliography source, not a modern authority.",
+    "selection_status": "selected_for_retrieval",
+    "passage_review_status": "not_reviewed"
+  },
+  {
+    "source_id": "leguat-1891-v1",
+    "bhl_item_id": "81680",
+    "ia_identifier": null,
+    "cluster": "mascarene",
+    "genre": "edited_translation",
+    "narrative_family": "leguat-voyage",
+    "selection_note": "English translation and editorial apparatus; related to Dutch and German editions.",
+    "selection_status": "selected_for_retrieval",
+    "passage_review_status": "not_reviewed"
+  },
+  {
+    "source_id": "leguat-1891-v2",
+    "bhl_item_id": "81681",
+    "ia_identifier": null,
+    "cluster": "mascarene",
+    "genre": "edited_translation",
+    "narrative_family": "leguat-voyage",
+    "selection_note": "Same narrative family as volume 1.",
+    "selection_status": "selected_for_retrieval",
+    "passage_review_status": "not_reviewed"
+  },
+  {
+    "source_id": "leguat-1708-nl",
+    "bhl_item_id": "209948",
+    "ia_identifier": null,
+    "cluster": "mascarene",
+    "genre": "translation",
+    "narrative_family": "leguat-voyage",
+    "selection_note": "Dutch edition; not an independent observer.",
+    "selection_status": "selected_for_retrieval",
+    "passage_review_status": "not_reviewed"
+  },
+  {
+    "source_id": "leguat-1708-fr-a",
+    "bhl_item_id": null,
+    "ia_identifier": "bub_gb_nVpMVQnz5kgC",
+    "cluster": "mascarene",
+    "genre": "travel_account",
+    "narrative_family": "leguat-voyage",
+    "selection_note": "French 1708 Tome Premier, identified in title-page OCR at scan leaf 4; image verification pending.",
+    "selection_status": "selected_for_retrieval",
+    "passage_review_status": "not_reviewed"
+  },
+  {
+    "source_id": "leguat-1708-fr-b",
+    "bhl_item_id": null,
+    "ia_identifier": "bub_gb_q452LJZQrE0C",
+    "cluster": "mascarene",
+    "genre": "travel_account",
+    "narrative_family": "leguat-voyage",
+    "selection_note": "French 1708 Tome Second, identified in title-page OCR at scan leaf 0; image verification pending.",
+    "selection_status": "selected_for_retrieval",
+    "passage_review_status": "not_reviewed"
+  },
+  {
+    "source_id": "leguat-1709-de",
+    "bhl_item_id": null,
+    "ia_identifier": "bub_gb_Ta5BspLZu0UC",
+    "cluster": "mascarene",
+    "genre": "translation",
+    "narrative_family": "leguat-voyage",
+    "selection_note": "German edition; not an independent observer.",
+    "selection_status": "selected_for_retrieval",
+    "passage_review_status": "not_reviewed"
+  },
+  {
+    "source_id": "strickland-1848",
+    "bhl_item_id": "95168",
+    "ia_identifier": null,
+    "cluster": "mascarene",
+    "genre": "compilation",
+    "narrative_family": "strickland-melville-dodo",
+    "selection_note": "Bibliographic baseline for original accounts.",
+    "selection_status": "selected_for_retrieval",
+    "passage_review_status": "not_reviewed"
+  },
+  {
+    "source_id": "kolb-1741-v1",
+    "bhl_item_id": "100474",
+    "ia_identifier": null,
+    "cluster": "cape",
+    "genre": "translation",
+    "narrative_family": "kolb-cape",
+    "selection_note": "French translation; compare German original.",
+    "selection_status": "selected_for_retrieval",
+    "passage_review_status": "not_reviewed"
+  },
+  {
+    "source_id": "kolb-1741-v3",
+    "bhl_item_id": "100473",
+    "ia_identifier": null,
+    "cluster": "cape",
+    "genre": "translation",
+    "narrative_family": "kolb-cape",
+    "selection_note": "French translation; volume 2 not yet acquired.",
+    "selection_status": "selected_for_retrieval",
+    "passage_review_status": "not_reviewed"
+  },
+  {
+    "source_id": "kolb-1719-de",
+    "bhl_item_id": null,
+    "ia_identifier": "bub_gb_MbxYAAAAcAAJ",
+    "cluster": "cape",
+    "genre": "travel_account",
+    "narrative_family": "kolb-cape",
+    "selection_note": "German source edition; related to French translations.",
+    "selection_status": "selected_for_retrieval",
+    "passage_review_status": "not_reviewed"
+  },
+  {
+    "source_id": "levaillant-1790-v1",
+    "bhl_item_id": "182243",
+    "ia_identifier": null,
+    "cluster": "cape",
+    "genre": "travel_account",
+    "narrative_family": "levaillant-first-voyage",
+    "selection_note": "Candidate regional source; no specific bluebuck observation asserted.",
+    "selection_status": "selected_for_retrieval",
+    "passage_review_status": "not_reviewed"
+  },
+  {
+    "source_id": "levaillant-1790-v2",
+    "bhl_item_id": "182218",
+    "ia_identifier": null,
+    "cluster": "cape",
+    "genre": "travel_account",
+    "narrative_family": "levaillant-first-voyage",
+    "selection_note": "Candidate regional source; no specific bluebuck observation asserted.",
+    "selection_status": "selected_for_retrieval",
+    "passage_review_status": "not_reviewed"
+  },
+  {
+    "source_id": "pallas-spicilegia",
+    "bhl_item_id": "88609",
+    "ia_identifier": null,
+    "cluster": "cape",
+    "genre": "taxonomic_work",
+    "narrative_family": "pallas-spicilegia",
+    "selection_note": "Latin taxonomic reference; NOT Pallas Miscellanea zoologica (1766).",
+    "selection_status": "selected_for_retrieval",
+    "passage_review_status": "not_reviewed"
+  },
+  {
+    "source_id": "cartwright-1792-v3",
+    "bhl_item_id": "101679",
+    "ia_identifier": null,
+    "cluster": "auk-control",
+    "genre": "journal",
+    "narrative_family": "cartwright-journal",
+    "selection_note": "Existing atlas benchmark: event 1785, publication 1792.",
+    "selection_status": "selected_for_retrieval",
+    "passage_review_status": "not_reviewed"
+  },
+  {
+    "source_id": "pennant-1776-v2",
+    "bhl_item_id": null,
+    "ia_identifier": "britishzoology21penn",
+    "cluster": "auk-control",
+    "genre": "compilation",
+    "narrative_family": "pennant-british-zoology",
+    "selection_note": "Existing atlas benchmark repeats Martin; not independent.",
+    "selection_status": "selected_for_retrieval",
+    "passage_review_status": "not_reviewed"
+  }
+]

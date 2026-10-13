@@ -1,0 +1,115 @@
+{
+  "case_id": "bluebuck-cape-tanap",
+  "title": "Bluebuck and Cape game in the TANAP Council of Policy transcriptions, 1652–1795",
+  "baseline": "baselines/bluebuck.json",
+  "corpus": {
+    "adapter": "tanap"
+  },
+  "scope": {
+    "years": [
+      1652,
+      1795
+    ],
+    "anchor_fts": "bokken OR bocken OR hartebeest* OR harte OR eland* OR gemsbok* OR wildt OR gedierte OR gedierten OR quagga* OR zeekoe* OR renoster* OR rhinoceros OR olifant* OR olyphant* OR buffels OR leeuwen OR jagt OR jagen OR geschooten OR landtogt OR landtocht OR wilde",
+    "window": [
+      0,
+      1
+    ],
+    "min_tokens": 40
+  },
+  "sweep_years": [
+    1652,
+    1795
+  ],
+  "sweep": {
+    "seeds": [
+      "blaauwbok",
+      "blaauwbokken",
+      "blauwbokken",
+      "blaauwbocken"
+    ],
+    "max_edit": 2,
+    "exclude_regex": [
+      "bla+u?wboe\\w*",
+      "bla+u?wboo\\w*",
+      "bla+u?wboer\\w*"
+    ],
+    "text_prefilter": "blauwe OR blaauwe OR blaauw OR blauw OR blaeuwe",
+    "text_regex": [
+      "bla+e?u?w+e?n?\\s+(?:\\w+\\s+)?bo[ck]+(?:en|ken|je|jes)?\\b"
+    ],
+    "max_term_docs": 5000
+  },
+  "queries": {
+    "game_list": "List of wild game seen or shot on an inland journey at the Cape: elands, hartebeests, bucks, zebras, rhinoceros.",
+    "blue_antelope": "A large antelope with a bluish-grey coat, shot by the travellers.",
+    "hunting_permit": "Rules or permits for hunting game, and complaints that game has become scarce near the colony.",
+    "specimen": "Skins, horns or live animals of the Cape sent to the Netherlands for the Company directors or a menagerie.",
+    "nl_game": "wij sagen veel wildt als elanden, harte beesten, blaauwe bokken en zebra's"
+  },
+  "screen": {
+    "model": "gpt-5.4-mini",
+    "window_chars": 1500,
+    "per_call": 25,
+    "source": "both",
+    "prompt": "You screen machine transcriptions (noisy HTR) of 17th-18th-century Dutch VOC records from the Cape of Good Hope for evidence about WILD LARGE MAMMALS, above all the BLUEBUCK (blaauwbok, blauwe bok/bokken, a bluish-grey antelope). Also flag: quagga; other antelope named or described by colour; lions, elephants, rhinoceros, hippopotamus, buffalo as observed or hunted; lists of game seen on journeys; hunting regulations or scarcity of game; skins, horns or live animals sent to Europe or Batavia.\nDo NOT flag: blue cloth or textiles ('blauwe' goods), books ('blaauwboek'), domestic goats or sheep as trade goods, ship names, personal names.",
+    "categories": [
+      "bluebuck",
+      "antelope_unidentified",
+      "quagga",
+      "other_large_mammal",
+      "game_list",
+      "hunting_rule_or_scarcity",
+      "specimen_or_live_shipment",
+      "other"
+    ],
+    "report_categories": [
+      "bluebuck",
+      "antelope_unidentified",
+      "quagga",
+      "game_list",
+      "hunting_rule_or_scarcity",
+      "specimen_or_live_shipment"
+    ]
+  },
+  "planted": [
+    {
+      "scan_id": "TANAP_C019_p0099-0100_d16880120",
+      "label": "Council hunting permission, 20 January 1688, C. 19, pp. 99–100",
+      "kind": "proxy_game",
+      "stages": [
+        "scope",
+        "screen"
+      ],
+      "status": "development_control",
+      "family": "council-hunting-permissions",
+      "expected_categories": [
+        "hunting_rule_or_scarcity"
+      ],
+      "basis": "Checked against the GLOBALISE TANAP edition: permission to hunt large and small game, subject to existing hunting placards. Not a bluebuck record."
+    },
+    {
+      "scan_id": "TANAP_C023_p0022-0024_d16980730",
+      "label": "Council hunting regulation, 30 July 1698, C. 23, pp. 22–24",
+      "kind": "proxy_game",
+      "stages": [
+        "scope",
+        "screen"
+      ],
+      "status": "development_control",
+      "family": "council-hunting-regulations",
+      "expected_categories": [
+        "hunting_rule_or_scarcity"
+      ],
+      "basis": "TANAP transcription describes licensed hunting and excessive taking of game. Not a bluebuck record; primary scan unavailable in this edition."
+    }
+  ],
+  "_todo": "Controls evaluate game regulation retrieval, not bluebuck recall. The edition supplies no manuscript scans. Footnotes are retained separately and excluded from retrieval.",
+  "negative_controls": [
+    {
+      "scan_id": "TANAP_C001_p0012-0014_d16520511",
+      "label": "Oliphant as a ship name, 11 May 1652",
+      "basis": "Read TANAP text; provision and crew arrangements for ships, including Oliphant; no elephant observation."
+    }
+  ]
+}

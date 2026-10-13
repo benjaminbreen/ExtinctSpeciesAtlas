@@ -1,0 +1,159 @@
+{
+  "case_id": "dodo-globalise",
+  "title": "Dodo and red hen in the VOC archives (GLOBALISE), 1595-1712",
+  "baseline": "baselines/dodo.json",
+  "corpus": {
+    "adapter": "globalise"
+  },
+  "scope": {
+    "years": [
+      1595,
+      1712
+    ],
+    "volumes": {
+      "all_volumes": true
+    },
+    "anchor_fts": "mauritio OR mauriti OR cerne OR mauritius OR mauritus OR mauritsius OR mauritiul OR mauritij OR \"diego ruys\" OR rodrigo OR mascarenhas OR mascarin* OR \"isle de bourbon\" OR cronenb* OR \"noordwester haven\" OR \"noord wester haven\" OR \"zuydooster haven\" OR \"zuijdooster haven\"",
+    "window": [
+      -1,
+      6
+    ],
+    "min_tokens": 40
+  },
+  "sweep_years": [
+    1595,
+    1720
+  ],
+  "sweep": {
+    "seeds": [
+      "dodaers",
+      "dodaersen",
+      "dodeersen",
+      "dodersen",
+      "dodaarsen",
+      "doddaerssen",
+      "dottaersen",
+      "dodeers",
+      "dodaars",
+      "walchvogel",
+      "walghvogel",
+      "walgvogels",
+      {
+        "term": "dronte",
+        "max_edit": 0
+      },
+      {
+        "term": "dronten",
+        "max_edit": 0
+      },
+      "velthoenders",
+      "veldthoenders",
+      "velthoenderen",
+      "veldhoenders"
+    ],
+    "token_regex": [
+      "d[o0]d+[ae]{1,2}r[sc]\\w*",
+      "dott?a+e?rs\\w*",
+      "wal[cg]h?vog\\w*"
+    ],
+    "exclude_terms": [
+      "doctoren",
+      "dochters",
+      "dodaerts",
+      "dorders",
+      "ordres",
+      "odders"
+    ],
+    "max_edit": 2,
+    "max_term_docs": 5000
+  },
+  "queries": {
+    "fauna_inventory": "Description of the wild animals and birds on the island, which are good to eat and how they are caught.",
+    "tortoises_land": "Land tortoises on the island: how many, where they are found, what they eat, and how they are collected or eaten.",
+    "tortoises_ship": "Tortoises taken on board ships or brought to the lodge as food for the sick and the crew.",
+    "flightless": "A large bird that cannot fly, caught by hand or with sticks by the men.",
+    "tame_birds": "Birds so tame and unafraid that they let people approach and do not flee when shot at.",
+    "geese_ducks": "Wild geese, ducks and waterbirds on the island, shot or caught for the table.",
+    "pigeons_parrots": "Pigeons, parrots and other forest birds, their colours, and whether they can be caught alive.",
+    "red_hen": "A red bird about the size of a hen that runs on the ground and is attracted by a red cloth.",
+    "hunting_journal": "Day register: the men went hunting and brought back game, birds or tortoises.",
+    "scarcity": "Game and tortoises have become scarce near the lodge; hunters must go far to find any.",
+    "introduced": "Goats, pigs, deer and rats on the island, their numbers and the damage they do.",
+    "islets": "Birds and turtles on the small islands off the coast, their eggs and nesting.",
+    "bats_reptiles": "Large bats, lizards, crocodiles or snakes seen on the island.",
+    "nl_early_fauna": "veel wilt gevogelte dat men met de hant can grijpen, ende schiltpadden die goet om eeten zijn",
+    "nl_modern_fauna": "Beschrijving van de dieren, vogels en schildpadden op het eiland en hoe men ze vangt en eet.",
+    "report": "A report on the island's natural state: animals, birds, fish, trees, rivers and climate."
+  },
+  "embed_top_per_query": 25,
+  "embed_top_overall": 150,
+  "screen": {
+    "model": "gpt-5.4-mini",
+    "window_chars": 1500,
+    "per_call": 25,
+    "prompt": "You screen machine transcriptions (noisy HTR) of 17th-century Dutch VOC records for evidence about NATIVE ANIMALS OF MAURITIUS AND THE MASCARENES, above all the DODO and the RED HEN.\nDodo names vary: dodaers, dodaersen, dodeers, dodeersen, dodersen, dottaersen, doderse, walghvogel, walchvogel, dronte, kermisgans, or descriptions (large fat flightless bird, tiny wings, hooked beak). Red hen: velthoenders, veldhoenders, roode hennen, patrysen on Mauritius. Also flag: other native Mauritius birds (geese, ducks, pigeons, parrots, flamingos) described as wild on the island; land tortoises; any bird said to come from Mauritius/Cerne/Mascarenhas/Rodrigues; live animals shipped from Mauritius.\nDo NOT flag: ship names (Mauritius, Swaen, Hert, etc.), ordinary poultry as provisions, personal names, 'Doctoren', place names alone, introduced goats, pigs, deer, cattle (unless with native fauna).",
+    "categories": [
+      "dodo",
+      "red_hen",
+      "native_bird",
+      "tortoise",
+      "shipped_animal",
+      "other"
+    ],
+    "report_categories": [
+      "dodo",
+      "red_hen",
+      "native_bird",
+      "tortoise",
+      "shipped_animal"
+    ],
+    "source": "both"
+  },
+  "planted": [
+    {
+      "scan_id": "NL-HaNA_1.04.02_1095_0922",
+      "label": "Le Febvre 1629 (baseline)",
+      "status": "known"
+    },
+    {
+      "scan_id": "NL-HaNA_1.04.02_1164_0738",
+      "label": "Japan cargo 1647 (baseline)",
+      "status": "known"
+    },
+    {
+      "scan_id": "NL-HaNA_1.04.02_1165_0143",
+      "label": "Deshima 1647 (baseline)",
+      "status": "known"
+    },
+    {
+      "scan_id": "NL-HaNA_1.04.02_4005_0603",
+      "label": "Pretorius 1669 (baseline)",
+      "status": "known"
+    },
+    {
+      "scan_id": "NL-HaNA_1.04.02_4011_0411",
+      "label": "Hugo 1674 (baseline)",
+      "status": "known"
+    },
+    {
+      "scan_id": "NL-HaNA_1.04.02_1059_0277",
+      "label": "Wapen van Amsterdam 1615 (pilot find)",
+      "status": "pilot_find"
+    },
+    {
+      "scan_id": "NL-HaNA_1.04.02_1059_0278",
+      "label": "Wapen van Amsterdam 1615 summary (pilot find)",
+      "status": "pilot_find"
+    },
+    {
+      "scan_id": "NL-HaNA_1.04.02_1059_0051",
+      "label": "Both Volkertsz verse 1615 (published 1971)",
+      "status": "pilot_find"
+    },
+    {
+      "scan_id": "NL-HaNA_1.04.02_1128_0360",
+      "label": "Gooyer 1638 velthoenderen (pilot find)",
+      "status": "pilot_find"
+    }
+  ]
+}

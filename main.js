@@ -1,3 +1,4 @@
+import './footer.js?v=4';
 import { sealMarks } from './assets/species-icons/seal-marks.js';
 
 const species = {
@@ -38,7 +39,7 @@ if (document.body.dataset.page === 'home') {
     'north-pacific': 'North Pacific', 'indian-ocean': 'Indian Ocean',
     'south-atlantic': 'South Atlantic', 'southern-africa': 'Southern Africa',
     europe: 'Europe', caribbean: 'Caribbean', mammal: 'Mammals', bird: 'Birds', reptile: 'Reptiles',
-    cyrenaica: 'Cyrenaica', rome: 'Rome', 'bering-sea': 'Bering Sea', mauritius: 'Mauritius',
+    cyrenaica: 'Cyrenaica', rome: 'Rome', 'bering-sea': 'Bering Sea', mauritius: 'Mauritius', leiden: 'Leiden', london: 'London',
     'st-kilda': 'St Kilda', 'funk-island': 'Funk Island', 'eldey': 'Eldey',
     rodrigues: 'Rodrigues', cape: 'Cape, South Africa', cuba: 'Cuba', 'falkland-islands': 'Falkland Islands'
   };
@@ -73,7 +74,7 @@ if (document.body.dataset.page === 'home') {
   update();
 }
 
-if (['detail', 'source', 'authorities', 'about'].includes(document.body.dataset.page)) {
+if (['detail', 'source', 'authorities', 'about', 'notes'].includes(document.body.dataset.page)) {
   const updateSeal = () => document.body.classList.toggle('has-scrolled', window.scrollY > 150);
   window.addEventListener('scroll', updateSeal, { passive: true });
   updateSeal();

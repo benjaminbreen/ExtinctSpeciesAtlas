@@ -1,0 +1,52 @@
+[
+  {
+    "baseline_id": "wiley-kirwan-2013",
+    "taxon_ids": [
+      "cuban-macaw"
+    ],
+    "citation": "Wiley, J. W. and G. M. Kirwan. 2013. The extinct macaws of the West Indies, with special reference to Cuban Macaw Ara tricolor. Bulletin of the British Ornithologists’ Club 133(2):125–156.",
+    "url": "https://boc-online.org/bulletins/downloads/BBOC1332-PDFa.pdf",
+    "role": "Modern source/specimen baseline",
+    "notes": "Download is entire issue. Printed pp.133–137 distinguish 1867 observations, 1889 publication, and belief in survival around 1885."
+  },
+  {
+    "baseline_id": "hume-winters-2016",
+    "taxon_ids": [
+      "dodo",
+      "mauritius-blue-pigeon"
+    ],
+    "citation": "Hume, J. P. and R. Winters. 2016. Captive birds on Dutch Mauritius: bad-tempered parrots, warty pigeons and notes on other native animals. Historical Biology 28(6):812–822.",
+    "url": "https://doi.org/10.1080/08912963.2015.1036750",
+    "repository_url": "https://dare.uva.nl/id/0a6c3544-80f6-42b2-9509-bb392ed69580",
+    "role": "Published recovery precedent and baseline",
+    "notes": "1669 Pretorius report; online publication 2015. Do not rediscover its findings as new."
+  },
+  {
+    "baseline_id": "bluebuck-specimens-2021",
+    "taxon_ids": [
+      "bluebuck"
+    ],
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7822880/",
+    "role": "Specimen identity and historical-record baseline",
+    "notes": "Read before asserting a new specimen identification."
+  },
+  {
+    "baseline_id": "bluebuck-genomics-2024",
+    "taxon_ids": [
+      "bluebuck"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38614080/",
+    "role": "Modern extinction/genomic baseline",
+    "notes": "Colonial-driven extinction of the blue antelope despite genomic adaptation to low population size; bibliographic lead, not locally transcribed."
+  },
+  {
+    "baseline_id": "austin-arnold-2001",
+    "taxon_ids": [
+      "rodrigues-saddleback",
+      "rodrigues-domed"
+    ],
+    "url": "https://iucn-tftsg.org/wp-content/uploads/file/Articles/Austin_and_Arnold_2001.pdf",
+    "role": "Taxonomic baseline",
+    "notes": "Do not assign undifferentiated Rodrigues tortoise accounts to either species."
+  }
+]

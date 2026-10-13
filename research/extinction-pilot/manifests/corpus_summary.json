@@ -1,0 +1,168 @@
+{
+  "generated_at": "2026-10-01T00:12:24.788074+00:00",
+  "source_count": 20,
+  "page_count": 7841,
+  "sources": [
+    {
+      "source_id": "gundlach-1876",
+      "pages": 390,
+      "characters": 777207,
+      "empty_ocr_pages": 12,
+      "page_mapping": "scandata_accessible_count_match",
+      "caveat": "Page mapping is structural and has not been visually checked page by page."
+    },
+    {
+      "source_id": "perpina-1889",
+      "pages": 458,
+      "characters": 753121,
+      "empty_ocr_pages": 24,
+      "page_mapping": "scandata_accessible_count_match",
+      "caveat": "Page mapping is structural and has not been visually checked page by page."
+    },
+    {
+      "source_id": "cory-1889",
+      "pages": 344,
+      "characters": 788079,
+      "empty_ocr_pages": 15,
+      "page_mapping": "scandata_accessible_count_match",
+      "caveat": "Page mapping is structural and has not been visually checked page by page."
+    },
+    {
+      "source_id": "barbour-1923",
+      "pages": 160,
+      "characters": 293881,
+      "empty_ocr_pages": 14,
+      "page_mapping": "scandata_accessible_count_match",
+      "caveat": "Page mapping is structural and has not been visually checked page by page."
+    },
+    {
+      "source_id": "rothschild-1907",
+      "pages": 386,
+      "characters": 377367,
+      "empty_ocr_pages": 97,
+      "page_mapping": "scandata_accessible_count_match",
+      "caveat": "Page mapping is structural and has not been visually checked page by page."
+    },
+    {
+      "source_id": "leguat-1891-v1",
+      "pages": 286,
+      "characters": 562772,
+      "empty_ocr_pages": 25,
+      "page_mapping": "scandata_accessible_count_match",
+      "caveat": "Page mapping is structural and has not been visually checked page by page."
+    },
+    {
+      "source_id": "leguat-1891-v2",
+      "pages": 352,
+      "characters": 836701,
+      "empty_ocr_pages": 28,
+      "page_mapping": "scandata_accessible_count_match",
+      "caveat": "Page mapping is structural and has not been visually checked page by page."
+    },
+    {
+      "source_id": "leguat-1708-nl",
+      "pages": 222,
+      "characters": 525902,
+      "empty_ocr_pages": 9,
+      "page_mapping": "scandata_accessible_count_match",
+      "caveat": "Page mapping is structural and has not been visually checked page by page."
+    },
+    {
+      "source_id": "leguat-1708-fr-a",
+      "pages": 248,
+      "characters": 237756,
+      "empty_ocr_pages": 22,
+      "page_mapping": "scandata_accessible_count_match",
+      "caveat": "Page mapping is structural and has not been visually checked page by page."
+    },
+    {
+      "source_id": "leguat-1708-fr-b",
+      "pages": 246,
+      "characters": 281910,
+      "empty_ocr_pages": 13,
+      "page_mapping": "scandata_accessible_count_match",
+      "caveat": "Page mapping is structural and has not been visually checked page by page."
+    },
+    {
+      "source_id": "leguat-1709-de",
+      "pages": 536,
+      "characters": 532006,
+      "empty_ocr_pages": 46,
+      "page_mapping": "scandata_accessible_count_match",
+      "caveat": "Page mapping is structural and has not been visually checked page by page."
+    },
+    {
+      "source_id": "strickland-1848",
+      "pages": 208,
+      "characters": 490480,
+      "empty_ocr_pages": 28,
+      "page_mapping": "scandata_accessible_count_match",
+      "caveat": "Page mapping is structural and has not been visually checked page by page."
+    },
+    {
+      "source_id": "kolb-1741-v1",
+      "pages": 420,
+      "characters": 530765,
+      "empty_ocr_pages": 7,
+      "page_mapping": "scandata_accessible_count_match",
+      "caveat": "Page mapping is structural and has not been visually checked page by page."
+    },
+    {
+      "source_id": "kolb-1741-v3",
+      "pages": 338,
+      "characters": 373649,
+      "empty_ocr_pages": 12,
+      "page_mapping": "scandata_accessible_count_match",
+      "caveat": "Page mapping is structural and has not been visually checked page by page."
+    },
+    {
+      "source_id": "kolb-1719-de",
+      "pages": 992,
+      "characters": 4662752,
+      "empty_ocr_pages": 21,
+      "page_mapping": "scandata_accessible_count_match",
+      "caveat": "Page mapping is structural and has not been visually checked page by page."
+    },
+    {
+      "source_id": "levaillant-1790-v1",
+      "pages": 436,
+      "characters": 456705,
+      "empty_ocr_pages": 16,
+      "page_mapping": "scandata_accessible_count_match",
+      "caveat": "Page mapping is structural and has not been visually checked page by page."
+    },
+    {
+      "source_id": "levaillant-1790-v2",
+      "pages": 430,
+      "characters": 463191,
+      "empty_ocr_pages": 15,
+      "page_mapping": "scandata_accessible_count_match",
+      "caveat": "Page mapping is structural and has not been visually checked page by page."
+    },
+    {
+      "source_id": "pallas-spicilegia",
+      "pages": 558,
+      "characters": 650275,
+      "empty_ocr_pages": 28,
+      "page_mapping": "scandata_accessible_count_match",
+      "caveat": "Page mapping is structural and has not been visually checked page by page."
+    },
+    {
+      "source_id": "cartwright-1792-v3",
+      "pages": 333,
+      "characters": 585964,
+      "empty_ocr_pages": 12,
+      "page_mapping": "scandata_accessible_count_match",
+      "caveat": "Page mapping is structural and has not been visually checked page by page."
+    },
+    {
+      "source_id": "pennant-1776-v2",
+      "pages": 498,
+      "characters": 443411,
+      "empty_ocr_pages": 62,
+      "page_mapping": "scandata_accessible_count_match",
+      "caveat": "Page mapping is structural and has not been visually checked page by page."
+    }
+  ],
+  "pages_sha256": "d8437118655699f2a14474fe25e0e6fff92cdb18978c0030fe748863152260c5"
+}

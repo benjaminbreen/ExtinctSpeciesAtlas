@@ -1,0 +1,50 @@
+[
+  {
+    "benchmark_id": "martin-breeding",
+    "source_id": "atlas-martin",
+    "task": "Recover appearance, egg and seasonal account",
+    "expected": "Existing atlas passage; not a new finding",
+    "family": "martin-st-kilda",
+    "split": "development"
+  },
+  {
+    "benchmark_id": "pennant-dependency",
+    "source_id": "atlas-pennant",
+    "task": "Recognize dependence on Martin",
+    "expected": "Do not count shared breeding claim as independent testimony",
+    "family": "martin-st-kilda",
+    "split": "development"
+  },
+  {
+    "benchmark_id": "cartwright-dates",
+    "source_id": "atlas-cartwright",
+    "task": "Separate 1785 journal event from 1792 publication",
+    "expected": "Do not treat 1792 as event date",
+    "family": "cartwright-journal",
+    "split": "development"
+  },
+  {
+    "benchmark_id": "perpina-dates",
+    "source_id": "perpina-1889",
+    "task": "Separate 1867 journey from 1889 publication",
+    "expected": "Original acquired; event dating and identification remain to be checked in context against scan and review.",
+    "family": "perpina-camaguey",
+    "split": "development"
+  },
+  {
+    "benchmark_id": "leguat-translations",
+    "source_id": "leguat-1708-nl",
+    "task": "Link Dutch/German/English editions as one narrative family",
+    "expected": "Multiple editions do not multiply independent witnesses",
+    "family": "leguat-voyage",
+    "split": "development"
+  },
+  {
+    "benchmark_id": "tortoise-identity",
+    "source_id": null,
+    "task": "Retain generic tortoise account at group level",
+    "expected": "No forced assignment to either Rodrigues species",
+    "family": null,
+    "split": "test_case_to_select"
+  }
+]

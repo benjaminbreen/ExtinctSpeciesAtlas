@@ -1,0 +1,80 @@
+{
+  "checked_on": "2026-10-10",
+  "publication_state": "internal_research_only",
+  "historian_approval": null,
+  "findings": "research/extinction-pilot/findings/2026-10-10-cape-equid-verification.md",
+  "assets": [
+    {
+      "id": "NL-HaNA_1.04.02_4000_0639",
+      "local_path": "research/extinction-pilot/data/raw/cape-equids-2026-10-10/NL-HaNA_1.04.02_4000_0639.jpg",
+      "scan_url": "https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4000/file/NL-HaNA_1.04.02_4000_0639",
+      "download_url": "https://service.archief.nl/iip/iipsrv?IIIF=8c/df/98/c1/6c/18/4c/79/b3/6b/25/0a/c6/14/4f/20/35ded082-97d7-4d6a-a01a-877bdb0c3dd4.jp2/full/2400,/0/default.jpg",
+      "sha256": "626c359cb9b10bf2e821f4627b5425178914a5ce761f8e012ba4ef4e8ef3d0ed",
+      "review_scope": "Relevant equid wording and continuation",
+      "reviewer": "Codex",
+      "checked_on": "2026-10-10",
+      "rights_note": "Historical VOC manuscript; derivative supplied by Nationaal Archief. No modern license asserted; retained locally for research only."
+    },
+    {
+      "id": "NL-HaNA_1.04.02_4000_0640",
+      "local_path": "research/extinction-pilot/data/raw/cape-equids-2026-10-10/NL-HaNA_1.04.02_4000_0640.jpg",
+      "scan_url": "https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4000/file/NL-HaNA_1.04.02_4000_0640",
+      "download_url": "https://service.archief.nl/iip/iipsrv?IIIF=8c/df/98/c1/6c/18/4c/79/b3/6b/25/0a/c6/14/4f/20/a8d191a9-7c55-4a24-8bca-8b2e2c19d1bc.jp2/full/2400,/0/default.jpg",
+      "sha256": "e940248cec6932dfaf1f06a1edee8507c4d86570ce65c77580b5a636e71e3048",
+      "review_scope": "Continuation, copied names and closing date",
+      "reviewer": "Codex",
+      "checked_on": "2026-10-10",
+      "rights_note": "Historical VOC manuscript; derivative supplied by Nationaal Archief. No modern license asserted; retained locally for research only."
+    },
+    {
+      "id": "NL-HaNA_1.04.02_4027_0226",
+      "local_path": "research/extinction-pilot/data/raw/cape-equids-2026-10-10/NL-HaNA_1.04.02_4027_0226.jpg",
+      "scan_url": "https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/invnr/4027/file/NL-HaNA_1.04.02_4027_0226",
+      "download_url": "https://service.archief.nl/iip/iipsrv?IIIF=9a/f2/87/d9/e3/b4/45/82/a7/23/d5/a5/e6/59/bb/6f/2b21e38b-1bce-4758-89a7-ec0a2911a789.jp2/full/2800,/0/default.jpg",
+      "sha256": "1f0ee1550ca7dd1a40c155ff82c66375d30fbeae66fd4357f1fb261651466030",
+      "review_scope": "Friday 28 January entry, equid description and east-northeast course",
+      "reviewer": "Codex",
+      "checked_on": "2026-10-10",
+      "rights_note": "Historical VOC manuscript; derivative supplied by Nationaal Archief. No modern license asserted; retained locally for research only."
+    },
+    {
+      "id": "schrijver-1922-extract",
+      "local_path": "research/extinction-pilot/data/raw/cape-equids-2026-10-10/schrijver-1922-pp98-123.pdf",
+      "download_url": "https://rhinoresourcecenter.com/wp-content/uploads/2006/12/1309485675.pdf",
+      "edition_url": "https://www.dbnl.org/tekst/gode006reiz03_01/gode006reiz03_01_0008.php",
+      "citation": "Isaq Schrijver, journal, 28 January 1689, in E. C. Godée Molsbergen, ed., Reizen in Zuid-Afrika in de Hollandse tijd, III (1922), pp. 103–104.",
+      "sha256": "b6bca08b05e4047816e1c4756b2cdee1b8415a523cc87ae29d9b57d1c20ad578",
+      "review_scope": "PDF pages 8–9, printed pp. 103–104, rendered and visually inspected; journal heading on PDF page 1 read from extracted text and DBNL edition.",
+      "reviewer": "Codex",
+      "checked_on": "2026-10-10",
+      "rights_note": "1922 historical edition; digitization license not established. Local research copy only."
+    }
+  ],
+  "claims": [
+    {
+      "id": "wagenaer-striped-equids",
+      "document_date": "1665-04-19",
+      "observation_date": null,
+      "identification": "Striped equids; quagga versus zebra unresolved",
+      "evidence_status": "Relevant manuscript wording and letter date visually checked; full transcription not prepared",
+      "source_ids": [
+        "NL-HaNA_1.04.02_4000_0639",
+        "NL-HaNA_1.04.02_4000_0640"
+      ],
+      "novelty": "not_assessed"
+    },
+    {
+      "id": "schrijver-striped-equid",
+      "entry_date": "1689-01-28",
+      "publication_year": 1922,
+      "identification": "Striped equid; species/subspecies unresolved",
+      "evidence_status": "Relevant manuscript passage compared with printed pp. 103–104",
+      "source_ids": [
+        "NL-HaNA_1.04.02_4027_0226",
+        "schrijver-1922-extract"
+      ],
+      "parallel_copy_unchecked": "NL-HaNA_1.04.02_4029_0375",
+      "novelty": "Known published primary passage; specialist treatment not assessed"
+    }
+  ]
+}

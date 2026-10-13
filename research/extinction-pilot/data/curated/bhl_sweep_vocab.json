@@ -1,0 +1,189 @@
+{
+ "purpose": "Distinctive names for a one-pass lexical sweep of the BHL bulk OCR export. Patterns are regular expressions applied to case-folded, diacritic-folded page text with word boundaries. Omitted on purpose because of noise: bare 'solitaire', 'silphium'/'laserpitium' (living plant genera), 'sea cow', 'urus', 'guacamayo', 'dinornis'. Species extinct after 1900 are outside atlas scope.",
+ "compiled": "2026-10-04",
+ "taxa": {
+  "dodo": [
+   "dodo(?:s|es)?",
+   "dronte[ns]?",
+   "wal[cg]?h?-?vogel\\w*",
+   "dod[ae]{1,2}rs\\w*",
+   "didus ineptus",
+   "raphus cucullatus",
+   "cygnus cucullatus",
+   "oiseau de nazare"
+  ],
+  "red-hen": [
+   "aphanapteryx",
+   "poule rouge"
+  ],
+  "rodrigues-solitaire": [
+   "pezophaps",
+   "didus solitari\\w*",
+   "solitaire de rodrigue[sz]?"
+  ],
+  "reunion-ibis": [
+   "threskiornis solitarius",
+   "solitaire de (?:bourbon|la reunion)",
+   "raphus solitarius"
+  ],
+  "rodrigues-tortoises": [
+   "cylindraspis",
+   "testudo (?:vosmaeri|peltastes|inepta|triserrata|indica)"
+  ],
+  "mascarene-other": [
+   "lophopsittacus",
+   "necropsittacus",
+   "necropsar",
+   "mascarinus",
+   "fregilupus",
+   "huppe de bourbon",
+   "erythromachus",
+   "aphanapteryx leguati"
+  ],
+  "mauritius-blue-pigeon": [
+   "alectroenas nitidissim\\w*",
+   "columba nitidissim\\w*",
+   "pigeon hollandais"
+  ],
+  "great-auk": [
+   "great auk",
+   "gare-?fowl",
+   "gair-?fowl",
+   "geir-?fugl\\w*",
+   "alca impennis",
+   "pinguinus impennis",
+   "plautus impennis",
+   "grand pingouin",
+   "riesenalk\\w*",
+   "pingouin brachiptere"
+  ],
+  "stellers-sea-cow": [
+   "rh?ytina",
+   "hydrodamalis",
+   "manatus gigas",
+   "steller'?s sea[- ]?cow",
+   "morskaja? korova"
+  ],
+  "spectacled-cormorant": [
+   "phalacrocorax perspicillatus",
+   "pallas'?s? cormorant",
+   "spectacled cormorant"
+  ],
+  "labrador-duck": [
+   "camptorhynchus",
+   "camptolaimus",
+   "labrador duck",
+   "anas labradoria",
+   "fuligula labradora",
+   "pied duck",
+   "sand[- ]shoal duck"
+  ],
+  "sea-mink": [
+   "sea mink",
+   "mustela macrodon",
+   "lutreola macrodon"
+  ],
+  "bluebuck": [
+   "blaa?uw[- ]?bo[ck]+\\w*",
+   "blaa?uwe bo[ck]+\\w*",
+   "blau[- ]?bock\\w*",
+   "blauer? bock\\w*",
+   "blue antelope",
+   "antilope bleue",
+   "antilope leucophae\\w*",
+   "aegoc[eo]ros leucophae\\w*",
+   "hippotragus leucophae\\w*",
+   "capra leucophaea",
+   "tzeiran",
+   "theiram"
+  ],
+  "quagga": [
+   "quagga\\w*",
+   "quacha",
+   "kwagga\\w*"
+  ],
+  "aurochs": [
+   "aurochs\\w*",
+   "auer-?ochs\\w*",
+   "urochs\\w*",
+   "bos primigenius",
+   "bos urus"
+  ],
+  "cuban-macaw": [
+   "ara tricolor",
+   "psittacus tricolor",
+   "cuban macaw",
+   "lorirojo",
+   "guacamayo de cuba"
+  ],
+  "falklands-wolf": [
+   "warrah",
+   "canis antarcticus",
+   "dusicyon australis",
+   "falkland (?:island )?(?:wolf|fox|dog)",
+   "antarctic wolf",
+   "loup antarctique",
+   "canis australis"
+  ],
+  "silphium": [
+   "silphion",
+   "laser cyrenaic\\w*",
+   "silphium cyrenaic\\w*"
+  ],
+  "island-emus": [
+   "dromaius (?:ater|minor|baudinianus|peronii)",
+   "king island emu",
+   "kangaroo island emu"
+  ],
+  "pacific-other": [
+   "nestor productus",
+   "prosobonia",
+   "aechmorhynchus",
+   "chaunoproctus",
+   "drepanis pacifica",
+   "coturnix novae-?zea?landiae",
+   "pennula"
+  ]
+ },
+ "noise_rules": [
+  {
+   "rule": "before_discovery",
+   "taxa": [
+    "dodo",
+    "red-hen",
+    "rodrigues-solitaire",
+    "reunion-ibis",
+    "rodrigues-tortoises",
+    "mascarene-other",
+    "mauritius-blue-pigeon"
+   ],
+   "year_lt": 1598,
+   "why": "Mascarene fauna were unknown to European print before the 1598 Dutch landing; early hits are OCR of 'doctos', 'Dodonaeus' etc."
+  },
+  {
+   "rule": "latin_bare_dodo",
+   "taxa": [
+    "dodo"
+   ],
+   "matches": [
+    "dodo",
+    "dodos"
+   ],
+   "languages": [
+    "LAT"
+   ],
+   "why": "In Latin texts bare 'dodo(s)' is almost always OCR of 'doctos/docto' or a split 'Dodonaeus'."
+  },
+  {
+   "rule": "tzeiran_gazelle",
+   "taxa": [
+    "bluebuck"
+   ],
+   "matches": [
+    "tzeiran",
+    "theiram"
+   ],
+   "why": "'Tzeiran' usually denotes the Persian goitered gazelle; it is tied to the bluebuck only through 18th-century naming confusion."
+  }
+ ]
+}

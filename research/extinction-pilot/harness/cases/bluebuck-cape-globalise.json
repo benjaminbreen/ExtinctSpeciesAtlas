@@ -1,0 +1,136 @@
+{
+  "case_id": "bluebuck-cape-globalise",
+  "title": "Bluebuck and Cape game in the VOC archives (GLOBALISE), 1652-1800",
+  "baseline": "baselines/bluebuck.json",
+  "corpus": {
+    "adapter": "globalise"
+  },
+  "scope": {
+    "years": [
+      1652,
+      1800
+    ],
+    "volumes": {
+      "settlements": [
+        "Kaap de Goede Hoop"
+      ],
+      "description_like": [
+        "Kaap de Goede Hoop",
+        "Cabo de Goede Hoop"
+      ],
+      "inventory_ranges": [
+        [
+          3988,
+          4360
+        ]
+      ]
+    },
+    "anchor_fts": "bokken OR bocken OR hartebeest* OR harte OR eland* OR gemsbok* OR wildt OR gedierte OR gedierten OR quagga* OR zeekoe* OR renoster* OR rhinoceros OR olifant* OR olyphant* OR buffels OR leeuwen OR jagt OR jagen OR geschooten OR landtogt OR landtocht OR wilde",
+    "window": [
+      0,
+      1
+    ],
+    "min_tokens": 40
+  },
+  "sweep_years": [
+    1652,
+    1810
+  ],
+  "sweep": {
+    "seeds": [
+      "blaauwbok",
+      "blaauwbokken",
+      "blauwbokken",
+      "blaauwbocken"
+    ],
+    "max_edit": 2,
+    "exclude_regex": [
+      "bla+u?wboe\\w*",
+      "bla+u?wboo\\w*",
+      "bla+u?wboer\\w*"
+    ],
+    "text_prefilter": "blauwe OR blaauwe OR blaauw OR blauw OR blaeuwe",
+    "text_regex": [
+      "bla+e?u?w+e?n?\\s+(?:\\w+\\s+)?bo[ck]+(?:en|ken|je|jes)?\\b"
+    ],
+    "max_term_docs": 5000
+  },
+  "queries": {
+    "game_list": "List of wild game seen or shot on an inland journey at the Cape: elands, hartebeests, bucks, zebras, rhinoceros.",
+    "blue_antelope": "A large antelope with a bluish-grey coat, shot by the travellers.",
+    "hunting_permit": "Rules or permits for hunting game, and complaints that game has become scarce near the colony.",
+    "specimen": "Skins, horns or live animals of the Cape sent to the Netherlands for the Company directors or a menagerie.",
+    "nl_game": "wij sagen veel wildt als elanden, harte beesten, blaauwe bokken en zebra's"
+  },
+  "screen": {
+    "model": "gpt-5.4-mini",
+    "window_chars": 1500,
+    "per_call": 25,
+    "source": "both",
+    "prompt": "You screen machine transcriptions (noisy HTR) of 17th-18th-century Dutch VOC records from the Cape of Good Hope for evidence about WILD LARGE MAMMALS, above all the BLUEBUCK (blaauwbok, blauwe bok/bokken, a bluish-grey antelope). Also flag: quagga; other antelope named or described by colour; lions, elephants, rhinoceros, hippopotamus, buffalo as observed or hunted; lists of game seen on journeys; hunting regulations or scarcity of game; skins, horns or live animals sent to Europe or Batavia.\nDo NOT flag: blue cloth or textiles ('blauwe' goods), books ('blaauwboek'), domestic goats or sheep as trade goods, ship names, personal names.",
+    "categories": [
+      "bluebuck",
+      "antelope_unidentified",
+      "quagga",
+      "other_large_mammal",
+      "game_list",
+      "hunting_rule_or_scarcity",
+      "specimen_or_live_shipment",
+      "other"
+    ],
+    "report_categories": [
+      "bluebuck",
+      "antelope_unidentified",
+      "quagga",
+      "game_list",
+      "hunting_rule_or_scarcity",
+      "specimen_or_live_shipment"
+    ]
+  },
+  "planted": [
+    {
+      "scan_id": "NL-HaNA_1.04.02_3995_1265",
+      "label": "Cruijthoff expedition game list (1660–1661 volume; machine-text control)",
+      "kind": "proxy_game",
+      "stages": [
+        "scope",
+        "screen"
+      ],
+      "status": "development_control",
+      "family": "cruijthoff-expedition",
+      "expected_categories": [
+        "game_list",
+        "other_large_mammal"
+      ],
+      "basis": "Local HTR names lions, rhinoceroses and hartebeests near Riebeecks Casteel. Not a bluebuck identification; scan not verified in this run."
+    },
+    {
+      "scan_id": "NL-HaNA_1.04.02_4089_0080",
+      "label": "Schonenberg expedition: four elands (1722–1723 volume; machine-text control)",
+      "kind": "proxy_game",
+      "stages": [
+        "scope",
+        "screen"
+      ],
+      "status": "development_control",
+      "family": "schonenberg-expedition",
+      "expected_categories": [
+        "game_list",
+        "other_large_mammal"
+      ],
+      "basis": "Local HTR reports four Elanden seen by the party. Not a bluebuck identification; scan not verified in this run."
+    }
+  ],
+  "_todo": "Proxy controls check Cape game retrieval only. No verified bluebuck passage has yet been mapped to GLOBALISE. Bluebuck identification and discovery recall remain unevaluated.",
+  "negative_controls": [
+    {
+      "scan_id": "NL-HaNA_1.04.02_4026_0038",
+      "label": "Buffels Jagt as a place; travel and grazing domestic beasts",
+      "basis": "Whole HTR page read; no observation of wild buffalo. Scan unverified."
+    }
+  ],
+  "scope_basis": {
+    "inventory_ranges": "Papers received from the Cape (VOC 3988–4360), added because catalogue settlement fields are blank for the two control volumes. Other volumes remain selected by explicit catalogue metadata. Whole-volume selection also includes contextual and non-Cape documents.",
+    "finding_aid": "https://eggsa.org/sarecords/index.php/indexes-to-online-records/nationaal-archief-den-haag/indexes-to-papers-received-from-the-cape"
+  }
+}

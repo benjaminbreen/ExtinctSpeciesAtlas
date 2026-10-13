@@ -1,0 +1,14 @@
+.bluebuck-page .detail-hero { min-height: 0; }
+.bluebuck-status { margin: 24px 0 0; font-size: .9rem; }
+.bluebuck-page .source-heading h3 { line-height: 1.3; }
+.bluebuck-qualification { font-size: .9rem; line-height: 1.6; }
+.bluebuck-scan > a:first-of-type { display: block; margin-top: 16px; }
+.bluebuck-scan img { display: block; width: 100%; max-height: 320px; object-fit: contain; mix-blend-mode: multiply; }
+@media (max-width: 760px) {
+  .bluebuck-page .detail-hero { padding-bottom: 24px; }
+  .bluebuck-page .detail-title-block { padding-top: 20px; }
+  .bluebuck-page .detail-hero h1 { font-size: clamp(3rem, 16vw, 4.5rem); }
+  .bluebuck-page .detail-subtitle { font-size: 1.15rem; }
+}
+
+.notes-link{display:inline-block;margin-top:.65rem;font-family:var(--font-ui);font-size:.8rem;text-decoration:underline;text-underline-offset:3px}

@@ -1,0 +1,35 @@
+[
+  {
+    "file": "assets/bluebuck-facsimiles/pennant-24.webp",
+    "source": "https://archive.org/details/synopsisofquadru00penn/page/24/mode/1up",
+    "download": "https://archive.org/download/synopsisofquadru00penn/synopsisofquadru00penn.pdf",
+    "credit": "Smithsonian Libraries / Internet Archive",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "page": "24",
+    "checked_on": "2026-10-03",
+    "sha256": "ed4def3dc248241cb570fd24e21bb9b66b676803dad544dd0466883af9386ece"
+  },
+  {
+    "file": "assets/bluebuck-facsimiles/pennant-25.webp",
+    "source": "https://archive.org/details/synopsisofquadru00penn/page/25/mode/1up",
+    "download": "https://archive.org/download/synopsisofquadru00penn/synopsisofquadru00penn.pdf",
+    "credit": "Smithsonian Libraries / Internet Archive",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "page": "25",
+    "checked_on": "2026-10-03",
+    "sha256": "2fae2d33ad4b07d4b5e5d7454f735db982365b34872d9dad10e74939817702d7"
+  },
+  {
+    "file": "assets/bluebuck-facsimiles/barrow-47.webp",
+    "source": "https://archive.org/details/accountoftravels02barr/page/47/mode/1up",
+    "download": "https://archive.org/download/accountoftravels02barr/accountoftravels02barr.pdf",
+    "credit": "Boston Public Library / Internet Archive",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "page": "47",
+    "checked_on": "2026-10-03",
+    "sha256": "371a69fd5c46e1cd640342a43cca259580cfb6904151006056cdcea1ce6b80ad"
+  }
+]

@@ -1,0 +1,143 @@
+{
+  "taxon_id": "bluebuck",
+  "updated": "2026-10-03",
+  "purpose": "Internal primary-source reading and acquisition log; no public atlas additions.",
+  "sources": [
+    {
+      "id": "barrow1804-herd",
+      "language": "en",
+      "citation": "Barrow, An Account of Travels into the Interior of Southern Africa, vol. 2 (1804), p. 47.",
+      "url": "https://archive.org/details/accountoftravels02barr/page/47/mode/2up",
+      "reading": "Printed title and p. 47 checked; relevant context compared with the 1801 first volume and 1806 revision.",
+      "finding": "Secondhand report of a small herd in wooded hills behind Sweet Milk Valley a few months before the British evacuation.",
+      "date": "late 1802 or early 1803, inferred; no exact date supplied",
+      "identification": "Barrow names blue antelope; gives no anatomy and names no eyewitness.",
+      "novelty": "Known published passage; correction to this project’s earlier citation/date, not a newly discovered source.",
+      "next": "Seek independent testimony around Sweet Milk Valley and Baviaanskloof/Genadendal, particularly 1802–1803 mission diaries and correspondence."
+    },
+    {
+      "id": "barrow1806-repeat",
+      "language": "en",
+      "citation": "Barrow, Travels into the Interior of Southern Africa, 2nd ed., vol. 1 (1806), pp. 371–372.",
+      "url": "https://archive.org/details/travelsintointer11806barr/page/371/mode/2up",
+      "reading": "Both printed pages checked.",
+      "finding": "Repeats the 1804 herd report.",
+      "relationship": "Same author and reported event; not an independent observation."
+    },
+    {
+      "id": "pennant1771-skin",
+      "language": "en",
+      "citation": "Pennant, Synopsis of Quadrupeds (1771), pp. 24–25, entry 13, BLUE.",
+      "url": "https://darwin-online.org.uk/converted/Ancillary/BeagleLibrary/1771_Pennant_A730.html",
+      "reading": "Printed pp. 24–25 visually compared with the transcription; Smithsonian Libraries scan via Internet Archive, PDF pages 68–69. Long s regularized and line-end hyphenation joined.",
+      "finding": "Describes a skin bought at Amsterdam, said to originate at the Cape; curved horns with twenty rings and white marks under the eyes.",
+      "identification": "Existing bluebuck literature record; specimen-based description. Living colour and locality are reported, not eyewitness field evidence.",
+      "next": "Trace acquisition through Pennant’s correspondence and collection records. No seller or field locality given in this passage.",
+      "scan_url": "https://archive.org/details/synopsisofquadru00penn/page/24/mode/1up",
+      "public_record": "source-pennant-bluebuck.html"
+    },
+    {
+      "id": "perestrelo1575-76",
+      "language": "pt",
+      "citation": "Manuel de Mesquita Perestrello, Descripção da Costa da Africa Meridional (1575–1576), in G. M. Theal, Records of South-Eastern Africa, vol. 1 (1898), pp. 286–307; English translation follows.",
+      "url": "https://archive.org/details/recordssoutheas01theagoog/page/286/mode/2up",
+      "reading": "Portuguese Cape sections pp. 288–299 read in OCR; pp. 290–291 and 294 checked in the printed images. Introductory note and remaining northern sections read in OCR. No claim of full manuscript verification.",
+      "finding": "No identifiable bluebuck passage in the Cape sections examined. Navigation, coastal landmarks, fish, seals and flightless birds dominate. Generic wild/domestic animals appear in the Natal section (p. 301), outside the bluebuck’s historically attested southwestern Cape range.",
+      "limits": "Not an exhaustive search of Portuguese sources or a negative finding about animal presence. The seaward account has limited inland coverage.",
+      "manuscripts": [
+        {
+          "repository": "British Library",
+          "shelfmark": "Add MS 16932",
+          "basis": "RUTTER inventory pp. 89–90 and Theal p. 286 note; manuscript not viewed."
+        },
+        {
+          "repository": "Biblioteca Nacional de Portugal",
+          "shelfmark": "COD. 6806//2, ff. 34v–38r",
+          "basis": "RUTTER inventory: partial, significantly variant copy in Aleixo da Mota; not viewed."
+        }
+      ],
+      "editorial_note": "Theal believed the British Museum manuscript to be the original report; the modern RUTTER inventory calls the original lost and this the oldest copy. Preserve that distinction.",
+      "next": "Prefer voyage narratives with actual landings or inland descriptions in the southwestern Cape; do not pool eastern shipwreck accounts merely because they mention antelopes."
+    },
+    {
+      "id": "genadendal-utrecht-1803-05",
+      "language": "de",
+      "citation": "Genadendal diary extracts, Utrecht source NL-UtHUA_A363597; multilingual working edition, Zenodo version 0.4 (2025).",
+      "url": "https://zenodo.org/records/18098702",
+      "reading": "All 29 PDF pages searched for animal/hunting/name terms; first four pages and hunting context on p. 18 read; p. 18 visually inspected. This is an automatic transcription, not a manuscript scan review.",
+      "finding": "The hunting passage on PDF p. 18, manuscript markers 34a–34b, concerns a sheep attacked by a presumed jackal; three such animals killed and one later caught. No bluebuck candidate found by this limited pass.",
+      "translation_note": "Working English mistranslates German erlegten drey derselben as three people hunting animals. Use the German transcription and verify manuscript before quoting.",
+      "next": "Obtain the mission diary entries covering late 1802 and early 1803. This extract begins May 1803 and therefore does not cover the likely period of Barrow’s report."
+    }
+  ],
+  "acquisition_leads": [
+    {
+      "id": "genadendal-museum-1792-1800",
+      "language": "de",
+      "repository": "Genadendal Museum",
+      "url": "https://zenodo.org/records/18076418",
+      "coverage": "1792–1800",
+      "status": "Public metadata inspected; no downloadable files attached to the record at access time.",
+      "reason": "Independent local mission records; earlier years offer context, but the period likely relevant to the Barrow herd requires later diaries."
+    },
+    {
+      "id": "genadendal-utrecht-other-extracts",
+      "language": "de/nl",
+      "repository": "Het Utrechts Archief",
+      "url": "https://zenodo.org/records/18098702",
+      "coverage": "1792–1797 in the other three files",
+      "status": "Metadata and file inventory inspected; these three files not downloaded or read."
+    },
+    {
+      "id": "portuguese-surviving-roteiros",
+      "language": "pt",
+      "url": "https://rutter-project.org/wp-content/uploads/2021/09/giurgevich_tn7.pdf",
+      "status": "Inventory entry and manuscript/edition relationships read; originals pending."
+    },
+    {
+      "id": "french-levaillant-provenance",
+      "language": "fr",
+      "repository": "Muséum national d’Histoire naturelle and associated correspondence",
+      "url": "https://doi.org/10.5252/zoosystema2020v42a5",
+      "status": "Existing scholarly lead; no new French manuscript reading in this pass.",
+      "reason": "Track collecting, shipping and acquisition independently of Cape animal names."
+    }
+  ],
+  "local_assets": [
+    {
+      "path": "research/extinction-pilot/data/raw/multilingual/barrow1804.pdf",
+      "source_url": "https://archive.org/download/accountoftravels02barr/accountoftravels02barr.pdf",
+      "downloaded": "2026-10-03",
+      "sha256": "f2c36208ca5e470896834c9ee3aed57a1594e219bdd65e8a3e677ff0a3dde4a6",
+      "bytes": 25647321
+    },
+    {
+      "path": "research/extinction-pilot/data/raw/multilingual/barrow1806.pdf",
+      "source_url": "https://archive.org/download/travelsintointer11806barr/travelsintointer11806barr.pdf",
+      "downloaded": "2026-10-03",
+      "sha256": "0104c97a7726094afb77619d9ba9fc89552503a91c35dcec96d02bab6ac5dc18",
+      "bytes": 32333212
+    },
+    {
+      "path": "research/extinction-pilot/data/raw/multilingual/theal-portuguese-vol1.pdf",
+      "source_url": "https://archive.org/download/recordssoutheas01theagoog/recordssoutheas01theagoog.pdf",
+      "downloaded": "2026-10-03",
+      "sha256": "f20b244598eaaa305cf11978dfdc739bd23dcdc09a3166ed7ad27308cd343257",
+      "bytes": 14413822
+    },
+    {
+      "path": "research/extinction-pilot/data/raw/multilingual/NL-UtHUA_A363597_Diary-Genadendal.pdf",
+      "source_url": "https://zenodo.org/api/records/18098702/files/NL-UtHUA_A363597_Diary-Genadendal.pdf/content",
+      "downloaded": "2026-10-03",
+      "sha256": "dfcb9b5dff3e24e41e7191d4d9592e63b63b95f620fbd5dc882cd7f45b1321dd",
+      "bytes": 322842
+    },
+    {
+      "path": "research/extinction-pilot/data/raw/multilingual/synopsisofquadru00penn.pdf",
+      "source_url": "https://archive.org/download/synopsisofquadru00penn/synopsisofquadru00penn.pdf",
+      "downloaded": "2026-10-03",
+      "sha256": "e110e1f99cc83f6939c6be19cf1b2fd0c1f679370595aaf860fcda2e34306bc6",
+      "bytes": 51137615
+    }
+  ]
+}

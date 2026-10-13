@@ -1,0 +1,71 @@
+[
+  {
+    "lead_id": "perpina-1889",
+    "cluster": "cuba",
+    "citation": "Antonio Perpiña, El Camagüey: viajes pintorescos por el interior de Cuba (1889)",
+    "locators": [
+      "p.32",
+      "p.242",
+      "p.247"
+    ],
+    "status": "original_ocr_acquired_passage_review_pending",
+    "url": "https://archive.org/details/elcamagueyviajes00perp",
+    "basis": "wiley-kirwan-2013, printed p.134",
+    "next_action": "Verify observations dated 1867 against original text; actual download state in acquisition manifest.",
+    "importance": "Known passages are retrieval benchmarks; no discovery claim."
+  },
+  {
+    "lead_id": "gundlach-1893",
+    "cluster": "cuba",
+    "citation": "Juan Gundlach, Ornitología cubana (1893)",
+    "locators": [
+      "p.151"
+    ],
+    "status": "original_not_acquired",
+    "basis": "wiley-kirwan-2013, printed p.134",
+    "next_action": "Locate 1893 edition separately from acquired 1876 Contribucion."
+  },
+  {
+    "lead_id": "leguat-1708-fr",
+    "cluster": "mascarene",
+    "citation": "François Leguat, Voyage et avantures (1708)",
+    "url": "https://www.e-rara.ch/download/pdf/11437565.pdf",
+    "status": "two_IA_volumes_acquired_passage_review_pending",
+    "next_action": "Align French with translations; keep editorial material separate; verify volume labels."
+  },
+  {
+    "lead_id": "sonnerat-1782",
+    "cluster": "mascarene",
+    "citation": "Pierre Sonnerat, Voyage aux Indes orientales et à la Chine (1782)",
+    "url": "https://catalogue.bnf.fr/ark:/12148/cb44555801p",
+    "status": "plate_catalog_lead_only",
+    "next_action": "Verify edition/volume labels in these IA catalog leads, acquire OCR, then locate pigeon passage. Catalog labels alone do not establish the correct edition.",
+    "additional_catalog_leads": [
+      "https://archive.org/details/india.history.resource.71904",
+      "https://archive.org/details/india.history.resource.71903",
+      "https://archive.org/details/india.history.resource.71902"
+    ]
+  },
+  {
+    "lead_id": "pretorius-1669",
+    "cluster": "mascarene",
+    "citation": "Johannes Pretorius report (1669)",
+    "status": "known_through_modern_edition",
+    "basis": "hume-winters-2016",
+    "next_action": "Read published edition and trace archival original; do not label recovery novel."
+  },
+  {
+    "lead_id": "gundlach-german-serials",
+    "cluster": "cuba",
+    "citation": "Gundlach contributions to Journal für Ornithologie",
+    "status": "serial_volumes_to_select",
+    "next_action": "Use Wiley/Kirwan bibliography to select exact article years and pages."
+  },
+  {
+    "lead_id": "bhl-full-ocr",
+    "cluster": "all",
+    "url": "https://doi.org/10.25573/data.21422193.v4",
+    "status": "not_downloaded",
+    "next_action": "After pilot validation, stage the bulk OCR export and build a broader index. The 60m-page corpus has not been searched."
+  }
+]

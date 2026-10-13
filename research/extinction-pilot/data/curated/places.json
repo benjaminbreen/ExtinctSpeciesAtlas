@@ -1,0 +1,92 @@
+[
+  {
+    "place_id": "cuba",
+    "label": "Cuba",
+    "query_forms": [
+      "Cuba",
+      "Cuban",
+      "cubana",
+      "cubano"
+    ],
+    "caution": "Broad search context",
+    "status": "query_seed",
+    "coordinates": null
+  },
+  {
+    "place_id": "isla-de-pinos",
+    "label": "Isla de Pinos",
+    "query_forms": [
+      "Isla de Pinos",
+      "Isle of Pines",
+      "Isla de la Juventud"
+    ],
+    "caution": "Names from different periods; not a coordinate assertion",
+    "status": "query_seed",
+    "coordinates": null
+  },
+  {
+    "place_id": "camaguey",
+    "label": "Camagüey",
+    "query_forms": [
+      "Camagüey",
+      "Camaguey",
+      "Puerto Príncipe",
+      "Puerto Principe"
+    ],
+    "caution": "Search candidates; distinguish province/town/context",
+    "status": "query_seed",
+    "coordinates": null
+  },
+  {
+    "place_id": "zapata",
+    "label": "Ciénaga de Zapata",
+    "query_forms": [
+      "Zapata",
+      "Ciénaga de Zapata",
+      "Cienaga de Zapata"
+    ],
+    "caution": "Search context",
+    "status": "query_seed",
+    "coordinates": null
+  },
+  {
+    "place_id": "mauritius",
+    "label": "Mauritius",
+    "query_forms": [
+      "Mauritius",
+      "Maurice",
+      "Isle de France",
+      "Île de France",
+      "Ile de France"
+    ],
+    "caution": "Ile de France also a European region",
+    "status": "query_seed",
+    "coordinates": null
+  },
+  {
+    "place_id": "rodrigues",
+    "label": "Rodrigues",
+    "query_forms": [
+      "Rodrigues",
+      "Rodriguez",
+      "Rodrigue"
+    ],
+    "caution": "May also be a personal name",
+    "status": "query_seed",
+    "coordinates": null
+  },
+  {
+    "place_id": "cape",
+    "label": "Cape of Good Hope",
+    "query_forms": [
+      "Cape of Good Hope",
+      "Cap de Bonne-Espérance",
+      "Cap de Bonne Esperance",
+      "Cap der guten Hoffnung",
+      "Kaap"
+    ],
+    "caution": "Search suggestions, not verified historical gazetteer",
+    "status": "query_seed",
+    "coordinates": null
+  }
+]

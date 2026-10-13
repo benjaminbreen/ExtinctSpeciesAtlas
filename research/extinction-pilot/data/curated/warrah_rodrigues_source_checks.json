@@ -1,0 +1,180 @@
+{
+  "updated": "2026-10-03",
+  "purpose": "Internal source checks and search coverage. Selected checked warrah passages are also preserved in the edited public atlas records; no claim of an unpublished discovery.",
+  "sources": [
+    {
+      "id": "tyssen1842-castaways",
+      "taxon_id": "falklands-wolf",
+      "language": "en",
+      "citation": "John Tyssen, enclosure in No. 6, White Rock Harbour, 12 February 1842, in Copies or Extracts of any Correspondence relative to the Falkland Islands, House of Commons paper 148 (22 June 1843), p. 15.",
+      "url": "https://falklandstimeline.wordpress.com/wp-content/uploads/2023/10/copies-or-extracts-of-any-correspondence-relative-to-the-falkland-islands-1843.pdf#page=20",
+      "raw_file": "data/raw/warrah-rodrigues/falkland-correspondence-1843.pdf",
+      "pdf_page": 20,
+      "facsimile": "data/curated/warrah-facsimiles/tyssen-1843-p15.png",
+      "reading": "Printed p. 15 visually checked, including the enclosure heading, names, landing-date ambiguity and animal sentence. Relevant passage has no translation.",
+      "excerpt": "at times they were attacked by the warrahs or foxes, and killed 12 of them.",
+      "omission": "Excerpt from the castaways' longer statement; preceding circumstances and subsequent rescue report omitted.",
+      "witnesses": [
+        "Henry Whiteman",
+        "Samuel Profit"
+      ],
+      "recorder": "John Tyssen",
+      "event_interval": "18 or 28 December 1840 to 12 February 1842",
+      "place": "Queen Charlotte's Sound, West Falkland, as reported by the sailors; rescued at White Rock Harbour.",
+      "finding": "Two sailors reported encounters with warrahs and claimed to have killed twelve during their time ashore. This is their statement recorded by Tyssen, not Tyssen's observation of the animals.",
+      "identification": "Explicit contemporary name, warrahs or foxes, in the West Falkland setting. No anatomical description.",
+      "novelty": "Known account: reproduced in Penguin News in 1993 and the Jane Cameron National Archives newsletter in 2020. This work recovered and collated the original parliamentary printing.",
+      "prior_use_urls": [
+        "https://nationalarchives.gov.fk/jdownloads/Penguin%20News/1993%20January%20to%20April.pdf",
+        "https://www.nationalarchives.gov.fk/jdownloads/Newsletters/Archives%20newsletter%208%202020.pdf"
+      ],
+      "limits": "Reported killing count and attacks are testimony, not independently confirmed events. The explicit ten-day uncertainty in the landing date is preserved. No extinction-date implication.",
+      "sha256": "dc8a17af7963ea74fbc87422ee514450baf60a21227f08b650f23681e2bbf1f4",
+      "public_passage_id": "tyssen-warrah"
+    },
+    {
+      "id": "fim1894-last-local-foxes",
+      "taxon_id": "falklands-wolf",
+      "language": "en",
+      "citation": "E. J. Smith, Thomas H. Butler and A Witness, letters in The Falkland Islands Magazine, vol. VI, no. 66 (October 1894), unnumbered letters page.",
+      "url": "https://nationalarchives.gov.fk/jdownloads/The%20Falkland%20Islands%20Magazine/FIM%201893%20and%201894.pdf#page=192",
+      "recovered_url": "https://web.archive.org/web/20250525222855id_/https://nationalarchives.gov.fk/jdownloads/The%20Falkland%20Islands%20Magazine/FIM%201893%20and%201894.pdf#page=192",
+      "raw_file": "data/raw/warrah-rodrigues/fim-1893-1894.pdf",
+      "pdf_page": 192,
+      "issue_cover_pdf_page": 187,
+      "facsimile": "data/curated/warrah-facsimiles/fim-1894-letters.png",
+      "issue_cover_facsimile": "data/curated/warrah-facsimiles/fim-1894-october-cover.png",
+      "reading": "All three letters and the October 1894 issue cover visually checked. Line-end hyphenation joined in excerpts. No translation.",
+      "letters": [
+        {
+          "author": "E. J. Smith",
+          "letter_date": "1894-08-31",
+          "letter_place": "Port Edgar",
+          "reported_event_date": "1873 or 1874; writer inclines to 1874",
+          "event_place": "Fox Bay",
+          "finding": "Names Edward Packe as the killer. Smith and John Dack returned with beef after killing a wild cow near Gun Hill; Packe saw a fox entering the hen house the next morning, shot it and struck it with his rifle. Smith supposes the fox had followed their tracks. Smith also recalls helping to kill many animals at White Rock.",
+          "ocr_corrections": "The scan reads E. J. Smith and helped to kill, not the web transcription's F. J. Smith and hoped to kill. The printed surnames are Packe and Dack. The bull's-stomach coin anecdote is a separate subject; it does not date the fox killing."
+        },
+        {
+          "author": "Thomas H. Butler",
+          "letter_date": null,
+          "letter_place": null,
+          "reported_event_date": "early 1874",
+          "event_place": "Fox Bay, west side, West Falkland",
+          "finding": "Recalls his last seen or heard-of killing, explicitly allowing later sightings elsewhere.",
+          "excerpt": "possibly some may have been seen later, in some other part.",
+          "omission": "Closing qualification from the letter; the preceding killing report omitted."
+        },
+        {
+          "author": "A Witness",
+          "letter_date": "1894-09-01",
+          "letter_place": "West Fox Bay",
+          "reported_event_date": "February 1873",
+          "event_place": "Old cook-house door, West Fox Bay; formerly the station dwelling house",
+          "finding": "Dates the last local killing to February 1873, in conflict with the 1874 recollections above.",
+          "dating_note": "West Fox Bay, September 1st, 1894 heads this letter below a divider; it does not date Butler's preceding letter."
+        }
+      ],
+      "relationship": "Three responses to an editorial inquiry; their memories may overlap. Do not count them as three independent killed animals or independent proof of an archipelago-wide extinction date.",
+      "novelty": "Smith's letter is discussed on p. 42 of Blanco et al., Historias de la fauna perdida. The October 1894 magazine also appears in James J. A. Blair, Salvaging Empire (2023), notes. Novelty of the complete group has not been established.",
+      "prior_use_urls": [
+        "https://es.scribd.com/document/474144707/Historias-de-la-Fauna-Perdida-Cristian-Blanco-Claudio-Bertonatti-Egon-Ciklai-Eduardo-F-Esparrach-Carlos-Fernandez-Balboa",
+        "https://academic.oup.com/cornell-scholarship-online/book/55459"
+      ],
+      "limits": "Local retrospective testimony written about twenty years after the events. It neither establishes 1874 as species extinction nor disproves the customary 1876 date.",
+      "sha256": "0348f8f22e2dcbf97dffca60862b305d2bd9ef4bd0d272e54928808ce6bb7ca1",
+      "public_passage_id": "fim-warrah-letters"
+    },
+    {
+      "id": "fim1894-specimen-query",
+      "taxon_id": "falklands-wolf",
+      "language": "en",
+      "citation": "Natural History Notes, The Falkland Islands Magazine, no. 63 (July 1894), unnumbered page.",
+      "raw_file": "data/raw/warrah-rodrigues/fim-1893-1894.pdf",
+      "pdf_page": 160,
+      "issue_cover_pdf_page": 151,
+      "facsimile": "data/curated/warrah-facsimiles/fim-1894-specimen-query.png",
+      "reading": "Whole Natural History Notes page visually checked; July issue identification from the text of its cover.",
+      "finding": "The editor solicits a native fox skin for purchase, asks about the last wild fox killed separately on East and West Falkland, and seeks a skull. This explains the later letters and provides a dated specimen-acquisition inquiry.",
+      "limits": "An inquiry, not confirmation that a skin or skull existed or was acquired. Novelty not assessed separately.",
+      "sha256": "0348f8f22e2dcbf97dffca60862b305d2bd9ef4bd0d272e54928808ce6bb7ca1",
+      "public_passage_id": "fim-warrah-query"
+    }
+  ],
+  "provisional_sources": [
+    {
+      "id": "snow1857-bailey",
+      "taxon_id": "falklands-wolf",
+      "citation": "William Parker Snow, A Two Years' Cruise off Tierra del Fuego, the Falkland Islands, Patagonia, and in the River Plate, vol. II (1857), appendix, p. 364.",
+      "url": "https://archive.org/details/twoyearscruiseof02snow/page/364/mode/1up",
+      "reading": "OCR and preceding appendix context read; page scan and quoted informant attribution not yet resolved.",
+      "finding": "Reports Mr. Bailey shooting a fox at White Rock Bay, as evidence of foxes on the West Island.",
+      "limits": "Snow quotes multiple authorities in this appendix. Do not treat this as a dated personal observation or independent new event before tracing the quotation."
+    },
+    {
+      "id": "rodrigues1733-conde",
+      "taxon_id": "rodrigues-solitaire",
+      "citation": "Bulletin de l'Académie de l'île de la Réunion, 1979–1980, tortoise discussion, p. 116.",
+      "url": "https://leboucan.fr/images/BulletinAcademie/1979-80/V025_1979_1980.pdf",
+      "reading": "Secondary article acquired; relevant OCR inspected. Original ship journal or cargo record not obtained.",
+      "finding": "The article reports the Condé taking 370 Rodrigues tortoises and two solitaires in 1733, and other tortoise shipments in 1732 and 1734.",
+      "limits": "Known published shipment claim, not a newly found primary passage. Original records and treatment in North-Coombes remain to be checked. Generic tortoises cannot be allocated to either Rodrigues species."
+    },
+    {
+      "id": "anom16dfcmem187",
+      "taxon_ids": [
+        "rodrigues-solitaire",
+        "rodrigues-domed",
+        "rodrigues-saddleback"
+      ],
+      "citation": "ANOM 16 DFC MEM 187, Ile Diégo Rodrigue, 1717–1727.",
+      "url": "https://francearchives.gouv.fr/fr/facomponent/99c6965a726859d0c7f182ef0a40c14a3822ce67",
+      "reading": "Catalogue description found; no manuscript scan obtained.",
+      "limits": "An archival lead only. May duplicate known Tafforet material. No animal observation established."
+    }
+  ],
+  "coverage": [
+    {
+      "source": "Sea Fox, KWM-958-1 (1817–1818)",
+      "acquired_pdf_pages": 80,
+      "manual_review": "Surveyed Falklands-era pages; closely read PDF pages 53–56 covering December 1817 and a February 1818 departure note.",
+      "result": "Geese and seals; no secure warrah passage. Most handwriting OCR unusable. Partial review, not a negative census."
+    },
+    {
+      "source": "Sea Fox, KWM-958-2 (1818)",
+      "acquired_pdf_pages": 84,
+      "manual_review": "No systematic manual page review completed.",
+      "result": "Acquisition only; not evidence of absence."
+    },
+    {
+      "source": "Henry Ingman Defrees, KWM-987-2",
+      "acquired_pdf_pages": 198,
+      "manual_review": "Cover and PDF pages 7–8, 11–16 checked, including Nanina at the Falklands in April–May 1813.",
+      "result": "The catalogue's composite itinerary is misleading. The May 20 Fox Island entry concerns elephant-seal work, not fox animals. No secure warrah passage in the reviewed pages. One concurrent OCR output was interleaved with failed sandbox OCR and is unsuitable for completeness claims."
+    },
+    {
+      "source": "Good Return, ODHS_742 (1829–1830)",
+      "acquired_pdf_pages": 74,
+      "manual_review": "No systematic manual page review completed.",
+      "result": "OCR triage inconclusive because of handwriting. Not evidence of absence."
+    },
+    {
+      "source": "Albert Curry Barrows, Romulus retrospective journal",
+      "acquired_pdf_pages": 92,
+      "manual_review": "Typed text searched and Falklands context inspected.",
+      "result": "A grey-fox skin passage belongs to another region; no secure Falklands animal passage."
+    },
+    {
+      "source": "Samuel W. Phelps, Fore and Aft (1871)",
+      "manual_review": "Full OCR keyword search with surrounding passages.",
+      "result": "Fox references are unrelated to the Falklands; no secure warrah passage."
+    },
+    {
+      "source": "Robert Bousquet's edition of Antoine-Paul Castillon's Hirondelle journal (1731–1736), AN MAR 4/JJ/86 no. 14",
+      "url": "https://www.reunion-esclavage-traite-noirs-neg-marron.com/IMG/pdf/journal_de_l_Hirondelle_c.pdf",
+      "manual_review": "Edited text around the July–August 1735 attempted Rodrigues voyage read.",
+      "result": "No animal shipment documented in the passages checked. The phrase about depouiller Rodrigues occurs amid navigation failure and currents; do not extract it as evidence of stripping the island's animals. Complete machine text has no solitaire mention; its tortoise mentions are sea turtles at Trindade or a Mauritius place name, rather than Rodrigues land animals.",
+      "acquired_pdf_pages": 297
+    }
+  ]
+}

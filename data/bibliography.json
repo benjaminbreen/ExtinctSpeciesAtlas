@@ -1,0 +1,119 @@
+{
+  "silphium": {
+    "amigues": [
+      "Suzanne Amigues, “Le silphium — État de la question,” Journal des Savants (2004), 191–226.",
+      "A close study of ancient evidence for the plant's range, identification, and later testimony.",
+      "https://www.persee.fr/doc/jds_0021-8103_2004_num_2_1_1685"
+    ],
+    "briggs": [
+      "Lisa Briggs and Jens Jakobsson, “Searching for Silphium: An Updated Review,” Heritage 5 (2022), 936–955.",
+      "Surveys the sources, material evidence, trade, and proposed botanical identifications.",
+      "https://doi.org/10.3390/heritage5020051"
+    ],
+    "parejko": [
+      "Ken Parejko, “Pliny the Elder’s Silphium: First Recorded Species Extinction,” Conservation Biology 17 (2003), 925–927.",
+      "Reads Pliny's scarcity report as a possible account of human-driven extinction.",
+      "https://doi.org/10.1046/j.1523-1739.2003.02067.x"
+    ],
+    "roques": [
+      "Denis Roques, “Synésios de Cyrène et le Silphion de Cyrénaïque,” Revue des Études Grecques 97 (1984), 218–231.",
+      "A study focused on Synesius's letters and the problem of late silphium testimony.",
+      "https://doi.org/10.3406/reg.1984.1380"
+    ]
+  },
+  "great-auk": {
+    "palsson": [
+      "Gísli Pálsson, The Last of Its Kind",
+      "Princeton University Press, 2024.",
+      "https://press.princeton.edu/books/hardcover/9780691230986/the-last-of-its-kind"
+    ],
+    "thomas": [
+      "Jessica E. Thomas et al., “Demographic reconstruction”",
+      "eLife 8 (2019), e47509.",
+      "https://elifesciences.org/articles/47509"
+    ],
+    "lucas": [
+      "Frederic A. Lucas, The Expedition to Funk Island",
+      "Report of the National Museum (1888): 493–529.",
+      "https://repository.si.edu/items/c6fcb913-d880-4975-8af9-9f11ce64198f"
+    ],
+    "birkhead": [
+      "Tim R. Birkhead and Peter T. Gallivan, “Alfred Newton’s contribution to ornithology”",
+      "Ibis 154 (2012): 887–905.",
+      "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1474-919X.2012.01274.x"
+    ]
+  },
+  "dodo": {
+    "strickland-clusius": [
+      "Hugh Edwin Strickland and Alexander Gordon Melville, The Dodo and Its Kindred (1848), pp. 12–17, 125.",
+      "London: Reeve, Benham, and Reeve.",
+      "https://archive.org/details/dodoitskindredor00stri"
+    ],
+    "strickland-herbert": [
+      "Hugh Edwin Strickland and Alexander Gordon Melville, The Dodo and Its Kindred (1848), pp. 19–21.",
+      "London: Reeve, Benham, and Reeve.",
+      "https://archive.org/details/dodoitskindredor00stri"
+    ],
+    "strickland-lestrange": [
+      "Hugh Edwin Strickland and Alexander Gordon Melville, The Dodo and Its Kindred (1848), pp. 22–23.",
+      "London: Reeve, Benham, and Reeve.",
+      "https://archive.org/details/dodoitskindredor00stri"
+    ],
+    "strickland-cauche": [
+      "Hugh Edwin Strickland and Alexander Gordon Melville, The Dodo and Its Kindred (1848), pp. 21–22, 125–126.",
+      "London: Reeve, Benham, and Reeve.",
+      "https://archive.org/details/dodoitskindredor00stri"
+    ]
+  },
+  "bluebuck": {
+    "husson-holthuis": [
+      "A. M. Husson and L. B. Holthuis, “The earliest figures of the Blaauwbok, Hippotragus leucophaeus (Pallas, 1766) and of the Greater Kudu, Tragelaphus strepsiceros (Pallas, 1766)” (1975), Zoologische Mededelingen 49(5): 57–63.",
+      "Early descriptions and illustrations, including Pennant’s 1771 account.",
+      "https://repository.naturalis.nl/pub/318339"
+    ],
+    "rookmaaker": [
+      "L. C. Rookmaaker, The Zoological Exploration of Southern Africa 1650–1790 (1989), species account 49, pp. 300–301.",
+      "Rotterdam and Brookfield: A. A. Balkema. Historical records of the bluebuck.",
+      "https://archive.org/details/1989-zoological-exploration-southern-africa"
+    ],
+    "hempel": [
+      "Elisabeth Hempel et al., “Identifying the true number of specimens of the extinct blue antelope (Hippotragus leucophaeus)” (2021), Scientific Reports 11: 2100.",
+      "Historical distribution, extinction, and identification of museum specimens. DOI: 10.1038/s41598-020-80142-2.",
+      "https://doi.org/10.1038/s41598-020-80142-2"
+    ]
+  },
+  "warrah": {
+    "castaways": [
+      "Jane Cameron National Archives, Archives Newsletter 8 (2020), “Castaways.”",
+      "Reproduces Tyssen’s account of the rescue.",
+      "https://www.nationalarchives.gov.fk/jdownloads/Newsletters/Archives%20newsletter%208%202020.pdf"
+    ],
+    "blair": [
+      "James J. A. Blair, Salvaging Empire: Sovereignty, Natural Resources, and Environmental Science in the South Atlantic (Ithaca: Cornell University Press, 2023).",
+      "Cites the October 1894 Falkland Islands Magazine.",
+      "https://academic.oup.com/cornell-scholarship-online/book/55459"
+    ]
+  },
+  "seacow": {
+    "royster": [
+      "Georg Wilhelm Steller, De Bestiis Marinis, or, The Beasts of the Sea (1751), trans. Walter Miller and Jennie Emerson Miller, ed. Paul Royster (2011).",
+      "Lincoln: University of Nebraska–Lincoln Libraries. Edited online text of the 1899 translation.",
+      "https://digitalcommons.unl.edu/libraryscience/17"
+    ],
+    "turvey-risley": [
+      "Samuel T. Turvey and Claire L. Risley, “Modelling the extinction of Steller’s sea cow” (2006), Biology Letters 2(1): 94–97.",
+      "Estimates of the population and hunting pressure after 1741. DOI: 10.1098/rsbl.2005.0415.",
+      "https://doi.org/10.1098/rsbl.2005.0415"
+    ],
+    "stejneger-1886": [
+      "Leonhard Stejneger, “On the Extermination of the Great Northern Sea-Cow (Rytina): A Reply to Professor A. E. Nordenskiöld” (1886), Journal of the American Geographical Society of New York 18: 317–328.",
+      "Stejneger’s re-examination of Nordenskiöld’s informants on Bering Island.",
+      "https://www.jstor.org/stable/196797"
+    ],
+    "stejneger-1887": [
+      "Leonhard Stejneger, “How the Great Northern Sea-Cow (Rytina) Became Exterminated” (1887), American Naturalist 21(12): 1047–1054.",
+      "Hunting parties on the Commander Islands after 1742, Jakovlev’s petition of 1755, and the 1768 date.",
+      "https://www.jstor.org/stable/2451162"
+    ]
+  }
+}

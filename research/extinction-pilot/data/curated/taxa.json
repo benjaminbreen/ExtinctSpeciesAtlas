@@ -1,0 +1,226 @@
+[
+  {
+    "taxon_id": "silphium",
+    "common_name": "Silphium of Cyrenaica",
+    "scientific_name": null,
+    "pilot_role": "separate_identity_study",
+    "region": "Cyrenaica",
+    "search_languages": [
+      "grc",
+      "la",
+      "ar"
+    ],
+    "identification_caution": "Biological identity and extinction unresolved; living Silphium genus is a name collision.",
+    "seed_provenance": [
+      "research/first-corpus.md",
+      "research/corpus-assessment.md"
+    ],
+    "scope": "Atlas case; status not independently reassessed in pilot"
+  },
+  {
+    "taxon_id": "aurochs",
+    "common_name": "Aurochs",
+    "scientific_name": "Bos primigenius",
+    "pilot_role": "broad_sweep",
+    "region": "Europe",
+    "search_languages": [
+      "la",
+      "de",
+      "pl"
+    ],
+    "identification_caution": "Distinguish bison and domestic cattle.",
+    "seed_provenance": [
+      "research/first-corpus.md",
+      "research/corpus-assessment.md"
+    ],
+    "scope": "Atlas case; status not independently reassessed in pilot"
+  },
+  {
+    "taxon_id": "dodo",
+    "common_name": "Dodo",
+    "scientific_name": "Raphus cucullatus",
+    "pilot_role": "mascarene_comparison",
+    "region": "Mauritius",
+    "search_languages": [
+      "nl",
+      "fr",
+      "en"
+    ],
+    "identification_caution": "Historical bird names may shift between taxa; later mentions need identification.",
+    "seed_provenance": [
+      "research/first-corpus.md",
+      "research/corpus-assessment.md"
+    ],
+    "scope": "Atlas case; status not independently reassessed in pilot"
+  },
+  {
+    "taxon_id": "rodrigues-solitaire",
+    "common_name": "Rodrigues solitaire",
+    "scientific_name": "Pezophaps solitaria",
+    "pilot_role": "mascarene_primary",
+    "region": "Rodrigues",
+    "search_languages": [
+      "fr",
+      "nl",
+      "en",
+      "de"
+    ],
+    "identification_caution": "Translations of Leguat are related witnesses, not independent observations.",
+    "seed_provenance": [
+      "research/first-corpus.md",
+      "research/corpus-assessment.md"
+    ],
+    "scope": "Atlas case; status not independently reassessed in pilot"
+  },
+  {
+    "taxon_id": "stellers-sea-cow",
+    "common_name": "Steller’s sea cow",
+    "scientific_name": "Hydrodamalis gigas",
+    "pilot_role": "broad_sweep",
+    "region": "Commander Islands",
+    "search_languages": [
+      "la",
+      "de",
+      "ru",
+      "en"
+    ],
+    "identification_caution": "Distinguish observation, hunting report, and retrospective reconstruction.",
+    "seed_provenance": [
+      "research/first-corpus.md",
+      "research/corpus-assessment.md"
+    ],
+    "scope": "Atlas case; status not independently reassessed in pilot"
+  },
+  {
+    "taxon_id": "rodrigues-saddleback",
+    "common_name": "Rodrigues saddle-backed tortoise",
+    "scientific_name": "Cylindraspis vosmaeri",
+    "pilot_role": "mascarene_primary",
+    "region": "Rodrigues",
+    "search_languages": [
+      "fr",
+      "nl",
+      "en"
+    ],
+    "identification_caution": "Generic tortoise records cannot automatically distinguish the two Rodrigues species.",
+    "seed_provenance": [
+      "research/first-corpus.md",
+      "research/corpus-assessment.md"
+    ],
+    "scope": "Atlas case; status not independently reassessed in pilot"
+  },
+  {
+    "taxon_id": "rodrigues-domed",
+    "common_name": "Rodrigues domed tortoise",
+    "scientific_name": "Cylindraspis peltastes",
+    "pilot_role": "mascarene_primary",
+    "region": "Rodrigues",
+    "search_languages": [
+      "fr",
+      "nl",
+      "en"
+    ],
+    "identification_caution": "Generic tortoise records cannot automatically distinguish the two Rodrigues species.",
+    "seed_provenance": [
+      "research/first-corpus.md",
+      "research/corpus-assessment.md"
+    ],
+    "scope": "Atlas case; status not independently reassessed in pilot"
+  },
+  {
+    "taxon_id": "bluebuck",
+    "common_name": "Bluebuck",
+    "scientific_name": "Hippotragus leucophaeus",
+    "pilot_role": "cape_primary",
+    "region": "Cape of Good Hope",
+    "search_languages": [
+      "nl",
+      "de",
+      "fr",
+      "en",
+      "la"
+    ],
+    "identification_caution": "Distinguish roan, sable, and ambiguous color descriptions.",
+    "seed_provenance": [
+      "research/first-corpus.md",
+      "research/corpus-assessment.md"
+    ],
+    "scope": "Atlas case; status not independently reassessed in pilot"
+  },
+  {
+    "taxon_id": "mauritius-blue-pigeon",
+    "common_name": "Mauritius blue pigeon",
+    "scientific_name": "Alectroenas nitidissima",
+    "pilot_role": "mascarene_primary",
+    "region": "Mauritius",
+    "search_languages": [
+      "fr",
+      "nl",
+      "en"
+    ],
+    "identification_caution": "Atlas also uses nitidissimus; retain both forms for retrieval without resolving nomenclature.",
+    "seed_provenance": [
+      "research/first-corpus.md",
+      "research/corpus-assessment.md"
+    ],
+    "scope": "Atlas case; status not independently reassessed in pilot"
+  },
+  {
+    "taxon_id": "great-auk",
+    "common_name": "Great auk",
+    "scientific_name": "Pinguinus impennis",
+    "pilot_role": "retrieval_control",
+    "region": "North Atlantic",
+    "search_languages": [
+      "en",
+      "fr",
+      "de",
+      "is",
+      "da",
+      "no"
+    ],
+    "identification_caution": "Penguin is historically ambiguous; Pennant repeats Martin.",
+    "seed_provenance": [
+      "research/first-corpus.md",
+      "research/corpus-assessment.md"
+    ],
+    "scope": "Atlas case; status not independently reassessed in pilot"
+  },
+  {
+    "taxon_id": "cuban-macaw",
+    "common_name": "Cuban macaw",
+    "scientific_name": "Ara tricolor",
+    "pilot_role": "cuba_primary",
+    "region": "Cuba and Isla de Pinos",
+    "search_languages": [
+      "es",
+      "de",
+      "en",
+      "fr"
+    ],
+    "identification_caution": "Generic guacamayo and imported macaws require identification; publication year is not observation year.",
+    "seed_provenance": [
+      "research/first-corpus.md",
+      "research/corpus-assessment.md"
+    ],
+    "scope": "Atlas case; status not independently reassessed in pilot"
+  },
+  {
+    "taxon_id": "falklands-wolf",
+    "common_name": "Falkland Islands wolf",
+    "scientific_name": "Dusicyon australis",
+    "pilot_role": "broad_sweep",
+    "region": "Falkland Islands",
+    "search_languages": [
+      "en",
+      "fr",
+      "es"
+    ],
+    "identification_caution": "Distinguish living observation, persecution account, and later extinction statement.",
+    "seed_provenance": [
+      "research/first-corpus.md",
+      "research/corpus-assessment.md"
+    ],
+    "scope": "Atlas case; status not independently reassessed in pilot"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "record_id": null,
+  "taxon_ids": [],
+  "source_id": null,
+  "scan_url": null,
+  "printed_page": null,
+  "original_passage": null,
+  "language": null,
+  "translation": null,
+  "translation_credit": null,
+  "observation_date": null,
+  "publication_date": null,
+  "place_verbatim": null,
+  "place_interpretation": null,
+  "wild_captive_traded": null,
+  "evidence_type": null,
+  "identification_argument": null,
+  "dependency_family": null,
+  "related_record_ids": [],
+  "scholarship_check": null,
+  "review_status": "unreviewed",
+  "novelty_status": "not_assessed"
+}

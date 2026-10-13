@@ -1,0 +1,79 @@
+[
+  {
+    "file": "assets/seacow-facsimiles/nordenskiold-276.webp",
+    "source": "https://archive.org/details/voyageofvegaroun21881nord/page/276/mode/1up",
+    "download": "https://archive.org/download/voyageofvegaroun21881nord/voyageofvegaroun21881nord.pdf",
+    "credit": "Smithsonian Libraries / Internet Archive",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "page": "276",
+    "checked_on": "2026-10-12",
+    "sha256": "dc8990d802775c010ea92e5324682f320dec5d093a90a5efc679930958faf1db"
+  },
+  {
+    "file": "assets/seacow-facsimiles/nordenskiold-277.webp",
+    "source": "https://archive.org/details/voyageofvegaroun21881nord/page/277/mode/1up",
+    "download": "https://archive.org/download/voyageofvegaroun21881nord/voyageofvegaroun21881nord.pdf",
+    "credit": "Smithsonian Libraries / Internet Archive",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "page": "277",
+    "checked_on": "2026-10-12",
+    "sha256": "630570d5fb9a4341068771bc6d9ec1cb5e60c779745e92e897758b8353b93140"
+  },
+  {
+    "file": "assets/seacow-facsimiles/nordenskiold-278.webp",
+    "source": "https://archive.org/details/voyageofvegaroun21881nord/page/278/mode/1up",
+    "download": "https://archive.org/download/voyageofvegaroun21881nord/voyageofvegaroun21881nord.pdf",
+    "credit": "Smithsonian Libraries / Internet Archive",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "page": "278",
+    "checked_on": "2026-10-12",
+    "sha256": "5f9229a504f47eb4ce34789882f0db28fb594324bd57cd85910fa90a0166e2b7"
+  },
+  {
+    "file": "assets/seacow-facsimiles/sauer-181.webp",
+    "source": "https://archive.org/details/accountofgeograp00saue/page/n226/mode/1up",
+    "download": "https://archive.org/download/accountofgeograp00saue/accountofgeograp00saue.pdf",
+    "credit": "John Carter Brown Library / Internet Archive",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "page": "181",
+    "checked_on": "2026-10-12",
+    "sha256": "bc6328548c93af3c8a11483389b3cdc99d7a69842ba170feef54975e5c73c81f"
+  },
+  {
+    "file": "assets/seacow-facsimiles/steller-197.webp",
+    "source": "https://archive.org/details/fursealsfurseali03unit/page/197/mode/1up",
+    "download": "https://archive.org/download/fursealsfurseali03unit/fursealsfurseali03unit.pdf",
+    "credit": "Smithsonian Libraries / Internet Archive",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "page": "197",
+    "checked_on": "2026-10-12",
+    "sha256": "80906eb152ccb9493e0b826e481d80011dfeb939bf924e0e11af80c16af879c6"
+  },
+  {
+    "file": "assets/seacow-facsimiles/steller-198.webp",
+    "source": "https://archive.org/details/fursealsfurseali03unit/page/198/mode/1up",
+    "download": "https://archive.org/download/fursealsfurseali03unit/fursealsfurseali03unit.pdf",
+    "credit": "Smithsonian Libraries / Internet Archive",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "page": "198",
+    "checked_on": "2026-10-12",
+    "sha256": "fd48accd1a372c435da928057e1126c532fbf2da27aa1c8748bcadc2cc5d3295"
+  },
+  {
+    "file": "assets/seacow-facsimiles/steller-199.webp",
+    "source": "https://archive.org/details/fursealsfurseali03unit/page/199/mode/1up",
+    "download": "https://archive.org/download/fursealsfurseali03unit/fursealsfurseali03unit.pdf",
+    "credit": "Smithsonian Libraries / Internet Archive",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "page": "199",
+    "checked_on": "2026-10-12",
+    "sha256": "c316a1b36903fd3ccb981a7b04840a01c6da34dabb21922ec24167a0370f4df6"
+  }
+]

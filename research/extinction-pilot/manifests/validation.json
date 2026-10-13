@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "checked_at": "2026-10-01T00:15:24.877685+00:00",
+  "pages": 7841,
+  "asset_hashes_verified": 63,
+  "checks": [
+    "unique page IDs",
+    "taxon references",
+    "alias provenance labels",
+    "page mapping fallback",
+    "asset and corpus hashes",
+    "SQLite integrity and row counts"
+  ],
+  "limits": "Does not validate historical claims, OCR accuracy, species identity, or novelty."
+}

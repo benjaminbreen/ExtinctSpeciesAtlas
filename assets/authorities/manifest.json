@@ -110,5 +110,85 @@
     "file": "assets/authorities/lucas.webp",
     "display_credit": "Atlas of Historically Lost Species · original asset",
     "depiction": "Typographic initials; no portrait used"
+  },
+  {
+    "authority": "clusius",
+    "source": "./assets/authorities/clusius.webp",
+    "license": "Original site asset",
+    "file": "assets/authorities/clusius.webp",
+    "display_credit": "Atlas of Historically Lost Species · original asset",
+    "depiction": "Typographic initials; no portrait used"
+  },
+  {
+    "authority": "herbert",
+    "source": "./assets/authorities/herbert.webp",
+    "license": "Original site asset",
+    "file": "assets/authorities/herbert.webp",
+    "display_credit": "Atlas of Historically Lost Species · original asset",
+    "depiction": "Typographic initials; no portrait used"
+  },
+  {
+    "authority": "lestrange",
+    "source": "./assets/authorities/lestrange.webp",
+    "license": "Original site asset",
+    "file": "assets/authorities/lestrange.webp",
+    "display_credit": "Atlas of Historically Lost Species · original asset",
+    "depiction": "Typographic initials; no portrait used"
+  },
+  {
+    "authority": "cauche",
+    "source": "./assets/authorities/cauche.webp",
+    "license": "Original site asset",
+    "file": "assets/authorities/cauche.webp",
+    "display_credit": "Atlas of Historically Lost Species · original asset",
+    "depiction": "Typographic initials; no portrait used"
+  },
+  {
+    "authority": "barrow",
+    "source": "./assets/authorities/barrow.webp",
+    "license": "Original site asset",
+    "file": "assets/authorities/barrow.webp",
+    "display_credit": "Atlas of Historically Lost Species · original asset",
+    "depiction": "Typographic initials; no portrait used"
+  },
+  {
+    "authority": "tyssen",
+    "source": "./assets/authorities/tyssen.webp",
+    "license": "Original site asset",
+    "file": "assets/authorities/tyssen.webp",
+    "display_credit": "Atlas of Historically Lost Species · original asset",
+    "depiction": "Typographic initials; no portrait used"
+  },
+  {
+    "authority": "falkland-magazine",
+    "source": "./assets/authorities/falkland-magazine.webp",
+    "license": "Original site asset",
+    "file": "assets/authorities/falkland-magazine.webp",
+    "display_credit": "Atlas of Historically Lost Species · original asset",
+    "depiction": "Typographic initials; no portrait used"
+  },
+  {
+    "authority": "steller",
+    "source": "./assets/authorities/steller.webp",
+    "license": "Original site asset",
+    "file": "assets/authorities/steller.webp",
+    "display_credit": "Atlas of Historically Lost Species · original asset",
+    "depiction": "Typographic initials; no portrait used"
+  },
+  {
+    "authority": "sauer",
+    "source": "./assets/authorities/sauer.webp",
+    "license": "Original site asset",
+    "file": "assets/authorities/sauer.webp",
+    "display_credit": "Atlas of Historically Lost Species · original asset",
+    "depiction": "Typographic initials; no portrait used"
+  },
+  {
+    "authority": "nordenskiold",
+    "source": "./assets/authorities/nordenskiold.webp",
+    "license": "Original site asset",
+    "file": "assets/authorities/nordenskiold.webp",
+    "display_credit": "Atlas of Historically Lost Species · original asset",
+    "depiction": "Typographic initials; no portrait used"
   }
 ]

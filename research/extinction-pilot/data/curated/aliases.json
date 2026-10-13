@@ -1,0 +1,641 @@
+[
+  {
+    "alias_id": "alias-001",
+    "taxon_ids": [
+      "silphium"
+    ],
+    "term": "Silphium of Cyrenaica",
+    "language": "en",
+    "kind": "common_name",
+    "attestation_status": "atlas_seed",
+    "source": "research/first-corpus.md",
+    "note": ""
+  },
+  {
+    "alias_id": "alias-002",
+    "taxon_ids": [
+      "aurochs"
+    ],
+    "term": "Aurochs",
+    "language": "en",
+    "kind": "common_name",
+    "attestation_status": "atlas_seed",
+    "source": "research/first-corpus.md",
+    "note": ""
+  },
+  {
+    "alias_id": "alias-003",
+    "taxon_ids": [
+      "aurochs"
+    ],
+    "term": "Bos primigenius",
+    "language": "la",
+    "kind": "scientific_name",
+    "attestation_status": "atlas_seed",
+    "source": "research/first-corpus.md",
+    "note": ""
+  },
+  {
+    "alias_id": "alias-004",
+    "taxon_ids": [
+      "dodo"
+    ],
+    "term": "Dodo",
+    "language": "en",
+    "kind": "common_name",
+    "attestation_status": "atlas_seed",
+    "source": "research/first-corpus.md",
+    "note": ""
+  },
+  {
+    "alias_id": "alias-005",
+    "taxon_ids": [
+      "dodo"
+    ],
+    "term": "Raphus cucullatus",
+    "language": "la",
+    "kind": "scientific_name",
+    "attestation_status": "atlas_seed",
+    "source": "research/first-corpus.md",
+    "note": ""
+  },
+  {
+    "alias_id": "alias-006",
+    "taxon_ids": [
+      "rodrigues-solitaire"
+    ],
+    "term": "Rodrigues solitaire",
+    "language": "en",
+    "kind": "common_name",
+    "attestation_status": "atlas_seed",
+    "source": "research/first-corpus.md",
+    "note": ""
+  },
+  {
+    "alias_id": "alias-007",
+    "taxon_ids": [
+      "rodrigues-solitaire"
+    ],
+    "term": "Pezophaps solitaria",
+    "language": "la",
+    "kind": "scientific_name",
+    "attestation_status": "atlas_seed",
+    "source": "research/first-corpus.md",
+    "note": ""
+  },
+  {
+    "alias_id": "alias-008",
+    "taxon_ids": [
+      "stellers-sea-cow"
+    ],
+    "term": "Steller’s sea cow",
+    "language": "en",
+    "kind": "common_name",
+    "attestation_status": "atlas_seed",
+    "source": "research/first-corpus.md",
+    "note": ""
+  },
+  {
+    "alias_id": "alias-009",
+    "taxon_ids": [
+      "stellers-sea-cow"
+    ],
+    "term": "Hydrodamalis gigas",
+    "language": "la",
+    "kind": "scientific_name",
+    "attestation_status": "atlas_seed",
+    "source": "research/first-corpus.md",
+    "note": ""
+  },
+  {
+    "alias_id": "alias-010",
+    "taxon_ids": [
+      "rodrigues-saddleback"
+    ],
+    "term": "Rodrigues saddle-backed tortoise",
+    "language": "en",
+    "kind": "common_name",
+    "attestation_status": "atlas_seed",
+    "source": "research/first-corpus.md",
+    "note": ""
+  },
+  {
+    "alias_id": "alias-011",
+    "taxon_ids": [
+      "rodrigues-saddleback"
+    ],
+    "term": "Cylindraspis vosmaeri",
+    "language": "la",
+    "kind": "scientific_name",
+    "attestation_status": "atlas_seed",
+    "source": "research/first-corpus.md",
+    "note": ""
+  },
+  {
+    "alias_id": "alias-012",
+    "taxon_ids": [
+      "rodrigues-domed"
+    ],
+    "term": "Rodrigues domed tortoise",
+    "language": "en",
+    "kind": "common_name",
+    "attestation_status": "atlas_seed",
+    "source": "research/first-corpus.md",
+    "note": ""
+  },
+  {
+    "alias_id": "alias-013",
+    "taxon_ids": [
+      "rodrigues-domed"
+    ],
+    "term": "Cylindraspis peltastes",
+    "language": "la",
+    "kind": "scientific_name",
+    "attestation_status": "atlas_seed",
+    "source": "research/first-corpus.md",
+    "note": ""
+  },
+  {
+    "alias_id": "alias-014",
+    "taxon_ids": [
+      "bluebuck"
+    ],
+    "term": "Bluebuck",
+    "language": "en",
+    "kind": "common_name",
+    "attestation_status": "atlas_seed",
+    "source": "research/first-corpus.md",
+    "note": ""
+  },
+  {
+    "alias_id": "alias-015",
+    "taxon_ids": [
+      "bluebuck"
+    ],
+    "term": "Hippotragus leucophaeus",
+    "language": "la",
+    "kind": "scientific_name",
+    "attestation_status": "atlas_seed",
+    "source": "research/first-corpus.md",
+    "note": ""
+  },
+  {
+    "alias_id": "alias-016",
+    "taxon_ids": [
+      "mauritius-blue-pigeon"
+    ],
+    "term": "Mauritius blue pigeon",
+    "language": "en",
+    "kind": "common_name",
+    "attestation_status": "atlas_seed",
+    "source": "research/first-corpus.md",
+    "note": ""
+  },
+  {
+    "alias_id": "alias-017",
+    "taxon_ids": [
+      "mauritius-blue-pigeon"
+    ],
+    "term": "Alectroenas nitidissima",
+    "language": "la",
+    "kind": "scientific_name",
+    "attestation_status": "atlas_seed",
+    "source": "research/first-corpus.md",
+    "note": ""
+  },
+  {
+    "alias_id": "alias-018",
+    "taxon_ids": [
+      "great-auk"
+    ],
+    "term": "Great auk",
+    "language": "en",
+    "kind": "common_name",
+    "attestation_status": "atlas_seed",
+    "source": "research/first-corpus.md",
+    "note": ""
+  },
+  {
+    "alias_id": "alias-019",
+    "taxon_ids": [
+      "great-auk"
+    ],
+    "term": "Pinguinus impennis",
+    "language": "la",
+    "kind": "scientific_name",
+    "attestation_status": "atlas_seed",
+    "source": "research/first-corpus.md",
+    "note": ""
+  },
+  {
+    "alias_id": "alias-020",
+    "taxon_ids": [
+      "cuban-macaw"
+    ],
+    "term": "Cuban macaw",
+    "language": "en",
+    "kind": "common_name",
+    "attestation_status": "atlas_seed",
+    "source": "research/first-corpus.md",
+    "note": ""
+  },
+  {
+    "alias_id": "alias-021",
+    "taxon_ids": [
+      "cuban-macaw"
+    ],
+    "term": "Ara tricolor",
+    "language": "la",
+    "kind": "scientific_name",
+    "attestation_status": "atlas_seed",
+    "source": "research/first-corpus.md",
+    "note": ""
+  },
+  {
+    "alias_id": "alias-022",
+    "taxon_ids": [
+      "falklands-wolf"
+    ],
+    "term": "Falkland Islands wolf",
+    "language": "en",
+    "kind": "common_name",
+    "attestation_status": "atlas_seed",
+    "source": "research/first-corpus.md",
+    "note": ""
+  },
+  {
+    "alias_id": "alias-023",
+    "taxon_ids": [
+      "falklands-wolf"
+    ],
+    "term": "Dusicyon australis",
+    "language": "la",
+    "kind": "scientific_name",
+    "attestation_status": "atlas_seed",
+    "source": "research/first-corpus.md",
+    "note": ""
+  },
+  {
+    "alias_id": "alias-024",
+    "taxon_ids": [
+      "silphium"
+    ],
+    "term": "silphium",
+    "language": "la",
+    "kind": "ambiguous_name",
+    "attestation_status": "atlas_attested",
+    "source": "source-pliny.html",
+    "note": "Also a living genus; no automated occurrence assignment."
+  },
+  {
+    "alias_id": "alias-025",
+    "taxon_ids": [
+      "silphium"
+    ],
+    "term": "laserpitium",
+    "language": "la",
+    "kind": "ambiguous_name",
+    "attestation_status": "atlas_attested",
+    "source": "source-pliny.html",
+    "note": "Identity unresolved."
+  },
+  {
+    "alias_id": "alias-026",
+    "taxon_ids": [
+      "silphium"
+    ],
+    "term": "σίλφιον",
+    "language": "grc",
+    "kind": "ambiguous_name",
+    "attestation_status": "atlas_attested",
+    "source": "source-herodotus.html",
+    "note": "Identity unresolved."
+  },
+  {
+    "alias_id": "alias-027",
+    "taxon_ids": [
+      "great-auk"
+    ],
+    "term": "Gairfowl",
+    "language": "en",
+    "kind": "vernacular",
+    "attestation_status": "atlas_attested",
+    "source": "source-martin.html",
+    "note": "Source name, identification inherited from atlas."
+  },
+  {
+    "alias_id": "alias-028",
+    "taxon_ids": [
+      "great-auk"
+    ],
+    "term": "penguins",
+    "language": "en",
+    "kind": "ambiguous_name",
+    "attestation_status": "atlas_attested",
+    "source": "source-cartwright.html",
+    "note": "Requires North Atlantic context."
+  },
+  {
+    "alias_id": "alias-029",
+    "taxon_ids": [
+      "mauritius-blue-pigeon"
+    ],
+    "term": "Alectroenas nitidissimus",
+    "language": "la",
+    "kind": "scientific_variant",
+    "attestation_status": "atlas_attested",
+    "source": "research/first-corpus.md",
+    "note": "Nomenclatural variant in atlas."
+  },
+  {
+    "alias_id": "alias-030",
+    "taxon_ids": [
+      "mauritius-blue-pigeon"
+    ],
+    "term": "Columba nitidissima",
+    "language": "la",
+    "kind": "scientific_synonym",
+    "attestation_status": "external_catalog_attested",
+    "source": "https://science.mnhn.fr/institution/mnhn/collection/zo/item/mo-2000-727",
+    "note": "Museum catalog; historical passage still to locate."
+  },
+  {
+    "alias_id": "alias-031",
+    "taxon_ids": [
+      "mauritius-blue-pigeon"
+    ],
+    "term": "pigeon hollandais",
+    "language": "fr",
+    "kind": "vernacular",
+    "attestation_status": "bibliography_attested",
+    "source": "https://en.wikisource.org/wiki/Extinct_Birds",
+    "note": "Verify wording in scanned edition before elevating to passage evidence."
+  },
+  {
+    "alias_id": "alias-032",
+    "taxon_ids": [
+      "cuban-macaw"
+    ],
+    "term": "lorirojo",
+    "language": "es",
+    "kind": "vernacular",
+    "attestation_status": "review_attested",
+    "source": "https://boc-online.org/bulletins/downloads/BBOC1332-PDFa.pdf",
+    "note": "Wiley/Kirwan p.134, citing Perpiña p.247; original unverified."
+  },
+  {
+    "alias_id": "alias-033",
+    "taxon_ids": [
+      "cuban-macaw"
+    ],
+    "term": "Psittacus tricolor",
+    "language": "la",
+    "kind": "scientific_synonym",
+    "attestation_status": "review_attested",
+    "source": "https://boc-online.org/bulletins/downloads/BBOC1332-PDFa.pdf",
+    "note": "Check original taxonomic context."
+  },
+  {
+    "alias_id": "alias-034",
+    "taxon_ids": [
+      "cuban-macaw"
+    ],
+    "term": "guacamayo",
+    "language": "es",
+    "kind": "ambiguous_name",
+    "attestation_status": "query_hypothesis",
+    "source": null,
+    "note": "Generic macaw; may describe other or imported species."
+  },
+  {
+    "alias_id": "alias-035",
+    "taxon_ids": [
+      "cuban-macaw"
+    ],
+    "term": "guacamaya",
+    "language": "es",
+    "kind": "ambiguous_name",
+    "attestation_status": "query_hypothesis",
+    "source": null,
+    "note": "Generic macaw; may describe other or imported species."
+  },
+  {
+    "alias_id": "alias-036",
+    "taxon_ids": [
+      "cuban-macaw"
+    ],
+    "term": "guacamayos",
+    "language": "es",
+    "kind": "ambiguous_name",
+    "attestation_status": "query_hypothesis",
+    "source": null,
+    "note": "Generic macaw plural."
+  },
+  {
+    "alias_id": "alias-037",
+    "taxon_ids": [
+      "cuban-macaw"
+    ],
+    "term": "guacamayas",
+    "language": "es",
+    "kind": "ambiguous_name",
+    "attestation_status": "query_hypothesis",
+    "source": null,
+    "note": "Generic macaw plural."
+  },
+  {
+    "alias_id": "alias-038",
+    "taxon_ids": [
+      "bluebuck"
+    ],
+    "term": "blaauwbok",
+    "language": "nl",
+    "kind": "vernacular",
+    "attestation_status": "query_hypothesis",
+    "source": null,
+    "note": "Candidate historical spelling; exact occurrence to verify."
+  },
+  {
+    "alias_id": "alias-039",
+    "taxon_ids": [
+      "bluebuck"
+    ],
+    "term": "blauwe bok",
+    "language": "nl",
+    "kind": "vernacular",
+    "attestation_status": "query_hypothesis",
+    "source": null,
+    "note": "Candidate historical wording."
+  },
+  {
+    "alias_id": "alias-040",
+    "taxon_ids": [
+      "bluebuck"
+    ],
+    "term": "blaubock",
+    "language": "de",
+    "kind": "vernacular",
+    "attestation_status": "query_hypothesis",
+    "source": null,
+    "note": "Candidate historical spelling."
+  },
+  {
+    "alias_id": "alias-041",
+    "taxon_ids": [
+      "bluebuck"
+    ],
+    "term": "blaauwbock",
+    "language": "nl",
+    "kind": "vernacular",
+    "attestation_status": "query_hypothesis",
+    "source": null,
+    "note": "Candidate historical spelling."
+  },
+  {
+    "alias_id": "alias-042",
+    "taxon_ids": [
+      "bluebuck"
+    ],
+    "term": "Antilope leucophaea",
+    "language": "la",
+    "kind": "scientific_synonym",
+    "attestation_status": "query_hypothesis",
+    "source": null,
+    "note": "Candidate taxonomic combination; verify original."
+  },
+  {
+    "alias_id": "alias-043",
+    "taxon_ids": [
+      "bluebuck"
+    ],
+    "term": "blue antelope",
+    "language": "en",
+    "kind": "vernacular",
+    "attestation_status": "query_hypothesis",
+    "source": null,
+    "note": "Color-based descriptions can be ambiguous."
+  },
+  {
+    "alias_id": "alias-044",
+    "taxon_ids": [
+      "dodo"
+    ],
+    "term": "dodaars",
+    "language": "nl",
+    "kind": "ambiguous_name",
+    "attestation_status": "query_hypothesis",
+    "source": null,
+    "note": "Name transfer/confusion requires contextual assessment."
+  },
+  {
+    "alias_id": "alias-045",
+    "taxon_ids": [
+      "dodo"
+    ],
+    "term": "dronte",
+    "language": "fr",
+    "kind": "vernacular",
+    "attestation_status": "query_hypothesis",
+    "source": null,
+    "note": "Candidate search term."
+  },
+  {
+    "alias_id": "alias-046",
+    "taxon_ids": [
+      "rodrigues-solitaire"
+    ],
+    "term": "solitaire",
+    "language": "fr",
+    "kind": "ambiguous_name",
+    "attestation_status": "query_hypothesis",
+    "source": null,
+    "note": "Common word and other bird names; require locality."
+  },
+  {
+    "alias_id": "alias-047",
+    "taxon_ids": [
+      "rodrigues-saddleback",
+      "rodrigues-domed"
+    ],
+    "term": "tortues",
+    "language": "fr",
+    "kind": "group_only",
+    "attestation_status": "query_hypothesis",
+    "source": null,
+    "note": "Searches both taxa; does not identify either."
+  },
+  {
+    "alias_id": "alias-048",
+    "taxon_ids": [
+      "rodrigues-saddleback",
+      "rodrigues-domed"
+    ],
+    "term": "schildpadden",
+    "language": "nl",
+    "kind": "group_only",
+    "attestation_status": "query_hypothesis",
+    "source": null,
+    "note": "Searches both taxa; does not identify either."
+  },
+  {
+    "alias_id": "alias-049",
+    "taxon_ids": [
+      "rodrigues-saddleback",
+      "rodrigues-domed"
+    ],
+    "term": "tortoises",
+    "language": "en",
+    "kind": "group_only",
+    "attestation_status": "query_hypothesis",
+    "source": null,
+    "note": "Searches both taxa; does not identify either."
+  },
+  {
+    "alias_id": "alias-050",
+    "taxon_ids": [
+      "great-auk"
+    ],
+    "term": "Alca impennis",
+    "language": "la",
+    "kind": "scientific_synonym",
+    "attestation_status": "query_hypothesis",
+    "source": null,
+    "note": "Candidate historical combination."
+  },
+  {
+    "alias_id": "alias-051",
+    "taxon_ids": [
+      "falklands-wolf"
+    ],
+    "term": "Canis antarcticus",
+    "language": "la",
+    "kind": "scientific_synonym",
+    "attestation_status": "query_hypothesis",
+    "source": null,
+    "note": "Candidate historical combination."
+  },
+  {
+    "alias_id": "alias-052",
+    "taxon_ids": [
+      "falklands-wolf"
+    ],
+    "term": "warrah",
+    "language": "en",
+    "kind": "vernacular",
+    "attestation_status": "atlas_attested",
+    "source": "research/first-corpus.md",
+    "note": ""
+  },
+  {
+    "alias_id": "alias-053",
+    "taxon_ids": [
+      "stellers-sea-cow"
+    ],
+    "term": "Rhytina",
+    "language": "la",
+    "kind": "scientific_variant",
+    "attestation_status": "query_hypothesis",
+    "source": null,
+    "note": "Historical genus candidate, not an occurrence identification."
+  }
+]

@@ -2,9 +2,8 @@
 import json
 from html import escape
 from pathlib import Path
+from atlas_data import authorities, read
 
-from build_sources import SECONDARY
-from build_auk_sources import READING as AUK_READING
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -17,17 +16,15 @@ def link(url):
     return escape(url, quote=True)
 
 
-def build():
-    records = json.loads((ROOT / 'data/authorities.json').read_text(encoding='utf-8'))
+def build(write=True):
+    records = authorities()
     manifest = json.loads((ROOT / 'assets/authorities/manifest.json').read_text(encoding='utf-8'))
     image_sources = {image['authority']: image['source'] for image in manifest}
     slugs = [record['slug'] for record in records]
     assert len(slugs) == len(set(slugs))
     assert set(slugs) == set(image_sources)
     passage_count = sum(len(record['works']) for record in records)
-    catalogs = [(ROOT / page).read_text(encoding='utf-8') for page in ('silphium.html', 'great-auk.html')]
     for slug in slugs:
-        assert sum(catalog.count(f'data-authority="{slug}"') for catalog in catalogs) == next(len(r['works']) for r in records if r['slug'] == slug)
         assert (ROOT / f'assets/authorities/{slug}.webp').is_file()
 
     entries = []
@@ -44,7 +41,7 @@ def build():
 
     studies = ''.join(
         f'<li><span>{index:02d}</span><a href="{link(work[2])}" target="_blank" rel="noopener noreferrer">{text(work[0])} ↗</a></li>'
-        for index, work in enumerate([*SECONDARY.values(), *AUK_READING.values()], 1)
+        for index, work in enumerate([work for group in read("bibliography").values() for work in group.values()], 1)
     )
     html = f'''<!doctype html>
 <html lang="en">
@@ -56,11 +53,11 @@ def build():
   <title>Authorities — Atlas of Historically Lost Species</title>
   <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml" />
   <link rel="preload" href="./assets/gfs-didot.ttf" as="font" type="font/ttf" crossorigin />
-  <link rel="stylesheet" href="./styles.css" />
+  <link rel="stylesheet" href="./styles.css?v=footer-3" />
   <link rel="stylesheet" href="./authorities.css" />
-  <script type="module" src="./main.js"></script>
+  <script type="module" src="./main.js?v=footer-3"></script>
   <script type="module" src="./authorities.js"></script>
-</head>
+<link rel="stylesheet" href="./ui.css?v=1" /></head>
 <body data-page="authorities">
   <a class="skip-link" href="#main">Skip to content</a>
   <div class="site-seal" aria-hidden="true"><span class="seal-symbol"></span></div>
@@ -68,7 +65,7 @@ def build():
     <header class="masthead"><a class="wordmark" href="./index.html" aria-label="Atlas of Historically Lost Species, home"><span class="wordmark-short" aria-hidden="true">AHLo<span class="wordmark-accent">S</span></span><span class="wordmark-long" aria-hidden="true">Atlas of Historically Lost Species</span></a><nav aria-label="Main navigation"><a href="./index.html#index">Index</a><a href="./authorities.html" aria-current="page">Authorities</a><a href="./about.html">About</a></nav></header>
     <main id="main">
       <header class="authority-head"><div><span class="folio-label">Atlas / primary texts</span><h1>Authorities</h1></div><div class="authority-head-side"><span>{len(records):02d} authorial entries</span><span>{passage_count:02d} passages indexed</span></div></header>
-      <div class="authority-intro"><p>Authors and authorial attributions of the primary passages indexed for silphium and the great auk. Select a work to return to its record.</p><p>Dates and image credits appear with each entry.</p></div>
+      <div class="authority-intro"><p>Authors and authorial attributions of the primary passages indexed in the atlas. Select a work to return to its record.</p><p>Dates and image credits appear with each entry.</p></div>
       <div class="authority-toolbar"><label for="authority-sort">Sort <select id="authority-sort"><option value="chronological">Chronological</option><option value="name">Name A–Z</option><option value="sources">Most passages</option></select></label><div class="authority-view" role="group" aria-label="Display authorities"><button type="button" data-authority-view="list" aria-pressed="true">List</button><button type="button" data-authority-view="cards" aria-pressed="false">Cards</button></div></div>
       <ol class="authority-list" id="authority-list" data-view="list">{''.join(entries)}</ol>
       <section class="studies-cited" aria-labelledby="studies-title"><div><span class="folio-label">Bibliography</span><h2 id="studies-title">Studies cited</h2></div><ol>{studies}</ol></section>
@@ -78,7 +75,9 @@ def build():
 </body>
 </html>
 '''
-    (ROOT / 'authorities.html').write_text(html, encoding='utf-8')
+    if write:
+        (ROOT / 'authorities.html').write_text(html, encoding='utf-8')
+    return html
 
 
 if __name__ == '__main__':

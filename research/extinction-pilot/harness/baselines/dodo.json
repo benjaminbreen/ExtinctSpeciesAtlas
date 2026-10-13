@@ -1,0 +1,1195 @@
+{
+  "baseline_id": "dodo-red-hen-mauritius",
+  "taxon_ids": [
+    "dodo",
+    "red-hen"
+  ],
+  "compiled": "2026-10-03",
+  "status": "Secondary chronology reconciled against Table A1; primary transcription and scan review remain separate.",
+  "scope": "Records of dodo and red hen on Mauritius 1598-1691, plus the 1647 Japan bird. Excludes Rodrigues, Réunion, and birds seen outside Mauritius (Surat 1628, London 1638) except Japan.",
+  "sources": [
+    {
+      "source_key": "cheke-parish-2020",
+      "citation": "Cheke, A. S. and J. C. Parish. 2020. The dodo and the red hen, a saga of extinction, misunderstanding, and name transfer: a review. Quaternary 3(1): 4. https://doi.org/10.3390/quat3010004",
+      "url": "https://pdfs.semanticscholar.org/a21f/aedeaf61b802fd6101c096cf98e906537ed5.pdf",
+      "read": "full text"
+    }
+  ],
+  "known_gaps": [
+    "Cheke & Parish 2020: no known faunal lists including birds for the first Dutch settlement (1638-1658); only the 1647 Japan bird.",
+    "Cheke & Hume 2008: after Verhoeff (1611) the Dutch were 'curiously silent' about dodos until 1662, with one mention in 1631.",
+    "Hume 2006: after 1611 'the next mention occurred in 1631'.",
+    "Cheke & Parish 2020: no native birds in Lamotius's reports of 1683 and 1690 or journal entries June-Sept 1678 and April 1682."
+  ],
+  "records": [
+    {
+      "record_id": "dodo-1598-anon-english-compilation",
+      "observation_date": "1598",
+      "observer": "Anon. English compilation (A True Report, 1599)",
+      "observer_language": "E",
+      "taxa": [
+        "dodo"
+      ],
+      "dodo_name_used": "Walghstock",
+      "rail_name_used": null,
+      "cited_by": [
+        "cheke-parish-2020 Table A1 refs [61]"
+      ],
+      "match_keys": {
+        "globalise_scans": []
+      },
+      "notes": "",
+      "baseline_locator": "Table A1, p. 8",
+      "primary_review_status": "not_reviewed_in_this_reconciliation",
+      "names_used": {
+        "dodo_column": "Walghstock",
+        "rail_column": null,
+        "basis": "Cheke and Parish 2020 Table A1 (secondary transcription)"
+      },
+      "identification": {
+        "proposed_taxa": [
+          "dodo"
+        ],
+        "certainty": "identified_in_baseline",
+        "basis": "Table A1 identity column",
+        "authority": "cheke-parish-2020",
+        "locator": "Table A1, p. 8"
+      }
+    },
+    {
+      "record_id": "dodo-1598-anon-het-tweede-boeck",
+      "observation_date": "1598",
+      "observer": "Anon. Het Tweede Boeck (1601)",
+      "observer_language": "D",
+      "taxa": [
+        "dodo"
+      ],
+      "dodo_name_used": "Walchvoghel",
+      "rail_name_used": null,
+      "cited_by": [
+        "cheke-parish-2020 Table A1 refs [62]"
+      ],
+      "match_keys": {
+        "globalise_scans": []
+      },
+      "notes": "Includes poor image.",
+      "baseline_locator": "Table A1, p. 8",
+      "primary_review_status": "not_reviewed_in_this_reconciliation",
+      "names_used": {
+        "dodo_column": "Walchvoghel",
+        "rail_column": null,
+        "basis": "Cheke and Parish 2020 Table A1 (secondary transcription)"
+      },
+      "identification": {
+        "proposed_taxa": [
+          "dodo"
+        ],
+        "certainty": "identified_in_baseline",
+        "basis": "Table A1 identity column",
+        "authority": "cheke-parish-2020",
+        "locator": "Table A1, p. 8"
+      }
+    },
+    {
+      "record_id": "dodo-1598-heyndrick-jolinck",
+      "observation_date": "1598",
+      "observer": "Heyndrick Jolinck",
+      "observer_language": "D",
+      "taxa": [
+        "dodo",
+        "red-hen"
+      ],
+      "dodo_name_used": "(penguin)",
+      "rail_name_used": "Indise riviers houdt snippen; watersnippen",
+      "cited_by": [
+        "cheke-parish-2020 Table A1 refs [11,63]"
+      ],
+      "match_keys": {
+        "globalise_scans": []
+      },
+      "notes": "Rail names read as red hen or migratory waders / Sauzier's rail.",
+      "baseline_locator": "Table A1, p. 8",
+      "primary_review_status": "not_reviewed_in_this_reconciliation",
+      "names_used": {
+        "dodo_column": "(penguin)",
+        "rail_column": "Indise riviers houdt snippen; watersnippen",
+        "basis": "Cheke and Parish 2020 Table A1 (secondary transcription)"
+      },
+      "identification": {
+        "proposed_taxa": [
+          "dodo",
+          "red-hen"
+        ],
+        "certainty": "identified_in_baseline",
+        "basis": "Table A1 identity column",
+        "authority": "cheke-parish-2020",
+        "locator": "Table A1, p. 8",
+        "additional_uncertain_taxa": [
+          "migratory waders",
+          "Sauzier’s rail"
+        ]
+      }
+    },
+    {
+      "record_id": "dodo-1598-jacob-van-heemskerck",
+      "observation_date": "1598",
+      "observer": "Jacob van Heemskerck",
+      "observer_language": "D",
+      "taxa": [
+        "dodo"
+      ],
+      "dodo_name_used": "(unnamed)",
+      "rail_name_used": null,
+      "cited_by": [
+        "cheke-parish-2020 Table A1 refs [63]"
+      ],
+      "match_keys": {
+        "globalise_scans": []
+      },
+      "notes": "",
+      "baseline_locator": "Table A1, p. 8",
+      "primary_review_status": "not_reviewed_in_this_reconciliation",
+      "names_used": {
+        "dodo_column": "(unnamed)",
+        "rail_column": null,
+        "basis": "Cheke and Parish 2020 Table A1 (secondary transcription)"
+      },
+      "identification": {
+        "proposed_taxa": [
+          "dodo"
+        ],
+        "certainty": "identified_in_baseline",
+        "basis": "Table A1 identity column",
+        "authority": "cheke-parish-2020",
+        "locator": "Table A1, p. 8"
+      }
+    },
+    {
+      "record_id": "dodo-1598-philips-grimmaert",
+      "observation_date": "1598",
+      "observer": "Philips Grimmaert",
+      "observer_language": "D",
+      "taxa": [
+        "dodo"
+      ],
+      "dodo_name_used": "doederssen",
+      "rail_name_used": null,
+      "cited_by": [
+        "cheke-parish-2020 Table A1 refs [63]"
+      ],
+      "match_keys": {
+        "globalise_scans": []
+      },
+      "notes": "",
+      "baseline_locator": "Table A1, p. 8",
+      "primary_review_status": "not_reviewed_in_this_reconciliation",
+      "names_used": {
+        "dodo_column": "doederssen",
+        "rail_column": null,
+        "basis": "Cheke and Parish 2020 Table A1 (secondary transcription)"
+      },
+      "identification": {
+        "proposed_taxa": [
+          "dodo"
+        ],
+        "certainty": "identified_in_baseline",
+        "basis": "Table A1 identity column",
+        "authority": "cheke-parish-2020",
+        "locator": "Table A1, p. 8"
+      }
+    },
+    {
+      "record_id": "dodo-1598-reijer-cornelisz",
+      "observation_date": "1598",
+      "observer": "Reijer Cornelisz",
+      "observer_language": "D",
+      "taxa": [
+        "dodo"
+      ],
+      "dodo_name_used": "(unnamed; like large penguins)",
+      "rail_name_used": null,
+      "cited_by": [
+        "cheke-parish-2020 Table A1 refs [63]"
+      ],
+      "match_keys": {
+        "globalise_scans": []
+      },
+      "notes": "",
+      "baseline_locator": "Table A1, p. 8",
+      "primary_review_status": "not_reviewed_in_this_reconciliation",
+      "names_used": {
+        "dodo_column": "(unnamed; like large penguins)",
+        "rail_column": null,
+        "basis": "Cheke and Parish 2020 Table A1 (secondary transcription)"
+      },
+      "identification": {
+        "proposed_taxa": [
+          "dodo"
+        ],
+        "certainty": "identified_in_baseline",
+        "basis": "Table A1 identity column",
+        "authority": "cheke-parish-2020",
+        "locator": "Table A1, p. 8"
+      }
+    },
+    {
+      "record_id": "dodo-1601-joris-laerle-and-other-artists",
+      "observation_date": "1601",
+      "observer": "Joris Laerle and other artists (Gelderland)",
+      "observer_language": "D",
+      "taxa": [
+        "dodo",
+        "red-hen"
+      ],
+      "dodo_name_used": "griffeendt, kermisgans, dronten (image captions)",
+      "rail_name_used": "(image)",
+      "cited_by": [
+        "cheke-parish-2020 Table A1 refs [64,65]"
+      ],
+      "match_keys": {
+        "globalise_scans": []
+      },
+      "notes": "Images without text; dodo x4 and red hen.",
+      "baseline_locator": "Table A1, p. 8",
+      "primary_review_status": "not_reviewed_in_this_reconciliation",
+      "names_used": {
+        "dodo_column": "griffeendt, kermisgans, dronten (image captions)",
+        "rail_column": "(image)",
+        "basis": "Cheke and Parish 2020 Table A1 (secondary transcription)"
+      },
+      "identification": {
+        "proposed_taxa": [
+          "dodo",
+          "red-hen"
+        ],
+        "certainty": "identified_in_baseline",
+        "basis": "Table A1 identity column",
+        "authority": "cheke-parish-2020",
+        "locator": "Table A1, p. 8"
+      }
+    },
+    {
+      "record_id": "dodo-1602-willem-van-west-zanen",
+      "observation_date": "1602",
+      "observer": "Willem van West-Zanen (Soeteboom 1648)",
+      "observer_language": "D",
+      "taxa": [
+        "dodo"
+      ],
+      "dodo_name_used": "dodaarsen, dronten",
+      "rail_name_used": null,
+      "cited_by": [
+        "cheke-parish-2020 Table A1 refs [66,67]"
+      ],
+      "match_keys": {
+        "globalise_scans": []
+      },
+      "notes": "Illustration made later using penguins as models.",
+      "baseline_locator": "Table A1, p. 8",
+      "primary_review_status": "not_reviewed_in_this_reconciliation",
+      "names_used": {
+        "dodo_column": "dodaarsen, dronten",
+        "rail_column": null,
+        "basis": "Cheke and Parish 2020 Table A1 (secondary transcription)"
+      },
+      "identification": {
+        "proposed_taxa": [
+          "dodo"
+        ],
+        "certainty": "identified_in_baseline",
+        "basis": "Table A1 identity column",
+        "authority": "cheke-parish-2020",
+        "locator": "Table A1, p. 8"
+      }
+    },
+    {
+      "record_id": "dodo-1602-reijer-cornelisz",
+      "observation_date": "1602",
+      "observer": "Reijer Cornelisz (Swarte Leeuw)",
+      "observer_language": "D",
+      "taxa": [
+        "dodo",
+        "red-hen"
+      ],
+      "dodo_name_used": "walchvogels",
+      "rail_name_used": "velthoenderen, large and small",
+      "cited_by": [
+        "cheke-parish-2020 Table A1 refs [68,69]"
+      ],
+      "match_keys": {
+        "globalise_scans": []
+      },
+      "notes": "",
+      "baseline_locator": "Table A1, p. 8",
+      "primary_review_status": "not_reviewed_in_this_reconciliation",
+      "names_used": {
+        "dodo_column": "walchvogels",
+        "rail_column": "velthoenderen, large and small",
+        "basis": "Cheke and Parish 2020 Table A1 (secondary transcription)"
+      },
+      "identification": {
+        "proposed_taxa": [
+          "dodo",
+          "red-hen"
+        ],
+        "certainty": "identified_in_baseline",
+        "basis": "Table A1 identity column",
+        "authority": "cheke-parish-2020",
+        "locator": "Table A1, p. 8",
+        "additional_taxa_in_baseline": [
+          "Sauzier’s rail"
+        ]
+      }
+    },
+    {
+      "record_id": "dodo-1606-cornelis-matelief",
+      "observation_date": "1606",
+      "observer": "Cornelis Matelief",
+      "observer_language": "D",
+      "taxa": [
+        "dodo"
+      ],
+      "dodo_name_used": "dodaersen, dronten",
+      "rail_name_used": null,
+      "cited_by": [
+        "cheke-parish-2020 Table A1 refs [6,14]"
+      ],
+      "match_keys": {
+        "globalise_scans": []
+      },
+      "notes": "",
+      "baseline_locator": "Table A1, p. 9",
+      "primary_review_status": "not_reviewed_in_this_reconciliation",
+      "names_used": {
+        "dodo_column": "dodaersen, dronten",
+        "rail_column": null,
+        "basis": "Cheke and Parish 2020 Table A1 (secondary transcription)"
+      },
+      "identification": {
+        "proposed_taxa": [
+          "dodo"
+        ],
+        "certainty": "identified_in_baseline",
+        "basis": "Table A1 identity column",
+        "authority": "cheke-parish-2020",
+        "locator": "Table A1, p. 9"
+      }
+    },
+    {
+      "record_id": "dodo-1607-steven-van-der-hagen",
+      "observation_date": "1607",
+      "observer": "Steven van der Hagen",
+      "observer_language": "D",
+      "taxa": [
+        "dodo"
+      ],
+      "dodo_name_used": "dodaersen",
+      "rail_name_used": null,
+      "cited_by": [
+        "cheke-parish-2020 Table A1 refs [6,14]"
+      ],
+      "match_keys": {
+        "globalise_scans": []
+      },
+      "notes": "",
+      "baseline_locator": "Table A1, p. 9",
+      "primary_review_status": "not_reviewed_in_this_reconciliation",
+      "names_used": {
+        "dodo_column": "dodaersen",
+        "rail_column": null,
+        "basis": "Cheke and Parish 2020 Table A1 (secondary transcription)"
+      },
+      "identification": {
+        "proposed_taxa": [
+          "dodo"
+        ],
+        "certainty": "identified_in_baseline",
+        "basis": "Table A1 identity column",
+        "authority": "cheke-parish-2020",
+        "locator": "Table A1, p. 9"
+      }
+    },
+    {
+      "record_id": "dodo-1611-johann-verken",
+      "observation_date": "1611",
+      "observer": "Johann Verken",
+      "observer_language": "G",
+      "taxa": [
+        "dodo",
+        "red-hen"
+      ],
+      "dodo_name_used": "totersten, walckvögel",
+      "rail_name_used": "feldhüner; rebhüner",
+      "cited_by": [
+        "cheke-parish-2020 Table A1 refs [6,13,14]"
+      ],
+      "match_keys": {
+        "globalise_scans": []
+      },
+      "notes": "Formerly attributed to an anonymous observer in Verhoeven's fleet.",
+      "baseline_locator": "Table A1, p. 9",
+      "primary_review_status": "not_reviewed_in_this_reconciliation",
+      "names_used": {
+        "dodo_column": "totersten, walckvögel",
+        "rail_column": "feldhüner; rebhüner",
+        "basis": "Cheke and Parish 2020 Table A1 (secondary transcription)"
+      },
+      "identification": {
+        "proposed_taxa": [
+          "dodo",
+          "red-hen"
+        ],
+        "certainty": "identified_in_baseline",
+        "basis": "Table A1 identity column",
+        "authority": "cheke-parish-2020",
+        "locator": "Table A1, p. 9",
+        "additional_uncertain_taxa": [
+          "Sauzier’s rail"
+        ]
+      }
+    },
+    {
+      "record_id": "dodo-1616-manuel-de-almeida-sj-anon-account-of-same-voyage",
+      "observation_date": "1616",
+      "observer": "Manuel de Almeida SJ / anon. account of same voyage",
+      "observer_language": "P",
+      "taxa": [
+        "dodo"
+      ],
+      "dodo_name_used": "ema (cassowary); 'young ostrich'",
+      "rail_name_used": null,
+      "cited_by": [
+        "cheke-parish-2020 Table A1 refs [6,17]"
+      ],
+      "match_keys": {
+        "globalise_scans": []
+      },
+      "notes": "Table treats as description; Almeida reports capture of a young bird (Grandidier II p.117).",
+      "baseline_locator": "Table A1, p. 9",
+      "primary_review_status": "not_reviewed_in_this_reconciliation",
+      "names_used": {
+        "dodo_column": "ema (cassowary); 'young ostrich'",
+        "rail_column": null,
+        "basis": "Cheke and Parish 2020 Table A1 (secondary transcription)"
+      },
+      "identification": {
+        "proposed_taxa": [
+          "dodo"
+        ],
+        "certainty": "identified_in_baseline",
+        "basis": "Table A1 identity column",
+        "authority": "cheke-parish-2020",
+        "locator": "Table A1, p. 9"
+      }
+    },
+    {
+      "record_id": "dodo-1617-pieter-van-den-broecke",
+      "observation_date": "1617",
+      "observer": "Pieter van den Broecke",
+      "observer_language": "D",
+      "taxa": [
+        "dodo",
+        "red-hen"
+      ],
+      "dodo_name_used": "(images without text)",
+      "rail_name_used": "(image)",
+      "cited_by": [
+        "cheke-parish-2020 Table A1 refs [13]"
+      ],
+      "match_keys": {
+        "globalise_scans": []
+      },
+      "notes": "",
+      "baseline_locator": "Table A1, p. 9",
+      "primary_review_status": "not_reviewed_in_this_reconciliation",
+      "names_used": {
+        "dodo_column": "(images without text)",
+        "rail_column": "(image)",
+        "basis": "Cheke and Parish 2020 Table A1 (secondary transcription)"
+      },
+      "identification": {
+        "proposed_taxa": [
+          "dodo",
+          "red-hen"
+        ],
+        "certainty": "identified_in_baseline",
+        "basis": "Table A1 identity column",
+        "authority": "cheke-parish-2020",
+        "locator": "Table A1, p. 9"
+      }
+    },
+    {
+      "record_id": "dodo-1628-emmanuel-altham",
+      "observation_date": "1628",
+      "observer": "Emmanuel Altham",
+      "observer_language": "E",
+      "taxa": [
+        "dodo"
+      ],
+      "dodo_name_used": "DoDo",
+      "rail_name_used": null,
+      "cited_by": [
+        "cheke-parish-2020 Table A1 refs [6,70]"
+      ],
+      "match_keys": {
+        "globalise_scans": []
+      },
+      "notes": "Living dodo shipped for England.",
+      "baseline_locator": "Table A1, p. 9",
+      "primary_review_status": "not_reviewed_in_this_reconciliation",
+      "names_used": {
+        "dodo_column": "DoDo",
+        "rail_column": null,
+        "basis": "Cheke and Parish 2020 Table A1 (secondary transcription)"
+      },
+      "identification": {
+        "proposed_taxa": [
+          "dodo"
+        ],
+        "certainty": "identified_in_baseline",
+        "basis": "Table A1 identity column",
+        "authority": "cheke-parish-2020",
+        "locator": "Table A1, p. 9"
+      }
+    },
+    {
+      "record_id": "dodo-1629-thomas-herbert",
+      "observation_date": "1629",
+      "observer": "Thomas Herbert",
+      "observer_language": "E",
+      "taxa": [
+        "dodo",
+        "red-hen"
+      ],
+      "dodo_name_used": "dodo",
+      "rail_name_used": "hen",
+      "cited_by": [
+        "cheke-parish-2020 Table A1 refs [13,71]"
+      ],
+      "match_keys": {
+        "globalise_scans": []
+      },
+      "notes": "",
+      "baseline_locator": "Table A1, p. 9",
+      "primary_review_status": "not_reviewed_in_this_reconciliation",
+      "names_used": {
+        "dodo_column": "dodo",
+        "rail_column": "hen",
+        "basis": "Cheke and Parish 2020 Table A1 (secondary transcription)"
+      },
+      "identification": {
+        "proposed_taxa": [
+          "dodo",
+          "red-hen"
+        ],
+        "certainty": "identified_in_baseline",
+        "basis": "Table A1 identity column",
+        "authority": "cheke-parish-2020",
+        "locator": "Table A1, p. 9"
+      }
+    },
+    {
+      "record_id": "dodo-1629-jacques-le-febvre-nassau-fleet",
+      "observation_date": "1629",
+      "observer": "Jacques Le Febvre (Nassau fleet)",
+      "observer_language": "D",
+      "taxa": [
+        "dodo",
+        "red-hen"
+      ],
+      "dodo_name_used": "dodaers",
+      "rail_name_used": "velthoenders",
+      "cited_by": [
+        "cheke-parish-2020 Table A1 refs [28,34,72]"
+      ],
+      "match_keys": {
+        "globalise_scans": [
+          "NL-HaNA_1.04.02_1095_0922"
+        ]
+      },
+      "notes": "Archival copy located in GLOBALISE by pilot.",
+      "baseline_locator": "Table A1, p. 9",
+      "primary_review_status": "not_reviewed_in_this_reconciliation",
+      "names_used": {
+        "dodo_column": "dodaers",
+        "rail_column": "velthoenders",
+        "basis": "Cheke and Parish 2020 Table A1 (secondary transcription)"
+      },
+      "identification": {
+        "proposed_taxa": [
+          "dodo",
+          "red-hen"
+        ],
+        "certainty": "identified_in_baseline",
+        "basis": "Table A1 identity column",
+        "authority": "cheke-parish-2020",
+        "locator": "Table A1, p. 9"
+      }
+    },
+    {
+      "record_id": "dodo-1632-leonardus-wallesius",
+      "observation_date": "1632",
+      "observer": "? Leonardus Wallesius",
+      "observer_language": "D",
+      "taxa": [
+        "dodo",
+        "red-hen"
+      ],
+      "dodo_name_used": "dottaersen",
+      "rail_name_used": "velthoenders",
+      "cited_by": [
+        "cheke-parish-2020 Table A1 refs [7,73]"
+      ],
+      "match_keys": {
+        "globalise_scans": []
+      },
+      "notes": "Winters, Hume & Leenstra 2017 manuscript.",
+      "baseline_locator": "Table A1, p. 9",
+      "primary_review_status": "not_reviewed_in_this_reconciliation",
+      "names_used": {
+        "dodo_column": "dottaersen",
+        "rail_column": "velthoenders",
+        "basis": "Cheke and Parish 2020 Table A1 (secondary transcription)"
+      },
+      "identification": {
+        "proposed_taxa": [
+          "dodo",
+          "red-hen"
+        ],
+        "certainty": "identified_in_baseline",
+        "basis": "Table A1 identity column",
+        "authority": "cheke-parish-2020",
+        "locator": "Table A1, p. 9"
+      }
+    },
+    {
+      "record_id": "dodo-1638-peter-mundy",
+      "observation_date": "1638",
+      "observer": "Peter Mundy",
+      "observer_language": "E",
+      "taxa": [
+        "dodo",
+        "red-hen"
+      ],
+      "dodo_name_used": "dodo (not seen in situ)",
+      "rail_name_used": "Mauritius hen",
+      "cited_by": [
+        "cheke-parish-2020 Table A1 refs [6,11,54]"
+      ],
+      "match_keys": {
+        "globalise_scans": []
+      },
+      "notes": "",
+      "baseline_locator": "Table A1, p. 9",
+      "primary_review_status": "not_reviewed_in_this_reconciliation",
+      "names_used": {
+        "dodo_column": "dodo (not seen in situ)",
+        "rail_column": "Mauritius hen",
+        "basis": "Cheke and Parish 2020 Table A1 (secondary transcription)"
+      },
+      "identification": {
+        "proposed_taxa": [
+          "dodo",
+          "red-hen"
+        ],
+        "certainty": "identified_in_baseline",
+        "basis": "Table A1 identity column",
+        "authority": "cheke-parish-2020",
+        "locator": "Table A1, p. 9"
+      }
+    },
+    {
+      "record_id": "dodo-1638-francois-cauche",
+      "observation_date": "1638",
+      "observer": "François Cauche (from associates)",
+      "observer_language": "F",
+      "taxa": [
+        "dodo",
+        "red-hen"
+      ],
+      "dodo_name_used": "oiseau de Nazare",
+      "rail_name_used": "poule rouge",
+      "cited_by": [
+        "cheke-parish-2020 Table A1 refs [4,40]"
+      ],
+      "match_keys": {
+        "globalise_scans": []
+      },
+      "notes": "",
+      "baseline_locator": "Table A1, p. 9",
+      "primary_review_status": "not_reviewed_in_this_reconciliation",
+      "names_used": {
+        "dodo_column": "oiseau de Nazare",
+        "rail_column": "poule rouge",
+        "basis": "Cheke and Parish 2020 Table A1 (secondary transcription)"
+      },
+      "identification": {
+        "proposed_taxa": [
+          "dodo",
+          "red-hen"
+        ],
+        "certainty": "identified_in_baseline",
+        "basis": "Table A1 identity column",
+        "authority": "cheke-parish-2020",
+        "locator": "Table A1, p. 9"
+      }
+    },
+    {
+      "record_id": "dodo-1647-willem-verstegen-japan",
+      "observation_date": "1647",
+      "observer": "Willem Verstegen (Japan)",
+      "observer_language": "D",
+      "taxa": [
+        "dodo"
+      ],
+      "dodo_name_used": "dodeers",
+      "rail_name_used": null,
+      "cited_by": [
+        "cheke-parish-2020 Table A1 refs [55,56]"
+      ],
+      "match_keys": {
+        "globalise_scans": [
+          "NL-HaNA_1.04.02_1164_0738",
+          "NL-HaNA_1.04.02_1165_0143"
+        ]
+      },
+      "notes": "Bird shipped to Deshima; not a Mauritius observation.",
+      "baseline_locator": "Table A1, p. 10",
+      "primary_review_status": "not_reviewed_in_this_reconciliation",
+      "names_used": {
+        "dodo_column": "dodeers",
+        "rail_column": null,
+        "basis": "Cheke and Parish 2020 Table A1 (secondary transcription)"
+      },
+      "identification": {
+        "proposed_taxa": [
+          "dodo"
+        ],
+        "certainty": "probable",
+        "basis": "Table A1 footnote 5: identification from shipment context, without a description.",
+        "authority": "cheke-parish-2020",
+        "locator": "Table A1, p. 10"
+      }
+    },
+    {
+      "record_id": "dodo-1662-volkert-evertsz",
+      "observation_date": "1662",
+      "observer": "Volkert Evertsz (Arnhem survivors)",
+      "observer_language": "D",
+      "taxa": [
+        "dodo",
+        "red-hen"
+      ],
+      "dodo_name_used": "doddaerssen (Ile d'Ambre only)",
+      "rail_name_used": "veldthoenders; berghoenders",
+      "cited_by": [
+        "cheke-parish-2020 Table A1 refs [18,19]"
+      ],
+      "match_keys": {
+        "globalise_scans": []
+      },
+      "notes": "",
+      "baseline_locator": "Table A1, p. 10",
+      "primary_review_status": "not_reviewed_in_this_reconciliation",
+      "names_used": {
+        "dodo_column": "doddaerssen (Ile d'Ambre only)",
+        "rail_column": "veldthoenders; berghoenders",
+        "basis": "Cheke and Parish 2020 Table A1 (secondary transcription)"
+      },
+      "identification": {
+        "proposed_taxa": [
+          "dodo",
+          "red-hen"
+        ],
+        "certainty": "identified_in_baseline",
+        "basis": "Table A1 identity column",
+        "authority": "cheke-parish-2020",
+        "locator": "Table A1, p. 10"
+      }
+    },
+    {
+      "record_id": "dodo-1662-andries-stokram",
+      "observation_date": "1662",
+      "observer": "Andries Stokram (Arnhem survivors)",
+      "observer_language": "D",
+      "taxa": [
+        "red-hen"
+      ],
+      "dodo_name_used": "(unnamed; description copied from earlier works)",
+      "rail_name_used": "veldthoenders",
+      "cited_by": [
+        "cheke-parish-2020 Table A1 refs [6,27,46,74]"
+      ],
+      "match_keys": {
+        "globalise_scans": []
+      },
+      "notes": "",
+      "baseline_locator": "Table A1, p. 10",
+      "primary_review_status": "not_reviewed_in_this_reconciliation",
+      "names_used": {
+        "dodo_column": "(unnamed; description copied from earlier works)",
+        "rail_column": "veldthoenders",
+        "basis": "Cheke and Parish 2020 Table A1 (secondary transcription)"
+      },
+      "source_relationship": "Dodo description derived from earlier writings; red hens reportedly eaten (Table A1 footnote 6).",
+      "identification": {
+        "proposed_taxa": [
+          "red-hen"
+        ],
+        "certainty": "identified_in_baseline",
+        "basis": "Table A1 identity column",
+        "authority": "cheke-parish-2020",
+        "locator": "Table A1, p. 10"
+      }
+    },
+    {
+      "record_id": "dodo-1662-simon-van-den-kerckhooven",
+      "observation_date": "1662",
+      "observer": "Simon van den Kerckhooven",
+      "observer_language": "D",
+      "taxa": [
+        "red-hen"
+      ],
+      "dodo_name_used": null,
+      "rail_name_used": "veldt-hoenders",
+      "cited_by": [
+        "cheke-parish-2020 Table A1 refs [6]"
+      ],
+      "match_keys": {
+        "globalise_scans": []
+      },
+      "notes": "",
+      "baseline_locator": "Table A1, p. 10",
+      "primary_review_status": "not_reviewed_in_this_reconciliation",
+      "names_used": {
+        "dodo_column": null,
+        "rail_column": "veldt-hoenders",
+        "basis": "Cheke and Parish 2020 Table A1 (secondary transcription)"
+      },
+      "identification": {
+        "proposed_taxa": [
+          "red-hen"
+        ],
+        "certainty": "identified_in_baseline",
+        "basis": "Table A1 identity column",
+        "authority": "cheke-parish-2020",
+        "locator": "Table A1, p. 10"
+      }
+    },
+    {
+      "record_id": "dodo-1662-simon",
+      "observation_date": "1662+",
+      "observer": "Simon (recaptured maroon), reported by Hugo",
+      "observer_language": "D",
+      "taxa": [
+        "dodo"
+      ],
+      "dodo_name_used": "dodaers, walgvogels (Hugo's names)",
+      "rail_name_used": null,
+      "cited_by": [
+        "cheke-parish-2020 Table A1 refs [34,28]"
+      ],
+      "match_keys": {
+        "globalise_scans": []
+      },
+      "notes": "Two claimed sightings; date uncertain.",
+      "baseline_locator": "Table A1, p. 10",
+      "primary_review_status": "not_reviewed_in_this_reconciliation",
+      "names_used": {
+        "dodo_column": "dodaers, walgvogels (Hugo's names)",
+        "rail_column": null,
+        "basis": "Cheke and Parish 2020 Table A1 (secondary transcription)"
+      },
+      "identification": {
+        "proposed_taxa": [
+          "dodo"
+        ],
+        "certainty": "conditional",
+        "basis": "Table A1: dodo if the reported sightings are true; dates uncertain.",
+        "authority": "cheke-parish-2020",
+        "locator": "Table A1, p. 10"
+      }
+    },
+    {
+      "record_id": "dodo-1666-1669-johannes-pretorius",
+      "observation_date": "1666/1669",
+      "observer": "Johannes Pretorius",
+      "observer_language": "D",
+      "taxa": [
+        "red-hen"
+      ],
+      "dodo_name_used": "dodaers (describes red hen)",
+      "rail_name_used": null,
+      "cited_by": [
+        "cheke-parish-2020 Table A1 refs [43]"
+      ],
+      "match_keys": {
+        "globalise_scans": [
+          "NL-HaNA_1.04.02_4005_0600",
+          "NL-HaNA_1.04.02_4005_0601",
+          "NL-HaNA_1.04.02_4005_0602",
+          "NL-HaNA_1.04.02_4005_0603",
+          "NL-HaNA_1.04.02_4005_0604",
+          "NL-HaNA_1.04.02_4005_0605",
+          "NL-HaNA_1.04.02_4005_0606"
+        ]
+      },
+      "notes": "Hume & Winters 2016.",
+      "baseline_locator": "Table A1, p. 10",
+      "primary_review_status": "not_reviewed_in_this_reconciliation",
+      "names_used": {
+        "dodo_column": "dodaers",
+        "rail_column": null,
+        "basis": "Cheke and Parish 2020 Table A1 (secondary transcription)"
+      },
+      "identification": {
+        "proposed_taxa": [
+          "red-hen"
+        ],
+        "certainty": "identified_in_baseline",
+        "basis": "Description identified as red hen in Table A1 despite use of a dodo name.",
+        "authority": "cheke-parish-2020",
+        "locator": "Table A1, p. 10"
+      },
+      "observation_date_range": {
+        "start_year": 1666,
+        "end_year": 1669,
+        "basis": "Table A1 interval"
+      }
+    },
+    {
+      "record_id": "dodo-1668-john-marshall",
+      "observation_date": "1668",
+      "observer": "John Marshall",
+      "observer_language": "E",
+      "taxa": [
+        "red-hen"
+      ],
+      "dodo_name_used": "dodos or red hens (describes red hen)",
+      "rail_name_used": null,
+      "cited_by": [
+        "cheke-parish-2020 Table A1 refs [6,12,27,29,44]"
+      ],
+      "match_keys": {
+        "globalise_scans": []
+      },
+      "notes": "",
+      "baseline_locator": "Table A1, p. 10",
+      "primary_review_status": "not_reviewed_in_this_reconciliation",
+      "names_used": {
+        "dodo_column": "dodos or red hens",
+        "rail_column": null,
+        "basis": "Cheke and Parish 2020 Table A1 (secondary transcription)"
+      },
+      "identification": {
+        "proposed_taxa": [
+          "red-hen"
+        ],
+        "certainty": "identified_in_baseline",
+        "basis": "Description identified as red hen in Table A1 despite use of a dodo name.",
+        "authority": "cheke-parish-2020",
+        "locator": "Table A1, p. 10"
+      }
+    },
+    {
+      "record_id": "dodo-1673-1675-johann-c-hoffmann",
+      "observation_date": "1673/1675",
+      "observer": "Johann C. Hoffmann",
+      "observer_language": "G",
+      "taxa": [
+        "red-hen"
+      ],
+      "dodo_name_used": "toddärsche (describes red hen)",
+      "rail_name_used": null,
+      "cited_by": [
+        "cheke-parish-2020 Table A1 refs [6,12,16,17,27,29]"
+      ],
+      "match_keys": {
+        "globalise_scans": []
+      },
+      "notes": "",
+      "baseline_locator": "Table A1, p. 10",
+      "primary_review_status": "not_reviewed_in_this_reconciliation",
+      "names_used": {
+        "dodo_column": "toddärsche",
+        "rail_column": null,
+        "basis": "Cheke and Parish 2020 Table A1 (secondary transcription)"
+      },
+      "identification": {
+        "proposed_taxa": [
+          "red-hen"
+        ],
+        "certainty": "identified_in_baseline",
+        "basis": "Description identified as red hen in Table A1 despite use of a dodo name.",
+        "authority": "cheke-parish-2020",
+        "locator": "Table A1, p. 10"
+      },
+      "observation_date_range": {
+        "start_year": 1673,
+        "end_year": 1675,
+        "basis": "Table A1 interval"
+      }
+    },
+    {
+      "record_id": "dodo-1673-1677-hubert-hugo",
+      "observation_date": "1673/1677",
+      "observer": "Hubert Hugo",
+      "observer_language": "D",
+      "taxa": [],
+      "dodo_name_used": "dodaers (1673); 'dodo', walgvogels (1674)",
+      "rail_name_used": null,
+      "cited_by": [
+        "cheke-parish-2020 Table A1 refs [25,28,29]"
+      ],
+      "match_keys": {
+        "globalise_scans": [
+          "NL-HaNA_1.04.02_4011_0411"
+        ]
+      },
+      "notes": "Hugo says none seen by current residents in 1674.",
+      "baseline_locator": "Table A1, p. 11",
+      "primary_review_status": "not_reviewed_in_this_reconciliation",
+      "names_used": {
+        "dodo_column": "dodaers (1673); 'dodo', walgvogels (1674)",
+        "rail_column": null,
+        "basis": "Cheke and Parish 2020 Table A1 (secondary transcription)"
+      },
+      "identification_components": [
+        {
+          "date": "1673",
+          "name_used": "dodaers",
+          "proposed_taxa": [],
+          "certainty": "unidentified"
+        },
+        {
+          "date": "1674",
+          "name_used": "dodo; walgvogels",
+          "proposed_taxa": [
+            "dodo"
+          ],
+          "certainty": "retrospective_report",
+          "evidence_type": "reported_absence_among_current_residents"
+        }
+      ],
+      "identification": {
+        "proposed_taxa": [],
+        "certainty": "mixed_records",
+        "basis": "1673 bird unidentified; 1674 report retrospective and reports no current sightings.",
+        "authority": "cheke-parish-2020",
+        "locator": "Table A1, p. 11"
+      },
+      "observation_date_range": {
+        "start_year": 1673,
+        "end_year": 1677,
+        "basis": "Table A1 interval"
+      }
+    },
+    {
+      "record_id": "dodo-1681-benjamin-harry",
+      "observation_date": "1681",
+      "observer": "Benjamin Harry",
+      "observer_language": "E",
+      "taxa": [],
+      "dodo_name_used": "dodo (probably red hen)",
+      "rail_name_used": null,
+      "cited_by": [
+        "cheke-parish-2020 Table A1 refs [12,14,27,29]"
+      ],
+      "match_keys": {
+        "globalise_scans": []
+      },
+      "notes": "",
+      "baseline_locator": "Table A1, p. 11",
+      "primary_review_status": "not_reviewed_in_this_reconciliation",
+      "names_used": {
+        "dodo_column": "dodo (probably red hen)",
+        "rail_column": null,
+        "basis": "Cheke and Parish 2020 Table A1 (secondary transcription)"
+      },
+      "identification": {
+        "proposed_taxa": [
+          "red-hen"
+        ],
+        "certainty": "probable",
+        "basis": "Table A1 marks identification uncertain; discussion argues for red hen. No description.",
+        "authority": "cheke-parish-2020",
+        "locator": "Table A1, p. 11"
+      }
+    },
+    {
+      "record_id": "dodo-1685-1688-isaac-j-lamotius",
+      "observation_date": "1685/1688",
+      "observer": "Isaac J. Lamotius",
+      "observer_language": "D",
+      "taxa": [],
+      "dodo_name_used": "dodaarsen (probably red hen)",
+      "rail_name_used": null,
+      "cited_by": [
+        "cheke-parish-2020 Table A1 refs [6,22,25,29]"
+      ],
+      "match_keys": {
+        "globalise_scans": []
+      },
+      "notes": "Sleigh 2000 reports c. 50 caught. 25 Nov 1688 entry in Parish 2013 is an error.",
+      "baseline_locator": "Table A1, p. 11",
+      "primary_review_status": "not_reviewed_in_this_reconciliation",
+      "names_used": {
+        "dodo_column": "dodaarsen (probably red hen)",
+        "rail_column": null,
+        "basis": "Cheke and Parish 2020 Table A1 (secondary transcription)"
+      },
+      "identification": {
+        "proposed_taxa": [
+          "red-hen"
+        ],
+        "certainty": "probable",
+        "basis": "Table A1 marks identification uncertain; discussion argues for red hen. No description.",
+        "authority": "cheke-parish-2020",
+        "locator": "Table A1, p. 11"
+      },
+      "observation_date_range": {
+        "start_year": 1685,
+        "end_year": 1688,
+        "basis": "Table A1 interval"
+      }
+    },
+    {
+      "record_id": "dodo-1691-francois-leguat",
+      "observation_date": "1691",
+      "observer": "François Leguat",
+      "observer_language": "F",
+      "taxa": [
+        "red-hen"
+      ],
+      "dodo_name_used": null,
+      "rail_name_used": "gelinotte (rare)",
+      "cited_by": [
+        "cheke-parish-2020 Table A1 refs [11,41]"
+      ],
+      "match_keys": {
+        "globalise_scans": []
+      },
+      "notes": "",
+      "baseline_locator": "Table A1, p. 11",
+      "primary_review_status": "not_reviewed_in_this_reconciliation",
+      "names_used": {
+        "dodo_column": null,
+        "rail_column": "gelinotte (rare)",
+        "basis": "Cheke and Parish 2020 Table A1 (secondary transcription)"
+      },
+      "identification": {
+        "proposed_taxa": [
+          "red-hen"
+        ],
+        "certainty": "identified_in_baseline",
+        "basis": "Table A1 identity column",
+        "authority": "cheke-parish-2020",
+        "locator": "Table A1, p. 11"
+      },
+      "date_qualification": "Table A1 dates the row 1691; the article text (p. 7) places the Mauritius gelinotte report in 1693–1696. Retain this discrepancy pending primary-source review."
+    }
+  ],
+  "schema_version": 2,
+  "reconciled": "2026-10-03",
+  "reconciliation_basis": "Cheke and Parish 2020, Table A1, pp. 8–11 and footnotes; identification fields checked against linked PDF text. Primary passages and scans require separate review."
+}

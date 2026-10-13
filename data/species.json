@@ -1,0 +1,262 @@
+[
+  {
+    "id": "silphium",
+    "ui_key": "silphium",
+    "name": "Silphium",
+    "page": "silphium.html",
+    "tags": [
+      "classical-era",
+      "mediterranean",
+      "medicinal"
+    ],
+    "places": [
+      "cyrenaica",
+      "rome"
+    ],
+    "status_mode": "literal",
+    "number": "01",
+    "icon_class": "icon-silphium",
+    "subtitle_html": "The plant of Cyrenaica",
+    "place_label": "Cyrenaica",
+    "status_label": "Identity unresolved",
+    "aria_label": "Read the silphium dossier"
+  },
+  {
+    "id": "great-auk",
+    "ui_key": "auk",
+    "name": "Great auk",
+    "page": "great-auk.html",
+    "tags": [
+      "early-modern",
+      "north-atlantic",
+      "bird"
+    ],
+    "places": [
+      "north-atlantic",
+      "st-kilda",
+      "funk-island",
+      "eldey"
+    ],
+    "status_mode": "source_count",
+    "number": "02",
+    "icon_class": "icon-auk",
+    "subtitle_html": "<i>Pinguinus impennis</i>",
+    "place_label": "North Atlantic",
+    "status_label": "3 sources · 3 places",
+    "aria_label": "Read the great auk dossier"
+  },
+  {
+    "id": "seacow",
+    "ui_key": "seacow",
+    "name": "Steller’s sea cow",
+    "page": "seacow.html",
+    "tags": [
+      "early-modern",
+      "north-pacific",
+      "mammal"
+    ],
+    "places": [
+      "bering-sea"
+    ],
+    "status_mode": "source_count",
+    "number": "03",
+    "icon_class": "icon-seacow",
+    "subtitle_html": "<i>Hydrodamalis gigas</i>",
+    "place_label": "Bering Sea",
+    "status_label": null,
+    "aria_label": "Steller’s sea cow, historical sources"
+  },
+  {
+    "id": "dodo",
+    "ui_key": "dodo",
+    "name": "Dodo",
+    "page": "dodo.html",
+    "tags": [
+      "early-modern",
+      "indian-ocean",
+      "bird"
+    ],
+    "places": [
+      "mauritius",
+      "leiden",
+      "london"
+    ],
+    "status_mode": "source_count",
+    "number": "04",
+    "icon_class": "icon-dodo",
+    "subtitle_html": "<i>Raphus cucullatus</i>",
+    "place_label": "Mauritius",
+    "status_label": "Dossier in preparation",
+    "aria_label": "Dodo: historical sources and images"
+  },
+  {
+    "id": "aurochs",
+    "ui_key": "aurochs",
+    "name": "Aurochs",
+    "page": null,
+    "tags": [
+      "early-modern",
+      "europe",
+      "mammal"
+    ],
+    "places": [
+      "europe"
+    ],
+    "status_mode": "literal",
+    "number": "05",
+    "icon_class": "icon-aurochs",
+    "subtitle_html": "<i>Bos primigenius</i>",
+    "place_label": "Europe",
+    "status_label": "Dossier in preparation",
+    "aria_label": null
+  },
+  {
+    "id": "solitaire",
+    "ui_key": "solitaire",
+    "name": "Rodrigues solitaire",
+    "page": null,
+    "tags": [
+      "early-modern",
+      "indian-ocean",
+      "bird"
+    ],
+    "places": [
+      "rodrigues"
+    ],
+    "status_mode": "literal",
+    "number": "06",
+    "icon_class": "icon-solitaire",
+    "subtitle_html": "<i>Pezophaps solitaria</i>",
+    "place_label": "Rodrigues",
+    "status_label": "Dossier in preparation",
+    "aria_label": null
+  },
+  {
+    "id": "saddle",
+    "ui_key": "saddle",
+    "name": "Rodrigues saddle-backed tortoise",
+    "page": null,
+    "tags": [
+      "early-modern",
+      "indian-ocean",
+      "reptile"
+    ],
+    "places": [
+      "rodrigues"
+    ],
+    "status_mode": "literal",
+    "number": "07",
+    "icon_class": "icon-saddle",
+    "subtitle_html": "<i>Cylindraspis vosmaeri</i>",
+    "place_label": "Rodrigues",
+    "status_label": "Dossier in preparation",
+    "aria_label": null
+  },
+  {
+    "id": "domed",
+    "ui_key": "domed",
+    "name": "Rodrigues domed tortoise",
+    "page": null,
+    "tags": [
+      "early-modern",
+      "indian-ocean",
+      "reptile"
+    ],
+    "places": [
+      "rodrigues"
+    ],
+    "status_mode": "literal",
+    "number": "08",
+    "icon_class": "icon-domed",
+    "subtitle_html": "<i>Cylindraspis peltastes</i>",
+    "place_label": "Rodrigues",
+    "status_label": "Dossier in preparation",
+    "aria_label": null
+  },
+  {
+    "id": "bluebuck",
+    "ui_key": "bluebuck",
+    "name": "Bluebuck",
+    "page": "bluebuck.html",
+    "tags": [
+      "early-modern",
+      "southern-africa",
+      "mammal"
+    ],
+    "places": [
+      "cape"
+    ],
+    "status_mode": "source_count",
+    "number": "09",
+    "icon_class": "icon-bluebuck",
+    "subtitle_html": "<i>Hippotragus leucophaeus</i>",
+    "place_label": "Cape, South Africa",
+    "status_label": null,
+    "aria_label": "Bluebuck, historical sources",
+    "notes_page": "research-notes-bluebuck.html"
+  },
+  {
+    "id": "bluepigeon",
+    "ui_key": "bluepigeon",
+    "name": "Mauritius blue pigeon",
+    "page": null,
+    "tags": [
+      "early-modern",
+      "indian-ocean",
+      "bird"
+    ],
+    "places": [
+      "mauritius"
+    ],
+    "status_mode": "literal",
+    "number": "10",
+    "icon_class": "icon-bluepigeon",
+    "subtitle_html": "<i>Alectroenas nitidissimus</i>",
+    "place_label": "Mauritius",
+    "status_label": "Dossier in preparation",
+    "aria_label": null
+  },
+  {
+    "id": "macaw",
+    "ui_key": "macaw",
+    "name": "Cuban macaw",
+    "page": null,
+    "tags": [
+      "early-modern",
+      "caribbean",
+      "bird"
+    ],
+    "places": [
+      "cuba"
+    ],
+    "status_mode": "literal",
+    "number": "11",
+    "icon_class": "icon-macaw",
+    "subtitle_html": "<i>Ara tricolor</i>",
+    "place_label": "Cuba",
+    "status_label": "Dossier in preparation",
+    "aria_label": null
+  },
+  {
+    "id": "warrah",
+    "ui_key": "warrah",
+    "name": "Falkland Islands wolf",
+    "page": null,
+    "tags": [
+      "early-modern",
+      "south-atlantic",
+      "mammal"
+    ],
+    "places": [
+      "falkland-islands"
+    ],
+    "status_mode": "literal",
+    "number": "12",
+    "icon_class": "icon-warrah",
+    "subtitle_html": "<i>Dusicyon australis</i> · warrah",
+    "place_label": "Falkland Islands",
+    "status_label": "Dossier in preparation",
+    "aria_label": null,
+    "notes_page": "research-notes-warrah.html"
+  }
+]

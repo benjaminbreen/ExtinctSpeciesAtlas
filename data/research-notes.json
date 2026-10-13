@@ -1,0 +1,43 @@
+[
+  {
+    "species_id": "warrah",
+    "page": "research-notes-warrah.html",
+    "notes": [
+      {
+        "id": "tyssen-1842",
+        "context": "On 12 February 1842 John Tyssen rescued Henry Whiteman and Samuel Profit at White Rock Harbour. The sailors said they had been ashore on West Falkland since December 1840 and had killed twelve warrahs.",
+        "passage_ids": [
+          "tyssen-warrah"
+        ]
+      },
+      {
+        "id": "magazine-1894",
+        "context": "In July 1894 the magazine’s editor asked for native fox skins and skulls, and for dates of the last killings on East and West Falkland. Three replies published in October concerned Fox Bay: Smith favoured 1874, Butler recalled early 1874, and “A Witness” gave February 1873. These are recollections of local killings, written about twenty years after the events.",
+        "passage_ids": [
+          "fim-warrah-query",
+          "fim-warrah-letters"
+        ]
+      }
+    ]
+  },
+  {
+    "species_id": "bluebuck",
+    "page": "research-notes-bluebuck.html",
+    "notes": [
+      {
+        "id": "pennant-1771",
+        "context": "Pennant’s description was based on a skin bought at Amsterdam and reported as brought from the Cape of Good Hope. His statement about the living animal’s colour was reported information.",
+        "passage_ids": [
+          "pennant-bluebuck"
+        ]
+      },
+      {
+        "id": "barrow-1804",
+        "context": "Barrow reported a herd near Sweet Milk Valley but named no informant and gave no anatomical description. His phrase “a few months before we evacuated the Cape” suggests late 1802 or early 1803; the date and identification remain uncertain.",
+        "passage_ids": [
+          "barrow-bluebuck"
+        ]
+      }
+    ]
+  }
+]

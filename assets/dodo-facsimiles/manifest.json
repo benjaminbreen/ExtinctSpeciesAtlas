@@ -1,0 +1,86 @@
+[
+  {
+    "file": "assets/dodo-facsimiles/herbert-211.webp",
+    "source": "https://archive.org/details/b30326825/page/211/mode/1up",
+    "download": "https://archive.org/download/b30326825/page/n228.jpg",
+    "printed_page": "211",
+    "credit": "Wellcome Library",
+    "license": "Public domain",
+    "checked_on": "2026-10-02"
+  },
+  {
+    "file": "assets/dodo-facsimiles/herbert-212.webp",
+    "source": "https://archive.org/details/b30326825/page/212/mode/1up",
+    "download": "https://archive.org/download/b30326825/page/n229.jpg",
+    "printed_page": "212",
+    "credit": "Wellcome Library",
+    "license": "Public domain",
+    "checked_on": "2026-10-02"
+  },
+  {
+    "file": "assets/dodo-facsimiles/lestrange-22.webp",
+    "source": "https://archive.org/details/dodoitskindredor00stri/page/22/mode/1up",
+    "download": "https://archive.org/download/dodoitskindredor00stri/page/n43.jpg",
+    "printed_page": "22",
+    "credit": "Smithsonian Libraries",
+    "license": "Public domain",
+    "checked_on": "2026-10-02"
+  },
+  {
+    "file": "assets/dodo-facsimiles/clusius-100.webp",
+    "source": "https://archive.org/details/clusius/page/100/mode/1up",
+    "download": "https://archive.org/download/clusius/page/n119.jpg",
+    "printed_page": "100",
+    "credit": "Internet Archive",
+    "license": "Public domain",
+    "checked_on": "2026-10-02"
+  },
+  {
+    "file": "assets/dodo-facsimiles/cauche-130.webp",
+    "source": "https://archive.org/details/relationsveritab00unkn/page/130/mode/1up",
+    "download": "https://archive.org/download/relationsveritab00unkn/page/n149.jpg",
+    "printed_page": "130",
+    "credit": "John Carter Brown Library",
+    "license": "Public domain",
+    "checked_on": "2026-10-02"
+  },
+  {
+    "file": "assets/dodo-facsimiles/cauche-131.webp",
+    "source": "https://archive.org/details/relationsveritab00unkn/page/131/mode/1up",
+    "download": "https://archive.org/download/relationsveritab00unkn/page/n150.jpg",
+    "printed_page": "131",
+    "credit": "John Carter Brown Library",
+    "license": "Public domain",
+    "checked_on": "2026-10-02"
+  },
+  {
+    "file": "assets/dodo-facsimiles/translation-125.webp",
+    "source": "https://archive.org/details/dodoitskindredor00stri/page/125/mode/1up",
+    "download": "https://archive.org/download/dodoitskindredor00stri/page/n156.jpg",
+    "printed_page": "125",
+    "credit": "Smithsonian Libraries",
+    "license": "Public domain",
+    "checked_on": "2026-10-02"
+  },
+  {
+    "file": "assets/dodo-facsimiles/translation-126.webp",
+    "source": "https://archive.org/details/dodoitskindredor00stri/page/126/mode/1up",
+    "download": "https://archive.org/download/dodoitskindredor00stri/page/n157.jpg",
+    "printed_page": "126",
+    "credit": "Smithsonian Libraries",
+    "license": "Public domain",
+    "checked_on": "2026-10-02"
+  },
+  {
+    "file": "assets/dodo-facsimiles/herbert-212-detail.webp",
+    "source": "https://archive.org/details/b30326825/page/212/mode/1up",
+    "derivative": "Illustration detail cropped from the full page; no retouching",
+    "license": "Public domain"
+  },
+  {
+    "file": "assets/dodo-facsimiles/clusius-100-detail.webp",
+    "source": "https://archive.org/details/clusius/page/100/mode/1up",
+    "derivative": "Illustration detail cropped from the full page; no retouching",
+    "license": "Public domain"
+  }
+]

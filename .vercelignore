@@ -1,0 +1,10 @@
+
+# Research corpus and pilot tooling are not part of the public site
+research/extinction-pilot/
+
+# Local secrets
+.env
+.env.*
+
+# Copyrighted secondary literature (local only)
+secondary sources (not for github commit)/

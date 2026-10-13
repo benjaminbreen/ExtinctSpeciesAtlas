@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#f5f2e9" />
+    <meta name="description" content="An atlas of species that vanished within the historical record. Begin with silphium of Cyrenaica." />
+    <title>Atlas of Historically Lost Species</title>
+    <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml" />
+    <link rel="preload" href="./assets/gfs-didot.ttf" as="font" type="font/ttf" crossorigin />
+    <link rel="stylesheet" href="./styles.css?v=footer-3" />
+    <link rel="stylesheet" href="./home.css" />
+    <script type="module" src="./main.js?v=footer-3"></script>
+  <link rel="stylesheet" href="./ui.css?v=1" /></head>
+  <body data-page="home">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <div class="site-seal-disc" aria-hidden="true"></div>
+    <div class="home-seal-rule" aria-hidden="true"></div>
+    <div class="home-seal-label" aria-hidden="true"><i>Silphium</i><span>—</span></div>
+    <div class="site-seal" aria-hidden="true"><span class="seal-symbol"></span></div>
+    <div class="page-shell">
+      <header class="masthead">
+        <a class="wordmark" href="./index.html" aria-label="Atlas of Historically Lost Species, home"><span class="wordmark-short" aria-hidden="true">AHLo<span class="wordmark-accent">S</span></span><span class="wordmark-long" aria-hidden="true">Atlas of Historically Lost Species</span></a>
+        <nav aria-label="Main navigation">
+          <a href="#index">Index</a>
+          <a href="./authorities.html">Authorities</a>
+          <a href="./about.html">About</a>
+        </nav>
+      </header>
+
+      <main id="main">
+        <section class="home-hero observe-species" data-species="silphium" aria-labelledby="site-title">
+          <div class="hero-copy">
+            <h1 id="site-title">Atlas of<br />Historically<br />Lost Species</h1>
+            <div class="accent-rule"></div>
+            <p>Primary sources, maps, and images for species documented in writing before their extinction.</p>
+          </div>
+          <figure class="hero-figure">
+            <div class="figure-plate">
+              <img src="./assets/silphium-woodcut-isolated.webp" alt="Seventeenth-century woodcut of a flowering laserpitium plant, with broad leaves and three umbels" width="830" height="1220" fetchpriority="high" />
+            </div>
+            <figcaption><i>Laserpitium</i> in a 1644 edition of Theophrastus. <a href="./silphium.html#image-note">Image source ↗</a></figcaption>
+          </figure>
+        </section>
+
+        <section id="index" class="index-section" aria-labelledby="index-title">
+          <div class="section-heading"><h2 id="index-title">Index</h2><span>01—12</span></div>
+          <div class="filter-status" id="filter-status" role="status" hidden><span id="filter-description"></span><a href="./index.html#index">Show all entries ↗</a></div>
+          ${species_index}
+          <p class="index-image-note">Index figures are generated illustrations informed by historical depictions; they are not source images.</p>
+        </section>
+
+      </main>
+
+      <footer class="site-footer"><span>Atlas of Historically Lost Species</span><a href="#main">Back to top ↑</a></footer>
+    </div>
+  </body>
+</html>

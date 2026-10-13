@@ -1,3 +1,19 @@
 .DS_Store
 .vercel/
 *.log
+
+# Local extinction research corpus
+research/extinction-pilot/data/raw/
+research/extinction-pilot/data/derived/
+research/extinction-pilot/results/
+research/extinction-pilot/**/__pycache__/
+
+# Local secrets
+.env
+.env.*
+
+# Copyrighted secondary literature (local only)
+secondary sources (not for github commit)/
+
+# Python build/test caches
+__pycache__/
