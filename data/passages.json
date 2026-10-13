@@ -2296,5 +2296,338 @@
       "novelty_status": "established",
       "relationships": []
     }
+  },
+  {
+    "id": "leguat-solitaire-description",
+    "species_ids": [
+      "solitaire"
+    ],
+    "authority_id": "leguat",
+    "page": "source-leguat-solitaire-description.html",
+    "format": "reader",
+    "catalog": {
+      "anchor": "ref-leguat-solitaire-description",
+      "sort_year": 1708,
+      "sort_author": "Leguat",
+      "date_label": "1708",
+      "heading_html": "<a class=\"catalog-author\" href=\"./authorities.html#leguat\">François Leguat</a> <em>A New Voyage to the East-Indies</em>, pp. 71–72",
+      "kind": "Travel account · English (French original)",
+      "href": "./source-leguat-solitaire-description.html",
+      "link_label": "Read record ↗",
+      "aria_label": null,
+      "summary_html": "Leguat’s description of the solitaire’s appearance, wings, sexes and behaviour in captivity."
+    },
+    "authority_work": {
+      "label": "A New Voyage to the East-Indies (1708), pp. 71–72",
+      "href": "./source-leguat-solitaire-description.html"
+    },
+    "content": {
+      "author": "François Leguat",
+      "work": "A New Voyage to the East-Indies",
+      "period": "1708",
+      "place": "Rodrigues",
+      "place_key": "rodrigues",
+      "language": "en",
+      "companion": [
+        "Hakluyt Society edition · ed. S. P. Oliver, 1891",
+        "https://archive.org/details/voyageoffrancois821legu/page/77/mode/1up"
+      ],
+      "summary": "Leguat’s description of the solitaire’s appearance, wings, sexes and behaviour in captivity.",
+      "facsimile": "leguat-71.webp",
+      "facsimile_path": "./assets/solitaire-facsimiles/leguat-71.webp",
+      "edition": "François Leguat, A New Voyage to the East-Indies by Francis Leguat and His Companions (London: R. Bonwicke, W. Freeman, Tim. Goodwin et al., 1708), pp. 71–72. French edition: Voyage et avantures de François Leguat & de ses compagnons (London: David Mortier, 1708).",
+      "primary": [
+        "Internet Archive · digitized edition",
+        "https://archive.org/details/bim_eighteenth-century_a-new-voyage-to-the-east_le-guat-franois_1708/page/n142/mode/1up"
+      ],
+      "paragraphs": [
+        "Of all the Birds in the Island, the most Remarkable is that which goes by the Name of the Solitary, because ’tis very seldom seen in Company, tho’ there are abundance of them. The Feathers of the Males are of a brown, grey Colour: The Feet and Beak are like a Turkeys, but a little more crooked. They have scarce any Tail, but their Hind-part cover’d with Feathers is Roundish, like the Crupper of a Horse, they are taller than Turkeys. Their Neck is straight, and a little longer in proportion than a Turkeys, when it lifts up his Head. Its Eye is black and lively, and its Head without Comb or Cop. They never fly, their Wings are too little to support the weight of their Bodies; they serve only to beat themselves, and flutter when they call one another. They will whirl about for twenty or thirty times together on the same side, during the space of four or five Minutes: The Motions of their Wings makes then a noise very like that of a Rattle; and one may hear it two hundred Paces off. The Bone of their Wing grows greater towards the Extremity, and forms a little round Mass under the Feathers, as big as a Musket Ball: That and its Beak are the chief Defence of this Bird. ’Tis very hard to catch it in the Woods, but easie in open Places, because we run faster than they, and sometimes we approach them without much Trouble. From March to September they are extreamly fat, and tast admirably well, especially while they are young, some of the Males weigh forty five Pound.",
+        "The Femals are wonderfully beautiful, some fair, some brown; I call them fair, because they are of the colour of fair Hair: They have a sort of Peak like a Widow’s upon their Breasts, which is of a dun Colour. No one Feather is stragling from the other all over their Bodies, they being very careful to adjust themselves, and make them all even with their Beaks. The Feathers on their Thighs are round like shells at the end, and being there very thick, have an agreeable effect: They have two Risings on their Craws, and the Feathers are whiter there than the rest, which livelily Represents the fine Neck of a Beautiful Woman. They walk with so much Stateliness and good Grace, that one cannot help admiring and loving them; by which means their fine Mein often saves their Lives.",
+        "Tho’ these Birds will sometimes very familiarly come up near enough to one, when we do not run after them, yet they will never grow Tame: As soon as they are caught they shed Tears without Crying, and refuse all manner of Sustenance till they die."
+      ],
+      "note_phrase": "as big as a Musket Ball",
+      "note": "The bony knob at the end of the wing is confirmed by subfossil skeletons (Newton and Newton, 1869; Hume and Steel, 2013). The English text appeared in the same year as the French original. Its authorship has been questioned: Geoffroy Atkinson (1922) argued that the editor, Maximilien Misson, shaped much of the narrative.",
+      "reading": [
+        "newton-1869",
+        "hume-steel",
+        "oliver"
+      ],
+      "neighbors": [
+        null,
+        "leguat-solitaire-nesting"
+      ],
+      "scans": [
+        {
+          "src": "./assets/solitaire-facsimiles/leguat-71.webp",
+          "label": "p. 71",
+          "caption": "Leguat, 1708, p. 71. Internet Archive.",
+          "url": "https://archive.org/details/bim_eighteenth-century_a-new-voyage-to-the-east_le-guat-franois_1708/page/n142/mode/1up"
+        },
+        {
+          "src": "./assets/solitaire-facsimiles/leguat-72.webp",
+          "label": "p. 72",
+          "caption": "Leguat, 1708, p. 72. Internet Archive.",
+          "url": "https://archive.org/details/bim_eighteenth-century_a-new-voyage-to-the-east_le-guat-franois_1708/page/n143/mode/1up"
+        }
+      ],
+      "reader": {
+        "byline_html": "<a href=\"./authorities.html#leguat\">François Leguat</a> · 1638–1735",
+        "article_title": "A New Voyage to the East-Indies",
+        "passage_label": "pp. 71–72 · extract",
+        "dates": [
+          {
+            "label": "Observation",
+            "date": "1691–1693",
+            "detail_html": "On Rodrigues"
+          },
+          {
+            "label": "Publication",
+            "date": "1708",
+            "detail_html": "English and French editions, London"
+          }
+        ],
+        "edition_html": "François Leguat, A New Voyage to the East-Indies by Francis Leguat and His Companions (London: R. Bonwicke, W. Freeman, Tim. Goodwin et al., 1708), pp. 71–72. French edition: Voyage et avantures de François Leguat & de ses compagnons (London: David Mortier, 1708).",
+        "citation_html": "François Leguat, A New Voyage to the East-Indies by Francis Leguat and His Companions (London: R. Bonwicke, W. Freeman, Tim. Goodwin et al., 1708), pp. 71–72. French edition: Voyage et avantures de François Leguat & de ses compagnons (London: David Mortier, 1708).",
+        "breadcrumb_label": "Leguat, description",
+        "portrait_alt": "Typographic initials; no portrait used",
+        "scan_alt": "Leguat, 1708, p. 71. Internet Archive.",
+        "scan_caption": "Leguat, 1708, p. 71. Internet Archive.",
+        "dialog_title": "Leguat, 1708, p. 71. Internet Archive.",
+        "scan_button_label": "Enlarge Leguat, 1708, p. 71. Internet Archive.",
+        "enlarged_alt": "Leguat, 1708, p. 71. Internet Archive.",
+        "related_label": "Next source ↗",
+        "text_label": "Original text"
+      }
+    },
+    "research": {
+      "reviewed_by": "Claude; visual comparison with printed scans; long s regularized, line-end hyphenation joined, footnote markers omitted",
+      "reviewed_on": "2026-10-12",
+      "novelty_status": "established",
+      "relationships": []
+    }
+  },
+  {
+    "id": "leguat-solitaire-nesting",
+    "species_ids": [
+      "solitaire"
+    ],
+    "authority_id": "leguat",
+    "page": "source-leguat-solitaire-nesting.html",
+    "format": "reader",
+    "catalog": {
+      "anchor": "ref-leguat-solitaire-nesting",
+      "sort_year": 1708.1,
+      "sort_author": "Leguat",
+      "date_label": "1708",
+      "heading_html": "<a class=\"catalog-author\" href=\"./authorities.html#leguat\">François Leguat</a> <em>A New Voyage to the East-Indies</em>, pp. 72–74",
+      "kind": "Travel account · English (French original)",
+      "href": "./source-leguat-solitaire-nesting.html",
+      "link_label": "Read record ↗",
+      "aria_label": null,
+      "summary_html": "Leguat on nesting, territorial defence and the pairing of young birds, which he called a “Marriage.”"
+    },
+    "authority_work": {
+      "label": "A New Voyage to the East-Indies (1708), pp. 72–74",
+      "href": "./source-leguat-solitaire-nesting.html"
+    },
+    "content": {
+      "author": "François Leguat",
+      "work": "A New Voyage to the East-Indies",
+      "period": "1708",
+      "place": "Rodrigues",
+      "place_key": "rodrigues",
+      "language": "en",
+      "companion": [
+        "Hakluyt Society edition · ed. S. P. Oliver, 1891",
+        "https://archive.org/details/voyageoffrancois821legu/page/77/mode/1up"
+      ],
+      "summary": "Leguat on nesting, territorial defence and the pairing of young birds, which he called a “Marriage.”",
+      "facsimile": "leguat-72.webp",
+      "facsimile_path": "./assets/solitaire-facsimiles/leguat-72.webp",
+      "edition": "François Leguat, A New Voyage to the East-Indies by Francis Leguat and His Companions (London: R. Bonwicke, W. Freeman, Tim. Goodwin et al., 1708), pp. 72–74. French edition: Voyage et avantures de François Leguat & de ses compagnons (London: David Mortier, 1708).",
+      "primary": [
+        "Internet Archive · digitized edition",
+        "https://archive.org/details/bim_eighteenth-century_a-new-voyage-to-the-east_le-guat-franois_1708/page/n143/mode/1up"
+      ],
+      "paragraphs": [
+        "When these Birds build their Nests, they choose a clean Place, gather together some Palm-Leaves for that purpose, and heap them up a foot and a half high from the Ground, on which they sit. They never lay but one Egg, which is much bigger than that of a Goose. The Male and Female both cover it in their turns, and the young is not hatch’d till at seven Weeks end: All the while they are sitting upon it, or are bringing up their young one, which is not able to provide for its self in several Months, they will not suffer any other Bird of their Species to come within two hundred yards round of the Place: But what is very singular, is, The Males will never drive away the Females, only when he perceives one he makes a noise with his Wings to call the Female, and she drives the unwelcome Stranger away, not leaving it till ’tis without her Bounds. The Female do’s the same as to the Males, whom she leaves to the Male, and he drives them away. We have observ’d this several times, and I affirm it to be true.",
+        "The Combats between them on this occasion lasts sometimes pretty long, because the Stranger only turns about, and do’s not fly directly from the Nest: However, the others do not forsake it, till they have quite driv’n it out of their Limits. After these Birds have rais’d their young One, and left it to its self, they are always together, which the other Birds are not, and tho’ they happen to mingle with other Birds of the same Species, these two Companions never disunite. We have often remark’d, that some days after the young one leaves the Nest, a Company of thirty or forty brings another young one to it; and the new fledg’d Bird with its Father and Mother joyning with the Band, march to some bye Place. We frequently follow’d them, and found that afterwards the old ones went each their way alone, or in Couples, and left the two young ones together, which we call’d a Marriage."
+      ],
+      "note_phrase": "which we call’d a Marriage",
+      "note": "No other source reports the “Marriage.” Leguat continues with a moral reflection on human marriage (p. 74), omitted here.",
+      "reading": [
+        "strickland",
+        "oliver"
+      ],
+      "neighbors": [
+        "leguat-solitaire-description",
+        "tafforet-solitaire"
+      ],
+      "scans": [
+        {
+          "src": "./assets/solitaire-facsimiles/leguat-72.webp",
+          "label": "p. 72",
+          "caption": "Leguat, 1708, p. 72. Internet Archive.",
+          "url": "https://archive.org/details/bim_eighteenth-century_a-new-voyage-to-the-east_le-guat-franois_1708/page/n143/mode/1up"
+        },
+        {
+          "src": "./assets/solitaire-facsimiles/leguat-73.webp",
+          "label": "p. 73",
+          "caption": "Leguat, 1708, p. 73. Internet Archive.",
+          "url": "https://archive.org/details/bim_eighteenth-century_a-new-voyage-to-the-east_le-guat-franois_1708/page/n144/mode/1up"
+        },
+        {
+          "src": "./assets/solitaire-facsimiles/leguat-74.webp",
+          "label": "p. 74",
+          "caption": "Leguat, 1708, p. 74. Internet Archive.",
+          "url": "https://archive.org/details/bim_eighteenth-century_a-new-voyage-to-the-east_le-guat-franois_1708/page/n145/mode/1up"
+        }
+      ],
+      "reader": {
+        "byline_html": "<a href=\"./authorities.html#leguat\">François Leguat</a> · 1638–1735",
+        "article_title": "A New Voyage to the East-Indies",
+        "passage_label": "pp. 72–74 · extract",
+        "dates": [
+          {
+            "label": "Observation",
+            "date": "1691–1693",
+            "detail_html": "On Rodrigues"
+          },
+          {
+            "label": "Publication",
+            "date": "1708",
+            "detail_html": "English and French editions, London"
+          }
+        ],
+        "edition_html": "François Leguat, A New Voyage to the East-Indies by Francis Leguat and His Companions (London: R. Bonwicke, W. Freeman, Tim. Goodwin et al., 1708), pp. 72–74. French edition: Voyage et avantures de François Leguat & de ses compagnons (London: David Mortier, 1708).",
+        "citation_html": "François Leguat, A New Voyage to the East-Indies by Francis Leguat and His Companions (London: R. Bonwicke, W. Freeman, Tim. Goodwin et al., 1708), pp. 72–74. French edition: Voyage et avantures de François Leguat & de ses compagnons (London: David Mortier, 1708).",
+        "breadcrumb_label": "Leguat, nesting",
+        "portrait_alt": "Typographic initials; no portrait used",
+        "scan_alt": "Leguat, 1708, p. 72. Internet Archive.",
+        "scan_caption": "Leguat, 1708, p. 72. Internet Archive.",
+        "dialog_title": "Leguat, 1708, p. 72. Internet Archive.",
+        "scan_button_label": "Enlarge Leguat, 1708, p. 72. Internet Archive.",
+        "enlarged_alt": "Leguat, 1708, p. 72. Internet Archive.",
+        "related_label": "Previous source ↗",
+        "text_label": "Original text"
+      }
+    },
+    "research": {
+      "reviewed_by": "Claude; visual comparison with printed scans; long s regularized, line-end hyphenation joined, footnote markers omitted",
+      "reviewed_on": "2026-10-12",
+      "novelty_status": "established",
+      "relationships": []
+    }
+  },
+  {
+    "id": "tafforet-solitaire",
+    "species_ids": [
+      "solitaire"
+    ],
+    "authority_id": "tafforet",
+    "page": "source-tafforet-solitaire.html",
+    "format": "reader",
+    "catalog": {
+      "anchor": "ref-tafforet-solitaire",
+      "sort_year": 1726,
+      "sort_author": "Tafforet",
+      "date_label": "c. 1726",
+      "heading_html": "<a class=\"catalog-author\" href=\"./authorities.html#tafforet\">Julien Tafforet (attributed)</a> <em>Relation de l’île Rodrigue</em>, trans. 1891, II, pp. 333–334",
+      "kind": "Report · French, English translation",
+      "href": "./source-tafforet-solitaire.html",
+      "link_label": "Read record ↗",
+      "aria_label": null,
+      "summary_html": "An anonymous French report on Rodrigues, usually attributed to Julien Tafforet, describing the solitaire about thirty years after Leguat."
+    },
+    "authority_work": {
+      "label": "Relation de l’île Rodrigue (c. 1726), trans. 1891",
+      "href": "./source-tafforet-solitaire.html"
+    },
+    "content": {
+      "author": "Julien Tafforet (attributed)",
+      "work": "Relation de l’île Rodrigue",
+      "period": "c. 1726",
+      "place": "Rodrigues",
+      "place_key": "rodrigues",
+      "language": "en",
+      "summary": "An anonymous French report on Rodrigues, usually attributed to Julien Tafforet, describing the solitaire about thirty years after Leguat.",
+      "facsimile": "tafforet-333.webp",
+      "facsimile_path": "./assets/solitaire-facsimiles/tafforet-333.webp",
+      "edition": "[Julien Tafforet, attributed], “Relation de l’île Rodrigue” (c. 1726), English translation in S. Pasfield Oliver, ed., The Voyage of François Leguat of Bresse, vol. II (London: Hakluyt Society, 1891), Appendix B, pp. 333–334. French text: Alphonse Milne-Edwards, Annales des sciences naturelles, Zoologie, 6th ser., 2 (1875).",
+      "primary": [
+        "Internet Archive · 1891 edition",
+        "https://archive.org/details/voyageoffrancois832legu/page/333/mode/1up"
+      ],
+      "companion": [
+        "Hakluyt Society edition, vol. II · Internet Archive",
+        "https://archive.org/details/voyageoffrancois832legu"
+      ],
+      "paragraphs": [
+        "The Solitaire is a large bird, which weighs about forty or fifty pounds. They have a very big head, with a sort of frontlet, as if of black velvet. Their feathers are neither feathers nor fur; they are of a light grey colour, with a little black on their backs. Strutting proudly about, either alone or in pairs, they preen their plumage or fur with their beak, and keep themselves very clean. They have their toes furnished with very hard scales, and run with quickness, mostly among the rocks, where a man, however agile, can hardly catch them. They have a very short beak, of about an inch in length, which is sharp. They, nevertheless, do not attempt to hurt anyone, except when they find some one before them, and, when hardly pressed, try to bite him. They have a small stump [sicot, chicot ?] of a wing, which has a sort of bullet at its extremity, and serves as a defence. They do not fly at all, having no feathers to their wings, but they flap them, and make a great noise with their wings when angry, and the noise is something like thunder in the distance. They only lay, as I am led to suppose, but once in the year, and only one egg. Not that I have seen their eggs, for I have not been able to discover where they lay. But I have never seen but one little one alone with them, and, if any one tried to approach it, they would bite him very severely. These birds live on seeds and leaves of trees, which they pick up on the ground. They have a gizzard larger than the fist, and what is surprising is that there is found in it a stone of the size of a hen’s egg, of oval shape, a little flattened, although this animal cannot swallow anything larger than a small cherry-stone. I have eaten them; they are tolerably well tasted."
+      ],
+      "note_phrase": "as if of black velvet",
+      "note": "The manuscript is unsigned. Milne-Edwards, who published the French text in 1875, dated it to about 1730 from an archival inventory; it is now usually attributed to Julien Tafforet, who was on Rodrigues in 1725–1726. He printed only the natural-history sections and corrected the spelling. Oliver refers the English to Alfred Newton’s translation (Proceedings of the Zoological Society, 1875). The bracketed words are the 1891 editor’s.",
+      "reading": [
+        "oliver",
+        "strickland"
+      ],
+      "neighbors": [
+        "leguat-solitaire-nesting",
+        null
+      ],
+      "scans": [
+        {
+          "src": "./assets/solitaire-facsimiles/tafforet-333.webp",
+          "label": "p. 333",
+          "caption": "Relation de l’île Rodrigue, in Oliver ed., 1891, II, p. 333. University of Pittsburgh Library System / Internet Archive.",
+          "url": "https://archive.org/details/voyageoffrancois832legu/page/333/mode/1up"
+        },
+        {
+          "src": "./assets/solitaire-facsimiles/tafforet-334.webp",
+          "label": "p. 334",
+          "caption": "Relation de l’île Rodrigue, in Oliver ed., 1891, II, p. 334. University of Pittsburgh Library System / Internet Archive.",
+          "url": "https://archive.org/details/voyageoffrancois832legu/page/334/mode/1up"
+        }
+      ],
+      "reader": {
+        "byline_html": "<a href=\"./authorities.html#tafforet\">Julien Tafforet</a> · attributed · fl. 1725–1726",
+        "article_title": "Relation de l’île Rodrigue",
+        "passage_label": "Oliver ed., 1891, II, pp. 333–334 · extract, English translation",
+        "dates": [
+          {
+            "label": "Observation",
+            "date": "1725–1726",
+            "detail_html": "Attributed author on Rodrigues"
+          },
+          {
+            "label": "French text",
+            "date": "1875",
+            "detail_html": "Ed. Milne-Edwards, from the manuscript"
+          },
+          {
+            "label": "English",
+            "date": "1891",
+            "detail_html": "Oliver ed., Hakluyt Society"
+          }
+        ],
+        "edition_html": "[Julien Tafforet, attributed], “Relation de l’île Rodrigue” (c. 1726), English translation in S. Pasfield Oliver, ed., The Voyage of François Leguat of Bresse, vol. II (London: Hakluyt Society, 1891), Appendix B, pp. 333–334. French text: Alphonse Milne-Edwards, Annales des sciences naturelles, Zoologie, 6th ser., 2 (1875).",
+        "citation_html": "[Julien Tafforet, attributed], “Relation de l’île Rodrigue” (c. 1726), English translation in S. Pasfield Oliver, ed., The Voyage of François Leguat of Bresse, vol. II (London: Hakluyt Society, 1891), Appendix B, pp. 333–334. French text: Alphonse Milne-Edwards, Annales des sciences naturelles, Zoologie, 6th ser., 2 (1875).",
+        "breadcrumb_label": "Tafforet",
+        "portrait_alt": "Typographic initials; no portrait used",
+        "scan_alt": "Relation de l’île Rodrigue, in Oliver ed., 1891, II, p. 333. University of Pittsburgh Library System / Internet Archive.",
+        "scan_caption": "Relation de l’île Rodrigue, in Oliver ed., 1891, II, p. 333. University of Pittsburgh Library System / Internet Archive.",
+        "dialog_title": "Relation de l’île Rodrigue, in Oliver ed., 1891, II, p. 333. University of Pittsburgh Library System / Internet Archive.",
+        "scan_button_label": "Enlarge Relation de l’île Rodrigue, in Oliver ed., 1891, II, p. 333. University of Pittsburgh Library System / Internet Archive.",
+        "enlarged_alt": "Relation de l’île Rodrigue, in Oliver ed., 1891, II, p. 333. University of Pittsburgh Library System / Internet Archive.",
+        "related_label": "Previous source ↗",
+        "text_label": "English translation"
+      }
+    },
+    "research": {
+      "reviewed_by": "Claude; visual comparison with printed scans; long s regularized, line-end hyphenation joined, footnote markers omitted",
+      "reviewed_on": "2026-10-12",
+      "novelty_status": "established",
+      "relationships": []
+    }
   }
 ]

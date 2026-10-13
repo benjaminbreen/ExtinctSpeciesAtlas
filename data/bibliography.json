@@ -115,5 +115,27 @@
       "Hunting parties on the Commander Islands after 1742, Jakovlev’s petition of 1755, and the 1768 date.",
       "https://www.jstor.org/stable/2451162"
     ]
+  },
+  "solitaire": {
+    "oliver": [
+      "S. Pasfield Oliver, ed., The Voyage of François Leguat of Bresse to Rodriguez, Mauritius, Java, and the Cape of Good Hope (1891), 2 vols.",
+      "London: Hakluyt Society. Annotated reprint of the 1708 English text, with the Relation de l’île Rodrigue in Appendix B.",
+      "https://archive.org/details/voyageoffrancois821legu"
+    ],
+    "strickland": [
+      "H. E. Strickland and A. G. Melville, The Dodo and Its Kindred (1848), “The Brevipennate Bird of Rodriguez, the Solitaire,” pp. 46–56.",
+      "London: Reeve, Benham, and Reeve. Early comparison of Leguat with other accounts.",
+      "https://archive.org/details/dodoitskindredor00stri"
+    ],
+    "newton-1869": [
+      "Alfred Newton and Edward Newton, “On the Osteology of the Solitaire or Didine Bird of the Island of Rodriguez, Pezophaps solitaria (Gmel.)” (1869), Philosophical Transactions of the Royal Society 159: 327–362.",
+      "Subfossil skeletons compared with Leguat’s description. DOI: 10.1098/rstl.1869.0011.",
+      "https://doi.org/10.1098/rstl.1869.0011"
+    ],
+    "hume-steel": [
+      "Julian P. Hume and Lorna Steel, “Fight club: a unique weapon in the wing of the solitaire, Pezophaps solitaria” (2013), Biological Journal of the Linnean Society 110: 32–44.",
+      "The carpal knob described by Leguat. DOI: 10.1111/bij.12087.",
+      "https://doi.org/10.1111/bij.12087"
+    ]
   }
 }

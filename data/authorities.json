@@ -286,5 +286,29 @@
     "image_file": null,
     "image_description": "Typographic initials; no portrait used",
     "image_credit": "Atlas of Historically Lost Species · original asset"
+  },
+  {
+    "slug": "leguat",
+    "name": "François Leguat",
+    "dates": "1638–1735",
+    "sort_year": 1638,
+    "field": "Travel account · Huguenot exile",
+    "description": "Huguenot refugee who lived on Rodrigues with a small group of settlers from 1691 to 1693. His account appeared in French and English in London in 1708; the extent of the editor Maximilien Misson’s hand in it is disputed.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Leguat",
+    "image_file": null,
+    "image_description": "Typographic initials; no portrait used",
+    "image_credit": "Atlas of Historically Lost Species · original asset"
+  },
+  {
+    "slug": "tafforet",
+    "name": "Julien Tafforet",
+    "dates": "fl. 1725–1726 · attributed authorship",
+    "sort_year": 1725,
+    "field": "Report to the Compagnie des Indes",
+    "description": "French mariner on Rodrigues in 1725–1726. The anonymous Relation de l’île Rodrigue is usually attributed to him.",
+    "wikipedia": "https://en.wikipedia.org/wiki/Rodrigues_solitaire",
+    "image_file": null,
+    "image_description": "Typographic initials; no portrait used",
+    "image_credit": "Atlas of Historically Lost Species · original asset"
   }
 ]

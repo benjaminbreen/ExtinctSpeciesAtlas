@@ -55,7 +55,7 @@ def page(key, item):
   <link rel="stylesheet" href="./styles.css?v=footer-3" />
   <link rel="stylesheet" href="./detail.css" />
   <script type="module" src="./main.js?v=footer-3"></script>
-<link rel="stylesheet" href="./ui.css?v=1" /></head>
+<link rel="stylesheet" href="./ui.css?v=2" /></head>
 <body data-page="source">
   <a class="skip-link" href="#main">Skip to content</a>
   <div class="site-seal" aria-hidden="true"><span class="seal-symbol"></span></div>

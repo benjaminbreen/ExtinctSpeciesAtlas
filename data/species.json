@@ -114,7 +114,7 @@
     "id": "solitaire",
     "ui_key": "solitaire",
     "name": "Rodrigues solitaire",
-    "page": null,
+    "page": "solitaire.html",
     "tags": [
       "early-modern",
       "indian-ocean",
@@ -123,13 +123,13 @@
     "places": [
       "rodrigues"
     ],
-    "status_mode": "literal",
+    "status_mode": "source_count",
     "number": "06",
     "icon_class": "icon-solitaire",
     "subtitle_html": "<i>Pezophaps solitaria</i>",
     "place_label": "Rodrigues",
-    "status_label": "Dossier in preparation",
-    "aria_label": null
+    "status_label": null,
+    "aria_label": "Rodrigues solitaire, historical sources"
   },
   {
     "id": "saddle",

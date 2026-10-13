@@ -1,4 +1,4 @@
-.seacow-page .detail-hero { min-height: 0; }
+.seacow-page .detail-hero { min-height: 0; height: auto; padding-bottom: 32px; }
 .seacow-page .detail-hero h1 { font-size: clamp(3rem, 8.5vw, 7.5rem); line-height: 1; }
 .seacow-status { margin: 24px 0 0; font-size: .9rem; }
 .seacow-page .source-heading h3 { line-height: 1.3; }

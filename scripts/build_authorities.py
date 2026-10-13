@@ -57,7 +57,7 @@ def build(write=True):
   <link rel="stylesheet" href="./authorities.css" />
   <script type="module" src="./main.js?v=footer-3"></script>
   <script type="module" src="./authorities.js"></script>
-<link rel="stylesheet" href="./ui.css?v=1" /></head>
+<link rel="stylesheet" href="./ui.css?v=2" /></head>
 <body data-page="authorities">
   <a class="skip-link" href="#main">Skip to content</a>
   <div class="site-seal" aria-hidden="true"><span class="seal-symbol"></span></div>

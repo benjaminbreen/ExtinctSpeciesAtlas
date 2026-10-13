@@ -1,0 +1,68 @@
+[
+  {
+    "file": "assets/solitaire-facsimiles/leguat-71.webp",
+    "source": "https://archive.org/details/bim_eighteenth-century_a-new-voyage-to-the-east_le-guat-franois_1708/page/n142/mode/1up",
+    "download": "https://archive.org/download/bim_eighteenth-century_a-new-voyage-to-the-east_le-guat-franois_1708/bim_eighteenth-century_a-new-voyage-to-the-east_le-guat-franois_1708.pdf",
+    "credit": "Internet Archive",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "page": "71",
+    "checked_on": "2026-10-12",
+    "sha256": "016b5fea37b4234468d20d9333082580edc3fc2ce2cb206cc5af2df5e69fefe3"
+  },
+  {
+    "file": "assets/solitaire-facsimiles/leguat-72.webp",
+    "source": "https://archive.org/details/bim_eighteenth-century_a-new-voyage-to-the-east_le-guat-franois_1708/page/n143/mode/1up",
+    "download": "https://archive.org/download/bim_eighteenth-century_a-new-voyage-to-the-east_le-guat-franois_1708/bim_eighteenth-century_a-new-voyage-to-the-east_le-guat-franois_1708.pdf",
+    "credit": "Internet Archive",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "page": "72",
+    "checked_on": "2026-10-12",
+    "sha256": "fe820805182d1fc4f344dfec6edf500bb0e5bff8913b33f42bd687930abe8f0a"
+  },
+  {
+    "file": "assets/solitaire-facsimiles/leguat-73.webp",
+    "source": "https://archive.org/details/bim_eighteenth-century_a-new-voyage-to-the-east_le-guat-franois_1708/page/n144/mode/1up",
+    "download": "https://archive.org/download/bim_eighteenth-century_a-new-voyage-to-the-east_le-guat-franois_1708/bim_eighteenth-century_a-new-voyage-to-the-east_le-guat-franois_1708.pdf",
+    "credit": "Internet Archive",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "page": "73",
+    "checked_on": "2026-10-12",
+    "sha256": "11b8dc79a6117c44025326e39eb4caf4f447d60eab3e5a0b0c8d07601dd73921"
+  },
+  {
+    "file": "assets/solitaire-facsimiles/leguat-74.webp",
+    "source": "https://archive.org/details/bim_eighteenth-century_a-new-voyage-to-the-east_le-guat-franois_1708/page/n145/mode/1up",
+    "download": "https://archive.org/download/bim_eighteenth-century_a-new-voyage-to-the-east_le-guat-franois_1708/bim_eighteenth-century_a-new-voyage-to-the-east_le-guat-franois_1708.pdf",
+    "credit": "Internet Archive",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "page": "74",
+    "checked_on": "2026-10-12",
+    "sha256": "c9fd186e8ae9bc5c2351b5c95cf0d8b370b4b8718fbb08629e1993155436b3f4"
+  },
+  {
+    "file": "assets/solitaire-facsimiles/tafforet-333.webp",
+    "source": "https://archive.org/details/voyageoffrancois832legu/page/333/mode/1up",
+    "download": "https://archive.org/download/voyageoffrancois832legu/voyageoffrancois832legu.pdf",
+    "credit": "University of Pittsburgh Library System / Internet Archive",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "page": "333",
+    "checked_on": "2026-10-12",
+    "sha256": "09dcf41f4eef6d893f3349da20344d42827ff09dafa77766a4c8722803cc8a1a"
+  },
+  {
+    "file": "assets/solitaire-facsimiles/tafforet-334.webp",
+    "source": "https://archive.org/details/voyageoffrancois832legu/page/334/mode/1up",
+    "download": "https://archive.org/download/voyageoffrancois832legu/voyageoffrancois832legu.pdf",
+    "credit": "University of Pittsburgh Library System / Internet Archive",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "page": "334",
+    "checked_on": "2026-10-12",
+    "sha256": "b3f3c86c9b7e49ead698cb55abcf18b3fd0af766aa8b7d25891efb2d13078748"
+  }
+]
