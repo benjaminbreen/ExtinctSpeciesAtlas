@@ -1,0 +1,79 @@
+[
+  {
+    "file": "assets/aurochs-facsimiles/herberstein-95.webp",
+    "source": "https://archive.org/details/notesuponrussiab02herbuoft/page/95/mode/1up",
+    "download": "https://archive.org/download/notesuponrussiab02herbuoft/notesuponrussiab02herbuoft.pdf",
+    "credit": "University of Toronto / Internet Archive",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "page": "95",
+    "checked_on": "2026-10-12",
+    "sha256": "f848e674dafb555b20e50f8ebf1065f2f8784816186622130a54e525dca20371"
+  },
+  {
+    "file": "assets/aurochs-facsimiles/herberstein-96.webp",
+    "source": "https://archive.org/details/notesuponrussiab02herbuoft/page/96/mode/1up",
+    "download": "https://archive.org/download/notesuponrussiab02herbuoft/notesuponrussiab02herbuoft.pdf",
+    "credit": "University of Toronto / Internet Archive",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "page": "96",
+    "checked_on": "2026-10-12",
+    "sha256": "e1518d401d1134db02d63ed04cfe2e82611fb7fe7d948ae3d2d38d1ec5b09796"
+  },
+  {
+    "file": "assets/aurochs-facsimiles/herberstein-97.webp",
+    "source": "https://archive.org/details/notesuponrussiab02herbuoft/page/97/mode/1up",
+    "download": "https://archive.org/download/notesuponrussiab02herbuoft/notesuponrussiab02herbuoft.pdf",
+    "credit": "University of Toronto / Internet Archive",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "page": "97",
+    "checked_on": "2026-10-12",
+    "sha256": "f71afe99917cd20c0b0bb8bf2ca14006a80dbf3e03fcac5b86f5fea7b9f24c96"
+  },
+  {
+    "file": "assets/aurochs-facsimiles/caesar-154.webp",
+    "source": "https://archive.org/details/caesarscommentar00caesrich/page/154/mode/1up",
+    "download": "https://archive.org/download/caesarscommentar00caesrich/caesarscommentar00caesrich.pdf",
+    "credit": "University of California Libraries / Internet Archive",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "page": "154",
+    "checked_on": "2026-10-12",
+    "sha256": "acb3c2e75f8f0d01f37ebe16d4ed0733852bd2515993b72a92f25c1d6fe549ef"
+  },
+  {
+    "file": "assets/aurochs-facsimiles/caesar-155.webp",
+    "source": "https://archive.org/details/caesarscommentar00caesrich/page/155/mode/1up",
+    "download": "https://archive.org/download/caesarscommentar00caesrich/caesarscommentar00caesrich.pdf",
+    "credit": "University of California Libraries / Internet Archive",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "page": "155",
+    "checked_on": "2026-10-12",
+    "sha256": "325c3f8173f8396dd6ee75362c112a91ac52f5a68eccb3c7521b710514b5a8b7"
+  },
+  {
+    "file": "assets/aurochs-facsimiles/pliny-262.webp",
+    "source": "https://archive.org/details/naturalhistoryof21855plin/page/262/mode/1up",
+    "download": "https://archive.org/download/naturalhistoryof21855plin/naturalhistoryof21855plin.pdf",
+    "credit": "Smithsonian Libraries / Internet Archive",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "page": "262",
+    "checked_on": "2026-10-12",
+    "sha256": "e69d56de87674cc31ed28808bd697fc29e9ebcf90fd73030b0bbb0de994e8d78"
+  },
+  {
+    "file": "assets/aurochs-facsimiles/pliny-263.webp",
+    "source": "https://archive.org/details/naturalhistoryof21855plin/page/263/mode/1up",
+    "download": "https://archive.org/download/naturalhistoryof21855plin/naturalhistoryof21855plin.pdf",
+    "credit": "Smithsonian Libraries / Internet Archive",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "page": "263",
+    "checked_on": "2026-10-12",
+    "sha256": "2c50fc3e3bd5f9e170214499429bac76e518c000989bd8a4ed874268ba10e916"
+  }
+]

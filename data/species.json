@@ -93,8 +93,9 @@
     "id": "aurochs",
     "ui_key": "aurochs",
     "name": "Aurochs",
-    "page": null,
+    "page": "aurochs.html",
     "tags": [
+      "classical-era",
       "early-modern",
       "europe",
       "mammal"
@@ -102,13 +103,13 @@
     "places": [
       "europe"
     ],
-    "status_mode": "literal",
+    "status_mode": "source_count",
     "number": "05",
     "icon_class": "icon-aurochs",
     "subtitle_html": "<i>Bos primigenius</i>",
     "place_label": "Europe",
-    "status_label": "Dossier in preparation",
-    "aria_label": null
+    "status_label": null,
+    "aria_label": "Aurochs, historical sources"
   },
   {
     "id": "solitaire",

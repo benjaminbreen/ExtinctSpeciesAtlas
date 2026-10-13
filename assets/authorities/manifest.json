@@ -206,5 +206,21 @@
     "file": "assets/authorities/tafforet.webp",
     "display_credit": "Atlas of Historically Lost Species · original asset",
     "depiction": "Typographic initials; no portrait used"
+  },
+  {
+    "authority": "caesar",
+    "source": "./assets/authorities/caesar.webp",
+    "license": "Original site asset",
+    "file": "assets/authorities/caesar.webp",
+    "display_credit": "Atlas of Historically Lost Species · original asset",
+    "depiction": "Typographic initials; no portrait used"
+  },
+  {
+    "authority": "herberstein",
+    "source": "./assets/authorities/herberstein.webp",
+    "license": "Original site asset",
+    "file": "assets/authorities/herberstein.webp",
+    "display_credit": "Atlas of Historically Lost Species · original asset",
+    "depiction": "Typographic initials; no portrait used"
   }
 ]

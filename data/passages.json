@@ -2629,5 +2629,329 @@
       "novelty_status": "established",
       "relationships": []
     }
+  },
+  {
+    "id": "caesar-aurochs",
+    "species_ids": [
+      "aurochs"
+    ],
+    "authority_id": "caesar",
+    "page": "source-caesar-aurochs.html",
+    "format": "reader",
+    "catalog": {
+      "anchor": "ref-caesar-aurochs",
+      "sort_year": -52,
+      "sort_author": "Caesar",
+      "date_label": "c. 52–51 BCE",
+      "heading_html": "<a class=\"catalog-author\" href=\"./authorities.html#caesar\">Julius Caesar</a> <em>De bello Gallico</em>, 6.28",
+      "kind": "History · Latin, English translation",
+      "href": "./source-caesar-aurochs.html",
+      "link_label": "Read record ↗",
+      "aria_label": null,
+      "summary_html": "Caesar’s description of the uri of the Hercynian forest, their size, their capture in pits, and the use of their horns as cups."
+    },
+    "authority_work": {
+      "label": "De bello Gallico 6.28",
+      "href": "./source-caesar-aurochs.html"
+    },
+    "content": {
+      "author": "Julius Caesar",
+      "work": "De bello Gallico",
+      "period": "c. 52–51 BCE",
+      "place": "Hercynian forest, Germania · approximate",
+      "place_key": "europe",
+      "language": "en",
+      "summary": "Caesar’s description of the uri of the Hercynian forest, their size, their capture in pits, and the use of their horns as cups.",
+      "facsimile": "caesar-154.webp",
+      "facsimile_path": "./assets/aurochs-facsimiles/caesar-154.webp",
+      "edition": "Julius Caesar, De bello Gallico 6.28. English: Caesar’s Commentaries on the Gallic and Civil Wars, Literally Translated (New York: Harper & Brothers, 1872), pp. 154–155.",
+      "primary": [
+        "Internet Archive · 1872 translation",
+        "https://archive.org/details/caesarscommentar00caesrich/page/154/mode/1up"
+      ],
+      "companion": [
+        "Perseus Digital Library · Latin text",
+        "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0002:book=6:chapter=28"
+      ],
+      "paragraphs": [
+        "There is a third kind, consisting of those animals which are called uri. These are a little below the elephant in size, and of the appearance, color, and shape of a bull. Their strength and speed are extraordinary; they spare neither man nor wild beast which they have espied. These the Germans take with much pains in pits and kill them. The young men harden themselves with this exercise, and practice themselves in this kind of hunting, and those who have slain the greatest number of them, having produced the horns in public, to serve as evidence, receive great praise. But not even when taken very young can they be rendered familiar to men and tamed. The size, shape, and appearance of their horns differ much from the horns of our oxen. These they anxiously seek after, and bind at the tips with silver, and use as cups at their most sumptuous entertainments."
+      ],
+      "note_phrase": "a little below the elephant in size",
+      "note": "The passage belongs to a digression on the Hercynian forest (6.25–28) that Caesar presents as hearsay; the preceding chapters describe a one-horned ox and jointless elks. The authenticity of the digression has been questioned. This printing does not name its translator.",
+      "reading": [
+        "rokosz"
+      ],
+      "neighbors": [
+        null,
+        "pliny-aurochs"
+      ],
+      "scans": [
+        {
+          "src": "./assets/aurochs-facsimiles/caesar-154.webp",
+          "label": "p. 154",
+          "caption": "Caesar, Gallic War 6.28, Harper ed., 1872, p. 154. University of California Libraries / Internet Archive.",
+          "url": "https://archive.org/details/caesarscommentar00caesrich/page/154/mode/1up"
+        },
+        {
+          "src": "./assets/aurochs-facsimiles/caesar-155.webp",
+          "label": "p. 155",
+          "caption": "Caesar, Gallic War 6.28, Harper ed., 1872, p. 155. University of California Libraries / Internet Archive.",
+          "url": "https://archive.org/details/caesarscommentar00caesrich/page/155/mode/1up"
+        }
+      ],
+      "reader": {
+        "byline_html": "<a href=\"./authorities.html#caesar\">Julius Caesar</a> · 100–44 BCE",
+        "article_title": "De bello Gallico",
+        "passage_label": "6.28 · English translation",
+        "dates": [
+          {
+            "label": "Composition",
+            "date": "c. 52–51 BCE",
+            "detail_html": "Gallic War, book 6"
+          },
+          {
+            "label": "English",
+            "date": "1872",
+            "detail_html": "Harper’s Classical Library, New York"
+          }
+        ],
+        "edition_html": "Julius Caesar, De bello Gallico 6.28. English: Caesar’s Commentaries on the Gallic and Civil Wars, Literally Translated (New York: Harper & Brothers, 1872), pp. 154–155.",
+        "citation_html": "Julius Caesar, De bello Gallico 6.28. English: Caesar’s Commentaries on the Gallic and Civil Wars, Literally Translated (New York: Harper & Brothers, 1872), pp. 154–155.",
+        "breadcrumb_label": "Caesar",
+        "portrait_alt": "Typographic initials; no portrait used",
+        "scan_alt": "Caesar, Gallic War 6.28, Harper ed., 1872, p. 154. University of California Libraries / Internet Archive.",
+        "scan_caption": "Caesar, Gallic War 6.28, Harper ed., 1872, p. 154. University of California Libraries / Internet Archive.",
+        "dialog_title": "Caesar, Gallic War 6.28, Harper ed., 1872, p. 154. University of California Libraries / Internet Archive.",
+        "scan_button_label": "Enlarge Caesar, Gallic War 6.28, Harper ed., 1872, p. 154. University of California Libraries / Internet Archive.",
+        "enlarged_alt": "Caesar, Gallic War 6.28, Harper ed., 1872, p. 154. University of California Libraries / Internet Archive.",
+        "related_label": "Next source ↗",
+        "text_label": "English translation"
+      }
+    },
+    "research": {
+      "reviewed_by": "Claude; visual comparison with printed scans; line-end hyphenation joined, footnote markers omitted",
+      "reviewed_on": "2026-10-12",
+      "novelty_status": "established",
+      "relationships": []
+    }
+  },
+  {
+    "id": "pliny-aurochs",
+    "species_ids": [
+      "aurochs"
+    ],
+    "authority_id": "pliny",
+    "page": "source-pliny-aurochs.html",
+    "format": "reader",
+    "catalog": {
+      "anchor": "ref-pliny-aurochs",
+      "sort_year": 77,
+      "sort_author": "Pliny",
+      "date_label": "77 CE",
+      "heading_html": "<a class=\"catalog-author\" href=\"./authorities.html#pliny\">Pliny the Elder</a> <em>Natural History</em>, 8.15 (38)",
+      "kind": "Natural history · Latin, English translation",
+      "href": "./source-pliny-aurochs.html",
+      "link_label": "Read record ↗",
+      "aria_label": null,
+      "summary_html": "Pliny distinguishes the maned bison from the urus among the wild oxen of Germany."
+    },
+    "authority_work": {
+      "label": "Natural History 8.15 (38), urus and bison",
+      "href": "./source-pliny-aurochs.html"
+    },
+    "content": {
+      "author": "Pliny the Elder",
+      "work": "Natural History",
+      "period": "77 CE",
+      "place": "Germania · named region",
+      "place_key": "europe",
+      "language": "en",
+      "summary": "Pliny distinguishes the maned bison from the urus among the wild oxen of Germany.",
+      "facsimile": "pliny-262.webp",
+      "facsimile_path": "./assets/aurochs-facsimiles/pliny-262.webp",
+      "edition": "Pliny the Elder, Naturalis historia 8.15 (8.38). English: The Natural History of Pliny, trans. John Bostock and H. T. Riley, vol. II (London: Henry G. Bohn, 1855), pp. 262–263.",
+      "primary": [
+        "Internet Archive · 1855 translation",
+        "https://archive.org/details/naturalhistoryof21855plin/page/262/mode/1up"
+      ],
+      "companion": [
+        "Perseus Digital Library · English text",
+        "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0137:book=8:chapter=15"
+      ],
+      "paragraphs": [
+        "Scythia produces but very few animals, in consequence of the scarcity of shrubs. Germany, which lies close adjoining it, has not many animals, though it has some very fine kinds of wild oxen: the bison, which has a mane, and the urus, possessed of remarkable strength and swiftness. To these, the vulgar, in their ignorance, have given the name of bubalus: whereas, that animal is really produced in Africa, and rather bears a resemblance to the calf and the stag."
+      ],
+      "note_phrase": "the bison, which has a mane, and the urus",
+      "note": "Pliny reports these animals at second hand. The urus is generally identified with the aurochs and the maned bison with the wisent. The 1855 edition numbers the chapter 15; modern editions cite it as 8.38.",
+      "reading": [
+        "rokosz"
+      ],
+      "neighbors": [
+        "caesar-aurochs",
+        "herberstein-aurochs"
+      ],
+      "scans": [
+        {
+          "src": "./assets/aurochs-facsimiles/pliny-262.webp",
+          "label": "p. 262",
+          "caption": "Pliny, trans. Bostock and Riley, 1855, II, p. 262. Smithsonian Libraries / Internet Archive.",
+          "url": "https://archive.org/details/naturalhistoryof21855plin/page/262/mode/1up"
+        },
+        {
+          "src": "./assets/aurochs-facsimiles/pliny-263.webp",
+          "label": "p. 263",
+          "caption": "Pliny, trans. Bostock and Riley, 1855, II, p. 263. Smithsonian Libraries / Internet Archive.",
+          "url": "https://archive.org/details/naturalhistoryof21855plin/page/263/mode/1up"
+        }
+      ],
+      "reader": {
+        "byline_html": "<a href=\"./authorities.html#pliny\">Pliny the Elder</a> · 23/24–79 CE",
+        "article_title": "Natural History",
+        "passage_label": "8.15 · English translation",
+        "dates": [
+          {
+            "label": "Composition",
+            "date": "77 CE",
+            "detail_html": "Dedicated to Titus"
+          },
+          {
+            "label": "English",
+            "date": "1855",
+            "detail_html": "John Bostock and H. T. Riley"
+          }
+        ],
+        "edition_html": "Pliny the Elder, Naturalis historia 8.15 (8.38). English: The Natural History of Pliny, trans. John Bostock and H. T. Riley, vol. II (London: Henry G. Bohn, 1855), pp. 262–263.",
+        "citation_html": "Pliny the Elder, Naturalis historia 8.15 (8.38). English: The Natural History of Pliny, trans. John Bostock and H. T. Riley, vol. II (London: Henry G. Bohn, 1855), pp. 262–263.",
+        "breadcrumb_label": "Pliny",
+        "portrait_alt": "Typographic initials; no portrait used",
+        "scan_alt": "Pliny, trans. Bostock and Riley, 1855, II, p. 262. Smithsonian Libraries / Internet Archive.",
+        "scan_caption": "Pliny, trans. Bostock and Riley, 1855, II, p. 262. Smithsonian Libraries / Internet Archive.",
+        "dialog_title": "Pliny, trans. Bostock and Riley, 1855, II, p. 262. Smithsonian Libraries / Internet Archive.",
+        "scan_button_label": "Enlarge Pliny, trans. Bostock and Riley, 1855, II, p. 262. Smithsonian Libraries / Internet Archive.",
+        "enlarged_alt": "Pliny, trans. Bostock and Riley, 1855, II, p. 262. Smithsonian Libraries / Internet Archive.",
+        "related_label": "Previous source ↗",
+        "text_label": "English translation"
+      }
+    },
+    "research": {
+      "reviewed_by": "Claude; visual comparison with printed scans; line-end hyphenation joined, footnote markers omitted",
+      "reviewed_on": "2026-10-12",
+      "novelty_status": "established",
+      "relationships": []
+    }
+  },
+  {
+    "id": "herberstein-aurochs",
+    "species_ids": [
+      "aurochs"
+    ],
+    "authority_id": "herberstein",
+    "page": "source-herberstein-aurochs.html",
+    "format": "reader",
+    "catalog": {
+      "anchor": "ref-herberstein-aurochs",
+      "sort_year": 1549,
+      "sort_author": "Herberstein",
+      "date_label": "1549",
+      "heading_html": "<a class=\"catalog-author\" href=\"./authorities.html#herberstein\">Sigismund von Herberstein</a> <em>Rerum Moscoviticarum commentarii</em>, trans. 1852, II, pp. 95–97",
+      "kind": "Diplomatic account · Latin, English translation",
+      "href": "./source-herberstein-aurochs.html",
+      "link_label": "Read record ↗",
+      "aria_label": null,
+      "summary_html": "Herberstein distinguishes the bison from the urox or thur, kept in a few preserves in Masovia, and records a calf given to him by Sigismund Augustus."
+    },
+    "authority_work": {
+      "label": "Rerum Moscoviticarum commentarii (1549), trans. 1852, II, pp. 95–97",
+      "href": "./source-herberstein-aurochs.html"
+    },
+    "content": {
+      "author": "Sigismund von Herberstein",
+      "work": "Rerum Moscoviticarum commentarii",
+      "period": "1549",
+      "place": "Masovia, Poland",
+      "place_key": "europe",
+      "language": "en",
+      "summary": "Herberstein distinguishes the bison from the urox or thur, kept in a few preserves in Masovia, and records a calf given to him by Sigismund Augustus.",
+      "facsimile": "herberstein-95.webp",
+      "facsimile_path": "./assets/aurochs-facsimiles/herberstein-95.webp",
+      "edition": "Sigismund von Herberstein, Rerum Moscoviticarum commentarii (Vienna, 1549). English: Notes upon Russia, trans. R. H. Major, vol. II (London: Hakluyt Society, 1852), pp. 95–97.",
+      "primary": [
+        "Internet Archive · 1852 translation",
+        "https://archive.org/details/notesuponrussiab02herbuoft/page/95/mode/1up"
+      ],
+      "companion": [
+        "Hakluyt Society edition, vol. I · Internet Archive",
+        "https://archive.org/details/notesuponrussiab01herbuoft"
+      ],
+      "paragraphs": [
+        "Lithuania possesses other wild beasts, besides such as are found in Germany, namely, bisons, buffaloes, and alces, which are wild horses, called by some onagri [wild asses]. The Lithuanians call the bison, in their own language, “suber”. The Germans improperly call it “aurox” or “urox”, which name better suits the buffalo, which manifestly has the form of an ox, while the bison is a very dissimilar kind of animal; for the bisons have manes, and are hairy about the neck and shoulders, with a kind of beard hanging from their chins, their hair smelling of musk, their heads short, their eyes large and fierce, as if they were on fire, and their foreheads broad, with horns generally so wide apart and stretched out, that the space would take in three tolerably stout men […]",
+        "Masovia, which borders on Lithuania, is the only province which has in it the kind of buffalo which in the language of the country is called thur, but which we Germans may with propriety call urox. They are a sort of wild oxen, not unlike tame oxen, except that they are entirely black, with a line down the back having white blended with it. They are not very plentiful, and there are certain districts which are charged with the care of them; and it is only in some few preserves that they are kept. They are allowed to herd with tame cows, but have a mark set upon them to distinguish them. This is done because they are afterwards looked upon as degraded by the other buffaloes, and are not admitted into their herd; and the calves which are produced by the cross breed are not long lived. The King Sigismund Augustus, at the time I was ambassador at his court, made me a present of one which was just dropped, and which the hunters had taken, driven half-lifeless from the herd. It had the skin which covers the forehead cut away, which I suppose was done for some purpose, but from thoughtlessness I neglected to enquire why it was done. This is certain, that girdles made of the hide of the urox are much esteemed, and it is a vulgar opinion that parturition is assisted by wearing them.",
+        "Queen Bona, the mother of Sigismund Augustus, presented to me two girdles of this kind, one of which my most serene mistress, the Queen of the Romans, graciously accepted as a present from me."
+      ],
+      "note_phrase": "called thur",
+      "note": "Major translates the Latin bubalus as “buffalo”; Herberstein’s thur or urox is the aurochs, and his bison (Lithuanian “suber”) is the wisent. The omission removes his account of hunting the bison. The last recorded aurochs died in the royal forest of Jaktorów, Masovia, in 1627.",
+      "reading": [
+        "rokosz",
+        "major"
+      ],
+      "neighbors": [
+        "pliny-aurochs",
+        null
+      ],
+      "scans": [
+        {
+          "src": "./assets/aurochs-facsimiles/herberstein-95.webp",
+          "label": "p. 95",
+          "caption": "Herberstein, trans. Major, 1852, II, p. 95. University of Toronto / Internet Archive.",
+          "url": "https://archive.org/details/notesuponrussiab02herbuoft/page/95/mode/1up"
+        },
+        {
+          "src": "./assets/aurochs-facsimiles/herberstein-96.webp",
+          "label": "p. 96",
+          "caption": "Herberstein, trans. Major, 1852, II, p. 96. University of Toronto / Internet Archive.",
+          "url": "https://archive.org/details/notesuponrussiab02herbuoft/page/96/mode/1up"
+        },
+        {
+          "src": "./assets/aurochs-facsimiles/herberstein-97.webp",
+          "label": "p. 97",
+          "caption": "Herberstein, trans. Major, 1852, II, p. 97. University of Toronto / Internet Archive.",
+          "url": "https://archive.org/details/notesuponrussiab02herbuoft/page/97/mode/1up"
+        }
+      ],
+      "reader": {
+        "byline_html": "<a href=\"./authorities.html#herberstein\">Sigismund von Herberstein</a> · 1486–1566",
+        "article_title": "Rerum Moscoviticarum commentarii",
+        "passage_label": "II, pp. 95–97 · extract, English translation",
+        "dates": [
+          {
+            "label": "Latin publication",
+            "date": "1549",
+            "detail_html": "Vienna"
+          },
+          {
+            "label": "English",
+            "date": "1852",
+            "detail_html": "R. H. Major, Hakluyt Society"
+          }
+        ],
+        "edition_html": "Sigismund von Herberstein, Rerum Moscoviticarum commentarii (Vienna, 1549). English: Notes upon Russia, trans. R. H. Major, vol. II (London: Hakluyt Society, 1852), pp. 95–97.",
+        "citation_html": "Sigismund von Herberstein, Rerum Moscoviticarum commentarii (Vienna, 1549). English: Notes upon Russia, trans. R. H. Major, vol. II (London: Hakluyt Society, 1852), pp. 95–97.",
+        "breadcrumb_label": "Herberstein",
+        "portrait_alt": "Typographic initials; no portrait used",
+        "scan_alt": "Herberstein, trans. Major, 1852, II, p. 95. University of Toronto / Internet Archive.",
+        "scan_caption": "Herberstein, trans. Major, 1852, II, p. 95. University of Toronto / Internet Archive.",
+        "dialog_title": "Herberstein, trans. Major, 1852, II, p. 95. University of Toronto / Internet Archive.",
+        "scan_button_label": "Enlarge Herberstein, trans. Major, 1852, II, p. 95. University of Toronto / Internet Archive.",
+        "enlarged_alt": "Herberstein, trans. Major, 1852, II, p. 95. University of Toronto / Internet Archive.",
+        "related_label": "Previous source ↗",
+        "text_label": "English translation"
+      }
+    },
+    "research": {
+      "reviewed_by": "Claude; visual comparison with printed scans; line-end hyphenation joined, footnote markers omitted",
+      "reviewed_on": "2026-10-12",
+      "novelty_status": "established",
+      "relationships": []
+    }
   }
 ]
